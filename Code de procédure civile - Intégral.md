@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1980-01-01
+Version Consolidée au 1980-12-28
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -241,26 +241,27 @@ Version Consolidée au 1980-01-01
     - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031)](#238)
       - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#239)
       - [Chapitre II : La procédure sans représentation obligatoire. (art. 983 à 995)](#240)
-      - [Chapitre III : La procédure en matière électorale. (art. 999 à 1008)](#241)
-        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#242)
-      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022)](#243)
-      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#244)
-        - [Section I : Augmentation des délais. (art. 1023)](#245)
-        - [Section II : Le désistement. (art. 1024 à 1026)](#246)
-        - [Section III : La récusation. (art. 1027)](#247)
-        - [Section IV : La demande en faux. (art. 1028 à 1031)](#248)
-    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037)](#249)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#250)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#251)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#252)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#253)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 12 à ANNEXE, art. 30)](#254)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 12 à ANNEXE, art. 20)](#255)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#256)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#257)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#258)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#259)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 44 à ANNEXE, art. 45)](#260)
+      - [Chapitre III : La procédure en matière électorale. (art. 996 à 1008)](#241)
+        - [Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques. (art. 996)](#242)
+        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#243)
+      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022)](#244)
+      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#245)
+        - [Section I : Augmentation des délais. (art. 1023)](#246)
+        - [Section II : Le désistement. (art. 1024 à 1026)](#247)
+        - [Section III : La récusation. (art. 1027)](#248)
+        - [Section IV : La demande en faux. (art. 1028 à 1031)](#249)
+    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037)](#250)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#251)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#252)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#253)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#254)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 12 à ANNEXE, art. 30)](#255)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 12 à ANNEXE, art. 20)](#256)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#257)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#258)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#259)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#260)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 44 à ANNEXE, art. 45)](#261)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -15008,7 +15009,85 @@ _Modifié par_:
 
 ### Chapitre III : La procédure en matière électorale.<a id=241></a>
 
-#### Section II : Les élections professionnelles.<a id=242></a>
+#### Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques.<a id=242></a>
+
+###### Article 996
+
+Les dispositions particulières au pourvoi en cassation sont celles des articles suivants du Code électoral :
+
+<<    Art. R. 15-1
+
+Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance. Il est
+ouvert dans tous les cas au préfet. Il n'est pas suspensif.
+
+Art. R. 15-2
+
+Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
+remet ou adresse par pli recommandé soit au secrétariat-greffe du tribunal d'instance qui a rendu la décision attaquée, soit
+au secrétariat-greffe de la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi
+ainsi que, s'il y a lieu, les nom, prénoms et adresse du ou des défendeurs au pourvoi.
+
+A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
+invoqués et être accompagnée d'une copie de la décision attaquée.
+
+Art. R. 15-3
+
+Le secrétariat-greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est
+formé et délivre ou adresse, par lettre simple, récépissé de la déclaration.
+
+S'il y a un défendeur, le secrétariat-greffe qui a reçu le pourvoi lui adresse aussitôt copie de la déclaration par lettre
+recommandée avec demande d'avis de réception. Cette notification reproduit la teneur de l'article R. 15-5.
+
+Art. R. 15-4
+
+Lorsque le pourvoi a été formé au tribunal d'instance, le secrétariat-greffe de ce tribunal transmet immédiatement au
+secrétariat-greffe de la Cour de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision
+attaquée ainsi que les documents relatifs à la notification de celle-ci et, s'il y a un défendeur, les documents relatifs à
+la notification du pourvoi à ce dernier. Il transmet au secrétariat-greffe de la Cour de cassation toute pièce qui lui
+parviendrait ultérieurement.
+
+Lorsque le pourvoi a été formé à la Cour de cassation, le secrétariat-greffe de la Cour de cassation demande immédiatement le
+dossier de l'affaire ainsi que les documents relatifs à la décision attaquée au secrétariat-greffe du tribunal d'instance qui
+a rendu la décision.
+
+Art. R. 15-5
+
+Dès qu'il a reçu copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse par
+lettre recommandée au secrétariat-greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au demandeur.
+
+Art. R. 15-6
+
+Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
+d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
+articles 974 à 982 du nouveau code de procédure civile ne sont pas applicables.
+
+Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au secrétariat-greffe de la Cour de cassation qu'il
+représentait une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant, par voie de
+notification entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du
+secrétariat-greffe, vaut notification.
+
+Art. R. 15-7
+
+Les délais prévus aux articles R. 13 et R. 15-1 sont calculés et prorogés conformément aux dispositions des articles 640, 641
+et 642 du nouveau code de procédure civile. >>
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°80-1073 1980-12-24 art. 1 JORF 28 décembre 1980
+
+_Cite_:
+
+  - Code électoral R15-1 à R15-7
+  - Nouveau code de procédure civile 974 à 982, 640, 641, 642
+
+
+#### Section II : Les élections professionnelles.<a id=243></a>
 
 ###### Article 999
 
@@ -15276,7 +15355,7 @@ _Cite_:
   - Code de procédure civile - art. 1004 (V)
 
 
-### Chapitre IV : Dispositions communes.<a id=243></a>
+### Chapitre IV : Dispositions communes.<a id=244></a>
 
 ###### Article 1009
 
@@ -15506,9 +15585,9 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-### Chapitre V : Dispositions diverses<a id=244></a>
+### Chapitre V : Dispositions diverses<a id=245></a>
 
-#### Section I : Augmentation des délais.<a id=245></a>
+#### Section I : Augmentation des délais.<a id=246></a>
 
 ###### Article 1023
 
@@ -15542,7 +15621,7 @@ _Cite_:
   - Nouveau code de procédure civile 978, 982, 989, 991 et 1010
 
 
-#### Section II : Le désistement.<a id=246></a>
+#### Section II : Le désistement.<a id=247></a>
 
 ###### Article 1024
 
@@ -15605,7 +15684,7 @@ _Cite_:
   - Nouveau code de procédure civile 628 et 630
 
 
-#### Section III : La récusation.<a id=247></a>
+#### Section III : La récusation.<a id=248></a>
 
 ###### Article 1027
 
@@ -15623,7 +15702,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-#### Section IV : La demande en faux.<a id=248></a>
+#### Section IV : La demande en faux.<a id=249></a>
 
 ###### Article 1028
 
@@ -15703,7 +15782,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=249></a>
+## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=250></a>
 
 ###### Article 1032
 
@@ -15792,9 +15871,9 @@ _Créé par_:
   - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-# Annexes<a id=250></a>
+# Annexes<a id=251></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=251></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=252></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -15808,9 +15887,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=252></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=253></a>
 
-#### Section I : Dispositions communes.<a id=253></a>
+#### Section I : Dispositions communes.<a id=254></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -15979,9 +16058,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=254></a>
+#### Section II : Dispositions propres à certaines matières.<a id=255></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=255></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=256></a>
 
 ###### Article ANNEXE, art. 12
 
@@ -16093,7 +16172,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=256></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=257></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -16142,7 +16221,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=257></a>
+##### Sous-section III : Affaires de registres.<a id=258></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -16218,7 +16297,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=258></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=259></a>
 
 ###### Article ANNEXE, 31
 
@@ -16326,7 +16405,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=259></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=260></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -16386,7 +16465,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VII : Dispositions diverses.<a id=260></a>
+### Chapitre VII : Dispositions diverses.<a id=261></a>
 
 ###### Article ANNEXE, art. 44
 
