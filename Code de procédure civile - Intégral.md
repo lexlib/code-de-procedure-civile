@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1981-05-14
+Version Consolidée au 1981-09-19
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -251,29 +251,33 @@ Version Consolidée au 1981-05-14
         - [Section III : La récusation. (art. 1027)](#248)
         - [Section IV : La demande en faux. (art. 1028 à 1031)](#249)
     - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037)](#250)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#251)
-    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#252)
-      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#253)
-      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#254)
-      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#255)
-    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#256)
-    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#257)
-    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#258)
-    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#259)
-    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#260)
-      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#261)
-      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#262)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#263)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#264)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#265)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#266)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#267)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#268)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#269)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#270)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#271)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#272)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#273)
+  - [Livre III : Dispositions particulières à certaines matières (art. 1405)](#251)
+    - [Titre IV : Les obligations et les contrats. (art. 1405)](#252)
+      - [Chapitre I : Les procédures d'injonction (art. 1405)](#253)
+        - [Section I : L'injonction de payer. (art. 1405)](#254)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#255)
+    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#256)
+      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#257)
+      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#258)
+      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#259)
+    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#260)
+    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#261)
+    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#262)
+    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#263)
+    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#264)
+      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#265)
+      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#266)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#267)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#268)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#269)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#270)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#271)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#272)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#273)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#274)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#275)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#276)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#277)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -16455,11 +16459,58 @@ _Créé par_:
   - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-# Livre IV : L'arbitrage.<a id=251></a>
+# Livre III : Dispositions particulières à certaines matières<a id=251></a>
 
-## Titre Ier : Les conventions d'arbitrage.<a id=252></a>
+## Titre IV : Les obligations et les contrats.<a id=252></a>
 
-### Chapitre Ier : La clause compromissoire.<a id=253></a>
+### Chapitre I : Les procédures d'injonction<a id=253></a>
+
+#### Section I : L'injonction de payer.<a id=254></a>
+
+###### Article 1405
+
+Le recouvrement d'une créance peut être demandé suivant la procédure d'injonction de payer lorsque :
+
+1° La créance a une cause contractuelle ou résulte d'une obligation de caractère statutaire et s'élève à un montant
+déterminé ; en matière contractuelle, la détermination est faite en vertu des stipulations du contrat y compris, le cas
+échéant, la clause pénale ;
+
+2° L'engagement résulte de l'acceptation ou du tirage d'une lettre de change, de la souscription d'un billet à ordre, de
+l'endossement ou de l'aval de l'un ou l'autre de ces titres ou de l'acceptation de la cession de créances conformément à la
+loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises.
+
+**Nota:**
+
+La loi n° 81-1 du 2 janvier 1981 a été codifiée aux articles L. 313-23 et suivants du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Cite_:
+
+  - Loi n°81-1 1981-01-02
+  - Code monétaire et financier - art. L313-23 (V)
+
+_Modifié par_:
+
+  - Décret n°81-862 1981-09-09 art. 5 JORF 19 septembre 1981
+
+_Cité par_:
+
+  - Arrêté du 3 mars 2011 - art. 2 (V)
+  - Code de commerce. - art. R643-20 (V)
+  - Code rural - art. D632-8 (V)
+  - Code rural et de la pêche maritime - art. D632-10 (Ab)
+
+
+# Livre IV : L'arbitrage.<a id=255></a>
+
+## Titre Ier : Les conventions d'arbitrage.<a id=256></a>
+
+### Chapitre Ier : La clause compromissoire.<a id=257></a>
 
 ###### Article 1442
 
@@ -16567,7 +16618,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre II : Le compromis.<a id=254></a>
+### Chapitre II : Le compromis.<a id=258></a>
 
 ###### Article 1447
 
@@ -16650,7 +16701,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre III : Règles communes.<a id=255></a>
+### Chapitre III : Règles communes.<a id=259></a>
 
 ###### Article 1451
 
@@ -16876,7 +16927,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre II : L'instance arbitrale.<a id=256></a>
+## Titre II : L'instance arbitrale.<a id=260></a>
 
 ###### Article 1460
 
@@ -17089,7 +17140,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre III : La sentence arbitrale.<a id=257></a>
+## Titre III : La sentence arbitrale.<a id=261></a>
 
 ###### Article 1469
 
@@ -17368,7 +17419,7 @@ _Cite_:
   - Nouveau code de procédure civile 1471, 1472, 1473
 
 
-## Titre IV : Les voies de recours.<a id=258></a>
+## Titre IV : Les voies de recours.<a id=262></a>
 
 ###### Article 1481
 
@@ -17635,7 +17686,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre V : L'arbitrage international.<a id=259></a>
+## Titre V : L'arbitrage international.<a id=263></a>
 
 ###### Article 1492
 
@@ -17748,9 +17799,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=260></a>
+## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=264></a>
 
-### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=261></a>
+### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=265></a>
 
 ###### Article 1498
 
@@ -17808,7 +17859,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=262></a>
+### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=266></a>
 
 ###### Article 1501
 
@@ -17955,9 +18006,9 @@ _Cite_:
   - Nouveau code de procédure civile 1487 et 1490
 
 
-# Annexes<a id=263></a>
+# Annexes<a id=267></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=264></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=268></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -17971,9 +18022,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=265></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=269></a>
 
-#### Section I : Dispositions communes.<a id=266></a>
+#### Section I : Dispositions communes.<a id=270></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -18142,9 +18193,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=267></a>
+#### Section II : Dispositions propres à certaines matières.<a id=271></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=268></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=272></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -18297,7 +18348,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=269></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=273></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -18346,7 +18397,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=270></a>
+##### Sous-section III : Affaires de registres.<a id=274></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -18422,7 +18473,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=271></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=275></a>
 
 ###### Article ANNEXE, 31
 
@@ -18530,7 +18581,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=272></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=276></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -18590,7 +18641,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VII : Dispositions diverses.<a id=273></a>
+### Chapitre VII : Dispositions diverses.<a id=277></a>
 
 ###### Article ANNEXE, 46
 
