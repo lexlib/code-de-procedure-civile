@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1996-08-23
+Version Consolidée au 1996-12-26
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -8907,8 +8907,13 @@ _Codifié par_:
 
 ###### Article 510
 
-A moins que la loi ne permette qu'il soit accordé par une décision distincte, le délai de grâce ne peut être accordé que par
-la décision dont il est destiné à différer l'exécution.
+Sous réserve des alinéas suivants, le délai de grâce ne peut être accordé que par la décision dont il est destiné à différer
+l'exécution.
+
+En cas d'urgence, la même faculté appartient au juge des référés.
+
+Après signification d'un commandement ou d'un acte de saisie, selon le cas, le juge de l'exécution a compétence pour accorder
+un délai de grâce. Cette compétence appartient au tribunal d'instance en matière de saisie des rémunérations.
 
 L'octroi du délai doit être motivé.
 
@@ -8917,6 +8922,10 @@ L'octroi du délai doit être motivé.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°96-1130 du 18 décembre 1996 - art. 1 () JORF 26 décembre 1996
 
 
 ###### Article 511
