@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1984-01-01
+Version Consolidée au 1984-07-18
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -8424,6 +8424,32 @@ La décision est mentionnée sur la minute et sur les expéditions du jugement.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 521
+
+La partie condamnée au paiement de sommes autres que des aliments, des rentes indemnitaires ou des provisions peut éviter que
+l'exécution provisoire soit poursuivie en consignant, sur autorisation du juge, les espèces ou les valeurs suffisantes pour
+garantir, en principal, intérêts et frais, le montant de la condamnation.
+
+En cas de condamnation au versement d'un capital en réparation d'un dommage corporel, le juge peut aussi ordonner que ce
+capital sera confié à un séquestre à charge d'en verser périodiquement à la victime la part que le juge détermine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°81-500 1981-05-12 art. 21 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°84-618 1984-07-13 art. 3 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984
+
+_Cité par_:
+
+  - Code de procédure civile - art. 524 (V)
+  - Code de procédure civile - art. 526 (VD)
 
 
 ###### Article 522
