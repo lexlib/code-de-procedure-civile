@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-10-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -27661,9 +27661,9 @@ s'opposent pas à ce qu'il soit ainsi procédé.
 
 Dans le cas contraire, il est dressé un inventaire qui peut être établi même si certaines parties ne comparaissent pas, dès
 lors qu'elles ont été dûment appelées. Le conjoint commun en biens, les héritiers, l'exécuteur testamentaire et les
-légataires universels ou à titre universel peuvent convenir du choix d'un ou deux notaires, commissaires-priseurs ou experts.
-S'ils n'en conviennent pas, ou ne sont pas présents ni représentés, il est procédé par un ou deux notaires, commissaires-
-priseurs ou experts nommés par le juge du tribunal d'instance.
+légataires universels ou à titre universel peuvent convenir du choix d'un ou deux notaires, commissaires-priseurs judiciaires
+ou experts. S'ils n'en conviennent pas, ou ne sont pas présents ni représentés, il est procédé par un ou deux notaires,
+commissaires-priseurs judiciaires ou experts nommés par le juge du tribunal d'instance.
 
 **Liens relatifs à cet article**
 
@@ -27671,9 +27671,9 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+  - Décret n°2001-650 du 19 juillet 2001 - art. 76 (Ab) JORF 21 juillet 2001 en vigueur le 1er octobre 2001
 
 _Cité par_:
 
