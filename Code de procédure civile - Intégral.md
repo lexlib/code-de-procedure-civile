@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2000-12-23
+Version Consolidée au 2001-07-13
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -20087,14 +20087,12 @@ _Créé par_:
 
 Les délais prévus aux articles 978 et 989 sont augmentés :
 
-- d'un mois si le demandeur demeure dans un département d'outre-mer, la collectivité territoriale de Mayotte ou dans un
-territoire d'outre-mer ;
+- d'un mois si le demandeur demeure dans un département d'outre-mer, à Mayotte ou dans un territoire d'outre-mer ;
 
 - de deux mois s'il demeure à l'étranger.
 
 Les délais prévus aux articles 982, 991 et 1010 (dernier alinéa) sont de même augmentés d'un mois ou de deux mois selon que
-le défendeur demeure dans un département d'outre-mer, la collectivité territoriale de Mayotte, un territoire d'outre-mer ou à
-l'étranger.
+le défendeur demeure dans un département d'outre-mer, à Mayotte, un territoire d'outre-mer ou à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -20104,15 +20102,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 _Cité par_:
 
   - Code de procédure civile - art. 1031-21 (VD)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 978, 982, 989, 991 et 1010
 
 
 #### Section II : Le désistement.<a id=257></a>
