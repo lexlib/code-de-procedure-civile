@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1978-03-18
+Version Consolidée au 1979-11-09
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -175,7 +175,7 @@ Version Consolidée au 1978-03-18
         - [Section I : Commissions rogatoires à destination d'un Etat étranger. (art. 733 à 735)](#172)
         - [Section II : Commissions rogatoires en provenance d'un Etat étranger. (art. 736 à 748)](#173)
     - [Titre XXI : Disposition finale. (art. 749)](#174)
-  - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 969)](#175)
+  - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 1008)](#175)
     - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art. 750 à 820)](#176)
       - [Sous-titre Ier : La procédure devant le tribunal. (art. 750 à 807)](#177)
         - [Chapitre Ier : La procédure en matière contentieuse. (art. 750 à 796)](#178)
@@ -234,17 +234,21 @@ Version Consolidée au 1978-03-18
         - [Chapitre Ier : Constitution d'avoué et conclusions. (art. 960 à 962)](#231)
         - [Chapitre II : Mesures d'administration judiciaire. (art. 963 à 965)](#232)
         - [Chapitre III : Le secrétariat-greffe. (art. 969)](#233)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#234)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#235)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#236)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#237)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 12 à ANNEXE, art. 30)](#238)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 12 à ANNEXE, art. 20)](#239)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#240)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#241)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#242)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#243)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 44 à ANNEXE, art. 45)](#244)
+    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 995 à 1008)](#234)
+      - [Chapitre II : La procédure sans représentation obligatoire. (art. 995)](#235)
+      - [Chapitre III : La procédure en matière électorale. (art. 1008)](#236)
+        - [Section II : Les élections professionnelles. (art. 1008)](#237)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#238)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#239)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#240)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#241)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 12 à ANNEXE, art. 30)](#242)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 12 à ANNEXE, art. 20)](#243)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#244)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#245)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#246)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#247)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 44 à ANNEXE, art. 45)](#248)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -13854,9 +13858,65 @@ _Cite_:
   - Nouveau code de procédure civile 824
 
 
-# Annexes<a id=234></a>
+## Titre VII : Dispositions particulières à la Cour de cassation.<a id=234></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=235></a>
+### Chapitre II : La procédure sans représentation obligatoire.<a id=235></a>
+
+###### Article 995
+
+Si le pourvoi a été formé selon les règles de la procédure avec représentation obligatoire, il n'en est pas moins recevable
+quelle que soit la procédure ultérieurement suivie.
+
+Le défendeur n'est pas tenu de se faire représenter par un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
+
+
+### Chapitre III : La procédure en matière électorale.<a id=236></a>
+
+#### Section II : Les élections professionnelles.<a id=237></a>
+
+###### Article 1008
+
+Si la déclaration de pourvoi a été faite dans les formes de la procédure avec représentation obligatoire, le pourvoi n'en est
+pas moins recevable quelle que soit la procédure ultérieurement suivie, l'alinéa 1er de l'article 1004 demeurant néanmoins
+applicable. 
+
+Le défendeur n'est pas tenu de se faire représenter par un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
+
+_Cité par_:
+
+  - Décret n°94-147 du 16 février 1994 - art. 27 (V)
+  - Décret n°94-147 du 16 février 1994 - art. 38 (V)
+  - Arrêté du 23 juillet 2003 - art. 16 (V)
+  - Code de la sécurité sociale. - art. D231-21 (V)
+
+_Cite_:
+
+  - Code de procédure civile - art. 1004 (V)
+
+
+# Annexes<a id=238></a>
+
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=239></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -13870,9 +13930,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=236></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=240></a>
 
-#### Section I : Dispositions communes.<a id=237></a>
+#### Section I : Dispositions communes.<a id=241></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -14041,9 +14101,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=238></a>
+#### Section II : Dispositions propres à certaines matières.<a id=242></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=239></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=243></a>
 
 ###### Article ANNEXE, art. 12
 
@@ -14155,7 +14215,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=240></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=244></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -14204,7 +14264,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=241></a>
+##### Sous-section III : Affaires de registres.<a id=245></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -14280,7 +14340,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=242></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=246></a>
 
 ###### Article ANNEXE, 31
 
@@ -14388,7 +14448,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=243></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=247></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -14448,7 +14508,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VII : Dispositions diverses.<a id=244></a>
+### Chapitre VII : Dispositions diverses.<a id=248></a>
 
 ###### Article ANNEXE, art. 44
 
