@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1989-07-25
+Version Consolidée au 1989-09-15
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -46,7 +46,7 @@ Version Consolidée au 1989-07-25
         - [Chapitre Ier : La communication des pièces entre les parties. (art. 132 à 137)](#43)
         - [Chapitre II : L'obtention des pièces détenues par un tiers. (art. 138 à 141)](#44)
         - [Chapitre III : La production des pièces détenues par une partie. (art. 142)](#45)
-      - [Sous-titre II : Les mesures d'instruction. (art. 143 à 284)](#46)
+      - [Sous-titre II : Les mesures d'instruction. (art. 143 à 284-1)](#46)
         - [Chapitre Ier : Dispositions générales. (art. 143 à 178)](#47)
           - [Section I : Décisions ordonnant des mesures d'instruction. (art. 143 à 154)](#48)
           - [Section II : Exécution des mesures d'instruction. (art. 155 à 174)](#49)
@@ -63,14 +63,14 @@ Version Consolidée au 1989-07-25
               - [Paragraphe 3 : Détermination du mode et du calendrier de l'enquête. (art. 225 à 227)](#60)
               - [Paragraphe 4 : Convocation des témoins. (art. 228 à 230)](#61)
             - [Sous-section III : L'enquête sur-le-champ. (art. 231)](#62)
-        - [Chapitre V : Mesures d'instruction exécutées par un technicien. (art. 232 à 284)](#63)
+        - [Chapitre V : Mesures d'instruction exécutées par un technicien. (art. 232 à 284-1)](#63)
           - [Section I : Dispositions communes. (art. 232 à 248)](#64)
           - [Section II : Les constatations. (art. 249 à 255)](#65)
           - [Section III : La consultation. (art. 256 à 262)](#66)
-          - [Section IV : L'expertise. (art. 263 à 284)](#67)
+          - [Section IV : L'expertise. (art. 263 à 284-1)](#67)
             - [Sous-section I : La décision ordonnant l'expertise. (art. 264 à 272)](#68)
             - [Sous-section II : Les opérations d'expertise. (art. 273 à 281)](#69)
-            - [Sous-section III : L'avis de l'expert. (art. 282 à 284)](#70)
+            - [Sous-section III : L'avis de l'expert. (art. 282 à 284-1)](#70)
       - [Sous-titre III : Les contestations relatives à la preuve littérale. (art. 285 à 316)](#71)
         - [Chapitre Ier : Les contestations relatives aux actes sous seing privé. (art. 287 à 302)](#72)
           - [Section I : La vérification d'écriture. (art. 287 à 298)](#73)
@@ -233,7 +233,7 @@ Version Consolidée au 1989-07-25
       - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-2)](#230)
         - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#231)
           - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930)](#232)
-            - [Sous-section I : La procédure ordinaire. (art. 901 à 914)](#233)
+            - [Sous-section I : La procédure ordinaire. (art. 901 à 915)](#233)
             - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#234)
             - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#235)
           - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#236)
@@ -4191,11 +4191,18 @@ constatations ou ses conclusions.
 
 Le technicien peut à tout moment demander au juge de l'entendre.
 
+Le juge ne peut, sans avoir préalablement recueilli les observations du technicien commis, étendre la mission de celui-ci ou
+confier une mission complémentaire à un autre technicien.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 2 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -4499,13 +4506,19 @@ _Codifié par_:
 
 Dès le prononcé de la décision nommant l'expert, le secrétaire de la juridiction lui en notifie copie par lettre simple.
 
-L'expert fait connaître sans délai au juge son acceptation ; il doit aussitôt commencer les opérations d'expertise.
+L'expert fait connaître sans délai au juge son acceptation ; il doit commencer les opérations d'expertise dès qu'il est
+averti que les parties ont consigné la provision mise à leur charge, ou le montant de la première échéance dont la
+consignation a pu être assortie, à moins que le juge ne lui enjoigne d'entreprendre immédiatement ses opérations.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 3 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 268
@@ -4531,15 +4544,20 @@ _Cité par_:
 ###### Article 269
 
 Le juge qui ordonne l'expertise ou le juge chargé du contrôle fixe, lors de la nomination de l'expert ou dès qu'il est en
-mesure de le faire, le montant d'une provision à valoir sur la rémunération de l'expert. Il désigne la ou les parties qui
-devront consigner la provision au secrétariat de la juridiction dans le délai qu'il détermine ; il aménage, s'il y a lieu,
-les échéances dont la consignation peut être assortie.
+mesure de le faire, le montant d'une provision à valoir sur la rémunération de l'expert aussi proche que possible de sa
+rémunération définitive prévisible. Il désigne la ou les parties qui devront consigner la provision au greffe de la
+juridiction dans le délai qu'il détermine ; si plusieurs parties sont désignées, il indique dans quelle proportion chacune
+des parties devra consigner. Il aménage, s'il y a lieu, les échéances dont la consignation peut être assortie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 4 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -4548,8 +4566,8 @@ _Cité par_:
 
 ###### Article 270
 
-Le secrétaire de la juridiction invite les parties qui en ont la charge à consigner la provision au secrétariat dans le délai
-imparti.
+Le greffier invite les parties qui en ont la charge, en leur rappelant les dispositions de l'article 271, à consigner la
+provision au greffe dans le délai et selon les modalités impartis.
 
 Il informe l'expert de la consignation.
 
@@ -4559,17 +4577,30 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 5 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+
+_Cite_:
+
+  - Nouveau code de procédure civile 271
+
 
 ###### Article 271
 
-A défaut de consignation dans le délai prescrit, le juge invite les parties à fournir leurs explications et, s'il y a lieu,
-ordonne la poursuite de l'instance, sauf à ce qu'il soit tiré toute conséquence de l'abstention ou du refus de consigner.
+A défaut de consignation dans le délai et selon les modalités impartis, la désignation de l'expert est caduque à moins que le
+juge, à la demande d'une des parties se prévalant d'un motif légitime, ne décide une prorogation du délai ou un relevé de la
+caducité. L'instance est poursuivie sauf à ce qu'il soit tiré toute conséquence de l'abstention ou du refus de consigner.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 5 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 272
@@ -4703,13 +4734,19 @@ _Codifié par_:
 
 L'expert qui justifie avoir fait des avances peut être autorisé à prélever un acompte sur la somme consignée.
 
-Le juge peut ordonner la consignation d'une provision complémentaire si la provision initiale devient insuffisante.
+Si l'expert établit que la provision allouée devient insuffisante, le juge ordonne la consignation d'une provision
+complémentaire. A défaut de consignation dans le délai et selon les modalités fixés par le juge, et sauf prorogation de ce
+délai, l'expert dépose son rapport en l'état.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 6 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 281
@@ -4768,17 +4805,36 @@ _Cité par_:
 
 ###### Article 284
 
-Sur justification de l'accomplissement de la mission, le juge fixe la rémunération de l'expert et l'autorise à se faire
-remettre, jusqu'à due concurrence, les sommes consignées au greffe.
+Dès le dépôt du rapport, le juge fixe la rémunération de l'expert et l'autorise à se faire remettre, jusqu'à due concurrence,
+les sommes consignées au greffe. Il ordonne, s'il y a lieu, le versement de sommes complémentaires dues à l'expert en
+indiquant la ou les parties qui en ont la charge, ou la restitution des sommes consignées en excédent.
 
-Il ordonne, s'il y a lieu, la restitution à la partie des sommes consignées en excédent, ou le versement de sommes
-complémentaires à l'expert. Il peut lui délivrer un titre exécutoire.
+Le juge délivre à l'expert, sur sa demande, un titre exécutoire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 7 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+
+
+###### Article 284-1
+
+Si l'expert le demande, une copie du jugement rendu au vu de son avis lui est adressée ou remise par le greffier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 8 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ### Sous-titre III : Les contestations relatives à la preuve littérale.<a id=71></a>
@@ -7473,7 +7529,8 @@ La juridiction qui a omis de statuer sur un chef de demande peut également comp
 chose jugée quant aux autres chefs, sauf à rétablir, s'il y a lieu, le véritable exposé des prétentions respectives des
 parties et de leurs moyens.
 
-La demande doit être présentée un an au plus tard après que la décision est passée en force de chose jugée.
+La demande doit être présentée un an au plus tard après que la décision est passée en force de chose jugée ou, en cas de
+pourvoi en cassation de ce chef, à compter de l'arrêt d'irrecevabilité.
 
 Le juge est saisi par simple requête de l'une des parties, ou par requête commune. Il statue après avoir entendu les parties
 ou celles-ci appelées.
@@ -7491,6 +7548,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 9 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 464
@@ -7699,15 +7760,24 @@ est  réputé contradictoire à l'égard de tous si la décision est susceptible
 été cités à personne.
 
 Si la décision requise n'est pas susceptible d'appel, les parties défaillantes qui n'ont pas été citées à personne doivent
-être citées à nouveau. Le jugement rendu après nouvelles citations est réputé contradictoire à l'égard de tous dès lors que
-l'un des défendeurs comparaît ou a été cité à personne sur première ou seconde citation ; dans le cas contraire, le jugement
-est rendu par défaut.
+être citées à nouveau. Le juge peut néanmoins décider, si la citation a été faite selon les modalités prévues à l'article
+659, qu'il n'y a pas lieu à nouvelle citation. Le jugement rendu après nouvelles citations est réputé contradictoire à
+l'égard de tous dès lors que l'un des défendeurs comparaît ou a été cité à personne sur première ou seconde citation ; dans
+le cas contraire, le jugement est rendu par défaut.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 10 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+
+_Cite_:
+
+  - Nouveau code de procédure civile 659
 
 
 ###### Article 475
@@ -8051,7 +8121,8 @@ _Codifié par_:
 
 ###### Article 494
 
-La requête est présentée en double exemplaire. Elle doit être motivée.
+La requête est présentée en double exemplaire. Elle doit être motivée. Elle doit comporter l'indication précise des pièces
+invoquées.
 
 Si elle est présentée à l'occasion d'une instance, elle doit indiquer la juridiction saisie.
 
@@ -8062,6 +8133,10 @@ En cas d'urgence, la requête peut être présentée au domicile du juge.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 11 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -8074,11 +8149,17 @@ L'ordonnance sur requête est motivée.
 
 Elle est exécutoire au seul vu de la minute.
 
+Copie de la requête et de l'ordonnance est laissée à la personne à laquelle elle est opposée.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 12 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 496
@@ -8664,6 +8745,29 @@ Le délai court même à l'encontre de celui qui notifie.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 528-1
+
+Si le jugement n'a pas été notifié dans le délai de deux ans de son prononcé, la partie qui a comparu n'est plus recevable à
+exercer un recours à titre principal après l'expiration dudit délai.
+
+Cette disposition n'est applicable qu'aux jugements qui tranchent tout le principal et à ceux qui, statuant sur une exception
+de procédure, une fin de non-recevoir ou tout autre incident, mettent fin à l'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 13 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-511 du 20 juillet 1989 - art. 34 (V)
 
 
 ###### Article 529
@@ -10779,8 +10883,8 @@ _Cité par_:
 
 ###### Article 653
 
-La date de la signification d'un acte d'huissier de justice est celle du jour où elle est faite à personne à domicile, à
-résidence ou au parquet.
+La date de la signification d'un acte d'huissier de justice est celle du jour où elle est faite à personne, à domicile, à
+résidence, au parquet ou, dans le cas mentionné à l'article 659, celle de l'établissement du procès-verbal.
 
 **Liens relatifs à cet article**
 
@@ -10792,6 +10896,14 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 14 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+
+_Cite_:
+
+  - Nouveau code de procédure civile 659
 
 
 ###### Article 654
@@ -10919,22 +11031,15 @@ _Cite_:
 
 Lorsque la personne à qui l'acte doit être signifié n'a ni domicile, ni résidence, ni lieu de travail connus, l'huissier de
 justice dresse un procès-verbal où il relate avec précision les diligences qu'il a accomplies pour rechercher le destinataire
-de l'acte. Le procès-verbal mentionne la nature de l'acte et le nom du requérant.
+de l'acte.
 
-Le même jour, ou, au plus tard, le premier jour ouvrable suivant, l'huissier de justice envoie au destinataire, à la dernière
-adresse connue, par lettre recommandée avec demande d'avis de réception, une copie du procès-verbal. La même formalité est
-accomplie par lettre simple envoyée le même jour.
+Le même jour ou, au plus tard, le premier jour ouvrable suivant, à peine de nullité, l'huissier de justice envoie au
+destinataire, à la dernière adresse connue, par lettre recommandée avec demande d'avis de réception, une copie du procès-
+verbal, à laquelle est jointe une copie de l'acte objet de la signification.
 
-La copie du procès-verbal adressée au destinataire indique à celui-ci qu'il pourra se faire remettre copie de l'acte, pendant
-un délai de trois mois, à l'étude de l'huissier de justice ou mandater à cette fin toute personne de son choix ; elle
-reproduit les dispositions du présent article et, en cas de signification d'un jugement rendu par défaut ou réputé
-contradictoire, les dispositions de l'article 540.
+Le jour même, l'huissier de justice avise le destinataire, par lettre simple, de l'accomplissement de cette formalité.
 
-L'établissement du procès-verbal qui doit mentionner l'envoi des lettres vaut signification. L'huissier de justice en remet
-une copie au requérant ou à son mandataire. Il remet également à ce dernier l'avis de réception de la lettre recommandée, ou
-la lettre recommandée elle-même si elle lui a été renvoyée.
-
-Les dispositions qui précèdent sont applicables à la signification d'un acte concernant une personne morale qui n'a plus
+Les dispositions du présent article sont applicables à la signification d'un acte concernant une personne morale qui n'a plus
 d'établissement connu au lieu indiqué comme siège social par le registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
@@ -10945,8 +11050,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-618 1984-07-13 art. 5 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1 octobre 1984
-  - Décret n°86-585 1986-03-14 art. 4 et 9 JORF 19 mars 1986 en vigueur le 2 mai 1986
+  - Décret n°89-511 du 20 juillet 1989 - art. 15 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -12169,20 +12273,24 @@ _Cité par_:
 
 ###### Article 715
 
-Le recours est formé par la remise ou l'envoi au secrétariat greffe de la cour d'appel, d'une note exposant les motifs du
+Le recours est formé par la remise ou l'envoi au secrétariat-greffe de la cour d'appel, d'une note exposant les motifs du
 recours.
 
-Copie de cette note est simultanément envoyée à la partie adverse.
+A peine d'irrecevabilité du recours, copie de cette note est simultanément envoyée à toutes les parties au litige principal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Cité par_:
 
   - Décret n°78-262 du 8 mars 1978 - art. 3 (Ab)
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 16 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 716
@@ -13245,11 +13353,16 @@ Les ordonnances du juge de la mise en état ne sont pas susceptibles d'oppositio
 
 Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'avec le jugement sur le fond.
 
-Toutefois elles sont susceptibles d'appel dans les cas et conditions prévus en matière d'expertise, ou de sursis à statuer ;
-elles le sont également dans les quinze jours à compter de leur signification lorsqu'elles ont pour effet de mettre fin à
-l'instance, lorsqu'elles constatent son extinction ou lorsqu'elles ont trait aux mesures provisoires ordonnées en matière de
-divorce ou de séparation de corps ou aux provisions qui peuvent être accordées au créancier lorsque l'existence de
-l'obligation n'est pas sérieusement contestable.
+Toutefois, elles sont susceptibles d'appel dans les cas et conditions prévus en matière d'expertise ou de sursis à statuer.
+Elles le sont également, dans les quinze jours à compter de leur signification :
+
+1° Lorsqu'elles ont pour effet de mettre fin à l'instance ou lorsqu'elles constatent son extinction ;
+
+2° Lorsqu'elles ont trait aux mesures provisoires ordonnées en matière de divorce ou de séparation de corps ;
+
+3° Lorsque, dans le cas où le montant de la demande est supérieur au taux de compétence en dernier ressort, elles ont trait
+aux provisions qui peuvent être accordées au créancier au cas où l'existence de l'obligation n'est pas sérieusement
+contestable.
 
 **Liens relatifs à cet article**
 
@@ -13259,7 +13372,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 31 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°89-511 du 20 juillet 1989 - art. 17 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -13436,15 +13549,24 @@ _Codifié par_:
 ###### Article 788
 
 En cas d'urgence, le président du tribunal peut autoriser le demandeur, sur sa requête, à assigner le défendeur à jour fixe.
+Il désigne, s'il y a lieu, la chambre à laquelle l'affaire est distribuée.
+
 La requête doit exposer les motifs de l'urgence, contenir les conclusions du demandeur et viser les pièces justificatives.
 
 Copie de la requête et des pièces doit être remise au président pour être versée au dossier du tribunal.
+
+L'autorisation d'assigner à jour fixe peut être donnée, même d'office, par le président du tribunal saisi d'une procédure de
+référé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 18 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -14590,7 +14712,7 @@ Lorsque le montant de la demande n'excède pas le taux de compétence en dernier
 être saisi par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
 
 La déclaration doit indiquer les nom, prénoms, profession et adresse des parties, ou, pour les personnes morales, leur
-dénomination et leur siège social et préciser l'objet de la demande.
+dénomination et leur siège. Elle contient l'objet de la demande et un exposé sommaire de ses motifs.
 
 La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration.
 
@@ -14600,9 +14722,9 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-209 du 4 mars 1988 - art. 2 () JORF 5 mars 1988 en vigueur le 1er janvier 1989
+  - Décret n°89-511 du 20 juillet 1989 - art. 19 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 **Liens**:
 
@@ -16470,6 +16592,51 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
+###### Article 915
+
+L'avoué de l'appelant doit, dans les quatre mois de la déclaration d'appel, déposer au greffe ses conclusions, à moins que le
+conseiller de la mise en état ne lui ait imparti un délai plus court.
+
+A défaut, l'affaire est radiée du rôle par une décision non susceptible de recours dont une copie est envoyée à l'appelant
+par lettre simple adressée à son domicile réel ou à sa résidence. Cette radiation prive l'appel de tout effet suspensif, hors
+les cas où l'exécution provisoire est interdite par la loi.
+
+L'affaire est rétablie soit sur justification du dépôt des conclusions de l'appelant, l'appel restant privé de tout effet
+suspensif, soit sur l'initiative de l'intimé qui peut demander que la clôture soit ordonnée et l'affaire renvoyée à
+l'audience pour être jugée au vu des conclusions de première instance.
+
+Par dérogation aux dispositions qui précèdent, le délai de quatre mois imparti pour conclure peut être prorogé par le
+conseiller de la mise en état dans le cas où l'avoué a été désigné au titre de l'aide judiciaire ou constitué par un appelant
+à qui l'aide judiciaire a été refusée.
+
+**Nota:**
+
+NOTA : Les mots : " aide judiciaire " ou " commissions et désignations d'office " sont remplacés par ceux de " aide
+juridictionnelle " par l'article 159 du décret n° 91-1266 du 19 décembre 1991 paru au Journal officiel du 20 décembre 1991.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Abrogé par_:
+
+  - Décret n°85-1330 1985-12-17 art. 21 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 20 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-511 du 20 juillet 1989 - art. 34 (V)
+
+
 ##### Sous-section II : La procédure à jour fixe.<a id=234></a>
 
 ###### Article 917
@@ -16477,11 +16644,23 @@ _Codifié par_:
 Si les droits d'une partie sont en péril, le premier président peut, sur requête, fixer le jour auquel l'affaire sera appelée
 par priorité. Il désigne la chambre à laquelle l'affaire est distribuée.
 
+Les dispositions de l'alinéa qui précède peuvent également être mises en œuvre par le premier président de la cour d'appel ou
+par le conseiller de la mise en état à l'occasion de l'exercice des pouvoirs qui leur sont conférés en matière de référé ou
+d'exécution provisoire.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°79-741 1979-11-07 art. 19
+
+_Modifié par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 21 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 918
@@ -17566,7 +17745,7 @@ _Cité par_:
 
 ###### Article 975
 
-La déclaration de pourvoi est faite par acte contenant [*mentions obligatoires*]  :
+La déclaration de pourvoi est faite par acte contenant :
 
 1° a) Si le demandeur en cassation est une personne physique : ses nom, prénoms, domicile, nationalité, date et lieu de
 naissance ;
@@ -17577,7 +17756,9 @@ b) Si le demandeur est une personne morale : sa forme, sa dénomination, son si�
 
 3° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
 
-4° L'indication de la décision attaquée. 
+4° L'indication de la décision attaquée ;
+
+5° L'état de la procédure d'exécution, sauf dans les cas où l'exécution de la décision attaquée est interdite par la loi.
 
 La déclaration précise, le cas échéant, les chefs de la décision auxquels le pourvoi est limité.
 
@@ -17589,9 +17770,13 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°79-941 1979-11-07 art. 17
+
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°89-511 du 20 juillet 1989 - art. 22 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 976
@@ -17743,13 +17928,11 @@ _Cite_:
 
 ###### Article 982
 
-Le défendeur au pourvoi dispose d'un délai de deux mois à compter de la signification du mémoire du demandeur pour remettre
+Le défendeur au pourvoi dispose d'un délai de trois mois à compter de la signification du mémoire du demandeur pour remettre
 au secrétariat-greffe de la Cour de cassation un mémoire en réponse signé d'un avocat au Conseil d'Etat et à la Cour de
 cassation et le notifier à l'avocat du demandeur dans la forme des notifications entre avocats.
 
-**Nota:**
-
-.
+Le délai prévu à l'alinéa précédent est prescrit à peine d'irrecevabilité, prononcée d'office, du mémoire en réponse.
 
 **Liens relatifs à cet article**
 
@@ -17757,9 +17940,13 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°79-941 1979-11-07 art. 17
+
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°89-511 du 20 juillet 1989 - art. 23 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -17819,7 +18006,8 @@ _Modifié par_:
 ###### Article 985
 
 La déclaration indique les nom, prénoms, profession et domicile du demandeur au pourvoi, ainsi que les nom et adresse du ou
-des défendeurs au pourvoi. Elle désigne la décision attaquée.
+des défendeurs au pourvoi. Elle désigne la décision attaquée. Elle indique l'état de la procédure d'exécution, sauf dans les
+cas où l'exécution de la décision attaquée est interdite par la loi.
 
 **Liens relatifs à cet article**
 
@@ -17827,9 +18015,13 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°79-941 1979-11-07 art. 17
+
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°89-511 du 20 juillet 1989 - art. 24 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 986
@@ -17905,9 +18097,9 @@ _Modifié par_:
 ###### Article 989
 
 Lorsque la déclaration du pourvoi ne contient pas l'énoncé, même sommaire, des moyens de cassation invoqués contre la
-décision attaquée, le demandeur doit, à peine d'irrecevabilité prononcée d'office, faire parvenir au secrétariat-greffe de la
-Cour de cassation, au plus tard dans un délai de trois mois à compter de la déclaration, un mémoire contenant cet énoncé, et,
-le cas échéant, les pièces invoquées à l'appui du pourvoi.
+décision attaquée, le demandeur doit, à peine de déchéance constatée par ordonnance du premier président ou de son délégué,
+faire parvenir au greffe de la Cour de cassation, au plus tard dans un délai de trois mois à compter de la déclaration, un
+mémoire contenant cet énoncé, et, le cas échéant, les pièces invoquées à l'appui du pourvoi.
 
 Ce mémoire peut être établi par le mandataire de la partie sans nouveau pouvoir spécial.
 
@@ -17917,9 +18109,13 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°79-941 1979-11-07 art. 17
+
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°89-511 du 20 juillet 1989 - art. 25 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
@@ -18418,8 +18614,8 @@ _Cite_:
 
 ###### Article 1009
 
-Le premier président, ou son délégué, à la demande d'une des parties, peut réduire les délais prévus pour le dépôt des
-mémoires et des pièces.
+Le premier président, ou son délégué, à la demande d'une des parties ou d'office, peut réduire les délais prévus pour le
+dépôt des mémoires et des pièces.
 
 **Liens relatifs à cet article**
 
@@ -18427,13 +18623,37 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°79-941 1979-11-07 art. 17
+
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°89-511 du 20 juillet 1989 - art. 26 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 _Cité par_:
 
   - Livre des procédures fiscales - art. R*288-3 (V)
+
+
+###### Article 1009-1
+
+Hors les matières où le pourvoi empêche l'exécution de la décision attaquée, le premier président peut, à la demande du
+défendeur, et après avoir recueilli l'avis du procureur général et des parties, décider le retrait du rôle d'une affaire
+lorsque le demandeur ne justifie pas avoir exécuté la décision frappée de pourvoi, à moins qu'il ne lui apparaisse que
+l'exécution serait de nature à entraîner des conséquences manifestement excessives.
+
+Il autorise la réinscription de l'affaire au rôle de la cour sur justification de l'exécution de la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°89-511 du 20 juillet 1989 - art. 27 () JORF 25 juillet 1989 en vigueur le 15 septembre 1989
 
 
 ###### Article 1010
