@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1996-07-23
+Version Consolidée au 1996-08-23
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -325,58 +325,59 @@ Version Consolidée au 1996-07-23
         - [Section II : La sauvegarde de justice. (art. 1236 à 1242)](#322)
         - [Section III : La tutelle. (art. 1243 à 1261)](#323)
         - [Section IV : La curatelle. (art. 1262 à 1263)](#324)
-    - [Titre II : Les biens. (art. 1264 à 1281)](#325)
+    - [Titre II : Les biens. (art. 1264 à 1281-12)](#325)
       - [Chapitre Ier : Les actions possessoires. (art. 1264 à 1267)](#326)
       - [Chapitre II : La reddition de compte et la liquidation des fruits. (art. 1268 à 1269)](#327)
       - [Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice. (art. 1270)](#328)
       - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#329)
-    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1327)](#330)
-      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303)](#331)
-        - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289)](#332)
-        - [Section II : Les mesures urgentes. (art. 1290)](#333)
-        - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#334)
-        - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#335)
-        - [Section V : L'homologation judiciaire du changement de régime matrimonial. (art. 1300 à 1303)](#336)
-      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1327)](#337)
-        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1327)](#338)
-          - [Sous-section I : Les scellés (art. 1304 à 1322)](#339)
-            - [Paragraphe 1 : L'apposition des scellés. (art. 1304 à 1315)](#340)
-            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#341)
-          - [Sous-section II : Autres mesures conservatoires. (art. 1323 à 1325)](#342)
-          - [Sous-section III : Dispositions communes. (art. 1326 à 1327)](#343)
-    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441-3)](#344)
-      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425-9)](#345)
-        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#346)
-        - [Section II : L'injonction de faire. (art. 1425-1 à 1425-9)](#347)
-      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#348)
-      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#349)
-      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#350)
-      - [Chapitre V : Le contentieux de la passation de certains contrats de travaux. (art. 1441-1 à 1441-3)](#351)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#352)
-    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#353)
-      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#354)
-      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#355)
-      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#356)
-    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#357)
-    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#358)
-    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#359)
-    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#360)
-    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#361)
-      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#362)
-      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#363)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#364)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#365)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#366)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#367)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#368)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#369)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#370)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#371)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#372)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance. (art. ANNEXE, 36)](#373)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#374)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#375)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#376)
+      - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#330)
+    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1327)](#331)
+      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303)](#332)
+        - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289)](#333)
+        - [Section II : Les mesures urgentes. (art. 1290)](#334)
+        - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#335)
+        - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#336)
+        - [Section V : L'homologation judiciaire du changement de régime matrimonial. (art. 1300 à 1303)](#337)
+      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1327)](#338)
+        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1327)](#339)
+          - [Sous-section I : Les scellés (art. 1304 à 1322)](#340)
+            - [Paragraphe 1 : L'apposition des scellés. (art. 1304 à 1315)](#341)
+            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#342)
+          - [Sous-section II : Autres mesures conservatoires. (art. 1323 à 1325)](#343)
+          - [Sous-section III : Dispositions communes. (art. 1326 à 1327)](#344)
+    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441-3)](#345)
+      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425-9)](#346)
+        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#347)
+        - [Section II : L'injonction de faire. (art. 1425-1 à 1425-9)](#348)
+      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#349)
+      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#350)
+      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#351)
+      - [Chapitre V : Le contentieux de la passation de certains contrats de travaux. (art. 1441-1 à 1441-3)](#352)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#353)
+    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#354)
+      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#355)
+      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#356)
+      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#357)
+    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#358)
+    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#359)
+    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#360)
+    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#361)
+    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#362)
+      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#363)
+      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#364)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#365)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#366)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#367)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#368)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#369)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#370)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#371)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#372)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#373)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance. (art. ANNEXE, 36)](#374)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#375)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#376)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#377)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre VI bis : La médiation.<a id=2></a>
@@ -26145,11 +26146,290 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.<a id=330></a>
+### Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution.<a id=330></a>
 
-### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.<a id=331></a>
+###### Article 1281-1
 
-#### Section I : Les autorisations et les habilitations.<a id=332></a>
+S'il y a lieu, en dehors de toute procédure d'exécution, de répartir une somme d'argent entre créanciers, la partie la plus
+diligente peut se pourvoir en référé devant le président du tribunal de grande instance dans le ressort duquel demeure le
+débiteur, lequel désigne une personne chargée de la distribution.
+
+La personne chargée de la distribution est séquestre des fonds, à moins que la consignation ne soit ordonnée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+###### Article 1281-2
+
+Le séquestre chargé de la distribution doit offrir des garanties de représentation de la somme mise en distribution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cité par_:
+
+  - Code de commerce. - art. R143-23 (V)
+
+
+###### Article 1281-3
+
+Le greffe notifie par lettre simple une copie de l'ordonnance à la personne chargée de la distribution et, si la consignation
+a été ordonnée, à la Caisse des dépôts et consignations.
+
+La personne chargée de la distribution avise les créanciers, par lettre recommandée avec demande d'avis de réception, qu'ils
+doivent, dans un délai d'un mois, lui adresser une déclaration comportant un décompte des sommes réclamées en principal,
+intérêts et autres accessoires. Le cas échéant, cette déclaration mentionne les privilèges et sûretés attachés à la créance.
+Les documents justificatifs sont joints à la déclaration.
+
+A défaut de déclaration dans le délai mentionné à l'alinéa qui précède, le créancier est déchu du droit de participer à la
+distribution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1281-4 (V)
+
+
+###### Article 1281-4
+
+La personne chargée de la distribution établit un projet de répartition dans les deux mois qui suivent le dernier avis prévu
+au deuxième alinéa de l'article 1281-3. 
+
+Elle le notifie au débiteur et à chacun des créanciers par lettre recommandée avec demande d'avis de réception. 
+
+A peine de nullité, la notification indique au destinataire : 
+
+1° Qu'il dispose d'un délai de quinze jours, à compter de la réception de la lettre, pour soulever par lettre recommandée
+avec demande d'avis de réception une contestation motivée, accompagnée des pièces justificatives nécessaires, auprès de la
+personne chargée de la distribution ; 
+
+2° Qu'à défaut de réponse dans le délai imparti il est réputé avoir accepté le projet et que celui-ci deviendra définitif si
+aucune contestation n'est soulevée. 
+
+En cas de difficulté, le délai mentionné au premier alinéa du présent article peut être prorogé par le président du tribunal
+de grande instance saisi par simple requête de la personne chargée de la distribution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cite_:
+
+  - Code de procédure civile - art. 1281-3 (V)
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1281-5 (V)
+
+
+###### Article 1281-5
+
+A défaut de contestation dans les quinze jours suivant la dernière notification mentionnée au deuxième alinéa de l'article
+1281-4, le projet de répartition devient définitif. 
+
+Lorsqu'elle détient la somme à répartir, la personne chargée de la distribution procède alors au paiement des créanciers dans
+les quinze jours. 
+
+Lorsque les fonds ont été consignés, la personne chargée de la distribution notifie le projet de répartition devenu définitif
+à la Caisse des dépôts et consignations, qui procède au paiement dans les quinze jours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cite_:
+
+  - Code de procédure civile - art. 1281-4 (V)
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1281-7 (V)
+
+
+###### Article 1281-6
+
+En cas de contestation, la personne chargée de la distribution convoque les parties par lettre recommandée avec demande
+d'avis de réception, en vue d'une tentative de conciliation qui doit avoir lieu dans le mois suivant la première
+contestation. 
+
+La convocation reproduit les termes du second alinéa de l'article 1281-7.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cite_:
+
+  - Code de procédure civile - art. 1281-7 (V)
+
+
+###### Article 1281-7
+
+Si un accord intervient, il en est dressé acte dont une copie est remise ou adressée par lettre simple à toutes les parties.
+Il est alors procédé au paiement dans les conditions prévues aux deuxième et troisième alinéas de l'article 1281-5. 
+
+La personne régulièrement convoquée qui ne se présente pas est réputée avoir accepté l'accord.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cite_:
+
+  - Code de procédure civile - art. 1281-5 (V)
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1281-6 (V)
+
+
+###### Article 1281-8
+
+A défaut de conciliation, la personne chargée de la distribution dresse acte des points de désaccord.
+
+Les sommes mises en répartition sont immédiatement consignées, si elles ne le sont déjà en vertu de la décision de
+désignation de la personne chargée de la distribution.
+
+La partie la plus diligente peut saisir le tribunal de grande instance, qui procède à la répartition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1281-9 (V)
+
+
+###### Article 1281-9
+
+A défaut de projet de répartition dans les délais impartis, il est procédé comme il est dit aux deuxième et troisième alinéas
+de l'article 1281-8.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+_Cite_:
+
+  - Code de procédure civile - art. 1281-8 (V)
+
+
+###### Article 1281-10
+
+Les paiements doivent être effectués quinze jours au plus tard après notification à la Caisse des dépôts et consignations du
+jugement de répartition passé en force de chose jugée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+###### Article 1281-11
+
+La rétribution de la personne chargée de la distribution est prélevée sur les fonds à répartir et supportée par les
+créanciers, au prorata de la somme qui revient à chacun d'eux.
+
+En cas de contestation, elle est fixée par le président du tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+###### Article 1281-12
+
+En matière commerciale, les compétences dévolues au tribunal de grande instance et à son président sont exercées par le
+tribunal de commerce et par son président.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+
+
+## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.<a id=331></a>
+
+### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.<a id=332></a>
+
+#### Section I : Les autorisations et les habilitations.<a id=333></a>
 
 ###### Article 1286
 
@@ -26228,7 +26508,7 @@ _Modifié par_:
   - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section II : Les mesures urgentes.<a id=333></a>
+#### Section II : Les mesures urgentes.<a id=334></a>
 
 ###### Article 1290
 
@@ -26250,7 +26530,7 @@ _Cite_:
   - Code civil - art. 220-1 (M)
 
 
-#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.<a id=334></a>
+#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.<a id=335></a>
 
 ###### Article 1291
 
@@ -26274,7 +26554,7 @@ _Cite_:
   - Code civil - art. 1580 (V)
 
 
-#### Section IV : La séparation judiciaire de biens.<a id=335></a>
+#### Section IV : La séparation judiciaire de biens.<a id=336></a>
 
 ###### Article 1292
 
@@ -26446,7 +26726,7 @@ _Modifié par_:
   - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section V : L'homologation judiciaire du changement de régime matrimonial.<a id=336></a>
+#### Section V : L'homologation judiciaire du changement de régime matrimonial.<a id=337></a>
 
 ###### Article 1300
 
@@ -26514,13 +26794,13 @@ _Cite_:
   - Nouveau code de procédure civile 1292 à 1296 et 1298
 
 
-### Chapitre II : Les successions et les libéralités<a id=337></a>
+### Chapitre II : Les successions et les libéralités<a id=338></a>
 
-#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=338></a>
+#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=339></a>
 
-##### Sous-section I : Les scellés<a id=339></a>
+##### Sous-section I : Les scellés<a id=340></a>
 
-##### Paragraphe 1 : L'apposition des scellés.<a id=340></a>
+##### Paragraphe 1 : L'apposition des scellés.<a id=341></a>
 
 ###### Article 1304
 
@@ -26798,7 +27078,7 @@ _Créé par_:
   - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 2 : La levée des scellés.<a id=341></a>
+##### Paragraphe 2 : La levée des scellés.<a id=342></a>
 
 ###### Article 1316
 
@@ -26968,7 +27248,7 @@ _Cite_:
   - Nouveau code de procédure civile 1316 à 1321
 
 
-##### Sous-section II : Autres mesures conservatoires.<a id=342></a>
+##### Sous-section II : Autres mesures conservatoires.<a id=343></a>
 
 ###### Article 1323
 
@@ -27056,7 +27336,7 @@ _Cite_:
   - Nouveau code de procédure civile 1307, 1308 et 1311 à 1313
 
 
-##### Sous-section III : Dispositions communes.<a id=343></a>
+##### Sous-section III : Dispositions communes.<a id=344></a>
 
 ###### Article 1326
 
@@ -27096,11 +27376,11 @@ _Abrogé par_:
   - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
-## Titre IV : Les obligations et les contrats.<a id=344></a>
+## Titre IV : Les obligations et les contrats.<a id=345></a>
 
-### Chapitre I : Les procédures d'injonction<a id=345></a>
+### Chapitre I : Les procédures d'injonction<a id=346></a>
 
-#### Section I : L'injonction de payer.<a id=346></a>
+#### Section I : L'injonction de payer.<a id=347></a>
 
 ###### Article 1405
 
@@ -27568,7 +27848,7 @@ _Cite_:
   - Nouveau code de procédure civile 1405
 
 
-#### Section II : L'injonction de faire.<a id=347></a>
+#### Section II : L'injonction de faire.<a id=348></a>
 
 ###### Article 1425-1
 
@@ -27808,7 +28088,7 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre II : Les offres de paiement et la consignation.<a id=348></a>
+### Chapitre II : Les offres de paiement et la consignation.<a id=349></a>
 
 ###### Article 1426
 
@@ -27909,7 +28189,7 @@ _Abrogé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 31
 
 
-### Chapitre III : La reconstitution d'actes détruits.<a id=349></a>
+### Chapitre III : La reconstitution d'actes détruits.<a id=350></a>
 
 ###### Article 1430
 
@@ -27989,7 +28269,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=350></a>
+### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=351></a>
 
 ###### Article 1435
 
@@ -28111,7 +28391,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : Le contentieux de la passation de certains contrats de travaux.<a id=351></a>
+### Chapitre V : Le contentieux de la passation de certains contrats de travaux.<a id=352></a>
 
 ###### Article 1441-1
 
@@ -28181,11 +28461,11 @@ _Cité par_:
   - Décret n°2005-1742 du 30 décembre 2005 - art. 47-2 (VT)
 
 
-# Livre IV : L'arbitrage.<a id=352></a>
+# Livre IV : L'arbitrage.<a id=353></a>
 
-## Titre Ier : Les conventions d'arbitrage.<a id=353></a>
+## Titre Ier : Les conventions d'arbitrage.<a id=354></a>
 
-### Chapitre Ier : La clause compromissoire.<a id=354></a>
+### Chapitre Ier : La clause compromissoire.<a id=355></a>
 
 ###### Article 1442
 
@@ -28293,7 +28573,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre II : Le compromis.<a id=355></a>
+### Chapitre II : Le compromis.<a id=356></a>
 
 ###### Article 1447
 
@@ -28376,7 +28656,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre III : Règles communes.<a id=356></a>
+### Chapitre III : Règles communes.<a id=357></a>
 
 ###### Article 1451
 
@@ -28602,7 +28882,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre II : L'instance arbitrale.<a id=357></a>
+## Titre II : L'instance arbitrale.<a id=358></a>
 
 ###### Article 1460
 
@@ -28815,7 +29095,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre III : La sentence arbitrale.<a id=358></a>
+## Titre III : La sentence arbitrale.<a id=359></a>
 
 ###### Article 1469
 
@@ -29093,7 +29373,7 @@ _Cite_:
   - Nouveau code de procédure civile 1471, 1472, 1473
 
 
-## Titre IV : Les voies de recours.<a id=359></a>
+## Titre IV : Les voies de recours.<a id=360></a>
 
 ###### Article 1481
 
@@ -29360,7 +29640,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre V : L'arbitrage international.<a id=360></a>
+## Titre V : L'arbitrage international.<a id=361></a>
 
 ###### Article 1492
 
@@ -29473,9 +29753,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=361></a>
+## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=362></a>
 
-### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=362></a>
+### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=363></a>
 
 ###### Article 1498
 
@@ -29533,7 +29813,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=363></a>
+### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=364></a>
 
 ###### Article 1501
 
@@ -29680,9 +29960,9 @@ _Cite_:
   - Nouveau code de procédure civile 1487 et 1490
 
 
-# Annexes<a id=364></a>
+# Annexes<a id=365></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=365></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=366></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -29696,9 +29976,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=366></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=367></a>
 
-#### Section I : Dispositions communes.<a id=367></a>
+#### Section I : Dispositions communes.<a id=368></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -29867,9 +30147,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=368></a>
+#### Section II : Dispositions propres à certaines matières.<a id=369></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=369></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=370></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -30022,7 +30302,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=370></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=371></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -30071,7 +30351,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=371></a>
+##### Sous-section III : Affaires de registres.<a id=372></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -30179,7 +30459,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=372></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=373></a>
 
 ###### Article ANNEXE, 31
 
@@ -30287,7 +30567,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance.<a id=373></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance.<a id=374></a>
 
 ###### Article ANNEXE, 36
 
@@ -30314,7 +30594,7 @@ _Cite_:
   - Nouveau code de procédure civile 847-1 et 847-2
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=374></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=375></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -30374,7 +30654,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=375></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=376></a>
 
 ###### Article ANNEXE, 42
 
@@ -30397,7 +30677,7 @@ _Modifié par_:
   - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
-### Chapitre VII : Dispositions diverses.<a id=376></a>
+### Chapitre VII : Dispositions diverses.<a id=377></a>
 
 ###### Article ANNEXE, 46
 
