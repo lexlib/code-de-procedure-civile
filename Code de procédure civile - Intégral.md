@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1986-05-02
+Version Consolidée au 1986-08-09
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -302,7 +302,7 @@ Version Consolidée au 1986-05-02
         - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#299)
       - [Chapitre IX : L'autorité parentale (art. 1179 à 1210)](#300)
         - [Section I : L'exercice de l'autorité parentale (art. 1179)](#301)
-        - [Section II : L'assistance éducative (art. 1193 à 1200)](#302)
+        - [Section II : L'assistance éducative (art. 1193 à 1200-1)](#302)
         - [Section III : Délégation, déchéance et retrait partiel de l'autorité parentale. (art. 1201 à 1210)](#303)
       - [Chapitre X : La tutelle des mineurs (art. 1211 à 1231-2)](#304)
         - [Section I : Le juge des tutelles. (art. 1211 à 1218)](#305)
@@ -21373,6 +21373,23 @@ _Cite_:
   - Code civil - art. 375-2 (VT)
 
 
+###### Article 1199-1
+
+L'institution ou le service chargé de l'exercice de la mesure adresse au juge des enfants qui a statué ou qui a reçu
+délégation de compétence un rapport sur la situation et l'évolution du mineur selon la périodicité fixée par la décision ou,
+à défaut, annuellement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-939 1986-07-30 art. 1 JORF 9 août 1986
+
+
 ###### Article 1200
 
 Dans l'application de l'assistance éducative, il doit être tenu compte des convictions religieuses ou philosophiques du
@@ -21387,6 +21404,27 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1200-1
+
+Les mesures d'assistance éducative renouvelées en application du troisième alinéa de l'article 375 du code civil sont prises
+par le juge des enfants dans les conditions prévues aux articles 1181 à 1200.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-939 1986-07-30 art. 2 JORF 9 août 1986
+
+_Cite_:
+
+  - Code civil - art. 375 (M)
+  - Nouveau code de procédure civile 1181 à 1200
 
 
 #### Section III : Délégation, déchéance et retrait partiel de l'autorité parentale.<a id=303></a>
