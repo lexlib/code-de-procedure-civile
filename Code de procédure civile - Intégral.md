@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1986-08-09
+Version Consolidée au 1986-10-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -319,7 +319,7 @@ Version Consolidée au 1986-08-09
       - [Chapitre II : La reddition de compte et la liquidation des fruits. (art. 1268 à 1269)](#316)
       - [Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice. (art. 1270)](#317)
       - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#318)
-    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1282 à 1303)](#319)
+    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1282 à 1327)](#319)
       - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1282 à 1303)](#320)
         - [Section I : La contribution aux charges du mariage. (art. 1282 à 1285)](#321)
         - [Section II : Les autorisations et les habilitations. (art. 1286 à 1289)](#322)
@@ -327,36 +327,43 @@ Version Consolidée au 1986-08-09
         - [Section IV : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#324)
         - [Section V : La séparation judiciaire de biens. (art. 1292 à 1299)](#325)
         - [Section VI : L'homologation judiciaire du changement de régime matrimonial. (art. 1300 à 1303)](#326)
-    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441)](#327)
-      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425)](#328)
-        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#329)
-      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#330)
-      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#331)
-      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#332)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#333)
-    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#334)
-      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#335)
-      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#336)
-      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#337)
-    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#338)
-    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#339)
-    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#340)
-    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#341)
-    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#342)
-      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#343)
-      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#344)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#345)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#346)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#347)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#348)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#349)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#350)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#351)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#352)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#353)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#354)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#355)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#356)
+      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1327)](#327)
+        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1327)](#328)
+          - [Sous-section I : Les scellés (art. 1304 à 1322)](#329)
+            - [Paragraphe 1 : L'apposition des scellés. (art. 1304 à 1315)](#330)
+            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#331)
+          - [Sous-section II : Autres mesures conservatoires. (art. 1323 à 1325)](#332)
+          - [Sous-section III : Dispositions communes. (art. 1326 à 1327)](#333)
+    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441)](#334)
+      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425)](#335)
+        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#336)
+      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#337)
+      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#338)
+      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#339)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#340)
+    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#341)
+      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#342)
+      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#343)
+      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#344)
+    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#345)
+    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#346)
+    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#347)
+    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#348)
+    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#349)
+      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#350)
+      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#351)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#352)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#353)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#354)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#355)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#356)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#357)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#358)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#359)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#360)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#361)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#362)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#363)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -22250,6 +22257,60 @@ _Cite_:
   - Code civil - art. 490-3 (AbD)
 
 
+###### Article 1233
+
+Lorsque les biens d'un majeur protégé par la loi au sens des articles 488 et 490 du code civil peuvent être mis en péril, le
+juge du tribunal d'instance prend d'office, ou à la demande du procureur de la République, toutes mesures conservatoires. Il
+peut notamment ordonner l'apposition des scellés qui a lieu selon les formes prévues pour les scellés après décès.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+_Modifié par_:
+
+  - Décret n°86-951 1986-07-30 art. 3 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1260-12 (Ab)
+
+_Cite_:
+
+  - Code civil 488 et 490
+
+
+###### Article 1234
+
+S'il apparaît que la consistance des biens ne justifie pas l'emploi de ces formes, le procureur de la République ou le juge
+du tribunal d'instance peuvent requérir du greffier en chef du tribunal d'instance, du commissaire de police, du commandant
+de brigade de gendarmerie ou du maire, de dresser un état simplement descriptif du mobilier et, si les lieux sont inoccupés,
+d'en assurer la clôture et d'en conserver les clés.
+
+Les clés sont restituées, sur simple reçu, à la personne protégée dès son retour sur les lieux. Elles ne peuvent être remises
+à d'autres personnes qu'en vertu d'une permission du procureur de la République ou du juge du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+_Modifié par_:
+
+  - Décret n°86-951 1986-07-30 art. 4 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
 ###### Article 1235
 
 Le juge des tutelles peut, dans tous les cas où il estime utile d'entendre la personne protégée, se déplacer dans toute
@@ -23754,11 +23815,593 @@ _Cite_:
   - Nouveau code de procédure civile 1292 à 1296 et 1298
 
 
-## Titre IV : Les obligations et les contrats.<a id=327></a>
+### Chapitre II : Les successions et les libéralités<a id=327></a>
 
-### Chapitre I : Les procédures d'injonction<a id=328></a>
+#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=328></a>
 
-#### Section I : L'injonction de payer.<a id=329></a>
+##### Sous-section I : Les scellés<a id=329></a>
+
+##### Paragraphe 1 : L'apposition des scellés.<a id=330></a>
+
+###### Article 1304
+
+L'apposition des scellés peut être demandée :
+
+1° Par le conjoint ;
+
+2° Par tous ceux qui prétendent avoir un droit dans la succession ;
+
+3° Par l'exécuteur testamentaire ;
+
+4° Par le ministère public ;
+
+5° Par le propriétaire des lieux ;
+
+6° Par tout créancier muni d'un titre exécutoire ou d'une permission du juge ;
+
+7° En cas d'absence du conjoint ou des héritiers, ou s'il y a parmi les héritiers des mineurs non pourvus d'un représentant
+légal, par les personnes qui demeuraient avec le défunt, par le maire, le commissaire de police ou le commandant de la
+brigade de gendarmerie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. A444-28 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1305
+
+La décision est prise par le greffier en chef du tribunal d'instance du lieu où se trouvent les biens qui sont l'objet de la
+mesure sollicitée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+###### Article 1306
+
+Le greffier en chef appose les scellés au moyen d'un sceau particulier qui reste entre ses mains et dont l'empreinte est
+déposée au greffe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Code de procédure pénale - art. R218 (V)
+
+
+###### Article 1307
+
+L'apposition ne peut être pratiquée après achèvement de l'inventaire, à moins que celui-ci ne soit attaqué et qu'il n'en soit
+ainsi ordonné par le juge du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+###### Article 1308
+
+Le greffier en chef peut prendre toutes les dispositions nécessaires à l'apposition des scellés.
+
+Lorsque les locaux sont fermés, il peut y pénétrer par tous moyens ou apposer les scellés sur la porte si le requérant n'en
+demande pas l'ouverture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1309
+
+Le greffier en chef désigne un gardien des scellés si la consistance et la valeur apparente des biens le justifient.
+
+Lorsque des personnes demeurent dans les lieux où est faite l'apposition, le gardien est choisi parmi ces personnes. 
+
+Le gardien ne peut être choisi parmi les membres du personnel du greffe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°96-1080 du 12 décembre 1996 - art. 20 (Ab)
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de procédure civile - art. 1323 (VD)
+
+
+###### Article 1310
+
+S'il est trouvé des papiers ou paquets fermés, ils sont placés dans un meuble sur lequel les scellés sont apposés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+###### Article 1311
+
+S'il est découvert un testament, le greffier en chef le paraphe avec les personnes présentes. Il le dépose ensuite entre les
+mains d'un notaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de procédure civile - art. 1315 (V)
+  - Code de procédure civile - art. 1323 (VD)
+
+
+###### Article 1312
+
+Le greffier en chef dépose soit au greffe, soit entre les mains d'un notaire ou d'un établissement bancaire les titres,
+sommes, valeurs, bijoux ou autres objets précieux pour lesquels l'apposition des scellés ne paraîtrait pas une précaution
+suffisante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+
+
+###### Article 1313
+
+Si des papiers ou paquets fermés paraissent, par leur suscription ou quelque autre preuve écrite, appartenir à des tiers, le
+greffier en chef les dépose au greffe.
+
+Le juge du tribunal d'instance appelle ces tiers devant lui dans un délai qu'il fixe pour qu'ils puissent assister à
+l'ouverture.
+
+Si, lors de l'ouverture, il se révèle que les papiers ou paquets sont étrangers à la succession, il les remet aux intéressés.
+Si ceux-ci ne se présentent pas ou si les papiers ou paquets se rapportent à la succession, le juge en ordonne le dépôt, soit
+à son greffe, soit entre les mains d'un notaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1323 (VD)
+
+
+###### Article 1314
+
+Le procès-verbal d'apposition est signé et daté par le greffier en chef. Il comprend :
+
+1° Les motifs de l'apposition ;
+
+2° Les nom et adresse du ou des requérants et la qualité en laquelle ils ont demandé l'apposition ;
+
+3° Une relation sommaire des déclarations des personnes présentes et des suites qui, le cas échéant, leur ont été réservées ;
+
+4° La désignation des lieux et des meubles meublants sur lesquels les scellés ont été apposés ;
+
+5° Une description sommaire des objets qui ne sont pas mis sous scellés ;
+
+6° L'indication des dispositions prises pour assurer la conservation des locaux et des biens et la sauvegarde des animaux
+domestiques ;
+
+7° La mention des formalités accomplies, s'il y a lieu, en application des articles 1310 à 1313 ;
+
+8° Le cas échéant, la désignation du gardien établi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1310 à 1313
+
+
+###### Article 1315
+
+S'il n'y a aucun effet mobilier, le greffier en chef dresse un procès-verbal de carence.
+
+S'il y a des effets nécessaires à l'usage des personnes qui restent dans les lieux, ou sur lesquels les scellés ne peuvent
+être mis, le greffier en dresse un état descriptif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+##### Paragraphe 2 : La levée des scellés.<a id=331></a>
+
+###### Article 1316
+
+La levée des scellés peut être requise par les personnes ayant qualité pour en demander l'apposition, et par le service des
+domaines lorsqu'il a été chargé de gérer la succession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1322 (V)
+
+
+###### Article 1317
+
+Le requérant présente au greffier en chef une liste des personnes qui doivent être appelées à la levée des scellés,
+comprenant celles qui avaient requis l'apposition, les successibles connus ou le service des domaines désigné pour gérer la
+succession, et le cas échéant, l'exécuteur testamentaire.
+
+Le greffier en chef fixe le jour et l'heure où il sera procédé à la levée des scellés.
+
+A moins que les personnes devant assister à la levée des scellés ne l'en aient expressément dispensé, le requérant les somme,
+par lettre recommandée avec demande d'avis de réception ou par acte d'huissier de justice, d'assister aux opérations de levée
+des scellés. Dans ce cas, il ne peut être procédé à ces opérations que s'il est justifié que les sommations ont été reçues
+huit jours avant la date fixée pour la levée des scellés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1318
+
+Le greffier en chef donne avis de la levée des scellés aux personnes qui par déclaration écrite et motivée au greffe ont
+demandé à y assister.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+###### Article 1319
+
+Les scellés peuvent être levés sans inventaire lorsque toutes les parties appelées sont présentes ou représentées et ne
+s'opposent pas à ce qu'il soit ainsi procédé.
+
+Dans le cas contraire, il est dressé un inventaire qui peut être établi même si certaines parties ne comparaissent pas, dès
+lors qu'elles ont été dûment appelées. Le conjoint commun en biens, les héritiers, l'exécuteur testamentaire et les
+légataires universels ou à titre universel peuvent convenir du choix d'un ou deux notaires, commissaires-priseurs ou experts.
+S'ils n'en conviennent pas, ou ne sont pas présents ni représentés, il est procédé par un ou deux notaires, commissaires-
+priseurs ou experts nommés par le juge du tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1320
+
+Le procès-verbal de levée des scellés est daté et signé par le greffier en chef. Il comprend :
+
+1° La mention de la demande de levée et de la décision du greffier en chef fixant le jour et l'heure de la levée ;
+
+2° Les nom et adresse du ou des requérants ;
+
+3° Les nom et adresse des parties présentes, représentées ou appelées ;
+
+4° La reconnaissance des scellés s'ils sont sains et entiers, ou s'ils ne le sont pas, l'état des altérations ;
+
+5° Les observations des requérants et des comparants et les suites qui, le cas échéant, leur ont été réservées ;
+
+6° L'indication du notaire qui procède à l'inventaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1321
+
+Les scellés sont levés successivement et au fur et à mesure de la confection de l'inventaire ; ils sont réapposés à la fin de
+chaque vacation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+###### Article 1322
+
+En cas de nécessité, le greffier en chef peut procéder à une levée provisoire des scellés, lesquels devront être ensuite
+réapposés aussitôt qu'aura été accomplie l'opération qui avait rendu cette levée nécessaire.
+
+Le greffier dresse procès-verbal de ses diligences.
+
+La levée provisoire suivie de réapposition immédiate n'est pas soumise aux dispositions des articles 1316 à 1321.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1324 (VD)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1316 à 1321
+
+
+##### Sous-section II : Autres mesures conservatoires.<a id=332></a>
+
+###### Article 1323
+
+Lorsqu'il apparaît que la consistance des biens ne justifie pas une apposition des scellés, le greffier en chef compétent
+pour celle-ci dresse un état descriptif du mobilier ; à défaut d'héritier présent, il assure la clôture des lieux si ceux-ci
+sont inoccupés et dépose les clés au greffe.
+
+Tout héritier peut obtenir la remise des clés en donnant décharge des meubles sur l'état descriptif, après en avoir reconnu
+la consistance en présence du greffier en chef. Dans les mêmes conditions, les clés peuvent être remises, sur permission du
+juge du tribunal d'instance, à un légataire universel ayant la saisine et la possession de la succession.
+
+Le service des domaines peut également demander la remise des clés, dans les cas où il a été désigné pour gérer la
+succession.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1324
+
+Un mois après le décès, lorsqu'il n'y a pas de successible connu et si le contrat de location a pris fin, le juge du tribunal
+d'instance peut autoriser le propriétaire des locaux sur lesquels ont été apposés des scellés ou dans lesquels a été dressé
+un état descriptif, à faire enlever les meubles et à les faire soit déposer dans un autre lieu, soit cantonner dans une
+partie du local qui était occupé par le défunt. Les frais d'enlèvement et de conservation des meubles sont avancés par le
+propriétaire.
+
+Le greffier en chef assiste au déplacement des meubles et dresse procès-verbal des opérations.
+
+Si des scellés avaient été apposés, il les lève puis les réappose sur les lieux dans lesquels le juge a autorisé le dépôt ou
+le cantonnement des meubles.
+
+Lorsqu'il avait été dressé un état descriptif, le greffier en chef assure la clôture des lieux où sont déposés ou cantonnés
+les meubles et il conserve les clés au greffe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Décret n°2012-783 du 30 mai 2012 (V)
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article 1325
+
+Les dispositions des articles 1307, 1308 et 1311 à 1313 sont applicables aux mesures conservatoires prévues à la présente
+sous-section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1324 (VD)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1307, 1308 et 1311 à 1313
+
+
+##### Sous-section III : Dispositions communes.<a id=333></a>
+
+###### Article 1326
+
+En cas d'empêchement, le greffier en chef peut donner délégation, pour toutes les mesures prévues à la présente section, à un
+greffier de son tribunal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+
+###### Article 1327
+
+S'il survient des difficultés relatives aux mesures prévues à la présente section, les parties ou le greffier en chef peuvent
+en saisir le juge du tribunal d'instance par simple requête.
+
+Si une contestation oppose les parties entre elles, le juge du tribunal d'instance est saisi en référé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
+
+_Abrogé par_:
+
+  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+
+
+## Titre IV : Les obligations et les contrats.<a id=334></a>
+
+### Chapitre I : Les procédures d'injonction<a id=335></a>
+
+#### Section I : L'injonction de payer.<a id=336></a>
 
 ###### Article 1405
 
@@ -24227,7 +24870,7 @@ _Cite_:
   - Nouveau code de procédure civile 1405
 
 
-### Chapitre II : Les offres de paiement et la consignation.<a id=330></a>
+### Chapitre II : Les offres de paiement et la consignation.<a id=337></a>
 
 ###### Article 1426
 
@@ -24328,7 +24971,7 @@ _Abrogé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 31
 
 
-### Chapitre III : La reconstitution d'actes détruits.<a id=331></a>
+### Chapitre III : La reconstitution d'actes détruits.<a id=338></a>
 
 ###### Article 1430
 
@@ -24408,7 +25051,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=332></a>
+### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=339></a>
 
 ###### Article 1435
 
@@ -24530,11 +25173,11 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-# Livre IV : L'arbitrage.<a id=333></a>
+# Livre IV : L'arbitrage.<a id=340></a>
 
-## Titre Ier : Les conventions d'arbitrage.<a id=334></a>
+## Titre Ier : Les conventions d'arbitrage.<a id=341></a>
 
-### Chapitre Ier : La clause compromissoire.<a id=335></a>
+### Chapitre Ier : La clause compromissoire.<a id=342></a>
 
 ###### Article 1442
 
@@ -24642,7 +25285,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre II : Le compromis.<a id=336></a>
+### Chapitre II : Le compromis.<a id=343></a>
 
 ###### Article 1447
 
@@ -24725,7 +25368,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre III : Règles communes.<a id=337></a>
+### Chapitre III : Règles communes.<a id=344></a>
 
 ###### Article 1451
 
@@ -24951,7 +25594,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre II : L'instance arbitrale.<a id=338></a>
+## Titre II : L'instance arbitrale.<a id=345></a>
 
 ###### Article 1460
 
@@ -25164,7 +25807,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre III : La sentence arbitrale.<a id=339></a>
+## Titre III : La sentence arbitrale.<a id=346></a>
 
 ###### Article 1469
 
@@ -25443,7 +26086,7 @@ _Cite_:
   - Nouveau code de procédure civile 1471, 1472, 1473
 
 
-## Titre IV : Les voies de recours.<a id=340></a>
+## Titre IV : Les voies de recours.<a id=347></a>
 
 ###### Article 1481
 
@@ -25710,7 +26353,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre V : L'arbitrage international.<a id=341></a>
+## Titre V : L'arbitrage international.<a id=348></a>
 
 ###### Article 1492
 
@@ -25823,9 +26466,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=342></a>
+## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=349></a>
 
-### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=343></a>
+### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=350></a>
 
 ###### Article 1498
 
@@ -25883,7 +26526,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=344></a>
+### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=351></a>
 
 ###### Article 1501
 
@@ -26030,9 +26673,9 @@ _Cite_:
   - Nouveau code de procédure civile 1487 et 1490
 
 
-# Annexes<a id=345></a>
+# Annexes<a id=352></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=346></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=353></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -26046,9 +26689,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=347></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=354></a>
 
-#### Section I : Dispositions communes.<a id=348></a>
+#### Section I : Dispositions communes.<a id=355></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -26217,9 +26860,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=349></a>
+#### Section II : Dispositions propres à certaines matières.<a id=356></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=350></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=357></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -26372,7 +27015,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=351></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=358></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -26421,7 +27064,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (VD)
 
 
-##### Sous-section III : Affaires de registres.<a id=352></a>
+##### Sous-section III : Affaires de registres.<a id=359></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -26529,7 +27172,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=353></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=360></a>
 
 ###### Article ANNEXE, 31
 
@@ -26637,7 +27280,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=354></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=361></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -26697,7 +27340,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=355></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=362></a>
 
 ###### Article ANNEXE, 42
 
@@ -26720,7 +27363,7 @@ _Modifié par_:
   - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
-### Chapitre VII : Dispositions diverses.<a id=356></a>
+### Chapitre VII : Dispositions diverses.<a id=363></a>
 
 ###### Article ANNEXE, 46
 
