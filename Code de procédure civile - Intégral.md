@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-12-23
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -23719,10 +23719,10 @@ _Créé par_:
 Le tribunal vérifie si les conditions légales de l'adoption sont remplies dans un délai de six mois à compter soit du dépôt
 de la requête, soit de sa transmission dans le cas prévu au second alinéa de l'article 1168. S'il y a lieu, il fait procéder
 à une enquête par toute personne qualifiée. Il peut commettre un médecin aux fins de procéder à tout examen qui lui
-paraîtrait nécessaire.
+paraîtrait nécessaire. 
 
-Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues à l'article 81 du code de
-la famille et de l'aide sociale.
+Il peut recueillir les renseignements relatifs à un pupille de l'Etat dans les conditions prévues aux articles L. 221-7 et L.
+221-8 du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -23732,7 +23732,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°93-1091 du 16 septembre 1993 - art. 16 () JORF 17 septembre 1993
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cité par_:
 
@@ -23743,8 +23743,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la famille et de l'aide sociale L81
-  - Nouveau code de procédure civile 1168
+  - Code de procédure civile - art. 1168 (V)
+  - Code de l'action sociale et des familles - art. L221-7 (V)
 
 
 ###### Article 1173
@@ -25350,8 +25350,9 @@ _Cite_:
 
 ###### Article 1231-2
 
-La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu à l'article 61 du Code de la
-famille et de l'aide sociale est portée devant le tribunal de grande instance dans le ressort duquel l'arrêté a été pris.
+La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu aux  articles L. 224-4 et L.
+224-8 du code de l'action sociale et des familles est portée devant le tribunal de grande instance dans le ressort duquel
+l'arrêté a été pris.
 
 Les articles 1159, 1160, 1161 (alinéa 1), et 1162 sont applicables à la demande et à l'instance.
 
@@ -25366,13 +25367,18 @@ _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-1330 1985-12-17 art. 20 JORF 18 décembre 1985 en vigueur le 1er janvier 1986
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Abrogé par_:
+
+  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
 
 _Cite_:
 
-  - Code de la famille et de l'aide sociale. - art. 61 (M)
+  - Code de l'action sociale et des familles - art. L224-4
+  - Code de l'action sociale et des familles - art. L224-8
   - Nouveau code de procédure civile 1159, 1160, 1161, 1162 et 1163
 
 
