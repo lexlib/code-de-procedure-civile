@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1979-11-09
+Version Consolidée au 1980-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -85,7 +85,7 @@ Version Consolidée au 1979-11-09
             - [Sous-section II : Incident soulevé devant les autres juridictions. (art. 313)](#82)
           - [Section II : L'inscription de faux principale. (art. 314 à 316)](#83)
       - [Sous-titre IV : Le serment judiciaire. (art. 317 à 322)](#84)
-    - [Titre VIII : La pluralité des parties. (art. 323)](#85)
+    - [Titre VIII : La pluralité des parties. (art. 323 à 324)](#85)
     - [Titre IX : L'intervention. (art. 325 à 338)](#86)
       - [Chapitre Ier : L'intervention volontaire. (art. 328 à 330)](#87)
       - [Chapitre II : L'intervention forcée. (art. 331 à 338)](#88)
@@ -102,7 +102,7 @@ Version Consolidée au 1979-11-09
       - [Chapitre Ier : Les jonction et disjonction d'instances. (art. 367 à 368)](#99)
       - [Chapitre II : L'interruption de l'instance. (art. 369 à 376)](#100)
       - [Chapitre III : La suspension de l'instance. (art. 377 à 382)](#101)
-        - [Section I : Le sursis à statuer. (art. 378 à 380)](#102)
+        - [Section I : Le sursis à statuer. (art. 378 à 380-1)](#102)
         - [Section II : La radiation. (art. 381 à 382)](#103)
       - [Chapitre IV : L'extinction de l'instance. (art. 384 à 410)](#104)
         - [Section I : La péremption d'instance. (art. 386 à 393)](#105)
@@ -135,7 +135,7 @@ Version Consolidée au 1979-11-09
       - [Chapitre Ier : Conditions générales de l'exécution. (art. 502 à 509)](#132)
       - [Chapitre II : Le délai de grâce. (art. 510 à 513)](#133)
       - [Chapitre III : L'exécution provisoire. (art. 515 à 523)](#134)
-    - [Titre XVI : Les voies de recours. (art. 527 à 603)](#135)
+    - [Titre XVI : Les voies de recours. (art. 527 à 639)](#135)
       - [Sous-titre Ier : Dispositions communes. (art. 528 à 537)](#136)
       - [Sous-titre II : Les voies ordinaires de recours. (art. 538 à 578)](#137)
         - [Chapitre Ier : L'appel. (art. 542 à 570)](#138)
@@ -148,107 +148,119 @@ Version Consolidée au 1979-11-09
             - [Sous-section II : L'évocation. (art. 568)](#145)
           - [Section III : Dispositions finales. (art. 569 à 570)](#146)
         - [Chapitre II : L'opposition. (art. 571 à 578)](#147)
-      - [Sous-titre III : Les voies extraordinaires de recours. (art. 579 à 603)](#148)
+      - [Sous-titre III : Les voies extraordinaires de recours. (art. 579 à 639)](#148)
         - [Chapitre Ier : La tierce opposition. (art. 582 à 592)](#149)
         - [Chapitre II : Le recours en révision. (art. 593 à 603)](#150)
-    - [Titre XVII : Délais, actes d'huissier de justice et notifications. (art. 640 à 694)](#151)
-      - [Chapitre Ier : La computation des délais. (art. 640 à 647)](#152)
-      - [Chapitre II : La forme des actes d'huissier de justice. (art. 648 à 650)](#153)
-      - [Chapitre III : La forme des notifications. (art. 651 à 694)](#154)
-        - [Section I : La signification. (art. 653 à 664)](#155)
-        - [Section II : La notification des actes en la forme ordinaire. (art. 665 à 670-2)](#156)
-        - [Section III : Les notifications entre avocats. (art. 671 à 674)](#157)
-        - [Section IV : Règles particulières à la notification des jugements. (art. 675 à 682)](#158)
-        - [Section V : Règles particulières aux notifications internationales. (art. 683 à 688-8)](#159)
-          - [Sous-section I : Notification des actes à l'étranger. (art. 683 à 688)](#160)
-          - [Sous-section II : Notification des actes en provenance de l'étranger. (art. 688-1 à 688-8)](#161)
-        - [Section VI : Le lieu des notifications. (art. 689 à 691)](#162)
-        - [Section VII : Dispositions diverses. (art. 692 à 694)](#163)
-    - [Titre XVIII : Les frais et les dépens. (art. 695 à 718)](#164)
-      - [Chapitre Ier : La charge des dépens. (art. 695 à 700)](#165)
-      - [Chapitre II : La liquidation des dépens à recouvrer par le secrétariat. (art. 701 à 703)](#166)
-      - [Chapitre III : La vérification et le recouvrement des dépens. (art. 705 à 718)](#167)
-    - [Titre XIX : Le secrétariat de la juridiction. (art. 726 à 728)](#168)
-    - [Titre XX : Les commissions rogatoires. (art. 730 à 748)](#169)
-      - [Chapitre Ier : Les commissions rogatoires internes. (art. 730 à 732)](#170)
-      - [Chapitre II : Les commissions rogatoires internationales. (art. 733 à 748)](#171)
-        - [Section I : Commissions rogatoires à destination d'un Etat étranger. (art. 733 à 735)](#172)
-        - [Section II : Commissions rogatoires en provenance d'un Etat étranger. (art. 736 à 748)](#173)
-    - [Titre XXI : Disposition finale. (art. 749)](#174)
-  - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 1008)](#175)
-    - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art. 750 à 820)](#176)
-      - [Sous-titre Ier : La procédure devant le tribunal. (art. 750 à 807)](#177)
-        - [Chapitre Ier : La procédure en matière contentieuse. (art. 750 à 796)](#178)
-          - [Section I : La procédure ordinaire (art. 755 à 787)](#179)
-            - [Sous-section I : Saisine du tribunal. (art. 755 à 759)](#180)
-            - [Sous-section II : Renvoi à l'audience. (art. 760 à 762)](#181)
-            - [Sous-section III : Instruction devant le juge de la mise en état. (art. 763 à 781)](#182)
-            - [Sous-section IV : Dispositions communes. (art. 782 à 787)](#183)
-          - [Section II : Procédure à jour fixe. (art. 788 à 792)](#184)
-          - [Section III : La requête conjointe. (art. 793 à 796)](#185)
-        - [Chapitre II : Procédure en matière gracieuse. (art. 797 à 800)](#186)
-        - [Chapitre III : Le juge unique. (art. 801 à 805)](#187)
-        - [Chapitre IV : Dispositions diverses. (art. 807)](#188)
-      - [Sous-titre II : Les pouvoirs du président. (art. 808 à 813)](#189)
-        - [Chapitre Ier : Les ordonnances de référé. (art. 808 à 811)](#190)
-        - [Chapitre II : Les ordonnances sur requête. (art. 812 à 813)](#191)
-      - [Sous-titre III : Dispositions diverses. (art. 814 à 820)](#192)
-        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 814 à 816)](#193)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 817 à 820)](#194)
-    - [Titre II : Dispositions particulières au tribunal d'instance. (art. 827 à 852)](#195)
-      - [Sous-titre I : La procédure ordinaire. (art. 830 à 847)](#196)
-        - [Chapitre I : La tentative préalable de conciliation. (art. 830 à 835)](#197)
-        - [Chapitre II : La procédure sur assignation à toutes fins. (art. 836 à 844)](#198)
-        - [Chapitre III : La requête conjointe et la présentation volontaire des parties. (art. 845 à 847)](#199)
-      - [Sous-titre II : Les ordonnances de référé. (art. 848 à 850)](#200)
-      - [Sous-titre III : Les ordonnances sur requête. (art. 851 à 852)](#201)
-    - [Titre III : Dispositions particulières au tribunal de commerce. (art. 853 à 878)](#202)
-      - [Chapitre Ier : La procédure devant le tribunal de commerce. (art. 854 à 871)](#203)
-        - [Section I : L'introduction de l'instance. (art. 854 à 860)](#204)
-          - [Sous-section I : L'assignation. (art. 855 à 858)](#205)
-          - [Sous-section II : La requête conjointe et la présentation volontaire des parties. (art. 859 à 860)](#206)
-        - [Section II : L'instance. (art. 861 à 871)](#207)
-          - [Sous-section I : Le juge rapporteur. (art. 862 à 869)](#208)
-          - [Sous-section II : Dispositions générales. (art. 870 à 871)](#209)
-      - [Chapitre II : Les pouvoirs du président. (art. 872 à 876)](#210)
-        - [Section I : Les ordonnances de référé. (art. 872)](#211)
-        - [Section II : Les ordonnances sur requête. (art. 874 à 876)](#212)
-      - [Chapitre III : Dispositions diverses. (art. 877 à 878)](#213)
-    - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898)](#214)
-      - [Chapitre Ier : La procédure ordinaire. (art. 880 à 891)](#215)
-      - [Chapitre II : Les ordonnances de référé. (art. 893 à 896)](#216)
-      - [Chapitre III : Les ordonnances sur requête. (art. 897 à 898)](#217)
-    - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 969)](#218)
-      - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 953)](#219)
-        - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#220)
-          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930)](#221)
-            - [Sous-section I : La procédure ordinaire. (art. 901 à 914)](#222)
-            - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#223)
-            - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#224)
-          - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#225)
-        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#226)
-      - [Sous-titre II : Les pouvoirs du premier président. (art. 956 à 959)](#227)
-        - [Chapitre Ier : Les ordonnances de référé. (art. 956 à 957)](#228)
-        - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#229)
-      - [Sous-titre III : Dispositions diverses. (art. 960 à 969)](#230)
-        - [Chapitre Ier : Constitution d'avoué et conclusions. (art. 960 à 962)](#231)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 963 à 965)](#232)
-        - [Chapitre III : Le secrétariat-greffe. (art. 969)](#233)
-    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 995 à 1008)](#234)
-      - [Chapitre II : La procédure sans représentation obligatoire. (art. 995)](#235)
-      - [Chapitre III : La procédure en matière électorale. (art. 1008)](#236)
-        - [Section II : Les élections professionnelles. (art. 1008)](#237)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#238)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#239)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#240)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#241)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 12 à ANNEXE, art. 30)](#242)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 12 à ANNEXE, art. 20)](#243)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#244)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#245)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#246)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#247)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 44 à ANNEXE, art. 45)](#248)
+        - [Chapitre III : Le pourvoi en cassation. (art. 604 à 639)](#151)
+          - [Section I : L'ouverture du pourvoi en cassation. (art. 605 à 618)](#152)
+          - [Section II : Les effets du pourvoi en cassation. (art. 619 à 639)](#153)
+    - [Titre XVII : Délais, actes d'huissier de justice et notifications. (art. 640 à 694)](#154)
+      - [Chapitre Ier : La computation des délais. (art. 640 à 647)](#155)
+      - [Chapitre II : La forme des actes d'huissier de justice. (art. 648 à 650)](#156)
+      - [Chapitre III : La forme des notifications. (art. 651 à 694)](#157)
+        - [Section I : La signification. (art. 653 à 664)](#158)
+        - [Section II : La notification des actes en la forme ordinaire. (art. 665 à 670-2)](#159)
+        - [Section III : Les notifications entre avocats. (art. 671 à 674)](#160)
+        - [Section IV : Règles particulières à la notification des jugements. (art. 675 à 682)](#161)
+        - [Section V : Règles particulières aux notifications internationales. (art. 683 à 688-8)](#162)
+          - [Sous-section I : Notification des actes à l'étranger. (art. 683 à 688)](#163)
+          - [Sous-section II : Notification des actes en provenance de l'étranger. (art. 688-1 à 688-8)](#164)
+        - [Section VI : Le lieu des notifications. (art. 689 à 691)](#165)
+        - [Section VII : Dispositions diverses. (art. 692 à 694)](#166)
+    - [Titre XVIII : Les frais et les dépens. (art. 695 à 718)](#167)
+      - [Chapitre Ier : La charge des dépens. (art. 695 à 700)](#168)
+      - [Chapitre II : La liquidation des dépens à recouvrer par le secrétariat. (art. 701 à 703)](#169)
+      - [Chapitre III : La vérification et le recouvrement des dépens. (art. 705 à 718)](#170)
+    - [Titre XIX : Le secrétariat de la juridiction. (art. 726 à 729)](#171)
+    - [Titre XX : Les commissions rogatoires. (art. 730 à 748)](#172)
+      - [Chapitre Ier : Les commissions rogatoires internes. (art. 730 à 732)](#173)
+      - [Chapitre II : Les commissions rogatoires internationales. (art. 733 à 748)](#174)
+        - [Section I : Commissions rogatoires à destination d'un Etat étranger. (art. 733 à 735)](#175)
+        - [Section II : Commissions rogatoires en provenance d'un Etat étranger. (art. 736 à 748)](#176)
+    - [Titre XXI : Disposition finale. (art. 749)](#177)
+  - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 1037)](#178)
+    - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art. 750 à 820)](#179)
+      - [Sous-titre Ier : La procédure devant le tribunal. (art. 750 à 807)](#180)
+        - [Chapitre Ier : La procédure en matière contentieuse. (art. 750 à 796)](#181)
+          - [Section I : La procédure ordinaire (art. 755 à 787)](#182)
+            - [Sous-section I : Saisine du tribunal. (art. 755 à 759)](#183)
+            - [Sous-section II : Renvoi à l'audience. (art. 760 à 762)](#184)
+            - [Sous-section III : Instruction devant le juge de la mise en état. (art. 763 à 781)](#185)
+            - [Sous-section IV : Dispositions communes. (art. 782 à 787)](#186)
+          - [Section II : Procédure à jour fixe. (art. 788 à 792)](#187)
+          - [Section III : La requête conjointe. (art. 793 à 796)](#188)
+        - [Chapitre II : Procédure en matière gracieuse. (art. 797 à 800)](#189)
+        - [Chapitre III : Le juge unique. (art. 801 à 805)](#190)
+        - [Chapitre IV : Dispositions diverses. (art. 807)](#191)
+      - [Sous-titre II : Les pouvoirs du président. (art. 808 à 813)](#192)
+        - [Chapitre Ier : Les ordonnances de référé. (art. 808 à 811)](#193)
+        - [Chapitre II : Les ordonnances sur requête. (art. 812 à 813)](#194)
+      - [Sous-titre III : Dispositions diverses. (art. 814 à 820)](#195)
+        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 814 à 816)](#196)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 817 à 820)](#197)
+    - [Titre II : Dispositions particulières au tribunal d'instance. (art. 827 à 852)](#198)
+      - [Sous-titre I : La procédure ordinaire. (art. 830 à 847)](#199)
+        - [Chapitre I : La tentative préalable de conciliation. (art. 830 à 835)](#200)
+        - [Chapitre II : La procédure sur assignation à toutes fins. (art. 836 à 844)](#201)
+        - [Chapitre III : La requête conjointe et la présentation volontaire des parties. (art. 845 à 847)](#202)
+      - [Sous-titre II : Les ordonnances de référé. (art. 848 à 850)](#203)
+      - [Sous-titre III : Les ordonnances sur requête. (art. 851 à 852)](#204)
+    - [Titre III : Dispositions particulières au tribunal de commerce. (art. 853 à 878)](#205)
+      - [Chapitre Ier : La procédure devant le tribunal de commerce. (art. 854 à 871)](#206)
+        - [Section I : L'introduction de l'instance. (art. 854 à 860)](#207)
+          - [Sous-section I : L'assignation. (art. 855 à 858)](#208)
+          - [Sous-section II : La requête conjointe et la présentation volontaire des parties. (art. 859 à 860)](#209)
+        - [Section II : L'instance. (art. 861 à 871)](#210)
+          - [Sous-section I : Le juge rapporteur. (art. 862 à 869)](#211)
+          - [Sous-section II : Dispositions générales. (art. 870 à 871)](#212)
+      - [Chapitre II : Les pouvoirs du président. (art. 872 à 876)](#213)
+        - [Section I : Les ordonnances de référé. (art. 872)](#214)
+        - [Section II : Les ordonnances sur requête. (art. 874 à 876)](#215)
+      - [Chapitre III : Dispositions diverses. (art. 877 à 878)](#216)
+    - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898)](#217)
+      - [Chapitre Ier : La procédure ordinaire. (art. 880 à 891)](#218)
+      - [Chapitre II : Les ordonnances de référé. (art. 893 à 896)](#219)
+      - [Chapitre III : Les ordonnances sur requête. (art. 897 à 898)](#220)
+    - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 969)](#221)
+      - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-2)](#222)
+        - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#223)
+          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930)](#224)
+            - [Sous-section I : La procédure ordinaire. (art. 901 à 914)](#225)
+            - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#226)
+            - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#227)
+          - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#228)
+        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#229)
+        - [Chapitre III : Dispositions communes. (art. 955 à 955-2)](#230)
+      - [Sous-titre II : Les pouvoirs du premier président. (art. 956 à 959)](#231)
+        - [Chapitre Ier : Les ordonnances de référé. (art. 956 à 957)](#232)
+        - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#233)
+      - [Sous-titre III : Dispositions diverses. (art. 960 à 969)](#234)
+        - [Chapitre Ier : Constitution d'avoué et conclusions. (art. 960 à 962)](#235)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 963 à 965)](#236)
+        - [Chapitre III : Le secrétariat-greffe. (art. 969)](#237)
+    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031)](#238)
+      - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#239)
+      - [Chapitre II : La procédure sans représentation obligatoire. (art. 983 à 995)](#240)
+      - [Chapitre III : La procédure en matière électorale. (art. 999 à 1008)](#241)
+        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#242)
+      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022)](#243)
+      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#244)
+        - [Section I : Augmentation des délais. (art. 1023)](#245)
+        - [Section II : Le désistement. (art. 1024 à 1026)](#246)
+        - [Section III : La récusation. (art. 1027)](#247)
+        - [Section IV : La demande en faux. (art. 1028 à 1031)](#248)
+    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037)](#249)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#250)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#251)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#252)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#253)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 12 à ANNEXE, art. 30)](#254)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 12 à ANNEXE, art. 20)](#255)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#256)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#257)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#258)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#259)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 44 à ANNEXE, art. 45)](#260)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -2237,6 +2249,25 @@ l'irrecevabilité ne résulterait d'aucune disposition expresse.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 125
+
+Les fins de non-recevoir doivent être relevées d'office lorsqu'elles ont un caractère d'ordre public, notamment lorsqu'elles
+résultent de l'inobservation des délais dans lesquels doivent être exercées les voies de recours ou de l'absence d'ouverture
+d'une voie de recours.
+
+Le juge peut relever d'office la fin de non-recevoir tirée du défaut d'intérêt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 5 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
 ###### Article 126
@@ -5085,6 +5116,26 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 324
+
+Les actes accomplis par ou contre l'un des cointéressés ne profitent ni ne nuisent aux autres, sous réserve de ce qui est dit
+aux articles 474, 475, 529, 552, 553 et 615.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 6 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 474, 475, 529, 552, 553 et 615
+
+
 ## Titre IX : L'intervention.<a id=86></a>
 
 ###### Article 325
@@ -5910,6 +5961,22 @@ _Cite_:
   - Nouveau code de procédure civile 948
 
 
+###### Article 380-1
+
+La décision de sursis rendue en dernier ressort peut être attaquée par la voie du pourvoi en cassation, mais seulement pour
+violation de la règle de droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°79-941 1979-11-07 art. 7 et 16 JORF 9 décembre 1979 en vigueur le 1 janvier 1980
+
+
 #### Section II : La radiation.<a id=103></a>
 
 ###### Article 381
@@ -6266,6 +6333,24 @@ Il n'est admis que pour les droits dont la partie a la libre disposition.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 409
+
+L'acquiescement au jugement emporte soumission aux chefs de celui-ci et renonciation aux voies de recours sauf si,
+postérieurement, une autre partie forme régulièrement un recours.
+
+Il est toujours admis, sauf disposition contraire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 8 et 16 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
 ###### Article 410
@@ -8965,9 +9050,592 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XVII : Délais, actes d'huissier de justice et notifications.<a id=151></a>
+#### Chapitre III : Le pourvoi en cassation.<a id=151></a>
 
-### Chapitre Ier : La computation des délais.<a id=152></a>
+###### Article 604
+
+Le pourvoi en cassation tend à faire censurer par la Cour de cassation la non-conformité du jugement qu'il attaque aux règles
+de droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+##### Section I : L'ouverture du pourvoi en cassation.<a id=152></a>
+
+###### Article 605
+
+Le pourvoi en cassation n'est ouvert qu'à l'encontre de jugements rendus en dernier ressort.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 606
+
+Les jugements en dernier ressort qui tranchent dans leur dispositif une partie du principal et ordonnent une mesure
+d'instruction ou une mesure provisoire peuvent être frappés de pourvoi en cassation comme les jugements qui tranchent en
+dernier ressort tout le principal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 607
+
+Peuvent également être frappés de pourvoi en cassation les jugements en dernier ressort qui, statuant sur une exception de
+procédure, une fin de non-recevoir ou tout autre incident, mettent fin à l'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 608
+
+Les autres jugements en dernier ressort ne peuvent être frappés de pourvoi en cassation indépendamment des jugements sur le
+fond que dans les cas spécifiés par la loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 609
+
+Toute partie qui y a intérêt est recevable à se pourvoir en cassation même si la disposition qui lui est défavorable ne
+profite pas à son adversaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 610
+
+En matière gracieuse, le pourvoi est recevable même en l'absence d'adversaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 611
+
+En matière contentieuse, le pourvoi est recevable même lorsqu'une condamnation a été prononcée au profit ou à l'encontre
+d'une personne qui n'était pas partie à l'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 612
+
+Le délai de pourvoi en cassation est de deux mois, sauf disposition contraire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+_Cité par_:
+
+  - Décret n°2012-373 du 16 mars 2012 - art. 22 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R12-5 (VT)
+  - Code de commerce - art. R823-20 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-8 (V)
+
+
+###### Article 613
+
+Le délai court, à l'égard des décisions par défaut, à compter du jour où l'opposition n'est plus recevable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 614
+
+La recevabilité du pourvoi incident, même provoqué, obéit aux règles qui gouvernent celle de l'appel incident, sous réserve
+des dispositions de l'article 1010.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1010
+
+
+###### Article 615
+
+En cas d'indivisibilité à l'égard de plusieurs parties le pourvoi de l'une produit effet à l'égard des autres même si celles-
+ci ne sont pas jointes à l'instance de cassation.
+
+Dans le même cas, le pourvoi formé contre l'une n'est recevable que si toutes sont appelées à l'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 324 (V)
+
+
+###### Article 616
+
+Lorsque le jugement peut être rectifié en vertu des articles 463 et 464, le pourvoi en cassation n'est ouvert, dans les cas
+prévus par ces articles, qu'à l'encontre du jugement statuant sur la rectification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 463, 464
+
+
+###### Article 617
+
+La contrariété de jugements peut être invoquée lorsque la fin de non-recevoir tirée de l'autorité de la chose jugée a en vain
+été opposée devant les juges du fond.
+
+En ce cas, le pourvoi en cassation est dirigé contre le jugement second en date ; lorsque la contrariété est constatée, elle
+se résout au profit du premier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 618
+
+La contrariété de jugements peut aussi, par dérogation aux dispositions de l'article 605, être invoquée lorsque deux
+décisions, même non rendues en dernier ressort, sont inconciliables et qu'aucune d'elles n'est susceptible d'un recours
+ordinaire ; le pourvoi en cassation est alors recevable, même si l'une des décisions avait déjà été frappée d'un pourvoi en
+cassation et que celui-ci avait été rejeté.
+
+En ce cas, le pourvoi peut être formé même après l'expiration du délai prévu à l'article 612. Il doit être dirigé contre les
+deux décisions ; lorsque la contrariété est constatée, la Cour de cassation annule l'une des décisions ou, s'il y a lieu, les
+deux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 605, 612
+
+
+##### Section II : Les effets du pourvoi en cassation.<a id=153></a>
+
+###### Article 619
+
+Les moyens nouveaux ne sont pas recevables devant la Cour de cassation.
+
+Peuvent néanmoins être invoqués pour la première fois, sauf disposition contraire :
+
+1° Les moyens de pur droit ;
+
+2° Les moyens nés de la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 620
+
+La Cour de cassation peut rejeter le pourvoi en substituant un motif de pur droit à un motif erroné ; elle le peut également
+en faisant abstraction d'un motif de droit erroné mais surabondant.
+
+Elle peut, sauf disposition contraire, casser la décision attaquée en relevant d'office un moyen de pur droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 622
+
+Les arrêts rendus par la Cour de cassation ne sont pas susceptibles d'opposition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 623
+
+La cassation peut être totale ou partielle. Elle est partielle lorsqu'elle n'atteint que certains chefs dissociables des
+autres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 624
+
+La censure qui s'attache à un arrêt de cassation est limitée à la portée du moyen qui constitue la base de la cassation, sauf
+le cas d'indivisibilité ou de dépendance nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 625
+
+Sur les points qu'elle atteint, la cassation replace les parties dans l'état où elles se trouvaient avant le jugement cassé.
+
+Elle entraîne, sans qu'il y ait lieu à une nouvelle décision, l'annulation par voie de conséquence de toute décision qui est
+la suite, l'application ou l'exécution du jugement cassé ou qui s'y rattache par un lien de dépendance nécessaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 626
+
+Ainsi qu'il est dit à l'article L. 131-4 du code de l'organisation judiciaire : "En cas de cassation l'affaire est renvoyée,
+sauf disposition contraire, devant une autre juridiction de même nature que celle dont émane l'arrêt ou le jugement cassé ou
+devant la même juridiction composée d'autres magistrats."
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 627
+
+Ainsi qu'il est dit à l'article L. 131-5 du code de l'organisation judiciaire : " La Cour de cassation peut casser sans
+renvoi lorsque la cassation n'implique pas qu'il soit à nouveau statué sur le fond. 
+
+" Elle peut aussi, en cassant sans renvoi, mettre fin au litige lorsque les faits, tels qu'ils ont été souverainement
+constatés et appréciés par les juges du fond, lui permettent d'appliquer la règle de droit appropriée. 
+
+" En ces cas, elle se prononce sur la charge des dépens afférents aux instances devant les juges du fond. 
+
+" L'arrêt emporte exécution forcée ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: CODE DE L'ORGANISATION JUDICIAIRE. - art. L131-5 (Ab)
+
+
+###### Article 630
+
+L'arrêt emporte exécution forcée pour le paiement de l'amende, de l'indemnité et des dépens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 631
+
+Devant la juridiction de renvoi, l'instruction est reprise en l'état de la procédure non atteinte par la cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 632
+
+Les parties peuvent invoquer de nouveaux moyens à l'appui de leurs prétentions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 633
+
+La recevabilité des prétentions nouvelles est soumise aux règles qui s'appliquent devant la juridiction dont la décision a
+été cassée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 634
+
+Les parties qui ne formulent pas de moyens nouveaux ou de nouvelles prétentions sont réputées s'en tenir aux moyens et
+prétentions qu'elles avaient soumis à la juridiction dont la décision a été cassée. Il en est de même de celles qui ne
+comparaissent pas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 635
+
+L'intervention des tiers est soumise aux mêmes règles que celles qui s'appliquent devant la juridiction dont la décision a
+été cassée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 636
+
+Les personnes qui, ayant été parties à l'instance devant la juridiction dont la décision a été cassée, ne l'ont pas été
+devant la Cour de cassation peuvent être appelées à la nouvelle instance ou y intervenir volontairement, lorsque la cassation
+porte atteinte à leurs droits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 637
+
+Ces personnes peuvent, sous la même condition, prendre l'initiative de saisir elles-mêmes la juridiction de renvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 638
+
+L'affaire est à nouveau jugée en fait et en droit par la juridiction de renvoi à l'exclusion des chefs non atteints par la
+cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 639
+
+La juridiction de renvoi statue sur la charge de tous les dépens exposés devant les juridictions du fond y compris sur ceux
+afférents à la décision cassée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+## Titre XVII : Délais, actes d'huissier de justice et notifications.<a id=154></a>
+
+### Chapitre Ier : La computation des délais.<a id=155></a>
 
 ###### Article 640
 
@@ -9234,7 +9902,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : La forme des actes d'huissier de justice.<a id=153></a>
+### Chapitre II : La forme des actes d'huissier de justice.<a id=156></a>
 
 ###### Article 648
 
@@ -9289,7 +9957,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : La forme des notifications.<a id=154></a>
+### Chapitre III : La forme des notifications.<a id=157></a>
 
 ###### Article 651
 
@@ -9325,7 +9993,7 @@ _Cité par_:
   - Code de procédure civile - art. 1138 (V)
 
 
-#### Section I : La signification.<a id=155></a>
+#### Section I : La signification.<a id=158></a>
 
 ###### Article 653
 
@@ -9513,7 +10181,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : La notification des actes en la forme ordinaire.<a id=156></a>
+#### Section II : La notification des actes en la forme ordinaire.<a id=159></a>
 
 ###### Article 665
 
@@ -9646,7 +10314,7 @@ _Créé par_:
   - Décret n°76-1236 1976-12-28 art. 12 JORF 30 décembre 1976
 
 
-#### Section III : Les notifications entre avocats.<a id=157></a>
+#### Section III : Les notifications entre avocats.<a id=160></a>
 
 ###### Article 671
 
@@ -9714,7 +10382,7 @@ _Abrogé par_:
   - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 
-#### Section IV : Règles particulières à la notification des jugements.<a id=158></a>
+#### Section IV : Règles particulières à la notification des jugements.<a id=161></a>
 
 ###### Article 675
 
@@ -9819,9 +10487,9 @@ _Cité par_:
   - Code de procédure civile - art. 689-1 (V)
 
 
-#### Section V : Règles particulières aux notifications internationales.<a id=159></a>
+#### Section V : Règles particulières aux notifications internationales.<a id=162></a>
 
-##### Sous-section I : Notification des actes à l'étranger.<a id=160></a>
+##### Sous-section I : Notification des actes à l'étranger.<a id=163></a>
 
 ###### Article 683
 
@@ -9936,7 +10604,7 @@ _Cité par_:
   - Code de procédure civile - art. 693 (V)
 
 
-##### Sous-section II : Notification des actes en provenance de l'étranger.<a id=161></a>
+##### Sous-section II : Notification des actes en provenance de l'étranger.<a id=164></a>
 
 ###### Article 688-1
 
@@ -10076,7 +10744,7 @@ _Créé par_:
   - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
 
 
-#### Section VI : Le lieu des notifications.<a id=162></a>
+#### Section VI : Le lieu des notifications.<a id=165></a>
 
 ###### Article 689
 
@@ -10132,7 +10800,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
 
 
-#### Section VII : Dispositions diverses.<a id=163></a>
+#### Section VII : Dispositions diverses.<a id=166></a>
 
 ###### Article 692
 
@@ -10157,9 +10825,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XVIII : Les frais et les dépens.<a id=164></a>
+## Titre XVIII : Les frais et les dépens.<a id=167></a>
 
-### Chapitre Ier : La charge des dépens.<a id=165></a>
+### Chapitre Ier : La charge des dépens.<a id=168></a>
 
 ###### Article 695
 
@@ -10292,7 +10960,7 @@ _Modifié par_:
   - Décret n°76-714 1976-07-29 art. 5 JORF 30 juillet 1976
 
 
-### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.<a id=166></a>
+### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.<a id=169></a>
 
 ###### Article 701
 
@@ -10347,7 +11015,7 @@ _Cite_:
   - Nouveau code de procédure civile 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718
 
 
-### Chapitre III : La vérification et le recouvrement des dépens.<a id=167></a>
+### Chapitre III : La vérification et le recouvrement des dépens.<a id=170></a>
 
 ###### Article 705
 
@@ -10498,7 +11166,7 @@ _Modifié par_:
   - Décret n°76-1236 1976-12-28 art. 17 JORF 30 décembre 1976
 
 
-## Titre XIX : Le secrétariat de la juridiction.<a id=168></a>
+## Titre XIX : Le secrétariat de la juridiction.<a id=171></a>
 
 ###### Article 726
 
@@ -10563,9 +11231,27 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XX : Les commissions rogatoires.<a id=169></a>
+###### Article 729
 
-### Chapitre Ier : Les commissions rogatoires internes.<a id=170></a>
+En cas de recours ou de renvoi après cassation, le secrétaire adresse le dossier à la juridiction compétente, soit dans les
+quinze jours de la demande qui lui en est faite, soit dans les délais prévus par des dispositions particulières.
+
+Le secrétaire établit, s'il y a lieu, copie des pièces nécessaires à la poursuite de l'instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 9 et 16 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+## Titre XX : Les commissions rogatoires.<a id=172></a>
+
+### Chapitre Ier : Les commissions rogatoires internes.<a id=173></a>
 
 ###### Article 730
 
@@ -10613,9 +11299,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Les commissions rogatoires internationales.<a id=171></a>
+### Chapitre II : Les commissions rogatoires internationales.<a id=174></a>
 
-#### Section I : Commissions rogatoires à destination d'un Etat étranger.<a id=172></a>
+#### Section I : Commissions rogatoires à destination d'un Etat étranger.<a id=175></a>
 
 ###### Article 733
 
@@ -10670,7 +11356,7 @@ _Nouveaux textes_:
   - Code de procédure civile - art. 734-2 (V)
 
 
-#### Section II : Commissions rogatoires en provenance d'un Etat étranger.<a id=173></a>
+#### Section II : Commissions rogatoires en provenance d'un Etat étranger.<a id=176></a>
 
 ###### Article 736
 
@@ -10846,7 +11532,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XXI : Disposition finale.<a id=174></a>
+## Titre XXI : Disposition finale.<a id=177></a>
 
 ###### Article 749
 
@@ -10861,13 +11547,13 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-# Livre II : Dispositions particulières à chaque juridiction.<a id=175></a>
+# Livre II : Dispositions particulières à chaque juridiction.<a id=178></a>
 
-## Titre Ier : Dispositions particulières au tribunal de grande instance.<a id=176></a>
+## Titre Ier : Dispositions particulières au tribunal de grande instance.<a id=179></a>
 
-### Sous-titre Ier : La procédure devant le tribunal.<a id=177></a>
+### Sous-titre Ier : La procédure devant le tribunal.<a id=180></a>
 
-#### Chapitre Ier : La procédure en matière contentieuse.<a id=178></a>
+#### Chapitre Ier : La procédure en matière contentieuse.<a id=181></a>
 
 ###### Article 750
 
@@ -10963,9 +11649,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Section I : La procédure ordinaire<a id=179></a>
+##### Section I : La procédure ordinaire<a id=182></a>
 
-##### Sous-section I : Saisine du tribunal.<a id=180></a>
+##### Sous-section I : Saisine du tribunal.<a id=183></a>
 
 ###### Article 755
 
@@ -11039,7 +11725,7 @@ _Cité par_:
   - Code de procédure civile - art. ANNEXE, art. 33 (V)
 
 
-##### Sous-section II : Renvoi à l'audience.<a id=181></a>
+##### Sous-section II : Renvoi à l'audience.<a id=184></a>
 
 ###### Article 760
 
@@ -11114,7 +11800,7 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R5112-35 (VD)
 
 
-##### Sous-section III : Instruction devant le juge de la mise en état.<a id=182></a>
+##### Sous-section III : Instruction devant le juge de la mise en état.<a id=185></a>
 
 ###### Article 763
 
@@ -11402,7 +12088,7 @@ _Cité par_:
   - Code de l'aviation civile - art. R123-7 (VD)
 
 
-##### Sous-section IV : Dispositions communes.<a id=183></a>
+##### Sous-section IV : Dispositions communes.<a id=186></a>
 
 ###### Article 782
 
@@ -11500,7 +12186,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Section II : Procédure à jour fixe.<a id=184></a>
+##### Section II : Procédure à jour fixe.<a id=187></a>
 
 ###### Article 788
 
@@ -11594,7 +12280,7 @@ _Cite_:
   - Nouveau code de procédure civile 760 et 761
 
 
-##### Section III : La requête conjointe.<a id=185></a>
+##### Section III : La requête conjointe.<a id=188></a>
 
 ###### Article 793
 
@@ -11666,7 +12352,7 @@ _Cite_:
   - Nouveau code de procédure civile 759, 760, 762 et 794
 
 
-#### Chapitre II : Procédure en matière gracieuse.<a id=186></a>
+#### Chapitre II : Procédure en matière gracieuse.<a id=189></a>
 
 ###### Article 797
 
@@ -11719,7 +12405,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre III : Le juge unique.<a id=187></a>
+#### Chapitre III : Le juge unique.<a id=190></a>
 
 ###### Article 801
 
@@ -11805,7 +12491,7 @@ _Cite_:
   - Nouveau code de procédure civile 803 et 804
 
 
-#### Chapitre IV : Dispositions diverses.<a id=188></a>
+#### Chapitre IV : Dispositions diverses.<a id=191></a>
 
 ###### Article 807
 
@@ -11824,9 +12510,9 @@ _Cite_:
   - Nouveau code de procédure civile 803 et 804
 
 
-### Sous-titre II : Les pouvoirs du président.<a id=189></a>
+### Sous-titre II : Les pouvoirs du président.<a id=192></a>
 
-#### Chapitre Ier : Les ordonnances de référé.<a id=190></a>
+#### Chapitre Ier : Les ordonnances de référé.<a id=193></a>
 
 ###### Article 808
 
@@ -11876,7 +12562,7 @@ _Abrogé par_:
   - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
 
 
-#### Chapitre II : Les ordonnances sur requête.<a id=191></a>
+#### Chapitre II : Les ordonnances sur requête.<a id=194></a>
 
 ###### Article 812
 
@@ -11917,9 +12603,9 @@ _Cité par_:
   - Code monétaire et financier - art. R561-36 (VD)
 
 
-### Sous-titre III : Dispositions diverses.<a id=192></a>
+### Sous-titre III : Dispositions diverses.<a id=195></a>
 
-#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=193></a>
+#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=196></a>
 
 ###### Article 814
 
@@ -11977,7 +12663,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre II : Mesures d'administration judiciaire.<a id=194></a>
+#### Chapitre II : Mesures d'administration judiciaire.<a id=197></a>
 
 ###### Article 817
 
@@ -12055,7 +12741,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre II : Dispositions particulières au tribunal d'instance.<a id=195></a>
+## Titre II : Dispositions particulières au tribunal d'instance.<a id=198></a>
 
 ###### Article 827
 
@@ -12128,9 +12814,9 @@ _Modifié par_:
   - Conseil d'Etat 205136 2001-04-06, Ordre des avocats au Barreau du Mans, Recueil Lebon
 
 
-### Sous-titre I : La procédure ordinaire.<a id=196></a>
+### Sous-titre I : La procédure ordinaire.<a id=199></a>
 
-#### Chapitre I : La tentative préalable de conciliation.<a id=197></a>
+#### Chapitre I : La tentative préalable de conciliation.<a id=200></a>
 
 ###### Article 830
 
@@ -12191,7 +12877,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre II : La procédure sur assignation à toutes fins.<a id=198></a>
+#### Chapitre II : La procédure sur assignation à toutes fins.<a id=201></a>
 
 ###### Article 836
 
@@ -12322,7 +13008,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (Ab)
 
 
-#### Chapitre III : La requête conjointe et la présentation volontaire des parties.<a id=199></a>
+#### Chapitre III : La requête conjointe et la présentation volontaire des parties.<a id=202></a>
 
 ###### Article 845
 
@@ -12375,7 +13061,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre II : Les ordonnances de référé.<a id=200></a>
+### Sous-titre II : Les ordonnances de référé.<a id=203></a>
 
 ###### Article 848
 
@@ -12405,7 +13091,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre III : Les ordonnances sur requête.<a id=201></a>
+### Sous-titre III : Les ordonnances sur requête.<a id=204></a>
 
 ###### Article 851
 
@@ -12432,7 +13118,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre III : Dispositions particulières au tribunal de commerce.<a id=202></a>
+## Titre III : Dispositions particulières au tribunal de commerce.<a id=205></a>
 
 ###### Article 853
 
@@ -12453,9 +13139,9 @@ _Cité par_:
   - Code de commerce - art. R662-2 (VD)
 
 
-### Chapitre Ier : La procédure devant le tribunal de commerce.<a id=203></a>
+### Chapitre Ier : La procédure devant le tribunal de commerce.<a id=206></a>
 
-#### Section I : L'introduction de l'instance.<a id=204></a>
+#### Section I : L'introduction de l'instance.<a id=207></a>
 
 ###### Article 854
 
@@ -12469,7 +13155,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section I : L'assignation.<a id=205></a>
+##### Sous-section I : L'assignation.<a id=208></a>
 
 ###### Article 855
 
@@ -12546,7 +13232,7 @@ _Cité par_:
   - Code électoral - art. R14 (V)
 
 
-##### Sous-section II : La requête conjointe et la présentation volontaire des parties.<a id=206></a>
+##### Sous-section II : La requête conjointe et la présentation volontaire des parties.<a id=209></a>
 
 ###### Article 859
 
@@ -12578,7 +13264,7 @@ _Cite_:
   - Code de procédure civile - art. 57 (V)
 
 
-#### Section II : L'instance.<a id=207></a>
+#### Section II : L'instance.<a id=210></a>
 
 ###### Article 861
 
@@ -12592,7 +13278,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section I : Le juge rapporteur.<a id=208></a>
+##### Sous-section I : Le juge rapporteur.<a id=211></a>
 
 ###### Article 862
 
@@ -12708,7 +13394,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Dispositions générales.<a id=209></a>
+##### Sous-section II : Dispositions générales.<a id=212></a>
 
 ###### Article 870
 
@@ -12744,9 +13430,9 @@ _Abrogé par_:
   - Décret n°2010-1165 du 1er octobre 2010 - art. 7
 
 
-### Chapitre II : Les pouvoirs du président.<a id=210></a>
+### Chapitre II : Les pouvoirs du président.<a id=213></a>
 
-#### Section I : Les ordonnances de référé.<a id=211></a>
+#### Section I : Les ordonnances de référé.<a id=214></a>
 
 ###### Article 872
 
@@ -12761,7 +13447,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Les ordonnances sur requête.<a id=212></a>
+#### Section II : Les ordonnances sur requête.<a id=215></a>
 
 ###### Article 874
 
@@ -12798,7 +13484,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : Dispositions diverses.<a id=213></a>
+### Chapitre III : Dispositions diverses.<a id=216></a>
 
 ###### Article 877
 
@@ -12823,9 +13509,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.<a id=214></a>
+## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.<a id=217></a>
 
-### Chapitre Ier : La procédure ordinaire.<a id=215></a>
+### Chapitre Ier : La procédure ordinaire.<a id=218></a>
 
 ###### Article 880
 
@@ -13009,7 +13695,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Les ordonnances de référé.<a id=216></a>
+### Chapitre II : Les ordonnances de référé.<a id=219></a>
 
 ###### Article 893
 
@@ -13064,7 +13750,7 @@ _Nouveaux textes_:
   - Nouveau code de procédure civile 895
 
 
-### Chapitre III : Les ordonnances sur requête.<a id=217></a>
+### Chapitre III : Les ordonnances sur requête.<a id=220></a>
 
 ###### Article 897
 
@@ -13097,11 +13783,11 @@ _Cite_:
   - Nouveau code de procédure civile 892
 
 
-## Titre VI : Dispositions particulières à la cour d'appel.<a id=218></a>
+## Titre VI : Dispositions particulières à la cour d'appel.<a id=221></a>
 
-### Sous-titre Ier : La procédure devant la formation collégiale.<a id=219></a>
+### Sous-titre Ier : La procédure devant la formation collégiale.<a id=222></a>
 
-#### Chapitre Ier : La procédure en matière contentieuse.<a id=220></a>
+#### Chapitre Ier : La procédure en matière contentieuse.<a id=223></a>
 
 ###### Article 899
 
@@ -13116,7 +13802,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Section I : La procédure avec représentation obligatoire.<a id=221></a>
+##### Section I : La procédure avec représentation obligatoire.<a id=224></a>
 
 ###### Article 900
 
@@ -13129,7 +13815,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section I : La procédure ordinaire.<a id=222></a>
+##### Sous-section I : La procédure ordinaire.<a id=225></a>
 
 ###### Article 901
 
@@ -13336,7 +14022,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section II : La procédure à jour fixe.<a id=223></a>
+##### Sous-section II : La procédure à jour fixe.<a id=226></a>
 
 ###### Article 917
 
@@ -13432,7 +14118,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section III : L'appel par requête conjointe.<a id=224></a>
+##### Sous-section III : L'appel par requête conjointe.<a id=227></a>
 
 ###### Article 926
 
@@ -13507,7 +14193,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Section II : La procédure sans représentation obligatoire.<a id=225></a>
+##### Section II : La procédure sans représentation obligatoire.<a id=228></a>
 
 ###### Article 931
 
@@ -13751,7 +14437,7 @@ _Cite_:
   - Code de procédure civile - art. 947 (V)
 
 
-#### Chapitre II : La procédure en matière gracieuse.<a id=226></a>
+#### Chapitre II : La procédure en matière gracieuse.<a id=229></a>
 
 ###### Article 950
 
@@ -13820,9 +14506,45 @@ _Cité par_:
   - Code civil - art. 459 (VT)
 
 
-### Sous-titre II : Les pouvoirs du premier président.<a id=227></a>
+#### Chapitre III : Dispositions communes.<a id=230></a>
 
-#### Chapitre Ier : Les ordonnances de référé.<a id=228></a>
+###### Article 955
+
+Lorsqu'elle confirme un jugement, la cour est réputée avoir adopté les motifs de ce jugement qui ne sont pas contraires aux
+siens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 11 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 955-2
+
+L'avis est donné soit aux avoués par simple bulletin, soit, dans les affaires dispensées du ministère d'avoué, aux parties
+par lettre recommandée avec demande d'avis de réception.
+
+Copie de la requête est jointe à l'avis donné aux avoués ou aux parties.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 12 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+### Sous-titre II : Les pouvoirs du premier président.<a id=231></a>
+
+#### Chapitre Ier : Les ordonnances de référé.<a id=232></a>
 
 ###### Article 956
 
@@ -13856,7 +14578,7 @@ _Modifié par_:
   - Décret n°76-1236 1976-12-28 art. 21 JORF 30 décembre 1976
 
 
-#### Chapitre II : Les ordonnances sur requête.<a id=229></a>
+#### Chapitre II : Les ordonnances sur requête.<a id=233></a>
 
 ###### Article 958
 
@@ -13882,9 +14604,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-### Sous-titre III : Dispositions diverses.<a id=230></a>
+### Sous-titre III : Dispositions diverses.<a id=234></a>
 
-#### Chapitre Ier : Constitution d'avoué et conclusions.<a id=231></a>
+#### Chapitre Ier : Constitution d'avoué et conclusions.<a id=235></a>
 
 ###### Article 960
 
@@ -13946,7 +14668,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-#### Chapitre II : Mesures d'administration judiciaire.<a id=232></a>
+#### Chapitre II : Mesures d'administration judiciaire.<a id=236></a>
 
 ###### Article 963
 
@@ -14022,7 +14744,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-#### Chapitre III : Le secrétariat-greffe.<a id=233></a>
+#### Chapitre III : Le secrétariat-greffe.<a id=237></a>
 
 ###### Article 969
 
@@ -14039,9 +14761,385 @@ _Cite_:
   - Nouveau code de procédure civile 824
 
 
-## Titre VII : Dispositions particulières à la Cour de cassation.<a id=234></a>
+## Titre VII : Dispositions particulières à la Cour de cassation.<a id=238></a>
 
-### Chapitre II : La procédure sans représentation obligatoire.<a id=235></a>
+###### Article 973
+
+Les parties sont tenues, sauf disposition contraire, de constituer un avocat au Conseil d'Etat et à la Cour de cassation.
+
+Cette constitution emporte élection de domicile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R12-5 (VT)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R221-8 (V)
+
+
+### Chapitre Ier : La procédure avec représentation obligatoire.<a id=239></a>
+
+###### Article 974
+
+Le pourvoi en cassation est formé par déclaration au secrétariat-greffe de la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Décret n°2016-1948 du 28 décembre 2016 - art. 3
+  - Décret n°2017-867 du 9 mai 2017 - art. 11 (V)
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+  - Décret n°2018-350 du 14 mai 2018 - art. 3
+  - Décret n°2019-536 du 29 mai 2019 - art. 28 (VD)
+  - Décret n°2019-536 du 29 mai 2019 - art. 29 (V)
+  - Code de commerce - art. R724-19 (V)
+  - Code de procédure civile - art. 996 (VD)
+  - Code du travail - art. R1442-22-16 (V)
+  - Code électoral - art. R15-6 (VT)
+  - Code électoral - art. R19-6 (VD)
+
+
+###### Article 975
+
+La déclaration de pourvoi est faite par acte contenant [*mentions obligatoires*]  :
+
+1° a) Si le demandeur en cassation est une personne physique : ses nom, prénoms, domicile, nationalité, date et lieu de
+naissance ;
+
+b) Si le demandeur est une personne morale : sa forme, sa dénomination, son siège social et l'organe qui la représente ;
+
+2°) Les nom, prénoms et domicile du défendeur ou, s'il s'agit d'une personne morale, sa dénomination et son siège social ;
+
+3° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
+
+4° L'indication de la décision attaquée. 
+
+La déclaration précise, le cas échéant, les chefs de la décision auxquels le pourvoi est limité.
+
+Elle est signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 978
+
+A peine de déchéance, le demandeur en cassation doit [*obligations*], au plus tard dans le délai de cinq mois à compter du
+pourvoi, remettre au secrétariat-greffe de la Cour de cassation et signifier au défendeur un mémoire contenant les moyens de
+droit invoqués contre la décision attaquée.
+
+A peine d'être déclaré d'office irrecevable un moyen ou un élément de moyen ne doit mettre en oeuvre qu'un seul cas
+d'ouverture [*condition de recevabilité*]. Chaque moyen ou chaque élément de moyen doit préciser, sous la même sanction :
+
+- le cas d'ouverture invoqué ;
+
+- la partie critiquée de la décision ;
+
+- ce en quoi celle-ci encourt le reproche allégué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Décret n°2017-823 du 5 mai 2017 - art. 13
+  - Décret n°2018-880 du 11 octobre 2018 - art. 24 (V)
+  - Code de commerce - art. R464-24-8 (V)
+  - Code de commerce - art. R483-9 (V)
+  - Code de procédure civile - art. 1011 (V)
+  - Code de procédure civile - art. 1023 (V)
+
+
+###### Article 980
+
+Si le défendeur au pourvoi n'a pas constitué avocat, la signification est faite à la partie elle-même.
+
+L'acte de signification indique au défendeur qu'il doit, s'il entend défendre au pourvoi, constituer un avocat au Conseil
+d'Etat et à la Cour de cassation et l'informe que s'il ne constitue pas avocat, l'arrêt à intervenir ne pourra pas être
+frappé d'opposition. Cet acte précise en outre le délai dans lequel le défendeur doit remettre au secrétariat-greffe son
+mémoire en réponse et former, le cas échéant, un pourvoi incident.
+
+**Nota:**
+
+[*Ces dispositions ne s'appliquent qu'aux pourvois formés à compter du 1er janvier 1980, Décret n° 79-941, 7 novembre 1979,
+art. 17*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 981
+
+A défaut de remise ou de signification du mémoire dans le délai prévu à l'alinéa 1er de l'article 978, la déchéance est
+constatée par ordonnance du premier président ou de son délégué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 979 (V)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 978
+
+
+###### Article 982
+
+Le défendeur au pourvoi dispose d'un délai de deux mois à compter de la signification du mémoire du demandeur pour remettre
+au secrétariat-greffe de la Cour de cassation un mémoire en réponse signé d'un avocat au Conseil d'Etat et à la Cour de
+cassation et le notifier à l'avocat du demandeur dans la forme des notifications entre avocats.
+
+**Nota:**
+
+.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Décret n°2017-823 du 5 mai 2017 - art. 13
+  - Décret n°2018-880 du 11 octobre 2018 - art. 24 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+  - Code de commerce - art. R464-24-8 (V)
+  - Code de commerce - art. R483-9 (Ab)
+  - Code de procédure civile - art. 1009-1 (V)
+  - Code de procédure civile - art. 1009-3 (V)
+  - Code de procédure civile - art. 1023 (V)
+  - Code de procédure civile - art. 996 (VD)
+  - Code électoral - art. R19-6 (VD)
+
+
+### Chapitre II : La procédure sans représentation obligatoire.<a id=240></a>
+
+###### Article 983
+
+Les dispositions du présent chapitre s'appliquent aux pourvois formés dans les matières pour lesquelles une disposition
+spéciale dispense les parties du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de la santé publique - art. R4031-31 (M)
+  - Code de la santé publique - art. R4031-36 (V)
+
+
+###### Article 984
+
+Le pourvoi en cassation est formé par [*modalités*] déclaration orale ou écrite que la partie ou tout mandataire muni d'un
+pouvoir spécial fait, remet, ou adresse par pli recommandé, au secrétariat de la juridiction qui a rendu la décision
+attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 985
+
+La déclaration indique les nom, prénoms, profession et domicile du demandeur au pourvoi, ainsi que les nom et adresse du ou
+des défendeurs au pourvoi. Elle désigne la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 987
+
+Le secrétaire adresse aussitôt au défendeur copie de la déclaration par lettre recommandée avec demande d'avis de réception.
+
+Cette notification reproduit la teneur des articles 991 et 994.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 991 et 994
+
+
+###### Article 989
+
+Lorsque la déclaration du pourvoi ne contient pas l'énoncé, même sommaire, des moyens de cassation invoqués contre la
+décision attaquée, le demandeur doit, à peine d'irrecevabilité prononcée d'office, faire parvenir au secrétariat-greffe de la
+Cour de cassation, au plus tard dans un délai de trois mois à compter de la déclaration, un mémoire contenant cet énoncé, et,
+le cas échéant, les pièces invoquées à l'appui du pourvoi.
+
+Ce mémoire peut être établi par le mandataire de la partie sans nouveau pouvoir spécial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1023 (V)
+  - Code de procédure civile - art. 991 (V)
+
+
+###### Article 991
+
+Le défendeur au pourvoi dispose d'un délai de deux mois à compter de la notification du mémoire du demandeur ou de
+l'expiration du délai de trois mois prévu à l'article 989 pour remettre contre récépissé, ou adresser par lettre recommandée,
+au secrétariat-greffe de la Cour de cassation un mémoire en réponse et former, le cas échéant, un pourvoi incident.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1009-1 (V)
+  - Code de procédure civile - art. 1009-3 (V)
+  - Code de procédure civile - art. 1023 (V)
+  - Code de procédure civile - art. 987 (V)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 989
+
+
+###### Article 993
+
+Si un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au secrétariat-greffe qu'il représentait une partie, la
+notification prévue à l'article 990 ou à l'article 992 est remplacée par une notification faite à cet avocat.
+
+La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du secrétariat-greffe, vaut
+notification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 990 et 992
+
+
+###### Article 994
+
+En plus de l'original, il est produit par le demandeur autant de copies de son mémoire qu'il y a de défendeurs et par le
+défendeur autant de copies du mémoire en réponse qu'il y a de demandeurs.
+
+Ces copies sont certifiées conformes par le signataire du mémoire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 987 (V)
+
 
 ###### Article 995
 
@@ -14061,9 +15159,245 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
 
 
-### Chapitre III : La procédure en matière électorale.<a id=236></a>
+### Chapitre III : La procédure en matière électorale.<a id=241></a>
 
-#### Section II : Les élections professionnelles.<a id=237></a>
+#### Section II : Les élections professionnelles.<a id=242></a>
+
+###### Article 999
+
+Le délai de pourvoi en cassation est de dix jours sauf disposition contraire.
+
+Le pourvoi est formé par déclaration orale ou écrite que la partie, ou tout mandataire muni d'un pouvoir spécial, fait, remet
+ou adresse par pli recommandé au secrétariat de la juridiction qui a rendu la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Décret n°94-147 du 16 février 1994 - art. 27 (VD)
+  - Décret n°94-147 du 16 février 1994 - art. 38 (V)
+  - Décret n°98-644 du 22 juillet 1998 - art. 3 (VD)
+  - Arrêté du 23 juillet 2003 - art. 16 (VD)
+  - Arrêté du 4 septembre 2007 - art. 17 (VD)
+  - Décret n°2017-663 du 27 avril 2017 - art. 1
+  - Décret n°2017-773 du 4 mai 2017 - art. 9 (Ab)
+  - Décret n°2017-1819 du 29 décembre 2017 - art. 1
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R423-1 (Ab)
+  - Code de commerce - art. R621-15 (VD)
+  - Code de commerce - art. R722-9 (V)
+  - Code de commerce. - art. R723-29 (V)
+  - Code de la mutualité - art. R125-3 (VD)
+  - Code de la mutualité - art. R413-19 (Ab)
+  - Code de la sécurité sociale. - art. D231-10 (VD)
+  - Code de la sécurité sociale. - art. D231-21 (VD)
+  - Code de la sécurité sociale. - art. R382-53 (VT)
+  - Code de la sécurité sociale. - art. R766-38 (VD)
+  - Code du travail - art. R1441-176 (Ab)
+  - Code du travail - art. R1441-59 (Ab)
+  - Code du travail - art. R1441-76 (Ab)
+  - Code du travail - art. R2122-31 (V)
+  - Code du travail - art. R2122-41 (VD)
+  - Code du travail - art. R2122-97 (V)
+  - Code du travail - art. R2143-5 (VD)
+  - Code du travail - art. R23-112-17 (VD)
+  - Code du travail - art. R2314-29 (Ab)
+  - Code du travail - art. R2324-25 (Ab)
+  - Code du travail - art. R4613-12 (Ab)
+  - Code du travail applicable à Mayotte. - art. R238-8-5 (Ab)
+  - Code du travail applicable à Mayotte. - art. R414-5 (Ab)
+  - Code forestier (nouveau) - art. R321-50 (VD)
+  - Code forestier - art. R221-14 (Ab)
+  - Code rural - art. R723-37 (M)
+  - Code rural et de la pêche maritime - art. R492-13 (VT)
+  - Code rural et de la pêche maritime - art. R511-24 (VD)
+  - Code rural et de la pêche maritime - art. R723-84 (VD)
+
+
+###### Article 1000
+
+La déclaration indique les nom, prénoms, profession et domicile du demandeur au pourvoi ainsi que les nom et adresse du ou
+des défendeurs au pourvoi. Elle désigne la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1001
+
+Le secrétaire enregistre le pourvoi. Il mentionne la date à laquelle il est formé et délivre, ou adresse par lettre simple,
+récépissé de la déclaration, lequel reproduit la teneur des articles 1004 et 1005.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Code de procédure civile - art. 1004 (V)
+
+
+###### Article 1002
+
+Le secrétaire adresse aussitôt au défendeur copie de la déclaration par lettre recommandée avec demande d'avis de réception. 
+
+Cette notification reproduit la teneur de l'article 1006.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Code de procédure civile - art. 1006 (V)
+
+
+###### Article 1003
+
+Le secrétaire transmet au secrétariat-greffe de la Cour de cassation le dossier de l'affaire avec :
+
+- une copie de la déclaration ;
+
+- une copie de la décision attaquée.
+
+Il transmet immédiatement au secrétariat-greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1004
+
+Lorsque la déclaration du pourvoi ne contient pas l'énoncé, même sommaire, des moyens de cassation invoqués contre la
+décision attaquée, le demandeur doit, à peine d'irrecevabilité prononcée d'office, faire parvenir au secrétariat-greffe de la
+Cour de cassation, au plus tard dans un délai d'un mois à compter de la déclaration, un mémoire contenant cet énoncé.
+
+Ce mémoire peut être établi par le mandataire de la partie sans nouveau pouvoir spécial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1001 (V)
+  - Code de procédure civile - art. 1008 (V)
+
+
+###### Article 1005
+
+Lorsqu'un mémoire est produit par le demandeur, celui-ci doit, à peine d'irrecevabilité prononcée d'office, en notifier, dans
+le mois de la déclaration, copie au défendeur par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1007 (V)
+
+
+###### Article 1006
+
+Le défendeur au pourvoi dispose d'un délai de quinze jours à compter de la notification du mémoire du demandeur ou de
+l'expiration du délai d'un mois prévu à l'article 1004 pour remettre contre récépissé, ou adresser par lettre recommandée, au
+secrétariat-greffe de la Cour de cassation un mémoire en réponse.
+
+Dans le même délai, il notifie au demandeur, par lettre recommandée, une copie du mémoire en réponse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1002 (V)
+  - Code de procédure civile - art. 1007 (V)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1004
+
+
+###### Article 1007
+
+Si un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au secrétariat-greffe qu'il représentait une partie, la
+notification prévue à l'article 1005 ou à l'article 1006 peut être faite à cet avocat, le cas échéant, par voie de
+notification entre avocats.
+
+La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du secrétariat-greffe, vaut
+notification.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1005 et 1006
+
 
 ###### Article 1008
 
@@ -14095,9 +15429,525 @@ _Cite_:
   - Code de procédure civile - art. 1004 (V)
 
 
-# Annexes<a id=238></a>
+### Chapitre IV : Dispositions communes.<a id=243></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=239></a>
+###### Article 1009
+
+Le premier président, ou son délégué, à la demande d'une des parties, peut réduire les délais prévus pour le dépôt des
+mémoires et des pièces.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. R*288-3 (VD)
+
+
+###### Article 1010
+
+Le pourvoi incident, même provoqué, doit, à peine d'irrecevabilité [*conditions de recevabilité*] prononcée d'office, être
+fait sous forme de mémoire et contenir les mêmes indications que le mémoire du demandeur.
+
+Le mémoire doit [*obligations*], sous la même sanction :
+
+- être remis au secrétariat-greffe de la Cour de cassation avant l'expiration du délai prévu pour la remise du mémoire en
+réponse ;
+
+- être notifié dans le même délai aux avocats des autres parties au pourvoi incident. Si, dans les matières où la
+représentation est obligatoire, le défendeur n'a pas constitué avocat, le mémoire doit lui être signifié au plus tard dans le
+mois suivant l'expiration de ce délai.
+
+Le défendeur à un tel pourvoi dispose d'un délai d'un mois à compter de la notification pour remettre, et s'il y a lieu
+notifier, son mémoire en réponse.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1009-1 (V)
+  - Code de procédure civile - art. 1023 (V)
+  - Code de procédure civile - art. 992 (V)
+
+
+###### Article 1011
+
+Sauf le cas de déchéance prévu à l'article 978, l'affaire est distribuée dès que le demandeur a remis son mémoire et, au plus
+tard, à l'expiration du délai imparti à cette fin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 639-4 (V)
+
+_Cite_:
+
+  - Code de procédure civile - art. 978 (V)
+
+
+###### Article 1012
+
+Le président de la formation à laquelle l'affaire est distribuée désigne un conseiller ou un conseiller référendaire de cette
+formation en qualité de rapporteur.
+
+Il peut fixer aussitôt la date de l'audience.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1013
+
+La formation restreinte de la chambre à laquelle l'affaire a été distribuée statue après un rapport oral.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1015
+
+Le président doit avertir les parties des moyens de cassation qui paraissent pouvoir être relevés d'office et les inviter à
+présenter leurs observations dans le délai qu'il fixe.
+
+**Nota:**
+
+Par décision n° 21-893 en date des 21 juin-5 juillet 1985 le Conseil d'Etat statuant au contentieux a annulé le présent
+article en tant qu'il limite aux moyens de cassation l'obligation faite au président d'avertir les parties des moyens qui
+peuvent être soulevés d'office, même s'ils ne sont pas d'ordre public.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Conseil d'Etat 21-893 1985-07-05, Gaz. Pal. 1985, 2, 742
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 1016
+
+Conformément aux articles 11-1 et 11-2 de la loi n° 72-626 du 5 juillet 1972 modifiée, les débats sont publics. La Cour peut
+néanmoins décider que les débats auront lieu ou se poursuivront en chambre du conseil s'il doit résulter de leur publicité
+une atteinte à l'intimité de la vie privée, ou si toutes les parties le demandent, ou s'il survient des désordres de nature à
+troubler la sérénité de la justice.
+
+Les arrêts sont prononcés publiquement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°72-626 du 5 juillet 1972 - art. 11-1 (V)
+  - Loi n°72-626 du 5 juillet 1972 - art. 11-2 (V)
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1031-19 (VD)
+
+
+###### Article 1017
+
+Le rapport est fait à l'audience.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1018
+
+Les avocats sont entendus après le rapport s'ils le demandent. Les parties peuvent aussi être entendues après y avoir été
+autorisées par le président.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1020
+
+L'arrêt vise le texte de loi sur lequel la cassation est fondée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1022
+
+Une copie de l'arrêt est adressée à la juridiction dont émane la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+### Chapitre V : Dispositions diverses<a id=244></a>
+
+#### Section I : Augmentation des délais.<a id=245></a>
+
+###### Article 1023
+
+Les délais prévus aux articles 978 et 989 sont augmentés :
+
+- d'un mois si le demandeur demeure dans un département d'outre-mer, la collectivité territoriale de Mayotte ou dans un
+territoire d'outre-mer ;
+
+- de deux mois s'il demeure à l'étranger.
+
+Les délais prévus aux articles 982, 991 et 1010 (dernier alinéa) sont de même augmentés d'un mois ou de deux mois selon que
+le défendeur demeure dans un département d'outre-mer, la collectivité territoriale de Mayotte, un territoire d'outre-mer ou à
+l'étranger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1031-21 (VD)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 978, 982, 989, 991 et 1010
+
+
+#### Section II : Le désistement.<a id=246></a>
+
+###### Article 1024
+
+Le désistement du pourvoi doit être accepté s'il contient des réserves ou si le défendeur a préalablement formé un pourvoi
+incident.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1025
+
+Les dispositions des articles 396, 399, 400 et 403 s'appliquent au désistement du pourvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Code de procédure civile - art. 396 (V)
+  - Code de procédure civile - art. 399 (V)
+  - Code de procédure civile - art. 403 (V)
+
+
+###### Article 1026
+
+Le désistement est constaté par ordonnance du premier président ou du président de la chambre à laquelle l'affaire a été
+distribuée.
+
+Toutefois, le désistement est constaté par arrêt s'il intervient après le dépôt du rapport ou si l'acceptation du défendeur,
+lorsqu'elle est nécessaire, n'est donnée qu'après ce dépôt. Cet arrêt équivaut à un arrêt de rejet et entraîne l'application
+des articles 628 et 630.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Nouveau code de procédure civile 628 et 630
+
+
+#### Section III : La récusation.<a id=247></a>
+
+###### Article 1027
+
+La demande de récusation d'un magistrat de la Cour de cassation est examinée par la formation à laquelle l'affaire est
+distribuée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+#### Section IV : La demande en faux.<a id=248></a>
+
+###### Article 1028
+
+La demande en faux contre une pièce produite devant la Cour de cassation est adressée au premier président.
+
+Elle est déposée au secrétariat-greffe et signée d'un avocat au Conseil d'Etat et à la Cour de cassation si le ministère en
+est obligatoire dans l'affaire à propos de laquelle la demande est présentée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1029
+
+Le premier président statue après avis du procureur général. 
+
+Il rend une ordonnance de rejet ou une ordonnance portant autorisation d'agir en faux. 
+
+En cas de rejet, le demandeur peut être condamné au paiement d'une amende civile dans les conditions prévues à l'article 628.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Code de procédure civile - art. 628 (V)
+
+
+###### Article 1030
+
+L'ordonnance portant autorisation d'agir en faux est signifiée au défendeur dans le délai de quinze jours, avec sommation de
+déclarer s'il entend se servir de la pièce arguée de faux.
+
+A cette sommation doit être jointe une copie de la requête et de l'ordonnance du premier président.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1031
+
+Le défendeur doit signifier au demandeur, dans un délai de quinze jours, s'il entend ou non se servir de la pièce arguée de
+faux.
+
+Dans le premier cas, ou s'il n'est pas répondu dans le délai de quinze jours, le premier président renvoie les parties à se
+pourvoir devant la juridiction qu'il désigne pour qu'il soit statué sur la demande en faux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=249></a>
+
+###### Article 1032
+
+La juridiction de renvoi est saisie par déclaration au secrétariat de cette juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1033
+
+La déclaration contient les mentions exigées pour l'acte introductif d'instance devant cette juridiction ; une copie de
+l'arrêt de cassation y est annexée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1035
+
+L'acte de notification de l'arrêt de cassation doit, à peine de nullité, indiquer de manière très apparente le délai
+mentionné au premier alinéa de l'article 1034 ainsi que les modalités selon lesquelles la juridiction de renvoi peut être
+saisie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+_Cite_:
+
+  - Code de procédure civile - art. 1034 (V)
+
+
+###### Article 1036
+
+Le secrétaire de la juridiction de renvoi adresse aussitôt, par lettre simple, à chacune des parties à l'instance de
+cassation, copie de la déclaration avec, s'il y a lieu, l'indication de l'obligation de constituer avocat ou avoué.
+
+En cas de non-comparution, les parties défaillantes sont citées de la même manière que le sont les défendeurs devant la
+juridiction dont émane la décision cassée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1037
+
+Le secrétaire de la juridiction de renvoi demande, sans délai, au secrétariat-greffe de la Cour de cassation le dossier de
+l'affaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°79-941 1979-11-07 art. 4 et 16 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+# Annexes<a id=250></a>
+
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=251></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -14111,9 +15961,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=240></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=252></a>
 
-#### Section I : Dispositions communes.<a id=241></a>
+#### Section I : Dispositions communes.<a id=253></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -14282,9 +16132,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=242></a>
+#### Section II : Dispositions propres à certaines matières.<a id=254></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=243></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=255></a>
 
 ###### Article ANNEXE, art. 12
 
@@ -14396,7 +16246,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=244></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=256></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -14445,7 +16295,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (VD)
 
 
-##### Sous-section III : Affaires de registres.<a id=245></a>
+##### Sous-section III : Affaires de registres.<a id=257></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -14521,7 +16371,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=246></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=258></a>
 
 ###### Article ANNEXE, 31
 
@@ -14629,7 +16479,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=247></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=259></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -14689,7 +16539,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VII : Dispositions diverses.<a id=248></a>
+### Chapitre VII : Dispositions diverses.<a id=260></a>
 
 ###### Article ANNEXE, art. 44
 
