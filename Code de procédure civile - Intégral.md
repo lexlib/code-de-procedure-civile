@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-03-19
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -7563,6 +7563,32 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 468
+
+Si, sans motif légitime, le demandeur ne comparaît pas, le défendeur peut requérir un jugement sur le fond qui sera
+contradictoire, sauf la faculté du juge de renvoyer l'affaire à une audience ultérieure.
+
+Le juge peut aussi, même d'office, déclarer la citation caduque. La déclaration de caducité peut être rapportée si le
+demandeur fait connaître au greffe dans un délai de quinze jours le motif légitime qu'il n'aurait pas été en mesure
+d'invoquer en temps utile. Dans ce cas, les parties sont convoquées à une audience ultérieure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°86-585 1986-03-14 art. 1 JORF 19 mars 1986
+
+_Cité par_:
+
+  - Code de procédure civile - art. 879 (M)
+  - Code du travail - art. R1454-21 (V)
+  - Code du travail - art. R3252-19 (VD)
+
+
 ###### Article 469
 
 Si, après avoir comparu, l'une des parties s'abstient d'accomplir les actes de la procédure dans les délais requis, le juge
@@ -7928,6 +7954,33 @@ _Modifié par_:
 _Cite_:
 
   - Nouveau code de procédure civile 517, 518, 519, 520, 521, 522
+
+
+###### Article 490
+
+L'ordonnance de référé peut être frappée d'appel à moins qu'elle n'émane du premier président de la cour d'appel ou qu'elle
+n'ait été rendue en dernier ressort en raison du montant ou de l'objet de la demande.
+
+L'ordonnance rendue en dernier ressort par défaut est susceptible d'opposition.
+
+Le délai d'appel ou d'opposition est de quinze jours.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-223 du 17 mars 1967 - art. 61-9 (V)
+  - Décret n°2016-660 du 20 mai 2016 - art. 22
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 1
+  - Code de procédure civile - art. 492-1 (V)
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°86-585 1986-03-14 art. 2 JORF 19 mars 1986
 
 
 ###### Article 491
@@ -10018,6 +10071,33 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+
+
+###### Article 621
+
+Si le pourvoi en cassation est rejeté, la partie qui l'a formé n'est plus recevable à en former un nouveau contre le même
+jugement, hors le cas prévu à l'article 618.
+
+Il en est de même lorsque la Cour de cassation constate son dessaisissement, déclare le pourvoi irrecevable ou prononce la
+déchéance.
+
+Le défendeur qui n'a pas formé de pourvoi incident ou provoqué contre le jugement attaqué dans les délais impartis par
+l'article 1010 n'est plus recevable à se pourvoir à titre principal contre ce jugement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
+  - Décret n°86-585 1986-03-14 art. 3 JORF 19 mars 1986
+
+_Cite_:
+
+  - Nouveau code de procédure civile 618, 1010
 
 
 ###### Article 622
@@ -16694,6 +16774,26 @@ _Cité par_:
   - Code de commerce - art. R483-9 (Ab)
   - Code de procédure civile - art. 1011 (V)
   - Code de procédure civile - art. 1023 (V)
+
+
+###### Article 979
+
+A peine d'irrecevabilité du pourvoi prononcé d'office, une copie de la décision attaquée signifiée soit à partie, soit à
+avoué, soit à avocat ou une expédition de cette décision, ainsi qu'une copie de la décision confirmée ou infirmée par la
+décision attaquée, doivent être remises au greffe dans le délai de dépôt du mémoire.
+
+Le demandeur doit également joindre les pièces invoquées à l'appui du pourvoi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°86-585 1986-03-14 art. 8 JORF 19 mars 1986
 
 
 ###### Article 980
