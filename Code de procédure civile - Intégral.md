@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1976-01-01
+Version Consolidée au 1976-07-30
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -164,7 +164,7 @@ Version Consolidée au 1976-01-01
         - [Section VI : Le lieu des notifications. (art. 689 à 691)](#161)
         - [Section VII : Dispositions diverses. (art. 692 à 694)](#162)
     - [Titre XVIII : Les frais et les dépens. (art. 696 à 717)](#163)
-      - [Chapitre Ier : La charge des dépens. (art. 696 à 699)](#164)
+      - [Chapitre Ier : La charge des dépens. (art. 696 à 700)](#164)
       - [Chapitre II : La liquidation des dépens à recouvrer par le secrétariat. (art. 702)](#165)
       - [Chapitre III : La vérification et le recouvrement des dépens. (art. 705 à 717)](#166)
     - [Titre XIX : Le secrétariat de la juridiction. (art. 726 à 728)](#167)
@@ -185,12 +185,12 @@ Version Consolidée au 1976-01-01
             - [Sous-section IV : Dispositions communes. (art. 782 à 787)](#182)
           - [Section II : Procédure à jour fixe. (art. 788 à 792)](#183)
           - [Section III : La requête conjointe. (art. 793 à 796)](#184)
-        - [Chapitre II : Procédure en matière gracieuse. (art. 798 à 800)](#185)
+        - [Chapitre II : Procédure en matière gracieuse. (art. 797 à 800)](#185)
         - [Chapitre III : Le juge unique. (art. 801 à 805)](#186)
         - [Chapitre IV : Dispositions diverses. (art. 807)](#187)
-      - [Sous-titre II : Les pouvoirs du président. (art. 808 à 812)](#188)
+      - [Sous-titre II : Les pouvoirs du président. (art. 808 à 813)](#188)
         - [Chapitre Ier : Les ordonnances de référé. (art. 808 à 811)](#189)
-        - [Chapitre II : Les ordonnances sur requête. (art. 812)](#190)
+        - [Chapitre II : Les ordonnances sur requête. (art. 812 à 813)](#190)
       - [Sous-titre III : Dispositions diverses. (art. 814 à 820)](#191)
         - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 814 à 816)](#192)
         - [Chapitre II : Mesures d'administration judiciaire. (art. 817 à 820)](#193)
@@ -225,7 +225,7 @@ Version Consolidée au 1976-01-01
             - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#222)
             - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#223)
           - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#224)
-        - [Chapitre II : La procédure en matière gracieuse. (art. 953)](#225)
+        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#225)
       - [Sous-titre II : Les pouvoirs du premier président. (art. 958 à 959)](#226)
         - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#227)
       - [Sous-titre III : Dispositions diverses. (art. 960 à 969)](#228)
@@ -7543,6 +7543,26 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 519
+
+Lorsque la garantie consiste en une somme d'argent, celle-ci est déposée à la Caisse des dépôts et consignations ; elle peut
+aussi l'être, à la demande de l'une des parties, entre les mains d'un tiers commis à cet effet.
+
+Dans ce dernier cas, le juge, s'il fait droit à cette demande, constate dans sa décision les modalités du dépôt.
+
+Si le tiers refuse le dépôt, la somme est déposée, sans nouvelle décision, à la Caisse des dépôts et consignations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 2 JORF 30 juillet 1976
+
+
 ###### Article 520
 
 Si la valeur de la garantie ne peut être immédiatement appréciée, le juge invite les parties à se présenter devant lui à la
@@ -9516,6 +9536,43 @@ _Cité par_:
   - Code de procédure pénale - art. R93 (V)
 
 
+###### Article 697
+
+Les avocats, avoués et huissiers de justice peuvent être personnellement condamnés aux dépens afférents aux instances, actes
+et procédures d'exécution accomplis en dehors des limites de leur mandat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 3 JORF 30 juillet 1976
+
+
+###### Article 698
+
+Les dépens afférents aux instances, actes et procédures d'exécution injustifiés sont à la charge des auxiliaires de justice
+qui les ont faits, sans préjudice des dommages-intérêts qui seraient réclamés. Il en est de même des dépens afférents aux
+instances, actes et procédures d'exécution nuls par l'effet de leur faute.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°1924-06-01 du 1 juin 1924 - art. 159 (V)
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 4 JORF 30 juillet 1976
+
+
 ###### Article 699
 
 Les avocats et les avoués peuvent, dans les matières où leur ministère est obligatoire, demander que la condamnation aux
@@ -9530,6 +9587,33 @@ créance de dépens.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 700
+
+Lorsqu'il paraît inéquitable de laisser à la charge d'une partie des sommes exposées par elle et non comprises dans les
+dépens, le juge peut condamner l'autre partie à lui payer le montant qu'il détermine.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°60-323  du 2 avril 1960  - art. 68 (VT)
+  - Loi n°89-462 du 6 juillet 1989 - art. 4 (V)
+  - Arrêté du 8 août 2017 - art. 1
+  - Code de procédure civile - art. 1026 (VD)
+  - Code de procédure civile - art. 818 (Ab)
+  - Code de procédure civile - art. 865 (VD)
+  - Code de procédure civile - art. 963 (VD)
+  - Code de procédure civile - art. 964 (VD)
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 5 JORF 30 juillet 1976
 
 
 ### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.<a id=165></a>
@@ -10778,6 +10862,22 @@ _Cite_:
 
 #### Chapitre II : Procédure en matière gracieuse.<a id=185></a>
 
+###### Article 797
+
+La demande est formée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par
+les dispositions en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 6 JORF 30 juillet 1976
+
+
 ###### Article 798
 
 Le ministère public doit avoir communication des affaires gracieuses.
@@ -10983,6 +11083,28 @@ distribuée ou au juge déjà saisi.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 813
+
+La requête est présentée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité
+par les dispositions en vigueur.
+
+Si elle est présentée à l'occasion d'une instance, elle doit indiquer la juridiction saisie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 7 JORF 30 juillet 1976
+
+_Cité par_:
+
+  - Code monétaire et financier - art. R561-36 (VD)
 
 
 ### Sous-titre III : Dispositions diverses.<a id=191></a>
@@ -12355,6 +12477,25 @@ _Cité par_:
   - Décret n°91-1266 du 19 décembre 1991 - art. 90 (M)
 
 
+###### Article 913
+
+Les avoués ont seuls qualité pour représenter les parties et conclure en leur nom.
+
+Les avis ou injonctions sont valablement adressés aux seuls avoués.
+
+Les avocats sont entendus sur leur demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 8 JORF 30 juillet 1976
+
+
 ###### Article 914
 
 Les ordonnances du conseiller de la mise en état ne sont susceptibles d'aucun recours indépendamment de l'arrêt sur le fond.
@@ -12762,6 +12903,32 @@ _Cite_:
 
 
 #### Chapitre II : La procédure en matière gracieuse.<a id=225></a>
+
+###### Article 950
+
+L'appel contre une décision gracieuse est formé, par une déclaration faite ou adressée par pli recommandé au secrétariat de
+la juridiction qui a rendu la décision, par un avocat ou un avoué, ou un autre officier public ou ministériel dans les cas où
+ce dernier y est habilité par les dispositions en vigueur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+_Modifié par_:
+
+  - Décret n°76-714 1976-07-29 art. 9 JORF 30 juillet 1976
+
+_Cité par_:
+
+  - Décret n°2014-346 du 17 mars 2014 - art. 22 (V)
+  - Décret n°2017-1094 du 12 juin 2017 - art. 1
+  - Code de commerce - art. R123-141 (V)
+  - Code de commerce - art. R123-148 (V)
+  - Code de commerce - art. R527-16 (V)
+  - Code monétaire et financier - art. R561-59 (VD)
+
 
 ###### Article 953
 
