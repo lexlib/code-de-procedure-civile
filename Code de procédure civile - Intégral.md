@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1986-10-01
+Version Consolidée au 1987-06-23
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -220,7 +220,7 @@ Version Consolidée au 1986-10-01
           - [Sous-section I : Le juge rapporteur. (art. 862 à 869)](#217)
           - [Sous-section II : Dispositions générales. (art. 870 à 871)](#218)
       - [Chapitre II : Les pouvoirs du président. (art. 872 à 876)](#219)
-        - [Section I : Les ordonnances de référé. (art. 872)](#220)
+        - [Section I : Les ordonnances de référé. (art. 872 à 873)](#220)
         - [Section II : Les ordonnances sur requête. (art. 874 à 876)](#221)
       - [Chapitre III : Dispositions diverses. (art. 877 à 878)](#222)
     - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898)](#223)
@@ -13759,6 +13759,27 @@ _Cité par_:
   - Code des assurances - art. R421-9 (V)
 
 
+###### Article 809
+
+Le président peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou
+de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement
+illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°85-1330 1985-12-17 art. 8 JORF 18 décembre 1985
+  - Décret n°87-434 1987-06-17 art. 1 JORF 23 juin 1987
+
+
 ###### Article 810
 
 Les pouvoirs du président du tribunal de grande instance prévus aux deux articles précédents s'étendent à toutes les matières
@@ -14530,6 +14551,31 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 849
+
+Le juge du tribunal d'instance peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures
+conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
+manifestement illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°85-1330 1985-12-17 art. 9 JORF 18 décembre 1985
+  - Décret n°87-434 1987-06-17 art. 2 JORF 23 juin 1987
+
+_Cité par_:
+
+  - Code de procédure civile - art. 852-1 (V)
+
+
 ###### Article 850
 
 Le juge du tribunal d'instance dispose des mêmes pouvoirs dans les contestations nées à l'occasion du contrat de travail
@@ -14936,6 +14982,27 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
+###### Article 873
+
+Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures
+conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
+manifestement illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°85-1330 1985-12-17 art. 10 JORF 18 décembre 1985
+  - Décret n°87-434 1987-06-17 art. 3 JORF 23 juin 1987
+
+
 #### Section II : Les ordonnances sur requête.<a id=221></a>
 
 ###### Article 874
@@ -15214,6 +15281,27 @@ en référé toutes les mesures qui ne se heurtent à aucune contestation série
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+
+###### Article 894
+
+Le président peut, dans les mêmes limites, et même en présence d'une contestation sérieuse, prescrire en référé les mesures
+conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
+manifestement illicite.
+
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
+ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Modifié par_:
+
+  - Décret n°85-1330 1985-12-17 art. 11 JORF 18 décembre 1985
+  - Décret n°87-434 1987-06-17 art. 4 JORF 23 juin 1987
 
 
 ###### Article 895
