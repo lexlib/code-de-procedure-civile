@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1997-09-18
+Version Consolidée au 1998-06-25
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -332,52 +332,56 @@ Version Consolidée au 1997-09-18
       - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#329)
       - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#330)
     - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1327)](#331)
-      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303)](#332)
+      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303-6)](#332)
         - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289)](#333)
         - [Section II : Les mesures urgentes. (art. 1290)](#334)
         - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#335)
         - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#336)
         - [Section V : L'homologation judiciaire du changement de régime matrimonial. (art. 1300 à 1303)](#337)
-      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1327)](#338)
-        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1327)](#339)
-          - [Sous-section I : Les scellés (art. 1304 à 1322)](#340)
-            - [Paragraphe 1 : L'apposition des scellés. (art. 1304 à 1315)](#341)
-            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#342)
-          - [Sous-section II : Autres mesures conservatoires. (art. 1323 à 1325)](#343)
-          - [Sous-section III : Dispositions communes. (art. 1326 à 1327)](#344)
-    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441-3)](#345)
-      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425-9)](#346)
-        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#347)
-        - [Section II : L'injonction de faire. (art. 1425-1 à 1425-9)](#348)
-      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#349)
-      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#350)
-      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#351)
-      - [Chapitre V : Le contentieux de la passation de certains contrats de travaux. (art. 1441-1 à 1441-3)](#352)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#353)
-    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#354)
-      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#355)
-      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#356)
-      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#357)
-    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#358)
-    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#359)
-    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#360)
-    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#361)
-    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#362)
-      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#363)
-      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#364)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#365)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#366)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#367)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#368)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#369)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#370)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#371)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#372)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#373)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance. (art. ANNEXE, 36)](#374)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#375)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#376)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#377)
+        - [Section VI : La publicité en matière internationale (art. 1303-1 à 1303-6)](#338)
+          - [Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage (art. 1303-1 à 1303-2)](#339)
+          - [Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère (art. 1303-3 à 1303-5)](#340)
+          - [Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française (art. 1303-6)](#341)
+      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1327)](#342)
+        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1327)](#343)
+          - [Sous-section I : Les scellés (art. 1304 à 1322)](#344)
+            - [Paragraphe 1 : L'apposition des scellés. (art. 1304 à 1315)](#345)
+            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#346)
+          - [Sous-section II : Autres mesures conservatoires. (art. 1323 à 1325)](#347)
+          - [Sous-section III : Dispositions communes. (art. 1326 à 1327)](#348)
+    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441-3)](#349)
+      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425-9)](#350)
+        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#351)
+        - [Section II : L'injonction de faire. (art. 1425-1 à 1425-9)](#352)
+      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#353)
+      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#354)
+      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#355)
+      - [Chapitre V : Le contentieux de la passation de certains contrats de travaux. (art. 1441-1 à 1441-3)](#356)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#357)
+    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#358)
+      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#359)
+      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#360)
+      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#361)
+    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#362)
+    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#363)
+    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#364)
+    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#365)
+    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#366)
+      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#367)
+      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#368)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#369)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#370)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#371)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#372)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#373)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#374)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#375)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#376)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#377)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance. (art. ANNEXE, 36)](#378)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#379)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#380)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#381)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre VI bis : La médiation.<a id=2></a>
@@ -21253,14 +21257,14 @@ conformément à l'article 506.
 
 Si le mariage a été célébré à l'étranger et en l'absence d'acte de mariage conservé par une autorité française, mention du
 dispositif de la décision est portée en marge de l'acte de naissance de chacun des époux, si cet acte est conservé sur un
-registre français. A défaut, l'extrait de la décision est conservé au répertoire mentionné au deuxième alinéa de l'article 4
-du décret n° 65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
+registre français. A défaut, l'extrait de la décision est conservé au répertoire mentionné à l'article 4-1 du décret n°
+65-422 du 1er juin 1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°65-422 du 1 juin 1965 - art. 4 (M)
+  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
   - Nouveau code de procédure civile 506
 
 _Codifié par_:
@@ -21269,7 +21273,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°97-854 du 16 septembre 1997 - art. 1 () JORF 18 septembre 1997
+  - Décret n°98-508 du 23 juin 1998 - art. 2 () JORF 25 juin 1998
 
 
 ##### Sous-section VII : La modification des mesures accessoires.<a id=284></a>
@@ -26522,10 +26526,16 @@ _Cité par_:
 
 ###### Article 1293
 
-Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent ait été portée en marge de l'acte
-de naissance.
+Le jugement ne peut être rendu qu'un mois après que la mention prévue à l'article précédent a été portée en marge de l'acte
+de naissance de chacun des époux ou, si cet acte n'est pas conservé sur un registre français, après que l'extrait de la
+demande a été inscrit au répertoire civil mentionné à l'article 4 du décret n° 65-422 du 1er juin 1965 portant création d'un
+service central d'état civil au ministère des affaires étrangères.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 4 (V)
 
 _Codifié par_:
 
@@ -26533,11 +26543,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
-
-_Cite_:
-
-  - Nouveau code de procédure civile 1292
+  - Décret n°98-508 du 23 juin 1998 - art. 3 () JORF 25 juin 1998
 
 
 ###### Article 1294
@@ -26545,7 +26551,8 @@ _Cite_:
 Le jugement prononçant la séparation est publié dans un journal diffusé dans le ressort du tribunal qui l'a rendu.
 
 Le dispositif du jugement est notifié à l'officier de l'état civil du lieu où le mariage a été célébré à fin de mention en
-marge de l'acte de célébration.
+marge de l'acte de célébration. Lorsque l'union a été célébrée à l'étranger et qu'un acte de mariage a été dressé ou
+transcrit sur un registre français, le dispositif du jugement est notifié aux mêmes fins à l'autorité détenant ce registre.
 
 Si un contrat de mariage a été passé par les époux, le dispositif de la décision est notifié par lettre recommandée avec
 demande d'avis de réception au notaire détenteur de la minute du contrat. Le notaire est tenu de faire mention de la décision
@@ -26563,7 +26570,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
+  - Décret n°98-508 du 23 juin 1998 - art. 4 () JORF 25 juin 1998
 
 _Cité par_:
 
@@ -26732,13 +26739,165 @@ _Cite_:
   - Nouveau code de procédure civile 1292 à 1296 et 1298
 
 
-### Chapitre II : Les successions et les libéralités<a id=338></a>
+#### Section VI : La publicité en matière internationale<a id=338></a>
 
-#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=339></a>
+##### Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage<a id=339></a>
 
-##### Sous-section I : Les scellés<a id=340></a>
+###### Article 1303-1
 
-##### Paragraphe 1 : L'apposition des scellés.<a id=341></a>
+Lorsque l'acte de mariage est conservé par une autorité française, celle-ci mentionne en marge de cet acte, à la demande des
+époux ou de l'un d'eux, l'acte portant désignation de la loi applicable au régime matrimonial, dont la publication est prévue
+au deuxième alinéa de l'article 1397-3 du code civil.
+
+En l'absence d'acte de mariage conservé par une autorité française, et si l'acte portant désignation de la loi applicable au
+régime matrimonial a été établi en France en la forme authentique ou si l'un des époux est français, ledit acte ou le
+certificat délivré par la personne compétente pour l'établir est, à la demande des époux ou de l'un deux, inscrit aux fins de
+conservation au répertoire civil annexe mentionné à l'article 4-1 du décret n° 65-422 du 1er juin 1965 portant création d'un
+service central d'état civil au ministère des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+_Cite_:
+
+  - Code civil - art. 1397-3 (M)
+
+
+###### Article 1303-2
+
+Lorsqu'un contrat de mariage a été passé en France, les époux ou l'un d'eux adressent au notaire détenteur de la minute du
+contrat, par lettre recommandée avec demande d'avis de réception, copie de l'acte portant désignation de la loi applicable au
+régime matrimonial. Si le contrat de mariage a été reçu par un agent diplomatique ou consulaire français, les époux ou l'un
+d'eux avisent le ministre des affaires étrangères.
+
+Le notaire, l'agent diplomatique ou consulaire français ou le ministre des affaires étrangères fait mention de la loi
+applicable ainsi désignée sur la minute du contrat de mariage et ne doit plus en délivrer aucune copie ou extrait sans
+reproduire cette mention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+##### Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère<a id=340></a>
+
+###### Article 1303-3
+
+Lorsque l'acte de mariage est conservé par une autorité française, le changement de régime matrimonial obtenu en application
+de la loi étrangère régissant les effets de l'union est mentionné en marge de cet acte.
+
+En l'absence d'acte de mariage conservé par une autorité française, ce changement de régime matrimonial, s'il a donné lieu à
+une décision d'un tribunal français ou à un acte établi en France en la forme authentique ou si l'un des époux est français,
+est inscrit aux fins de conservation au répertoire civil annexe mentionné à l'article 4-1 du décret n° 65-422 du 1er juin
+1965 portant création d'un service central d'état civil au ministère des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+###### Article 1303-4
+
+Si ce changement a donné lieu à une décision d'un tribunal français, la mention en marge de l'acte de mariage ou
+l'inscription au répertoire civil annexe est faite conformément aux deuxième, troisième et quatrième alinéas de l'article
+1294. Dans les autres cas, le procureur de la République du lieu où est conservé l'acte de mariage ou le répertoire civil
+annexe fait procéder à cette mention ou à cette inscription, à la demande des époux ou de l'un d'eux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+_Cite_:
+
+  - Nouveau code de procédure civile 1294
+
+
+###### Article 1303-5
+
+Lorsqu'un contrat de mariage a été passé en France, les époux ou l'un d'eux adressent au notaire détenteur de la minute du
+contrat, par lettre recommandée avec demande d'avis de réception, une copie ou un extrait de l'acte de mariage mis à jour
+conformément aux articles 1303-3 et 1303-4 ou un certificat d'inscription au répertoire civil annexe mentionné à l'article
+4-1 du décret du 1er juin 1965 précité. Si le contrat de mariage a été reçu par un agent diplomatique ou consulaire français,
+les époux ou l'un deux avisent le ministre des affaires étrangères.
+
+Le notaire, l'agent diplomatique ou consulaire français ou le ministre des affaires étrangères fait mention du changement du
+régime matrimonial sur la minute du contrat de mariage et ne doit plus en délivrer aucune copie ou extrait sans reproduire
+cette mention.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°65-422 du 1 juin 1965 - art. 4-1 (V)
+  - Nouveau code de procédure civile 1303-3, 1303-4
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+##### Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française<a id=341></a>
+
+###### Article 1303-6
+
+Les mesures de publicité prévues au paragraphe 2 s'appliquent également en cas de changement de régime matrimonial intervenu
+à l'étranger en application de la loi française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
+
+
+### Chapitre II : Les successions et les libéralités<a id=342></a>
+
+#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=343></a>
+
+##### Sous-section I : Les scellés<a id=344></a>
+
+##### Paragraphe 1 : L'apposition des scellés.<a id=345></a>
 
 ###### Article 1304
 
@@ -27016,7 +27175,7 @@ _Créé par_:
   - Décret n°86-951 1986-07-30 art. 2 et 7 JORF 13 août 1986 en vigueur le 1er octobre 1986
 
 
-##### Paragraphe 2 : La levée des scellés.<a id=342></a>
+##### Paragraphe 2 : La levée des scellés.<a id=346></a>
 
 ###### Article 1316
 
@@ -27186,7 +27345,7 @@ _Cite_:
   - Nouveau code de procédure civile 1316 à 1321
 
 
-##### Sous-section II : Autres mesures conservatoires.<a id=343></a>
+##### Sous-section II : Autres mesures conservatoires.<a id=347></a>
 
 ###### Article 1323
 
@@ -27274,7 +27433,7 @@ _Cite_:
   - Nouveau code de procédure civile 1307, 1308 et 1311 à 1313
 
 
-##### Sous-section III : Dispositions communes.<a id=344></a>
+##### Sous-section III : Dispositions communes.<a id=348></a>
 
 ###### Article 1326
 
@@ -27314,11 +27473,11 @@ _Abrogé par_:
   - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
-## Titre IV : Les obligations et les contrats.<a id=345></a>
+## Titre IV : Les obligations et les contrats.<a id=349></a>
 
-### Chapitre I : Les procédures d'injonction<a id=346></a>
+### Chapitre I : Les procédures d'injonction<a id=350></a>
 
-#### Section I : L'injonction de payer.<a id=347></a>
+#### Section I : L'injonction de payer.<a id=351></a>
 
 ###### Article 1405
 
@@ -27786,7 +27945,7 @@ _Cite_:
   - Nouveau code de procédure civile 1405
 
 
-#### Section II : L'injonction de faire.<a id=348></a>
+#### Section II : L'injonction de faire.<a id=352></a>
 
 ###### Article 1425-1
 
@@ -28026,7 +28185,7 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre II : Les offres de paiement et la consignation.<a id=349></a>
+### Chapitre II : Les offres de paiement et la consignation.<a id=353></a>
 
 ###### Article 1426
 
@@ -28127,7 +28286,7 @@ _Abrogé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 31
 
 
-### Chapitre III : La reconstitution d'actes détruits.<a id=350></a>
+### Chapitre III : La reconstitution d'actes détruits.<a id=354></a>
 
 ###### Article 1430
 
@@ -28207,7 +28366,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=351></a>
+### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=355></a>
 
 ###### Article 1435
 
@@ -28329,7 +28488,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : Le contentieux de la passation de certains contrats de travaux.<a id=352></a>
+### Chapitre V : Le contentieux de la passation de certains contrats de travaux.<a id=356></a>
 
 ###### Article 1441-1
 
@@ -28399,11 +28558,11 @@ _Cité par_:
   - Décret n°2005-1742 du 30 décembre 2005 - art. 47-2 (VT)
 
 
-# Livre IV : L'arbitrage.<a id=353></a>
+# Livre IV : L'arbitrage.<a id=357></a>
 
-## Titre Ier : Les conventions d'arbitrage.<a id=354></a>
+## Titre Ier : Les conventions d'arbitrage.<a id=358></a>
 
-### Chapitre Ier : La clause compromissoire.<a id=355></a>
+### Chapitre Ier : La clause compromissoire.<a id=359></a>
 
 ###### Article 1442
 
@@ -28511,7 +28670,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre II : Le compromis.<a id=356></a>
+### Chapitre II : Le compromis.<a id=360></a>
 
 ###### Article 1447
 
@@ -28594,7 +28753,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre III : Règles communes.<a id=357></a>
+### Chapitre III : Règles communes.<a id=361></a>
 
 ###### Article 1451
 
@@ -28820,7 +28979,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre II : L'instance arbitrale.<a id=358></a>
+## Titre II : L'instance arbitrale.<a id=362></a>
 
 ###### Article 1460
 
@@ -29033,7 +29192,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre III : La sentence arbitrale.<a id=359></a>
+## Titre III : La sentence arbitrale.<a id=363></a>
 
 ###### Article 1469
 
@@ -29311,7 +29470,7 @@ _Cite_:
   - Nouveau code de procédure civile 1471, 1472, 1473
 
 
-## Titre IV : Les voies de recours.<a id=360></a>
+## Titre IV : Les voies de recours.<a id=364></a>
 
 ###### Article 1481
 
@@ -29578,7 +29737,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre V : L'arbitrage international.<a id=361></a>
+## Titre V : L'arbitrage international.<a id=365></a>
 
 ###### Article 1492
 
@@ -29691,9 +29850,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=362></a>
+## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=366></a>
 
-### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=363></a>
+### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=367></a>
 
 ###### Article 1498
 
@@ -29751,7 +29910,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=364></a>
+### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=368></a>
 
 ###### Article 1501
 
@@ -29898,9 +30057,9 @@ _Cite_:
   - Nouveau code de procédure civile 1487 et 1490
 
 
-# Annexes<a id=365></a>
+# Annexes<a id=369></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=366></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=370></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -29914,9 +30073,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=367></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=371></a>
 
-#### Section I : Dispositions communes.<a id=368></a>
+#### Section I : Dispositions communes.<a id=372></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -30085,9 +30244,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=369></a>
+#### Section II : Dispositions propres à certaines matières.<a id=373></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=370></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=374></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -30240,7 +30399,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=371></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=375></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -30289,7 +30448,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=372></a>
+##### Sous-section III : Affaires de registres.<a id=376></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -30397,7 +30556,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=373></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=377></a>
 
 ###### Article ANNEXE, 31
 
@@ -30505,7 +30664,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance.<a id=374></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance.<a id=378></a>
 
 ###### Article ANNEXE, 36
 
@@ -30532,7 +30691,7 @@ _Cite_:
   - Nouveau code de procédure civile 847-1 et 847-2
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=375></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=379></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -30592,7 +30751,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=376></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=380></a>
 
 ###### Article ANNEXE, 42
 
@@ -30615,7 +30774,7 @@ _Modifié par_:
   - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
-### Chapitre VII : Dispositions diverses.<a id=377></a>
+### Chapitre VII : Dispositions diverses.<a id=381></a>
 
 ###### Article ANNEXE, 46
 
