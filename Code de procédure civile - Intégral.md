@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1984-10-01
+Version Consolidée au 1985-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -248,7 +248,7 @@ Version Consolidée au 1984-10-01
       - [Chapitre III : La procédure en matière électorale. (art. 996 à 1008)](#245)
         - [Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques. (art. 996)](#246)
         - [Section II : Les élections professionnelles. (art. 999 à 1008)](#247)
-      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022)](#248)
+      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022-1)](#248)
       - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#249)
         - [Section I : Augmentation des délais. (art. 1023)](#250)
         - [Section II : Le désistement. (art. 1024 à 1026)](#251)
@@ -17395,6 +17395,25 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+
+
+###### Article 1022-1
+
+Dans les affaires pour lesquelles les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de
+cassation, les décisions de cassation sont notifiées par le secrétariat-greffe de la Cour de cassation par [*modalités*]
+lettre recommandée avec demande d'avis de réception ; les décisions de rejet ou de cassation sans renvoi sont portées par
+lettre simple à la connaissance des parties qui ne sont pas assistées ou représentées par un avocat au Conseil d'Etat ou à la
+Cour de cassation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°84-618 1984-07-13 art. 19 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er janvier 1985
 
 
 ### Chapitre V : Dispositions diverses<a id=249></a>
