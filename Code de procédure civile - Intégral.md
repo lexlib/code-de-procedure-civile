@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2003-09-15
+Version Consolidée au 2004-11-21
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -373,19 +373,20 @@ Version Consolidée au 2003-09-15
     - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#370)
       - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#371)
       - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#372)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#373)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#374)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#375)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#376)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#377)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#378)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#379)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#380)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#381)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#382)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#383)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#384)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#385)
+  - [Livre VI : Dispositions applicables à Mayotte (art. 1508 à 1511)](#373)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#374)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 45)](#375)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30)](#376)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#377)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30)](#378)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#379)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#380)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#381)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, 31 à ANNEXE, art. 35)](#382)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#383)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#384)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, 42)](#385)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, 46 à ANNEXE, art. 45)](#386)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre VI bis : La médiation.<a id=2></a>
@@ -30883,9 +30884,103 @@ _Cite_:
   - Nouveau code de procédure civile 1487 et 1490
 
 
-# Annexes<a id=373></a>
+# Livre VI : Dispositions applicables à Mayotte<a id=373></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=374></a>
+###### Article 1508
+
+Le présent code est applicable à Mayotte dans les conditions définies au présent livre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+
+###### Article 1509
+
+Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
+
+1° "tribunal de grande instance" ou "tribunal d'instance" ou "tribunal de commerce" par : "tribunal de première instance" ;
+
+2° "cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
+
+3° "juge d'instance" par : "président du tribunal de première instance ou son délégué" ;
+
+4° "premier président de la cour d'appel" par : "président du tribunal supérieur d'appel" ;
+
+5° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
+
+6° "procureur général" par : "procureur de la République près le tribunal supérieur d'appel" ;
+
+7° "département" par : "collectivité départementale" ;
+
+8° "préfet" par : "représentant de l'Etat".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+
+###### Article 1510
+
+Les parties ne sont jamais tenues de se faire représenter et peuvent en toute circonstance se défendre elles-mêmes.
+
+**Nota:**
+
+NOTA : Décret n° 2004-1234 20 novembre 2004 art. 5 : Le décret n° 2004-1234 est applicable aux procédures introduites et aux
+mesures d'exécution diligentées à compter du 1er janvier 2005.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+_Cité par_:
+
+  - Décret n°2011-338 du 29 mars 2011 - art. 18 (V)
+
+
+###### Article 1511
+
+Sous réserve des dispositions prévues à l'article 1510 et au titre IV du livre IX du code de l'organisation judiciaire, le
+tribunal supérieur d'appel et le tribunal de première instance statuent selon les dispositions particulières de procédure
+applicables à chaque juridiction de métropole dans le domaine de compétence que le code de l'organisation judiciaire attribue
+à celle-ci.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code de l'organisation judiciaire art. 1510
+
+_Codifié par_:
+
+  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+
+_Créé par_:
+
+  - Décret n°2004-1234 du 20 novembre 2004 - art. 1 () JORF 21 novembre 2004
+
+
+# Annexes<a id=374></a>
+
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=375></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -30899,9 +30994,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=375></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=376></a>
 
-#### Section I : Dispositions communes.<a id=376></a>
+#### Section I : Dispositions communes.<a id=377></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -31070,9 +31165,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=377></a>
+#### Section II : Dispositions propres à certaines matières.<a id=378></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=378></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=379></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -31225,7 +31320,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=379></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=380></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -31274,7 +31369,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (VD)
 
 
-##### Sous-section III : Affaires de registres.<a id=380></a>
+##### Sous-section III : Affaires de registres.<a id=381></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -31382,7 +31477,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=381></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=382></a>
 
 ###### Article ANNEXE, 31
 
@@ -31490,7 +31585,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=382></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=383></a>
 
 ###### Article ANNEXE, art. 36
 
@@ -31535,7 +31630,7 @@ _Cite_:
   - Nouveau code de procédure civile annexe, 36
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=383></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=384></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -31595,7 +31690,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=384></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=385></a>
 
 ###### Article ANNEXE, 42
 
@@ -31618,7 +31713,7 @@ _Modifié par_:
   - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
 
 
-### Chapitre VII : Dispositions diverses.<a id=385></a>
+### Chapitre VII : Dispositions diverses.<a id=386></a>
 
 ###### Article ANNEXE, 46
 
