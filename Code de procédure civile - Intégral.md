@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 1992-03-14
+Version Consolidée au 1992-08-05
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -196,7 +196,7 @@ Version Consolidée au 1992-03-14
         - [Chapitre III : Le juge unique. (art. 801 à 805)](#193)
         - [Chapitre IV : Dispositions diverses. (art. 806 à 807)](#194)
       - [Sous-titre II : Les pouvoirs du président. (art. 808 à 813)](#195)
-        - [Chapitre Ier : Les ordonnances de référé. (art. 808 à 811)](#196)
+        - [Chapitre Ier : Les ordonnances de référé. (art. 808 à 810)](#196)
         - [Chapitre II : Les ordonnances sur requête. (art. 812 à 813)](#197)
       - [Sous-titre III : Dispositions diverses. (art. 814 à 826)](#198)
         - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 814 à 816)](#199)
@@ -13960,22 +13960,6 @@ _Cite_:
   - Nouveau code de procédure civile 808 et 809
 
 
-###### Article 811
-
-Il peut également en être référé au président du tribunal pour statuer sur les difficultés d'exécution d'un jugement ou d'un
-autre titre exécutoire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Abrogé par_:
-
-  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
-
-
 #### Chapitre II : Les ordonnances sur requête.<a id=197></a>
 
 ###### Article 812
@@ -16142,22 +16126,6 @@ _Modifié par_:
 
   - Décret n°85-1330 1985-12-17 art. 11 JORF 18 décembre 1985
   - Décret n°87-434 1987-06-17 art. 4 JORF 23 juin 1987
-
-
-###### Article 895
-
-Il peut également en être référé au président pour statuer sur les difficultés d'exécution d'un jugement du tribunal
-paritaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Abrogé par_:
-
-  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
 
 
 ###### Article 896
@@ -27999,8 +27967,7 @@ _Créé par_:
 ###### Article 1477
 
 La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une décision d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel la sentence a été rendue. L'exequatur est ordonné par le juge de l'exécution du
-tribunal.
+grande instance dans le ressort duquel la sentence a été rendue.
 
 A cet effet, la minute de la sentence accompagnée d'un exemplaire de la convention d'arbitrage est déposée par l'un des
 arbitres ou par la partie la plus diligente au secrétariat de la juridiction.
@@ -28015,9 +27982,9 @@ _Anciens textes_:
 
   - Décret n°80-354 du 14 mai 1980 - art. 37 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°92-755 du 31 juillet 1992 - art. 305 (V) JORF 5 août 1992
 
 
 ###### Article 1478
