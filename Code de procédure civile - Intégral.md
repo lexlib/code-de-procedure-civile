@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2006-03-01
+Version Consolidée au 2006-03-24
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -27345,8 +27345,8 @@ _Créé par_:
 
 ###### Article 1286
 
-Les demandes d'autorisation et d'habilitation prévues par la loi, et notamment à l'article 217 au deuxième alinéa de
-l'article 1426 et aux articles 2139, 2140 et 2163 du code civil, sont formées par requête au tribunal de grande instance.
+Les demandes d'autorisation et d'habilitation prévues par la loi, et notamment à l'article 217, au deuxième alinéa de
+l'article 1426 et aux articles 2405, 2406 et 2446 du code civil, sont formées par requête au tribunal de grande instance.
 
 Les demandes d'autorisation et d'habilitation prévues par les articles 217 et 219 du même code, lorsque le conjoint est hors
 d'état de manifester sa volonté, sont présentées au juge des tutelles.
@@ -27359,7 +27359,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 13 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 _Cité par_:
 
@@ -27368,11 +27368,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 2139 (M)
-  - Code civil - art. 2140 (T)
-  - Code civil - art. 2163 (M)
   - Code civil - art. 217 (V)
   - Code civil - art. 219 (V)
+  - Code civil - art. 2405 (V)
+  - Code civil - art. 2406 (V)
+  - Code civil - art. 2446 (V)
 
 
 ##### Sous-section I : La procédure devant le tribunal de grande instance.<a id=338></a>
