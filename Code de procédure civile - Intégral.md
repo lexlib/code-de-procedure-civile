@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-05-24
+Version Consolidée au 2008-05-25
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -9712,7 +9712,10 @@ _Modifié par_:
 ###### Article 509-1
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
+l'étranger en application du règlement (CE) du Conseil n° 44/2001 du 22 décembre 2000 concernant la compétence judiciaire, la
+reconnaissance et l'exécution des décisions en matière civile et commerciale et du règlement (CE) n° 805/2004 du Parlement
+européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire européen pour les créances incontestées sont
+présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention.
 
 Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
 l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
@@ -9721,13 +9724,9 @@ présentées au juge qui a rendu la décision ou homologué la convention. Elles
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2005-460 du 13 mai 2005 - art. 26 () JORF 14 mai 2005
+  - Décret n°2008-484 du 22 mai 2008 - art. 15
 
 _Cité par_:
 
@@ -9767,24 +9766,30 @@ _Cité par_:
 Par dérogation aux articles 509-1 et 509-2, les requêtes aux fins de certification, de reconnaissance ou de constatation de
 la force exécutoire des actes authentiques notariés, en application du règlement précité du 22 décembre 2000, sont présentées
 au président de la chambre des notaires ou, en cas d'absence ou d'empêchement, à son suppléant désigné parmi les membres de
-la chambre.
+la chambre. 
 
 Lorsque ce règlement l'exige, l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des
-notaires.
+notaires. 
+
+Par dérogation à l'article 509-1, les requêtes aux fins de certification des actes authentiques notariés en vue de leur
+exécution à l'étranger en application du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril 2004
+portant création d'un titre exécutoire européen pour les créances incontestées sont présentées au notaire ou à la personne
+morale titulaire de l'office notarial conservant la minute de l'acte reçu.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2008-484 du 22 mai 2008 - art. 16
 
 _Cité par_:
 
   - Décret n°2010-433 du 29 avril 2010 (V)
+
+_Cite_:
+
+  - Code de procédure civile - art. 509-1
+  - Code de procédure civile - art. 509-2
 
 
 ###### Article 509-4
@@ -11549,18 +11554,22 @@ _Modifié par_:
 
 ###### Article 611-1
 
-Hors les cas où la notification de la décision susceptible de pourvoi incombe au greffe de la juridiction qui l'a rendue, le
-pourvoi en cassation n'est recevable que si la décision qu'il attaque a été préalablement signifiée.
+Hors les cas où la notification de la décision susceptible de pourvoi incombe au greffe de la juridiction qui l' a rendue, la
+décision attaquée est signifiée, à peine d' irrecevabilité du pourvoi, avant l' expiration du délai prévu à l' article 978.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2008-484 du 22 mai 2008 - art. 2
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°99-131 du 26 février 1999 - art. 4 () JORF 27 février 1999 en vigueur le 1er mars 1999
+  - Décret n°2014-1338 du 6 novembre 2014 - art. 7
+
+_Cite_:
+
+  - Code de procédure civile - art. 978 (V)
 
 
 ###### Article 612
@@ -16383,22 +16392,21 @@ Les parties peuvent se faire assister ou représenter par :
 
 - leur conjoint ;
 
+- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit, leur
+concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
+
 - leurs parents ou alliés en ligne directe ;
 
 - leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
 
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
+- les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
 
 L'Etat, les départements, les communes et les établissements publics peuvent se faire représenter ou assister par un
-fonctionnaire ou un agent de leur administration.
+fonctionnaire ou un agent de leur administration. 
 
 Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975
 
 _Cité par_:
 
@@ -16410,9 +16418,13 @@ _Cité par_:
   - Code de procédure civile - art. 834 (VD)
   - Code général de la propriété des personnes publ... - art. R5112-35 (V)
 
+_Cite_:
+
+  - Loi n°2007-1787 du 20 décembre 2007 - art. 2
+
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2008-484 du 22 mai 2008 - art. 18
 
 
 ### Sous-titre Ier : La procédure ordinaire.<a id=212></a>
@@ -18647,13 +18659,21 @@ Les personnes habilitées à assister ou représenter les parties sont :
 
 - un membre de leur famille ;
 
-- un membre d'une organisation professionnelle agricole.
+- comme il est dit à l'article 83 de la loi n° 90-85 du 23 janvier 1990, leur concubin ou la personne avec laquelle elles ont
+conclu un pacte civil de solidarité ;
+
+- comme il est dit à l'article 83 de la loi n° 90-85 du 23 janvier 1990, un membre ou un salarié d'une organisation
+professionnelle agricole.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cite_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Loi n°90-85 du 23 janvier 1990 - art. 83
+
+_Modifié par_:
+
+  - Décret n°2008-484 du 22 mai 2008 - art. 19
 
 
 ###### Article 885
@@ -20405,31 +20425,28 @@ _Cité par_:
 
 ###### Article 975
 
-La déclaration de pourvoi est faite par acte contenant, outre les mentions prescrites par l'article 58 :
+La déclaration de pourvoi contient, à peine de nullité :
 
-1° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
+1° Pour les personnes physiques : l'indication des nom, prénoms, domicile du demandeur en cassation ;
 
-2° L'indication de la décision attaquée ;
+Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social ;
 
-3° Le cas échéant, les chefs de la décision auxquels le pourvoi est limité ;
+2° L'indication des nom, prénoms et domicile du défendeur, ou, s'il s'agit d'une personne morale, de sa dénomination et de
+son siège social ;
 
-4° L'état de la procédure d'exécution, sauf dans les cas où l'exécution de la décision attaquée est interdite par la loi ;
+3° La constitution de l'avocat au Conseil d'Etat et à la Cour de cassation du demandeur ;
 
-Elle est signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
+4° L'indication de la décision attaquée.
+
+La déclaration précise, le cas échéant, les chefs de la décision auxquels le pourvoi est limité.
+
+Elle est datée et signée par l'avocat au Conseil d'Etat et à la Cour de cassation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 8 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cite_:
-
-  - Nouveau code de procédure civile 58
+  - Décret n°2008-484 du 22 mai 2008 - art. 3
 
 
 ###### Article 976
@@ -20455,29 +20472,24 @@ _Modifié par_:
 Le greffier adresse aussitôt au défendeur par lettre simple un exemplaire de la déclaration avec l'indication qu'il doit,
 s'il entend défendre au pourvoi, constituer un avocat au Conseil d'Etat et à la Cour de cassation. 
 
-Il demande simultanément au secrétariat de la juridiction qui a rendu la décision attaquée communication du dossier. 
-
-Au cas où l'exemplaire de la déclaration lui serait renvoyé par l'administration des postes, le greffier de la Cour de
-cassation le transmet aussitôt à l'avocat du demandeur en cassation, lequel le signifie au défendeur en lui rappelant qu'il
-doit, s'il entend défendre au pourvoi, constituer un avocat au Conseil d'Etat et à la Cour de cassation.
+En cas de retour au greffe de la lettre de notification, le greffier de la Cour de cassation en avise aussitôt l'avocat du
+demandeur en cassation afin que celui-ci procède par voie de signification. L'acte de signification indique au défendeur
+qu'il doit, s'il entend défendre au pourvoi, constituer un avocat au Conseil d'Etat et à la Cour de cassation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+  - Décret n°2008-484 du 22 mai 2008 - art. 4
 
 
 ###### Article 978
 
-A peine de déchéance, le demandeur en cassation doit, au plus tard, dans le délai de cinq mois à compter du pourvoi, remettre
-au greffe de la Cour de cassation et signifier au défendeur un mémoire contenant les moyens de droit invoqués contre la
-décision attaquée.
+A peine de déchéance constatée par ordonnance du premier président ou de son délégué, le demandeur en cassation doit, au plus
+tard dans le délai de quatre mois à compter du pourvoi, remettre au greffe de la Cour de cassation un mémoire contenant les
+moyens de droit invoqués contre la décision attaquée. Le mémoire doit, sous la même sanction, être notifié dans le même délai
+aux avocats des autres parties. Si le défendeur n'a pas constitué avocat, le mémoire doit lui être signifié au plus tard dans
+le mois suivant l'expiration de ce délai.
 
 A peine d'être déclaré d'office irrecevable un moyen ou un élément de moyen ne doit mettre en oeuvre qu'un seul cas
 d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la même sanction : 
@@ -20490,13 +20502,9 @@ d'ouverture. Chaque moyen ou chaque élément de moyen doit préciser, sous la m
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2008-484 du 22 mai 2008 - art. 5
 
 _Cité par_:
 
@@ -20515,21 +20523,25 @@ A peine d'irrecevabilité du pourvoi prononcée d'office, doivent être remises 
 
 - une copie de la décision attaquée et de ses actes de signification ;
 
-- une copie de la décision confirmée ou infirmée par la décision attaquée ;
-
-- toute autre décision rendue dans le même litige et à laquelle la décision attaquée fait référence.
-
-Le demandeur doit également joindre les pièces invoquées à l'appui du pourvoi.
+- une copie de la décision confirmée ou infirmée par la décision attaquée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°99-131 du 26 février 1999 - art. 5 () JORF 27 février 1999 en vigueur le 1er mars 1999
+  - Décret n°2008-484 du 22 mai 2008 - art. 6
+
+
+###### Article 979-1
+
+Le demandeur doit également joindre les pièces invoquées à l'appui du pourvoi et une copie des dernières conclusions que les
+parties au pourvoi ont déposées devant la juridiction dont émane la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-484 du 22 mai 2008 - art. 7
 
 
 ###### Article 980
@@ -20554,31 +20566,23 @@ _Modifié par_:
 
 ###### Article 981
 
-A défaut de remise ou de signification du mémoire dans le délai prévu à l'alinéa 1er de l'article 978, la déchéance est
-constatée par ordonnance du premier président ou de son délégué.
+Le conseiller chargé du rapport peut demander à l'avocat du demandeur qu'il lui communique, dans le délai qu'il fixe, toute
+pièce utile à l'instruction de l'affaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°2008-484 du 22 mai 2008 - art. 8
 
 _Cité par_:
 
   - Code de procédure civile - art. 979 (V)
 
-_Cite_:
-
-  - Nouveau code de procédure civile 978
-
 
 ###### Article 982
 
-Le défendeur au pourvoi dispose d'un délai de trois mois à compter de la signification du mémoire du demandeur pour remettre
+Le défendeur au pourvoi dispose d'un délai de deux mois à compter de la signification du mémoire du demandeur pour remettre
 au greffe de la Cour de cassation un mémoire en réponse signé d'un avocat au Conseil d'Etat et à la Cour de cassation et le
 notifier à l'avocat du demandeur dans la forme des notifications entre avocats.
 
@@ -20586,17 +20590,9 @@ Le délai prévu à l'alinéa précédent est prescrit à peine d'irrecevabilit�
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°79-941 1979-11-07 art. 17
-
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2008-484 du 22 mai 2008 - art. 9
 
 _Cité par_:
 
@@ -20654,18 +20650,24 @@ _Modifié par_:
 
 ###### Article 985
 
-Outre les mentions prescrites par l'article 58, la déclaration désigne la décision attaquée. Elle indique l'état de la
-procédure d'exécution, sauf dans les cas où l'exécution de la décision attaquée est interdite par la loi.
+La déclaration de pourvoi contient, à peine de nullité :
+
+1° Pour les personnes physiques : l'indication des nom, prénoms, domicile du demandeur en cassation ;
+
+Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social ;
+
+2° L'indication des nom, prénoms et domicile du défendeur, ou, s'il s'agit d'une personne morale, de sa dénomination et de
+son siège social ;
+
+3° L'indication de la décision attaquée.
+
+Elle est datée et signée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 9 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+  - Décret n°2008-484 du 22 mai 2008 - art. 10
 
 
 ###### Article 986
@@ -20721,21 +20723,15 @@ dossier de l'affaire auquel sont jointes :
 
 - une copie de la décision confirmée ou infirmée par la décision attaquée ;
 
-- une copie de toute autre décision rendue dans le même litige et à laquelle la décision attaquée fait référence ;
-
 - les conclusions de première instance et d'appel s'il en a été pris.
 
 Il transmet immédiatement au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°99-131 du 26 février 1999 - art. 8 () JORF 27 février 1999 en vigueur le 1er mars 1999
+  - Décret n°2008-484 du 22 mai 2008 - art. 11
 
 
 ###### Article 989
@@ -21308,15 +21304,14 @@ _Cite_:
 Le délai de péremption court à compter de la notification de la décision ordonnant la radiation. Il est interrompu par un
 acte manifestant sans équivoque la volonté d'exécuter.
 
+Le premier président ou son délégué peut, même d'office, après avoir invité les parties à présenter leurs observations,
+constater la péremption.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 49 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+  - Décret n°2008-484 du 22 mai 2008 - art. 12
 
 
 ###### Article 1009-3
@@ -21435,25 +21430,15 @@ _Modifié par_:
 
 ###### Article 1015
 
-Le président doit avertir les parties des moyens de cassation qui paraissent pouvoir être relevés d'office et les inviter à
-présenter leurs observations dans le délai qu'il fixe.
-
-**Nota:**
-
-Par décision n° 21-893 en date des 21 juin-5 juillet 1985 le Conseil d'Etat statuant au contentieux a annulé le présent
-article en tant qu'il limite aux moyens de cassation l'obligation faite au président d'avertir les parties des moyens qui
-peuvent être soulevés d'office, même s'ils ne sont pas d'ordre public.
+Le président de la formation doit aviser les parties des moyens susceptibles d'être relevés d'office et les inviter à
+présenter leurs observations dans le délai qu'il fixe. Il en est de même lorsqu'il envisage de rejeter un moyen par
+substitution d'un motif de pur droit relevé d'office à un motif erroné.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Conseil d'Etat 21-893 1985-07-05, Gaz. Pal. 1985, 2, 742
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2008-484 du 22 mai 2008 - art. 13
 
 
 ###### Article 1015-1
@@ -21553,17 +21538,13 @@ _Modifié par_:
 
 ###### Article 1020
 
-L'arrêt vise le texte de loi sur lequel la cassation est fondée.
+L'arrêt vise la règle de droit sur laquelle la cassation est fondée.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
+  - Décret n°2008-484 du 22 mai 2008 - art. 14
 
 
 ###### Article 1021
