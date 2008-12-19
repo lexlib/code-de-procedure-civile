@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2008-09-11
+Version Consolidée au 2008-12-20
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -382,49 +382,60 @@ Version Consolidée au 2008-09-11
             - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#379)
             - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#380)
         - [Section VII : Dispositions communes. (art. 1379 à 1381)](#381)
-    - [Titre IV : Les obligations et les contrats. (art. 1405 à 1441-4)](#382)
-      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1425-9)](#383)
-        - [Section I : L'injonction de payer. (art. 1405 à 1425)](#384)
-        - [Section II : L'injonction de faire. (art. 1425-1 à 1425-9)](#385)
-      - [Chapitre II : Les offres de paiement et la consignation. (art. 1426 à 1429)](#386)
-      - [Chapitre III : La reconstitution d'actes détruits. (art. 1430 à 1434)](#387)
-      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#388)
-      - [Chapitre V : Le contentieux de la passation de certains contrats de travaux. (art. 1441-1 à 1441-3)](#389)
-      - [Chapitre VI : La transaction (art. 1441-4)](#390)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#391)
-    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#392)
-      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#393)
-      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#394)
-      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#395)
-    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#396)
-    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#397)
-    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#398)
-    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#399)
-    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#400)
-      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#401)
-      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#402)
-  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1508 à 1519)](#403)
-    - [Titre Ier : Dispositions applicables à Mayotte. (art. 1508 à 1511)](#404)
-    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1512 à 1519)](#405)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#406)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#407)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30-15)](#408)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#409)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30-15)](#410)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#411)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#412)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#413)
-          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-15)](#414)
-            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#415)
-            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#416)
-            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#417)
-            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#418)
-            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#419)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#420)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#421)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#422)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#423)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#424)
+    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#382)
+      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1390)](#383)
+      - [Chapitre I : Les procédures d'injonction (art. 1405 à 1424)](#384)
+        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#385)
+        - [Section II : L'injonction de faire. (art.  à 1424)](#386)
+      - [Chapitre II : Les procédures d'injonction. (art.  à 1425-9)](#387)
+        - [Section I : L'injonction de payer. (art.  à 1424)](#388)
+        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#389)
+        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#390)
+        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#391)
+      - [Chapitre II : Les offres de paiement et la consignation. (art.  à 1425-9)](#392)
+      - [Chapitre III : Les offres de paiement et la consignation. (art. 1426 à 1429)](#393)
+      - [Chapitre III : La reconstitution d'actes détruits. (art.  à 1429)](#394)
+      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#395)
+      - [Chapitre IV : La délivrance de copies d'actes et de registres. (art.  à 1434)](#396)
+      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#397)
+      - [Chapitre V : Le contentieux de la passation de certains contrats de travaux. (art.  à 1441)](#398)
+      - [Chapitre VI : Le contentieux de la passation de certains contrats de travaux. (art. 1441-1 à 1441-3)](#399)
+      - [Chapitre VI : La transaction (art.  à 1441-3)](#400)
+      - [Chapitre VII : La transaction. (art. 1441-4)](#401)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1507)](#402)
+    - [Titre Ier : Les conventions d'arbitrage. (art. 1442 à 1459)](#403)
+      - [Chapitre Ier : La clause compromissoire. (art. 1442 à 1446)](#404)
+      - [Chapitre II : Le compromis. (art. 1447 à 1450)](#405)
+      - [Chapitre III : Règles communes. (art. 1451 à 1459)](#406)
+    - [Titre II : L'instance arbitrale. (art. 1460 à 1468)](#407)
+    - [Titre III : La sentence arbitrale. (art. 1469 à 1480)](#408)
+    - [Titre IV : Les voies de recours. (art. 1481 à 1491)](#409)
+    - [Titre V : L'arbitrage international. (art. 1492 à 1497)](#410)
+    - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#411)
+      - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#412)
+      - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#413)
+  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1508 à 1519)](#414)
+    - [Titre Ier : Dispositions applicables à Mayotte. (art. 1508 à 1511)](#415)
+    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1512 à 1519)](#416)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#417)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#418)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30-15)](#419)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#420)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30-15)](#421)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#422)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#423)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#424)
+          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-15)](#425)
+            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#426)
+            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#427)
+            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#428)
+            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#429)
+            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#430)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#431)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#432)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#433)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#434)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#435)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre VI bis : La médiation.<a id=2></a>
@@ -30888,9 +30899,151 @@ _Cite_:
 
 ## Titre IV : Les obligations et les contrats.<a id=382></a>
 
-### Chapitre I : Les procédures d'injonction<a id=383></a>
+### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=383></a>
 
-#### Section I : L'injonction de payer.<a id=384></a>
+###### Article 1382
+
+Le présent chapitre est relatif à la procédure européenne de règlement des petits litiges prévue par le règlement (CE) n°
+861 / 2007 du Parlement européen et du Conseil du 11 juillet 2007 instituant une procédure européenne de règlement des petits
+litiges. 
+
+Lorsque le règlement (CE) n° 44 / 2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance
+et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un Etat membre sans autre précision,
+la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des défendeurs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1383
+
+Le formulaire de demande est remis ou adressé par voie postale au greffe de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1384
+
+Si, au vu du formulaire de demande qui lui est présenté, il apparaît au tribunal que l'affaire ne relève pas du champ
+d'application de la procédure européenne de règlement des petits litiges, il en avise le demandeur par lettre recommandée
+avec demande d'avis de réception. Il lui impartit un délai pour se désister de sa demande et l'informe que, à défaut,
+l'affaire sera instruite et jugée selon la procédure au fond applicable devant lui. 
+
+A l'expiration de ce délai, si le demandeur ne s'est pas désisté de sa demande, le tribunal constate que le litige ne relève
+pas de la procédure européenne de règlement des petits litiges et invite le demandeur à faire citer le défendeur par voie de
+signification. Cette décision est une mesure d'administration judiciaire. A la diligence du greffe, elle est notifiée au
+demandeur par lettre recommandée avec demande d'avis de réception. 
+
+Le tribunal qui a renvoyé l'affaire pour qu'il soit statué selon la procédure au fond applicable devant lui peut se déclarer
+incompétent dans les conditions prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1385
+
+Lorsque le tribunal rejette la demande au motif que celle-ci apparaît manifestement non fondée ou irrecevable ou que le
+demandeur n'a pas complété ou rectifié le formulaire de demande dans le délai qui lui a été fixé, la décision rendue est
+insusceptible de recours. Le demandeur peut toutefois procéder selon les voies de droit commun.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1386
+
+Lorsqu'une demande reconventionnelle ne relève pas du champ d'application de la procédure européenne de règlement des petits
+litiges, le tribunal en avise les parties par lettre recommandée avec demande d'avis de réception. Il les informe qu'à moins
+que le demandeur reconventionnel ne se désiste de sa demande dans un délai qui lui est imparti, l'affaire sera instruite et
+jugée selon la procédure au fond applicable devant lui. A l'expiration de ce délai, si le demandeur ne s'est pas désisté de
+sa demande, le tribunal constate que le litige ne relève pas de la procédure européenne de règlement des petits litiges. 
+
+Lorsque le tribunal décide, d'office ou à la demande d'une partie, que le litige ne relève pas de la procédure européenne de
+règlement des petits litiges au motif qu'une demande reconventionnelle ne relève pas du champ d'application de cette
+procédure, il ordonne le renvoi de l'affaire à une audience pour qu'il soit statué selon la procédure au fond applicable
+devant lui. A la diligence du greffe, les parties sont avisées de cette décision et sont convoquées à l'audience par lettre
+recommandée avec demande d'avis de réception. 
+
+Le tribunal qui a renvoyé l'affaire pour qu'il soit statué selon la procédure au fond applicable devant lui peut se déclarer
+incompétent dans les conditions prévues par le présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1387
+
+En cas de retour au greffe d'une lettre de notification dont l'avis de réception n'a pas été signé dans les conditions
+prévues à l'article 670, la notification est faite par acte d'huissier de justice, à la diligence du greffe. L'avance des
+frais de signification est à la charge du Trésor public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+_Cite_:
+
+  - Code de procédure civile - art. 670
+
+
+###### Article 1388
+
+Lorsque le tribunal décide de tenir une audience en application de la procédure européenne de règlement des petits litiges,
+il connaît du litige conformément à la procédure au fond applicable devant lui.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1389
+
+Les dispositions de l'article 1387 ne sont pas applicables à la notification aux parties de la décision rendue. Cette
+notification est faite, à la diligence du greffe, par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1390
+
+A la demande qui lui en est faite, le greffe délivre le certificat relatif à une décision rendue dans le cadre de la
+procédure européenne de règlement des petits litiges.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+### Chapitre I : Les procédures d'injonction<a id=384></a>
+
+#### Section I : L'injonction de payer.<a id=385></a>
 
 ###### Article 1405
 
@@ -31331,32 +31484,269 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-###### Article 1425
+#### Section II : L'injonction de faire.<a id=386></a>
 
-Devant le tribunal de commerce, les frais de l'ordonnance portant injonction de payer sont avancés par le créancier et
-consignés au greffe au plus tard dans les quinze jours de la demande prévue à l'article 1405, faute de quoi celle-ci sera
-caduque.
+### Chapitre II : Les procédures d'injonction.<a id=387></a>
 
-L'opposition est reçue sans frais par le greffier. Celui-ci invite sans délai le créancier, par lettre recommandée avec
-demande d'avis de réception, à consigner les frais de l'opposition au greffe dans le délai de quinze jours à peine de
-caducité de la demande prévue à l'article 1405.
+#### Section I : L'injonction de payer.<a id=388></a>
+
+#### Section II : L'injonction de payer européenne.<a id=389></a>
+
+###### Article 1424-1
+
+La présente section est relative à la procédure européenne d'injonction de payer prévue par le règlement (CE) n° 1896 / 2006
+du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer. 
+
+Lorsque le règlement (CE) n° 44 / 2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance
+et l'exécution des décisions en matière civile et commerciale désigne les juridictions d'un Etat membre sans autre précision,
+la juridiction territorialement compétente est celle du lieu où demeure le ou l'un des défendeurs.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-2
+
+Le formulaire de demande d'injonction de payer européenne est remis ou adressé par voie postale au greffe de la juridiction.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-3
+
+Le juge peut délivrer une injonction de payer européenne pour partie de la demande, après que le demandeur a accepté la
+proposition en ce sens qu'il lui a faite. Dans ce cas, le demandeur ne peut plus agir en justice pour réclamer le reliquat,
+sauf à ne pas signifier l'ordonnance et à procéder selon les voies de droit commun.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-4
+
+L'injonction de payer européenne ou la décision de rejet d'une demande d'injonction de payer européenne ainsi que le
+formulaire de demande sont conservés à titre de minute au greffe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-5
+
+Une copie certifiée conforme du formulaire de demande et de la décision est signifiée, à l'initiative du demandeur, à chacun
+des défendeurs. Le formulaire d'opposition à injonction de payer européenne est annexé à l'acte de signification. 
+
+A peine de nullité, l'acte de signification contient, outre les mentions prescrites pour les actes d'huissier de justice,
+l'indication du tribunal devant lequel l'opposition doit être portée, du délai imparti et des formes selon lesquelles elle
+doit être faite. 
+
+Sous la même sanction, l'acte de signification : 
+
+- avertit le défendeur qu'à défaut d'opposition dans le délai indiqué, calculé en application du règlement (CEE, EURATOM) n°
+1182/71 du Conseil du 3 juin 1971 portant détermination des règles applicables aux délais, aux dates et aux termes, il pourra
+être contraint par toutes voies de droit de payer les sommes réclamées ; 
+
+- informe le défendeur de son droit de demander le réexamen de l'injonction de payer européenne devant la juridiction qui l'a
+rendue, après l'expiration du délai d'opposition, dans les cas exceptionnels prévus à l'article 20 du règlement (CE) n°
+1896/2006 du Parlement européen et du Conseil du 12 décembre 2006 instituant une procédure européenne d'injonction de payer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1424-6 (VD)
+
+
+###### Article 1424-6
+
+Si la signification est faite à la personne du défendeur, l'huissier de justice doit porter verbalement à sa connaissance les
+informations qualifiées d'importantes par le formulaire d'injonction de payer européenne ainsi que les indications
+mentionnées à l'article 1424-5.L'accomplissement de cette formalité est mentionné dans l'acte de signification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
 
 _Cite_:
 
-  - Nouveau code de procédure civile 1405
+  - Code de procédure civile - art. 1424-5
 
 
-#### Section II : L'injonction de faire.<a id=385></a>
+###### Article 1424-7
+
+L'huissier de justice adresse une copie de l'acte de signification à la juridiction qui a rendu l'injonction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-8
+
+L'opposition est portée devant la juridiction dont émane l'injonction de payer européenne. 
+
+Elle est formée au greffe soit par déclaration contre récépissé, soit par lettre recommandée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1424-15 (V)
+
+
+###### Article 1424-9
+
+Le tribunal statue sur la demande en recouvrement. 
+
+Il connaît, dans les limites de sa compétence d'attribution, de la demande initiale et de toutes les demandes incidentes et
+défenses au fond. 
+
+En cas de décision d'incompétence, l'affaire est renvoyée devant la juridiction compétente selon les règles prévues à
+l'article 97.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-10
+
+Le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception. 
+
+La convocation est adressée à toutes les parties, même à celles qui n'ont pas formé opposition. 
+
+La convocation contient : 
+
+1° Sa date ; 
+
+2° L'indication de la juridiction devant laquelle l'opposition est portée ; 
+
+3° L'indication de la date de l'audience à laquelle les parties sont convoquées ; 
+
+4° Les conditions d'assistance et de représentation des parties. 
+
+La convocation adressée au défendeur précise en outre que, faute de comparaître, il s'expose à ce qu'un jugement soit rendu
+contre lui sur les seuls éléments fournis par son adversaire. 
+
+Ces mentions sont prescrites à peine de nullité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-11
+
+Si aucune des parties ne se présente, le tribunal constate l'extinction de l'instance. Celle-ci rend non avenue l'injonction
+de payer européenne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-12
+
+Le jugement du tribunal se substitue à l'injonction de payer européenne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-13
+
+Le tribunal statue à charge d'appel lorsque le montant de la demande excède le taux de sa compétence en dernier ressort.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-14
+
+Lorsqu'aucune opposition n'a été formée dans le délai imparti et après prise en compte d'un délai supplémentaire de dix jours
+nécessaire à l'acheminement du recours, le greffier déclare l'injonction de payer européenne exécutoire au moyen du
+formulaire prévu à cet effet et appose sur l'injonction de payer européenne la formule exécutoire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+
+###### Article 1424-15
+
+La procédure de réexamen dans des cas exceptionnels est régie par les articles 1424-8 à 1424-13.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 5
+
+_Cite_:
+
+  - Code de procédure civile - art. 1424-8
+
+
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=390></a>
+
+###### Article 1425
+
+Devant le tribunal de commerce, les frais de la procédure sont avancés par le demandeur et consignés au greffe au plus tard
+dans les quinze jours de la demande, faute de quoi celle-ci sera caduque. 
+
+L'opposition est reçue sans frais par le greffier. Celui-ci invite sans délai le demandeur, par lettre recommandée avec
+demande d'avis de réception, à consigner les frais de l'opposition au greffe dans le délai de quinze jours à peine de
+caducité de la demande. 
+
+Toutefois, la caducité n'est pas encourue en cas de procédure d'injonction de payer européenne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2008-1346 du 17 décembre 2008 - art. 7
+
+
+#### Section IV : L'injonction de faire.<a id=391></a>
 
 ###### Article 1425-1
 
@@ -31602,7 +31992,9 @@ _Créé par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre II : Les offres de paiement et la consignation.<a id=386></a>
+### Chapitre II : Les offres de paiement et la consignation.<a id=392></a>
+
+### Chapitre III : Les offres de paiement et la consignation.<a id=393></a>
 
 ###### Article 1426
 
@@ -31703,7 +32095,9 @@ _Abrogé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 31
 
 
-### Chapitre III : La reconstitution d'actes détruits.<a id=387></a>
+### Chapitre III : La reconstitution d'actes détruits.<a id=394></a>
+
+### Chapitre IV : La reconstitution d'actes détruits.<a id=395></a>
 
 ###### Article 1430
 
@@ -31783,7 +32177,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=388></a>
+### Chapitre IV : La délivrance de copies d'actes et de registres.<a id=396></a>
+
+### Chapitre V : La délivrance de copies d'actes et de registres.<a id=397></a>
 
 ###### Article 1435
 
@@ -31905,7 +32301,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : Le contentieux de la passation de certains contrats de travaux.<a id=389></a>
+### Chapitre V : Le contentieux de la passation de certains contrats de travaux.<a id=398></a>
+
+### Chapitre VI : Le contentieux de la passation de certains contrats de travaux.<a id=399></a>
 
 ###### Article 1441-1
 
@@ -31976,7 +32374,9 @@ _Cité par_:
   - Décret n°2005-1742 du 30 décembre 2005 - art. 47-2 (VT)
 
 
-### Chapitre VI : La transaction<a id=390></a>
+### Chapitre VI : La transaction<a id=400></a>
+
+### Chapitre VII : La transaction.<a id=401></a>
 
 ###### Article 1441-4
 
@@ -32003,11 +32403,11 @@ _Abrogé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 45
 
 
-# Livre IV : L'arbitrage.<a id=391></a>
+# Livre IV : L'arbitrage.<a id=402></a>
 
-## Titre Ier : Les conventions d'arbitrage.<a id=392></a>
+## Titre Ier : Les conventions d'arbitrage.<a id=403></a>
 
-### Chapitre Ier : La clause compromissoire.<a id=393></a>
+### Chapitre Ier : La clause compromissoire.<a id=404></a>
 
 ###### Article 1442
 
@@ -32115,7 +32515,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre II : Le compromis.<a id=394></a>
+### Chapitre II : Le compromis.<a id=405></a>
 
 ###### Article 1447
 
@@ -32198,7 +32598,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-### Chapitre III : Règles communes.<a id=395></a>
+### Chapitre III : Règles communes.<a id=406></a>
 
 ###### Article 1451
 
@@ -32424,7 +32824,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre II : L'instance arbitrale.<a id=396></a>
+## Titre II : L'instance arbitrale.<a id=407></a>
 
 ###### Article 1460
 
@@ -32637,7 +33037,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre III : La sentence arbitrale.<a id=397></a>
+## Titre III : La sentence arbitrale.<a id=408></a>
 
 ###### Article 1469
 
@@ -32915,7 +33315,7 @@ _Cite_:
   - Nouveau code de procédure civile 1471, 1472, 1473
 
 
-## Titre IV : Les voies de recours.<a id=398></a>
+## Titre IV : Les voies de recours.<a id=409></a>
 
 ###### Article 1481
 
@@ -33179,7 +33579,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre V : L'arbitrage international.<a id=399></a>
+## Titre V : L'arbitrage international.<a id=410></a>
 
 ###### Article 1492
 
@@ -33292,9 +33692,9 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
 
 
-## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=400></a>
+## Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=411></a>
 
-### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=401></a>
+### Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=412></a>
 
 ###### Article 1498
 
@@ -33352,7 +33752,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=402></a>
+### Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international.<a id=413></a>
 
 ###### Article 1501
 
@@ -33499,9 +33899,9 @@ _Cite_:
   - Nouveau code de procédure civile 1487 et 1490
 
 
-# Livre VI : Dispositions relatives à l'outre-mer.<a id=403></a>
+# Livre VI : Dispositions relatives à l'outre-mer.<a id=414></a>
 
-## Titre Ier : Dispositions applicables à Mayotte.<a id=404></a>
+## Titre Ier : Dispositions applicables à Mayotte.<a id=415></a>
 
 ###### Article 1508
 
@@ -33634,7 +34034,7 @@ _Nouveaux textes_:
   - Code de procédure civile - art. 1573 (MMN)
 
 
-## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=405></a>
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=416></a>
 
 ###### Article 1512
 
@@ -33827,9 +34227,9 @@ _Nouveaux textes_:
   - Code de procédure civile - art. 1582 (V)
 
 
-# Annexes<a id=406></a>
+# Annexes<a id=417></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=407></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=418></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -33843,9 +34243,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=408></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=419></a>
 
-#### Section I : Dispositions communes.<a id=409></a>
+#### Section I : Dispositions communes.<a id=420></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -34011,9 +34411,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=410></a>
+#### Section II : Dispositions propres à certaines matières.<a id=421></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=411></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=422></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -34166,7 +34566,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=412></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=423></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -34215,7 +34615,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=413></a>
+##### Sous-section III : Affaires de registres.<a id=424></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -34331,9 +34731,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section IV : Dispositions particulières au registre des associations<a id=414></a>
+##### Sous-section IV : Dispositions particulières au registre des associations<a id=425></a>
 
-##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=415></a>
+##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=426></a>
 
 ###### Article ANNEXE, art. 30-1
 
@@ -34446,7 +34846,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 2 : La tenue du registre<a id=416></a>
+##### Paragraphe 2 : La tenue du registre<a id=427></a>
 
 ###### Article ANNEXE, art. 30-5
 
@@ -34526,7 +34926,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 3 : La publication de l'inscription<a id=417></a>
+##### Paragraphe 3 : La publication de l'inscription<a id=428></a>
 
 ###### Article ANNEXE, art. 30-9
 
@@ -34583,7 +34983,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=418></a>
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=429></a>
 
 ###### Article ANNEXE, art. 30-11
 
@@ -34635,7 +35035,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 5 : Les sanctions<a id=419></a>
+##### Paragraphe 5 : Les sanctions<a id=430></a>
 
 ###### Article ANNEXE, art. 30-13
 
@@ -34704,7 +35104,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=420></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=431></a>
 
 ###### Article ANNEXE, art. 31
 
@@ -34807,7 +35207,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=421></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=432></a>
 
 ###### Article ANNEXE, art. 36
 
@@ -34852,7 +35252,7 @@ _Cite_:
   - Nouveau code de procédure civile annexe, 36
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=422></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=433></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -34912,7 +35312,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=423></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=434></a>
 
 ###### Article ANNEXE, art. 42
 
@@ -34933,7 +35333,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-### Chapitre VII : Dispositions diverses.<a id=424></a>
+### Chapitre VII : Dispositions diverses.<a id=435></a>
 
 ###### Article ANNEXE, art. 43
 
