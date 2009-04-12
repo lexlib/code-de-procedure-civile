@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-03-15
+Version Consolidée au 2009-04-13
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -329,7 +329,7 @@ Version Consolidée au 2009-03-15
           - [Sous-section 1 : Dispositions générales (art. 1211 à 1216)](#326)
           - [Sous-section 2 : La procédure devant le juge des tutelles (art. 1217 à 1233)](#327)
             - [Paragraphe 1 : La demande (art. 1217 à 1219)](#328)
-            - [Paragraphe 2 : L'instruction de la demande (art. 1220 à 1221)](#329)
+            - [Paragraphe 2 : L'instruction de la demande (art. 1220 à 1221-2)](#329)
             - [Paragraphe 3 : La consultation du dossier et la délivrance de copies (art. 1222 à 1224)](#330)
             - [Paragraphe 4 : La communication du dossier au ministère public (art. 1225)](#331)
             - [Paragraphe 5 : Les décisions du juge des tutelles (art. 1226 à 1229)](#332)
@@ -22893,6 +22893,39 @@ _Cite_:
   - Code civil - art. 373-2-12 (V)
 
 
+###### Article 1072-1
+
+Lorsqu'il statue sur l'exercice de l'autorité parentale, le juge aux affaires familiales vérifie si une procédure
+d'assistance éducative est ouverte à l'égard du ou des mineurs. Il peut demander au juge des enfants de lui transmettre copie
+de pièces du dossier en cours, selon les modalités définies à l'article 1187-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-398 du 10 avril 2009 - art. 1
+
+_Cite_:
+
+  - Code de procédure civile - art. 1187-1 (V)
+
+
+###### Article 1072-2
+
+Dès lors qu'une procédure d'assistance éducative est ouverte à l'égard du ou des mineurs, une copie de la décision du juge
+aux affaires familiales est transmise au juge des enfants ainsi que toute pièce que ce dernier estime utile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-398 du 10 avril 2009 - art. 1
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1187-1 (V)
+
+
 ###### Article 1073
 
 Le juge aux affaires familiales est, le cas échéant, juge de la mise en état.
@@ -25500,6 +25533,35 @@ _Cite_:
   - Nouveau code de procédure civile 1183
 
 
+###### Article 1187-1
+
+Le juge des enfants communique au juge aux affaires familiales ou au juge des tutelles les pièces qu'ils sollicitent quand
+les parties à la procédure devant ces derniers ont qualité pour consulter le dossier en vertu de l'article 1187. Il peut ne
+pas transmettre certaines pièces lorsque leur production ferait courir un danger physique ou moral grave au mineur, à une
+partie ou à un tiers. 
+
+Dans les conditions prévues aux articles 1072-2 et 1221-2, le juge aux affaires familiales ou le juge des tutelles
+transmettent copie de leur décision au juge des enfants ainsi que de toute pièce que ce dernier estime utile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-398 du 10 avril 2009 - art. 2
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1072-1 (V)
+  - Code de procédure civile - art. 1205-1 (V)
+  - Code de procédure civile - art. 1221-1 (V)
+
+_Cite_:
+
+  - Code de procédure civile - art. 1072-2 (V)
+  - Code de procédure civile - art. 1187 (V)
+  - Code de procédure civile - art. 1221-2 (V)
+
+
 ###### Article 1188
 
 L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
@@ -26805,6 +26867,39 @@ _Cité par_:
 _Cite_:
 
   - Nouveau code de procédure civile 1222
+
+
+###### Article 1221-1
+
+Le juge des tutelles qui connaît de la situation d'un mineur peut vérifier auprès du juge des enfants si une procédure
+d'assistance éducative est ouverte et demander à ce dernier de lui transmettre copie de pièces du dossier en cours, selon les
+modalités définies à l'article 1187-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-398 du 10 avril 2009 - art. 3
+
+_Cite_:
+
+  - Code de procédure civile - art. 1187-1 (V)
+
+
+###### Article 1221-2
+
+Dès lors qu'il est informé qu'une procédure d'assistance éducative est ouverte à l'égard du mineur, le juge des tutelles
+transmet, à la demande du juge des enfants, copie de toute pièce que ce dernier estime utile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-398 du 10 avril 2009 - art. 3
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1187-1 (V)
 
 
 ##### Paragraphe 3 : La consultation du dossier et la délivrance de copies<a id=330></a>
