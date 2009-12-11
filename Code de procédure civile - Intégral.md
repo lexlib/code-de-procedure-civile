@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-12-01
+Version Consolidée au 2009-12-12
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -187,7 +187,7 @@ Version Consolidée au 2009-12-01
       - [Chapitre II : Les commissions rogatoires internationales. (art. 733 à 748)](#184)
         - [Section I : Commissions rogatoires à destination d'un Etat étranger. (art. 733 à 735)](#185)
         - [Section II : Commissions rogatoires en provenance d'un Etat étranger. (art. 736 à 748)](#186)
-    - [Titre XXI : La communication par voie électronique. (art. 748-1 à 748-6)](#187)
+    - [Titre XXI : La communication par voie électronique. (art. 748-1 à 748-7)](#187)
     - [Titre XXII : Disposition finale. (art. 749)](#188)
   - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 1037)](#189)
     - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art. 750 à 826-1)](#190)
@@ -14777,6 +14777,27 @@ _Cité par_:
   - Décret n°2012-366 du 15 mars 2012 - art. 24 (V)
   - Arrêté du 28 août 2012 - art. 5 (V)
   - Arrêté du 12 mars 2013 - art. 3 (Ab)
+
+
+###### Article 748-7
+
+Lorsqu'un acte doit être accompli avant l'expiration d'un délai et ne peut être transmis par voie électronique le dernier
+jour du délai pour une cause étrangère à celui qui l'accomplit, le délai est prorogé jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°92-755 du 31 juillet 1992 - art. 59 (MMN)
+  - Décret n°2019-992 du 26 septembre 2019 - art. 13
+  - Décret n°2019-992 du 26 septembre 2019 - art. 4
+  - Code des procédures civiles d'exécution - art. R162-1 (VD)
+  - Code des procédures civiles d'exécution - art. R211-4 (V)
+  - Code des procédures civiles d'exécution - art. R523-4 (VD)
+
+_Créé par_:
+
+  - Décret n°2009-1524 du 9 décembre 2009 - art. 4
 
 
 ## Titre XXII : Disposition finale.<a id=188></a>
