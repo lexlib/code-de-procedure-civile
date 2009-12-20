@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2009-12-12
+Version Consolidée au 2009-12-21
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -285,7 +285,7 @@ Version Consolidée au 2009-12-12
         - [Section II : La déclaration d'absence (art. 1066 à 1069)](#282)
       - [Chapitre V : La procédure en matière familiale (art. 1070 à 1142)](#283)
         - [Section I : Dispositions générales (art. 1070 à 1074-1)](#284)
-        - [Section II : Le divorce et la séparation de corps (art. 1075 à 1136-3)](#285)
+        - [Section II : Le divorce et la séparation de corps (art. 1075 à 1136-2)](#285)
           - [Sous-section I : Dispositions générales (art. 1075 à 1087)](#286)
             - [Paragraphe 1 : Les demandes (art. 1075 à 1077)](#287)
             - [Paragraphe 2 : La prestation compensatoire (art. 1079 à 1080)](#288)
@@ -304,7 +304,7 @@ Version Consolidée au 2009-12-12
             - [Paragraphe 8 : Dispositions particulières au divorce pour faute (art. 1128)](#301)
           - [Sous-section IV : La séparation de corps (art. 1129 à 1130)](#302)
           - [Sous-section V : Le divorce sur conversion de la séparation de corps (art. 1131 à 1136)](#303)
-          - [Sous-section VI : La liquidation et le partage des intérêts patrimoniaux des époux (art. 1136-1 à 1136-3)](#304)
+          - [Sous-section VI : La liquidation et le partage des intérêts patrimoniaux des époux (art. 1136-1 à 1136-2)](#304)
         - [Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales (art. 1137 à 1142)](#305)
       - [Chapitre VI : La filiation et les subsides (art. 1149 à 1157-3)](#306)
         - [Section I : Dispositions générales (art. 1149 à 1151)](#307)
@@ -24375,31 +24375,6 @@ _Cite_:
   - Code civil - art. 275 (M)
   - Code civil - art. 276 (M)
   - Code civil 255, 233 à 237, 239, 245, 264 à 267, 273, 275, 276, 278 à 280
-
-
-###### Article 1136-3
-
-Les dispositions de la section 6 du chapitre II du titre III du livre III sont applicables au partage des intérêts
-patrimoniaux des époux, sous réserve des dispositions des articles 267 et 267-1 du code civil.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 4 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-_Abrogé par_:
-
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 3
-
-_Cite_:
-
-  - Code civil - art. 267
-  - Code civil - art. 267-1
 
 
 #### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales<a id=305></a>
