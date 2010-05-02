@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-03-01
+Version Consolidée au 2010-05-03
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -400,7 +400,7 @@ Version Consolidée au 2010-03-01
             - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#397)
         - [Section VII : Dispositions communes. (art. 1379 à 1381)](#398)
     - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#399)
-      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1390)](#400)
+      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#400)
       - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#401)
         - [Section I : L'injonction de payer. (art. 1405 à 1424)](#402)
         - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#403)
@@ -32533,6 +32533,19 @@ procédure européenne de règlement des petits litiges.
 _Créé par_:
 
   - Décret n°2008-1346 du 17 décembre 2008 - art. 3
+
+
+###### Article 1391
+
+Le droit à réexamen prévu par l'article 18 du règlement (CE) n° 861/2007 du Parlement européen et du Conseil du 11 juillet
+2007 instituant une procédure européenne de règlement des petits litiges s'exerce selon la procédure de l'opposition, lorsque
+celle-ci est ouverte, ou, dans le cas contraire, selon des modalités procédurales similaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-433 du 29 avril 2010 - art. 4
 
 
 ### Chapitre II : Les procédures d'injonction.<a id=401></a>
