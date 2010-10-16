@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2010-10-01
+Version Consolidée au 2010-10-17
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -41,9 +41,9 @@ Version Consolidée au 2010-10-01
           - [Sous-section I : La nullité des actes pour vice de forme. (art. 112 à 116)](#38)
           - [Sous-section II : La nullité des actes pour irrégularité de fond. (art. 117 à 121)](#39)
       - [Chapitre III : Les fins de non-recevoir. (art. 122 à 126)](#40)
-    - [Titre V bis : La question prioritaire de constitutionnalité (art. 126-1 à 126-12)](#41)
+    - [Titre V bis : La question prioritaire de constitutionnalité (art. 126-1 à 126-13)](#41)
       - [Chapitre Ier : La transmission par le juge de la question prioritaire de constitutionnalité à la Cour de cassation (art. 126-1 à 126-7)](#42)
-      - [Chapitre II : Le renvoi par la Cour de cassation de la question prioritaire de constitutionnalité au Conseil constitutionnel (art. 126-8 à 126-12)](#43)
+      - [Chapitre II : Le renvoi par la Cour de cassation de la question prioritaire de constitutionnalité au Conseil constitutionnel (art. 126-8 à 126-13)](#43)
     - [Titre VI : La conciliation. (art. 127 à 131)](#44)
     - [Titre VII : L'administration judiciaire de la preuve. (art. 132 à 322)](#45)
       - [Sous-titre Ier : Les pièces. (art. 132 à 142)](#46)
@@ -3217,21 +3217,29 @@ _Cité par_:
 
 ###### Article 126-10
 
-Lorsque la question prioritaire de constitutionnalité est soulevée à l'occasion d'un pourvoi, les autres parties au pourvoi
-disposent d'un délai d'un mois pour remettre un mémoire en réponse sur la question prioritaire de constitutionnalité. Celui-
-ci est établi, remis et communiqué suivant les règles régissant le pourvoi.
+Lorsque la question prioritaire de constitutionnalité est soulevée à l'occasion d'un pourvoi, le mémoire distinct prévu à l'
+article 23-5 de l'ordonnance n° 58-1067 du 7 novembre 1958  porte la mention : " question prioritaire de constitutionnalité
+". 
+
+Les autres parties au pourvoi disposent d'un délai d'un mois pour remettre un mémoire en réponse sur la question prioritaire
+de constitutionnalité. Celui-ci est établi, remis et communiqué suivant les règles régissant le pourvoi.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2010-148 du 16 février 2010 - art. 3
+  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 23-5
+  - Code de procédure civile - art. 126-11
+
+_Modifié par_:
+
+  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
 
 
 ###### Article 126-11
 
-Le premier président ou son délégué, à la demande de l'une des parties ou d'office, peut, en cas d'urgence, réduire le délai
-prévu par les articles 126-9 et 126-10.
+Le président de la formation à laquelle l'affaire est distribuée ou son délégué, à la demande de l'une des parties ou
+d'office, peut, en cas d'urgence, réduire le délai prévu par les articles 126-9 et 126-10.
 
 Il fixe la date de l'audience au cours de laquelle sera examinée la question prioritaire de constitutionnalité. 
 
@@ -3239,9 +3247,9 @@ Le procureur général en est avisé pour lui permettre de faire connaître son 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-148 du 16 février 2010 - art. 3
+  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
 
 _Cité par_:
 
@@ -3256,26 +3264,32 @@ _Cite_:
 
 ###### Article 126-12
 
-Le greffe notifie aux parties la décision prise par le premier président ou son délégué en application du premier alinéa de
-l'article 126-11, ainsi que la date de l'audience.
+La Cour de cassation n'est pas tenue de renvoyer au Conseil constitutionnel une question prioritaire de constitutionnalité
+mettant en cause, par les mêmes motifs, une disposition législative dont le Conseil constitutionnel est déjà saisi. En cas
+d'absence de transmission pour cette raison, elle diffère sa décision jusqu'à l'intervention de la décision du Conseil
+constitutionnel.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
+
+
+###### Article 126-13
+
+Le greffe notifie aux parties la décision prise par le président de la formation ou son délégué en application du premier
+alinéa de l'article 126-11, ainsi que la date de l'audience.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2010-148 du 16 février 2010 - art. 3
+  - Décret n°2010-1216 du 15 octobre 2010 - art. 2
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2010-1216 du 15 octobre 2010 - art. 2
-
-_Cite_:
-
-  - Code de procédure civile - art. 126-11
-
-_Nouveaux textes_:
-
-  - Code de procédure civile - art. 126-13 (V)
+  - Code de procédure civile - art. 126-12 (T)
 
 
 ## Titre VI : La conciliation.<a id=44></a>
