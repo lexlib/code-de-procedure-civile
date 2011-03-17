@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-01-16
+Version Consolidée au 2011-03-18
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -14125,13 +14125,26 @@ _Cite_:
 ###### Article 696
 
 La partie perdante est condamnée aux dépens, à moins que le juge, par décision motivée, n'en mette la totalité ou une
-fraction à la charge d'une autre partie.
+fraction à la charge d'une autre partie. 
+
+Les conditions dans lesquelles il peut être mis à la charge d'une partie qui bénéficie de l'aide juridictionnelle tout ou
+partie des dépens de l'instance sont fixées par les dispositions de la loi n° 91-647 du 10 juillet 1991 et du décret n°
+91-1266 du 19 décembre 1991.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cite_:
+
+  - Loi n°91-647 du 10 juillet 1991
+  - Décret n°91-1266 du 19 décembre 1991
+
+_Modifié par_:
+
+  - Décret n°2011-272 du 15 mars 2011 - art. 23
 
 _Cité par_:
 
@@ -24225,17 +24238,23 @@ _Cite_:
 
 ###### Article 1105
 
-Les dépens de l'instance sont partagés par moitié entre les époux, si leur convention n'en dispose autrement.
+Les dépens de l'instance sont partagés par moitié entre les époux. Toutefois, leur convention peut en disposer autrement sous
+réserve de l'application des dispositions de l'article 123-2 du décret n° 91-1266 du 19 décembre 1991 lorsque l'un des époux
+bénéficie de l'aide juridictionnelle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cite_:
+
+  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2011-272 du 15 mars 2011 - art. 24
 
 
 ##### Sous-section III : Les autres procédures de divorce<a id=310></a>
