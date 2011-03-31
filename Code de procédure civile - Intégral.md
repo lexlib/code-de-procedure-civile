@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-03-18
+Version Consolidée au 2011-04-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -438,28 +438,27 @@ Version Consolidée au 2011-03-18
     - [Titre VI : La reconnaissance, l'exécution forcée et les voies de recours à l'égard des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1507)](#435)
       - [Chapitre Ier : La reconnaissance et l'exécution forcée des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1498 à 1500)](#436)
       - [Chapitre II : Les voies de recours contre les sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international. (art. 1501 à 1507)](#437)
-  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1508 à 1519)](#438)
-    - [Titre Ier : Dispositions applicables à Mayotte. (art. 1508 à 1511-1)](#439)
-    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1512 à 1519)](#440)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#441)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#442)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30-15)](#443)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#444)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30-15)](#445)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#446)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#447)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#448)
-          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-15)](#449)
-            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#450)
-            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#451)
-            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#452)
-            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#453)
-            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#454)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#455)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#456)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#457)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#458)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#459)
+  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1512 à 1519)](#438)
+    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1512 à 1519)](#439)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#440)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#441)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à ANNEXE, art. 30-15)](#442)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#443)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à ANNEXE, art. 30-15)](#444)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#445)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#446)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#447)
+          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-15)](#448)
+            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#449)
+            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#450)
+            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#451)
+            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#452)
+            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#453)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#454)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#455)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#456)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#457)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#458)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre VI bis : La médiation.<a id=2></a>
@@ -35927,169 +35926,7 @@ _Cite_:
 
 # Livre VI : Dispositions relatives à l'outre-mer.<a id=438></a>
 
-## Titre Ier : Dispositions applicables à Mayotte.<a id=439></a>
-
-###### Article 1508
-
-Le présent code est applicable à Mayotte dans les conditions définies au présent livre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
-
-_Nouveaux textes_:
-
-  - Code de procédure civile - art. 1570 (MMN)
-
-
-###### Article 1509
-
-Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :
-
-1° "tribunal de grande instance" ou "tribunal d'instance" ou "tribunal de commerce" par : "tribunal de première instance" ;
-
-2° "cour" ou "cour d'appel" par : "tribunal supérieur d'appel" ;
-
-3° "juge d'instance" par : "président du tribunal de première instance ou son délégué" ;
-
-4° "premier président de la cour d'appel" par : "président du tribunal supérieur d'appel" ;
-
-5° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
-
-6° "procureur général" par : "procureur de la République près le tribunal supérieur d'appel" ;
-
-7° "département" par : "collectivité départementale" ;
-
-8° "préfet" par : "représentant de l'Etat".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
-
-_Nouveaux textes_:
-
-  - Code de procédure civile - art. 1571 (MMN)
-
-
-###### Article 1510
-
-Les parties ne sont jamais tenues de se faire représenter et peuvent en toute circonstance se défendre elles-mêmes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
-
-_Cité par_:
-
-  - Décret n°2011-338 du 29 mars 2011 - art. 18 (V)
-
-_Nouveaux textes_:
-
-  - Code de procédure civile - art. 1572 (MMN)
-
-
-###### Article 1511
-
-Sous réserve des dispositions prévues à l'article 1510 et au titre IV du livre IX du code de l'organisation judiciaire, le
-tribunal supérieur d'appel et le tribunal de première instance statuent selon les dispositions particulières de procédure
-applicables à chaque juridiction de métropole dans le domaine de compétence que le code de l'organisation judiciaire attribue
-à celle-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2005-1302 du 14 octobre 2005 - art. 1 () JORF 21 octobre 2005
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
-
-_Nouveaux textes_:
-
-  - Code de procédure civile - art. 1573 (MMN)
-
-
-###### Article 1511-1
-
-Les dispositions de la section II bis du chapitre IX du titre Ier du livre III seront applicables à la date de publication
-des dispositions d'adaptation prévues par l'article 40 de la loi n° 2007-293 du 5 mars 2007 réformant la protection de
-l'enfance.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2007-293 du 5 mars 2007 - art. 40
-
-_Créé par_:
-
-  - Décret n°2008-1486 du 30 décembre 2008 - art. 6
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2011-48 du 13 janvier 2011 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2011-338 du 29 mars 2011 - art. 13 (V)
-
-_Nouveaux textes_:
-
-  - Code de procédure civile - art. 1574 (MMN)
-
-
-## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=440></a>
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=439></a>
 
 ###### Article 1512
 
@@ -36298,9 +36135,9 @@ _Nouveaux textes_:
   - Code de procédure civile - art. 1582 (V)
 
 
-# Annexes<a id=441></a>
+# Annexes<a id=440></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=442></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=441></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -36314,9 +36151,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=443></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=442></a>
 
-#### Section I : Dispositions communes.<a id=444></a>
+#### Section I : Dispositions communes.<a id=443></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -36482,9 +36319,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=445></a>
+#### Section II : Dispositions propres à certaines matières.<a id=444></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=446></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=445></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -36637,7 +36474,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=447></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=446></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -36686,7 +36523,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=448></a>
+##### Sous-section III : Affaires de registres.<a id=447></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -36802,9 +36639,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section IV : Dispositions particulières au registre des associations<a id=449></a>
+##### Sous-section IV : Dispositions particulières au registre des associations<a id=448></a>
 
-##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=450></a>
+##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=449></a>
 
 ###### Article ANNEXE, art. 30-1
 
@@ -36917,7 +36754,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 2 : La tenue du registre<a id=451></a>
+##### Paragraphe 2 : La tenue du registre<a id=450></a>
 
 ###### Article ANNEXE, art. 30-5
 
@@ -36997,7 +36834,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 3 : La publication de l'inscription<a id=452></a>
+##### Paragraphe 3 : La publication de l'inscription<a id=451></a>
 
 ###### Article ANNEXE, art. 30-9
 
@@ -37054,7 +36891,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=453></a>
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=452></a>
 
 ###### Article ANNEXE, art. 30-11
 
@@ -37106,7 +36943,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 5 : Les sanctions<a id=454></a>
+##### Paragraphe 5 : Les sanctions<a id=453></a>
 
 ###### Article ANNEXE, art. 30-13
 
@@ -37175,7 +37012,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=455></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=454></a>
 
 ###### Article ANNEXE, art. 31
 
@@ -37278,7 +37115,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=456></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=455></a>
 
 ###### Article ANNEXE, art. 36
 
@@ -37323,7 +37160,7 @@ _Cite_:
   - Nouveau code de procédure civile annexe, 36
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=457></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=456></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -37383,7 +37220,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=458></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=457></a>
 
 ###### Article ANNEXE, art. 42
 
@@ -37405,7 +37242,7 @@ _Cite_:
   - Code de procédure civile - art. 901
 
 
-### Chapitre VII : Dispositions diverses.<a id=459></a>
+### Chapitre VII : Dispositions diverses.<a id=458></a>
 
 ###### Article ANNEXE, art. 43
 
