@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2011-11-11
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -273,7 +273,7 @@ Version Consolidée au 2011-11-11
       - [Sous-titre III : Dispositions diverses. (art. 960 à 972)](#270)
         - [Chapitre Ier : Constitution d'avoué et conclusions. (art. 960 à 962)](#271)
         - [Chapitre Ier bis : Justification de l'acquittement des contributions et droits fiscaux (art. 963 à 964-1)](#272)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 964 à 965)](#273)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 965)](#273)
         - [Chapitre III : Le greffe. (art. 966 à 972)](#274)
     - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031-7)](#275)
       - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#276)
@@ -21027,6 +21027,54 @@ _Cite_:
   - Code de procédure civile - art. 916
 
 
+###### Article 964
+
+Lorsque l'appel entre dans le champ d'application de l'article 1635 bis P du code général des impôts, les parties justifient,
+à peine d'irrecevabilité de l'appel ou des défenses selon le cas, de l'acquittement du droit prévu à cet article. 
+
+Sauf en cas de demande d'aide juridictionnelle, l'auteur de l'appel principal en justifie lors de la remise de sa déclaration
+d'appel et les autres parties lors de la remise de leur acte de constitution par l'apposition de timbres mobiles ou par la
+remise d'un justificatif lorsque le droit pour l'indemnisation de la profession d'avoué a été acquitté par voie électronique.
+En cas de requête conjointe, les appelants justifient de l'acquittement du droit lors de la remise de leur requête. 
+
+Lorsque la partie a sollicité le bénéfice de l'aide juridictionnelle, elle joint la décision accordant cette aide à l'acte
+assujetti à l'acquittement du droit. A défaut de décision rendue sur la demande d'aide juridictionnelle, l'acte est
+accompagné de la copie de cette demande. Si cette demande d'aide juridictionnelle est déclarée caduque ou rejetée ou que la
+décision l'octroyant est retirée, le demandeur justifie, à peine d'irrecevabilité, de l'acquittement du droit dans le mois
+suivant, selon le cas, la notification de la caducité ou la date à laquelle le rejet ou le retrait est devenu définitif. 
+
+L'irrecevabilité est constatée et, le cas échéant, rapportée dans les conditions prévues par les articles 62-5 et 963.
+
+**Nota:**
+
+Décret n° 2011-1202 du 28 septembre 2011 art 21 I : L'article 964 du code de procédure civile résultant de l'article 5 du
+présent décret entre en vigueur le 1er janvier 2012 et le demeure jusqu'à l'expiration du délai fixé au II de l'article 54 de
+la loi du 30 décembre 2009 de finances rectificative pour 2010 (31 décembre 2018).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2011-1202 du 28 septembre 2011 - art. 21 (V)
+  - Décret n°2013-1280 du 29 décembre 2013 - art. 13
+  - Code de procédure civile - art. 964-1 (VD)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 326 ter (V)
+
+_Modifié par_:
+
+  - Décret n°2011-1202 du 28 septembre 2011 - art. 5
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1635 bis P
+  - Code de procédure civile - art. 62-5
+  - Code de procédure civile - art. 963
+
+
 ###### Article 964-1
 
 Par exception à l'article 62-4 et à l'article 964, en matière gracieuse, l'appelant justifie de l'acquittement du droit sur
@@ -21045,35 +21093,6 @@ _Cite_:
 
 
 #### Chapitre II : Mesures d'administration judiciaire.<a id=273></a>
-
-###### Article 964
-
-Plusieurs magistrats peuvent être chargés de la mise en état dans une même chambre ; dans ce cas, les affaires sont réparties
-entre eux par le président de la chambre.
-
-Les magistrats de la mise en état peuvent être remplacés à tout moment en cas d'empêchement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
-
-_Abrogé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. 9
-
-_Cité par_:
-
-  - Décret n°2011-1202 du 28 septembre 2011 - art. 21 (V)
-  - Décret n°2013-1280 du 29 décembre 2013 - art. 13
-  - Code de procédure civile - art. 964-1 (VD)
-  - Code général des impôts, annexe 2, CGIAN2. - art. 326 ter (V)
-
-_Nouveaux textes_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R312-6 (V)
-
 
 ###### Article 965
 
