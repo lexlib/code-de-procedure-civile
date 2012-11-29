@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-10-01
+Version Consolidée au 2012-11-30
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -339,7 +339,7 @@ Version Consolidée au 2012-10-01
         - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#336)
         - [Section IV : Dispositions communes (art. 1178-1)](#337)
       - [Chapitre IX : L'autorité parentale (art. 1179 à 1210-9)](#338)
-        - [Section I : L'exercice de l'autorité parentale (art. 1179 à 1180-4)](#339)
+        - [Section I : L'exercice de l'autorité parentale (art. 1179 à 1180-5)](#339)
         - [Section II : L'assistance éducative (art. 1181 à 1200-1)](#340)
         - [Section II bis : La mesure judiciaire d'aide à la gestion du budget familial (art. 1200-2 à 1200-13)](#341)
         - [Section III : Délégation, retrait total et partiel de l'autorité parentale (art. 1202 à 1210)](#342)
@@ -26713,6 +26713,30 @@ _Cite_:
   - Code civil - art. 373-2-6
 
 
+###### Article 1180-5
+
+Lorsqu'en statuant sur les droits de visite et d'hébergement, à titre provisoire ou sur le fond, le juge décide que le droit
+de visite ou la remise de l'enfant s'exercera dans un espace de rencontre qu'il désigne en application des articles 373-2-1
+ou 373-2-9 du code civil, il fixe la durée de la mesure et détermine la périodicité et la durée des rencontres. 
+
+Le juge peut à tout moment modifier ou rapporter sa décision d'office, à la demande conjointe des parties ou de l'une d'entre
+elles ou à la demande du ministère public. 
+
+En cas de difficulté dans la mise en œuvre de la mesure, la personne gestionnaire de l'espace de rencontre en réfère
+immédiatement au juge.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1312 du 27 novembre 2012 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 373-2-1
+  - Code civil - art. 373-2-9
+
+
 #### Section II : L'assistance éducative<a id=340></a>
 
 ###### Article 1181
@@ -27282,6 +27306,22 @@ des enfants convoque les parties à une audience afin d'établir un bilan de la 
 _Modifié par_:
 
   - Décret n°2008-1486 du 30 décembre 2008 - art. 1
+
+
+###### Article 1199-2
+
+La désignation d'un espace de rencontre en application de la dernière phrase du quatrième alinéa de l'article 375-7 du code
+civil donne lieu à une information préalable du juge des enfants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1312 du 27 novembre 2012 - art. 2
+
+_Cite_:
+
+  - Code civil - art. 375-7
 
 
 ###### Article 1200
