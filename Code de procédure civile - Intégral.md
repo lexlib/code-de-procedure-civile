@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-12-27
+Version Consolidée au 2012-12-28
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -218,7 +218,7 @@ Version Consolidée au 2012-12-27
       - [Sous-titre III : Dispositions diverses. (art. 814 à 826)](#215)
         - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 814 à 816)](#216)
         - [Chapitre Ier bis : Contribution pour l'aide juridique (art. 818)](#217)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 820)](#218)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 819 à 820)](#218)
         - [Chapitre III : Le greffe. (art. 821 à 826)](#219)
       - [Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale. (art. 826-1)](#220)
     - [Titre II : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. 827 à 852-1)](#221)
@@ -273,7 +273,7 @@ Version Consolidée au 2012-12-27
       - [Sous-titre III : Dispositions diverses. (art. 960 à 972)](#270)
         - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 960 à 962)](#271)
         - [Chapitre Ier bis : Justification de l'acquittement des contributions et droits fiscaux (art. 963 à 964-1)](#272)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 965)](#273)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 964-2 à 965)](#273)
         - [Chapitre III : Le greffe. (art. 966 à 972)](#274)
     - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031-7)](#275)
       - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#276)
@@ -4042,24 +4042,28 @@ _Codifié par_:
 
 ###### Article 155
 
-La mesure d'instruction est exécutée sous le contrôle du juge qui l'a ordonnée lorsqu'il n'y procède pas lui-même.
+La mesure d'instruction est exécutée sous le contrôle du juge qui l'a ordonnée lorsqu'il n'y procède pas lui-même. 
 
 Lorsque la mesure est ordonnée par une formation collégiale, le contrôle est exercé par le juge qui était chargé de
 l'instruction. A défaut, il l'est par le président de la formation collégiale s'il n'a pas été confié à un membre de celle-
-ci.
+ci. 
 
-Le juge mentionné au premier alinéa et la formation collégiale peuvent également avoir recours au juge désigné dans les
-conditions de l'article 155-1.
+Le contrôle de l'exécution de cette mesure peut également être assuré par le juge désigné dans les conditions de l'article
+155-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°98-1231 du 28 décembre 1998 - art. 4 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+  - Décret n°2012-1451 du 24 décembre 2012 - art. 3
+
+_Cite_:
+
+  - Code de procédure civile - art. 155-1
 
 
 ###### Article 155-1
@@ -17123,6 +17127,31 @@ _Cite_:
 
 #### Chapitre II : Mesures d'administration judiciaire.<a id=218></a>
 
+###### Article 819
+
+Le juge chargé de contrôler l'exécution des mesures d'instruction, désigné dans les conditions de l'article 155-1, est
+compétent pour assurer le contrôle des mesures d'instruction ordonnées en référé, sauf s'il en est décidé autrement lors de
+la répartition des juges entre les différentes chambres et services du tribunal. 
+
+Il est également compétent pour les mesures ordonnées par le juge de la mise en état en application de l'article 771, sauf si
+ce dernier s'en réserve le contrôle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2012-1451 du 24 décembre 2012 - art. 4
+
+_Cite_:
+
+  - Code de procédure civile - art. 155-1
+  - Code de procédure civile - art. 771
+
+
 ###### Article 820
 
 Le président du tribunal de grande instance peut déléguer à un ou plusieurs magistrats tout ou partie des pouvoirs qui lui
@@ -21186,6 +21215,19 @@ _Cite_:
 
 
 #### Chapitre II : Mesures d'administration judiciaire.<a id=273></a>
+
+###### Article 964-2
+
+La cour d'appel qui infirme une ordonnance de référé ayant refusé une mesure d'instruction peut confier le contrôle de la
+mesure d'instruction qu'elle ordonne au juge chargé de contrôler les mesures d'instruction de la juridiction dont émane
+l'ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-1451 du 24 décembre 2012 - art. 5
+
 
 ###### Article 965
 
@@ -37785,15 +37827,17 @@ _Nouveaux textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna, à l'exception des dispositions des titres IV et V du livre II, du
-chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les
-conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction en vigueur le lendemain de la publication du
+décret n° 2012-1451 du 24 décembre 2012, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du
+titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions
+définies au présent livre.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2012-66 du 20 janvier 2012 - art. 6
+  - Décret n°2012-1451 du 24 décembre 2012 - art. 16, v. init.
+  - Décret n°2012-1451 du 24 décembre 2012 - art. 16 (V)
 
 _Cité par_:
 
