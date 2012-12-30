@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-12-28
+Version Consolidée au 2012-12-31
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -9400,18 +9400,33 @@ _Modifié par_:
 
 ###### Article 456
 
-Le jugement est signé par le président et par le secrétaire. En cas d'empêchement du président, mention en est faite sur la
-minute qui est signée par l'un des juges qui en ont délibéré.
+Le jugement peut être établi sur support papier ou électronique. Il est signé par le président et par le greffier. En cas
+d'empêchement du président, mention en est faite sur la minute, qui est signée par l'un des juges qui en ont délibéré. 
+
+Lorsque le jugement est établi sur support électronique, les procédés utilisés doivent en garantir l'intégrité et la
+conservation. Le jugement établi sur support électronique est signé au moyen d'un procédé de signature électronique sécurisée
+répondant aux exigences du décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code civil et
+relatif à la signature électronique.
+
+Les modalités d'application du présent article sont précisées par arrêté du garde des sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 7
 
 _Cité par_:
 
   - Arrêté du 18 octobre 2013 - art. 2 (V)
+
+_Cite_:
+
+  - Code civil - art. 1316-4
 
 
 ###### Article 457
@@ -12084,11 +12099,18 @@ _Codifié par_:
 
 Le recours en révision est communiqué au ministère public.
 
+Lorsque le recours en révision est formé par citation, cette communication est faite par le demandeur auquel il incombe, à
+peine d'irrecevabilité de son recours, de dénoncer cette citation au ministère public.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 8
 
 
 ###### Article 601
@@ -37191,8 +37213,8 @@ _Créé par_:
 
 ###### Article 1541
 
-La demande tendant à l'homologation du constat d'accord est présentée au juge d'instance par requête d'une des parties à
-moins que l'une d'elles s'oppose à l'homologation dans l'acte constatant son accord. 
+La demande tendant à l'homologation du constat d'accord est présentée au juge par requête d'une des parties à moins que l'une
+d'elles s'oppose à l'homologation dans l'acte constatant son accord. 
 
 Toutefois, lorsque la conciliation met fin à un différend transfrontalier la requête est présentée par l'ensemble des parties
 ou par l'une d'elles, sur justification du consentement exprès des autres parties. Ce consentement peut être contenu dans le
@@ -37204,9 +37226,9 @@ moins est domiciliée ou a sa résidence habituelle en France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 9
 
 
 ## Titre II : La procédure participative<a id=454></a>
