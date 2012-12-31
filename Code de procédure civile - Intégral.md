@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2012-12-31
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -20898,20 +20898,24 @@ _Cite_:
 
 ###### Article 955-2
 
-L'avis est donné soit aux avocats par simple bulletin, soit, dans les affaires dispensées du ministère d'avocat, aux parties
-par lettre recommandée avec demande d'avis de réception. 
+L'avis est donné soit aux avocats dans les conditions prévues à l'article 930-1, soit, dans les affaires dispensées du
+ministère d'avocat, aux parties par lettre recommandée avec demande d'avis de réception. 
 
 Copie de la requête est jointe à l'avis donné aux avocats ou aux parties.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 19
+  - Décret n°2009-1524 du 9 décembre 2009 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2015-282 du 11 mars 2015 - art. 9
+
+_Cite_:
+
+  - Code de procédure civile - art. 930-1
 
 
 ### Sous-titre II : Les pouvoirs du premier président.<a id=267></a>
@@ -33873,7 +33877,7 @@ _Cité par_:
 ###### Article 1406
 
 La demande est portée, selon le cas, devant le tribunal d'instance, la juridiction de proximité ou devant le président du
-tribunal de commerce, dans la limite de la compétence d'attribution de ces deux juridictions.
+tribunal de grande instance ou du tribunal de commerce, dans la limite de la compétence d'attribution de ces juridictions. 
 
 Le juge territorialement compétent est celui du lieu où demeure le ou l'un des débiteurs poursuivis.
 
@@ -33884,15 +33888,11 @@ relever d'office son incompétence, l'article 847-5 étant alors applicable.
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 50 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cite_:
-
-  - Nouveau code de procédure civile 847-5
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 2
 
 
 ###### Article 1407
@@ -34068,20 +34068,23 @@ _Cite_:
 
 ###### Article 1415
 
-L'opposition est portée, suivant le cas, devant le tribunal d'instance, la juridiction de proximité qui a rendu l'ordonnance
-d'injonction de payer ou le tribunal de commerce dont le président a rendu l'ordonnance.
+L'opposition est portée, selon le cas, devant la juridiction dont le juge ou le président a rendu l'ordonnance portant
+injonction de payer. 
 
-Elle est formée au greffe, soit par déclaration contre récépissé, soit par lettre recommandée.
+Elle est formée au greffe, par le débiteur ou tout mandataire, soit par déclaration contre récépissé, soit par lettre
+recommandée. 
+
+Le mandataire, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 3
 
 
 ###### Article 1416
@@ -34130,7 +34133,8 @@ _Cite_:
 
 ###### Article 1418
 
-Le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception.
+Devant le tribunal d'instance, la juridiction de proximité et le tribunal de commerce, le greffier convoque les parties à
+l'audience par lettre recommandée avec demande d'avis de réception. 
 
 La convocation est adressée à toutes les parties, même à celles qui n'ont pas formé opposition.
 
@@ -34149,15 +34153,30 @@ contre lui sur les seuls éléments fournis par son adversaire.
 
 Ces mentions sont prescrites à peine de nullité.
 
+Devant le tribunal de grande instance, l'affaire est instruite et jugée selon la procédure contentieuse applicable devant
+cette juridiction, sous réserve des dispositions suivantes. 
+
+Le greffe adresse au créancier, par lettre recommandée avec demande d'avis de réception, une copie de la déclaration
+d'opposition. Cette notification est régulièrement faite à l'adresse indiquée par le créancier lors du dépôt de la requête en
+injonction de payer. En cas de retour au greffe de l'avis de réception non signé, la date de notification est, à l'égard du
+destinataire, celle de la présentation et la notification est réputée faite à domicile ou à résidence. 
+
+Le créancier doit constituer avocat dans un délai de quinze jours à compter de la notification. 
+
+Dès qu'il est constitué, l'avocat du créancier en informe le débiteur par lettre recommandée avec demande d'avis de
+réception, lui indiquant qu'il est tenu de constituer avocat dans un délai de quinze jours. 
+
+Une copie des actes de constitution est remise au greffe.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 6 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 4
 
 _Cité par_:
 
@@ -34166,18 +34185,27 @@ _Cité par_:
 
 ###### Article 1419
 
-Si aucune des parties ne se présente, le tribunal constate l'extinction de l'instance ; celle-ci rend non avenue l'ordonnance
-portant injonction de payer.
+Devant le tribunal d'instance, la juridiction de proximité et le tribunal de commerce, la juridiction constate l'extinction
+de l'instance si aucune des parties ne comparaît. 
+
+Devant le tribunal de grande instance, le président constate l'extinction de l'instance si le créancier ne constitue pas
+avocat dans le délai prévu à l'article 1418. 
+
+L'extinction de l'instance rend non avenue l'ordonnance portant injonction de payer.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 5
+
+_Cite_:
+
+  - Code de procédure civile - art. 1418
 
 
 ###### Article 1420
@@ -39113,9 +39141,6 @@ _Modifié par_:
 
 ###### Article ANNEXE, art. 46
 
-Lorsqu'il statue selon la procédure d'injonction de payer, le tribunal d'instance est compétent à quelque valeur que la
-demande puisse s'élever.
-
 Le montant des émoluments et droits alloués aux huissiers de justice et aux avocats postulants est indiqué dans l'ordonnance
 portant injonction de payer.
 
@@ -39123,10 +39148,10 @@ portant injonction de payer.
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2005-460 du 13 mai 2005 - art. 34 () JORF 14 mai 2005
+  - Décret n°2012-1515 du 28 décembre 2012 - art. 6
 
 
