@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2013-08-02
+Version Consolidée au 2013-12-31
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 131-1 à 749)](#1)
     - [Titre VI bis : La médiation. (art. 131-1 à 131-15)](#2)
@@ -14558,11 +14558,18 @@ _Modifié par_:
 
 ###### Article 700
 
-Comme il est dit au I de l'article 75 de la loi n° 91-647 du 10 juillet 1991, dans toutes les instances, le juge condamne la
-partie tenue aux dépens ou, à défaut, la partie perdante, à payer à l'autre partie la somme qu'il détermine, au titre des
-frais exposés et non compris dans les dépens. Le juge tient compte de l'équité ou de la situation économique de la partie
-condamnée. Il peut, même d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à cette
-condamnation.
+Le juge condamne la partie tenue aux dépens ou qui perd son procès à payer : 
+
+1° A l'autre partie la somme qu'il détermine, au titre des frais exposés et non compris dans les dépens ; 
+
+2° Et, le cas échéant, à l'avocat du bénéficiaire de l'aide juridictionnelle partielle ou totale une somme au titre des
+honoraires et frais, non compris dans les dépens, que le bénéficiaire de l'aide aurait exposés s'il n'avait pas eu cette
+aide. Dans ce cas, il est procédé comme il est dit aux alinéas 3 et 4 de l'article 37 de la loi n° 91-647 du 10 juillet
+1991. 
+
+Dans tous les cas, le juge tient compte de l'équité ou de la situation économique de la partie condamnée. Il peut, même
+d'office, pour des raisons tirées des mêmes considérations, dire qu'il n'y a pas lieu à ces condamnations. Néanmoins, s'il
+alloue une somme au titre du 2° du présent article, celle-ci ne peut être inférieure à la part contributive de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -14579,15 +14586,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cite_:
 
-  - Loi n°91-647 1991-07-10 art. 75
+  - Loi n°91-647 du 10 juillet 1991
 
 _Modifié par_:
 
-  - Décret n°91-1266 du 19 décembre 1991 - art. 163 () JORF 20 décembre 1991 en vigueur le 1er janvier 1992
+  - Décret n°2013-1280 du 29 décembre 2013 - art. 22
 
 
 ### Chapitre II : La liquidation des dépens à recouvrer par le secrétariat.<a id=185></a>
