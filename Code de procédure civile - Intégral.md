@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-11-05
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -149,7 +149,7 @@ Version Consolidée au 2015-10-01
       - [Chapitre III : Disposition finale. (art. 499)](#146)
     - [Titre XV : L'exécution du jugement. (art. 500 à 526)](#147)
       - [Chapitre Ier : Conditions générales de l'exécution. (art. 502 à 508)](#148)
-      - [Chapitre II : La reconnaissance transfrontalière. (art. 509 à 509-8)](#149)
+      - [Chapitre II : La reconnaissance transfrontalière. (art. 509 à 509-9)](#149)
       - [Chapitre III : Le délai de grâce. (art. 510 à 513)](#150)
       - [Chapitre IV : L'exécution provisoire. (art. 514 à 526)](#151)
     - [Titre XVI : Les voies de recours. (art. 527 à 639-4)](#152)
@@ -377,7 +377,7 @@ Version Consolidée au 2015-10-01
       - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#374)
       - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#375)
       - [Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur. (art. 1281-13 à 1281-19)](#376)
-    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1381)](#377)
+    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1381-4)](#377)
       - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303-6)](#378)
         - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289-2)](#379)
           - [Sous-section I : La procédure devant le juge aux affaires familiales. (art. 1287 à 1288)](#380)
@@ -392,7 +392,7 @@ Version Consolidée au 2015-10-01
           - [Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage (art. 1303-1 à 1303-2)](#389)
           - [Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère (art. 1303-3 à 1303-5)](#390)
           - [Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française (art. 1303-6)](#391)
-      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1381)](#392)
+      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1381-4)](#392)
         - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1326)](#393)
           - [Sous-section I : Les scellés (art. 1307 à 1322)](#394)
             - [Paragraphe 1 : L'apposition des scellés. (art. 1307 à 1315)](#395)
@@ -418,78 +418,79 @@ Version Consolidée au 2015-10-01
             - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#415)
             - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#416)
         - [Section VII : Dispositions communes. (art. 1379 à 1381)](#417)
-    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#418)
-      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#419)
-      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#420)
-        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#421)
-        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#422)
-        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#423)
-        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#424)
-      - [Chapitre III : Les offres de paiement et la consignation. (art. 1426 à 1429)](#425)
-      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#426)
-      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#427)
-      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3)](#428)
-      - [Chapitre VII : La transaction. (art. 1441-4)](#429)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#430)
-    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#431)
-      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#432)
-      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#433)
-      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#434)
-      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#435)
-      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#436)
-      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#437)
-        - [Section 1 : L'appel (art. 1489 à 1490)](#438)
-        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#439)
-        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#440)
-        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#441)
-        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#442)
-    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#443)
-      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#444)
-      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#445)
-      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#446)
-      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#447)
-        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#448)
-        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#449)
-        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#450)
-  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#451)
-    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#452)
-      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#453)
-      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#454)
-    - [Titre II : La procédure participative (art. 1542 à 1564)](#455)
-      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555)](#456)
-        - [Section 1 : Dispositions générales (art. 1544 à 1546)](#457)
-        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#458)
-        - [Section 3 : L'issue de la procédure (art. 1555)](#459)
-      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564)](#460)
+        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#418)
+    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#419)
+      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#420)
+      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#421)
+        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#422)
+        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#423)
+        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#424)
+        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#425)
+      - [Chapitre III : Les offres de paiement et la consignation. (art. 1426 à 1429)](#426)
+      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#427)
+      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#428)
+      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3)](#429)
+      - [Chapitre VII : La transaction. (art. 1441-4)](#430)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#431)
+    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#432)
+      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#433)
+      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#434)
+      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#435)
+      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#436)
+      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#437)
+      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#438)
+        - [Section 1 : L'appel (art. 1489 à 1490)](#439)
+        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#440)
+        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#441)
+        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#442)
+        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#443)
+    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#444)
+      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#445)
+      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#446)
+      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#447)
+      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#448)
+        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#449)
+        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#450)
+        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#451)
+  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#452)
+    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#453)
+      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#454)
+      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#455)
+    - [Titre II : La procédure participative (art. 1542 à 1564)](#456)
+      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555)](#457)
+        - [Section 1 : Dispositions générales (art. 1544 à 1546)](#458)
+        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#459)
+        - [Section 3 : L'issue de la procédure (art. 1555)](#460)
+      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564)](#461)
         - [Section 1 : La procédure d'homologation d'un accord 
-mettant fin à l'entier différend (art. 1557)](#461)
-        - [Section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#462)
-          - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#463)
-          - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#464)
-          - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#465)
-    - [Titre III : Dispositions communes (art. 1565 à 1567)](#466)
-  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#467)
-    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#468)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#469)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#470)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#471)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#472)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#473)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#474)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#475)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#476)
-          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#477)
-            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#478)
-            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#479)
-            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#480)
-            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#481)
-            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#482)
-            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#483)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#484)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#485)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#486)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#487)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#488)
+mettant fin à l'entier différend (art. 1557)](#462)
+        - [Section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#463)
+          - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#464)
+          - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#465)
+          - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#466)
+    - [Titre III : Dispositions communes (art. 1565 à 1567)](#467)
+  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#468)
+    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#469)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#470)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#471)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#472)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#473)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#474)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#475)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#476)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#477)
+          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#478)
+            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#479)
+            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#480)
+            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#481)
+            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#482)
+            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#483)
+            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#484)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#485)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité. (art. ANNEXE, art. 36 à ANNEXE, art. 36-1)](#486)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#487)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#488)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#489)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -10284,43 +10285,56 @@ _Modifié par_:
 
 ###### Article 509-1
 
-Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant
-la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, de l'article 39 du
-règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
-décisions en matière matrimoniale et de responsabilité parentale, du règlement (CE) n° 805/2004 du Parlement européen et du
-Conseil du 21 avril 2004 portant création d'un titre exécutoire européen pour les créances incontestées et de la convention
-concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, faite à
-Lugano le 30 octobre 2007, sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la
-convention.
+I. - Sont présentées au greffier en chef de la juridiction qui a rendu la décision ou homologué la convention les requêtes
+aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à l'étranger en
+application :
 
-Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et de leur exécution à
-l'étranger en application des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 susmentionné et
-des articles 5, 9 et 14.1 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif à la
-reconnaissance mutuelle des mesures de protection en matière civile, ainsi que les requêtes aux fins d'obtention d'un extrait
-d'une décision présentées en application de l'article 20, paragraphe 1, du règlement (CE) n° 4/2009 du Conseil du 18 décembre
-2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la coopération en matière
-d'obligations alimentaires sont présentées au juge qui a rendu la décision ou homologué la convention. Elles sont dispensées
-du ministère d'avocat.
+- des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen ;
+
+- du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire,
+la reconnaissance et l'exécution des décisions en matière civile et commerciale ;
+
+- de l'article 39 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et
+l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n°
+1347/2000 ;
+
+- du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
+européen pour les créances incontestées ;
+
+- de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
+commerciale, faite à Lugano le 30 octobre 2007.
+
+II. - Sont présentées au juge qui a rendu la décision ou homologué la convention :
+
+1° Les requêtes aux fins de certification des titres exécutoires français en vue de leur reconnaissance et exécution à
+l'étranger en application :
+
+- des articles 41 et 42 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la
+reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le
+règlement (CE) n° 1347/2000 ;
+
+- des articles 5, 9 et 14.1 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif à la
+reconnaissance mutuelle des mesures de protection en matière civile ;
+
+2° Les requêtes aux fins d'obtention d'un extrait d'une décision présentées en application de l'article 20, paragraphe 1, du
+règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions et la coopération en matière d'obligations alimentaires.
+
+Les requêtes présentées devant le juge sont dispensées du ministère d'avocat.
 
 **Nota:**
 
-Conformément à l'article 3 du décret n° 2014-1633 du 26 décembre 2014, les dispositions de l'article 509-1 telles qu'issues
-de l'article 2 I du présent décret, s'appliquent aux actions judiciaires intentées, aux actes authentiques dressés ou
-enregistrés formellement et aux transactions judiciairement approuvées ou conclues à compter du 10 janvier 2015. Les
-décisions rendues dans les actions judiciaires intentées, les actes authentiques dressés ou enregistrés formellement et les
-transactions approuvées ou conclues avant le 10 janvier 2015 demeurent dans le champ d'application du règlement (CE) n°
-44/2001 du Conseil du 22 décembre 2000 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en
-matière civile et commerciale.
-
-Toutefois, les dispositions issues de l'article 2 II du même décret s'appliquent aux mesures de protection ordonnées à
-compter du 11 janvier 2015, quelle que soit la date à laquelle la procédure a été engagée.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015, les dispositions de l'article 509-1 telles qu'issues de
+l'article 1er dudit décret, s'appliquent aux décisions judiciaires rendues, aux actes authentiques dressés ou enregistrés
+formellement et aux transactions judiciairement approuvées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 1
 
 _Cité par_:
 
@@ -10329,68 +10343,83 @@ _Cité par_:
 
 ###### Article 509-2
 
-Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
-titres exécutoires étrangers, en application de la convention concernant la compétence judiciaire, la reconnaissance et
-l'exécution des décisions en matière civile et commerciale, faite à Lugano le 30 octobre 2007, sont présentées au greffier en
-chef du tribunal de grande instance. 
+Sont présentées au greffier en chef du tribunal de grande instance les requêtes aux fins de reconnaissance ou de constatation
+de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application : 
 
-Les requêtes aux fins de reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des
-titres exécutoires étrangers, en application du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la
-compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et de responsabilité parentale et en
-application des articles 26 et 27 du règlement (CE) du Conseil n° 4/2009 du 18 décembre 2008 relatif à la compétence, la loi
-applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires, sont
-présentées au président du tribunal de grande instance ou à son délégué. Elles sont dispensées du ministère d'avocat.
+- des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen ; 
+
+- de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
+commerciale, faite à Lugano le 30 octobre 2007. 
+
+Sont présentées au président du tribunal de grande instance ou à son délégué les requêtes aux fins de reconnaissance ou de
+constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application : 
+
+- du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
+décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000 ; 
+
+- des articles 26 et 27 du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi
+applicable, la reconnaissance et l'exécution des décisions et la coopération en matière d'obligations alimentaires. 
+
+Les requêtes présentées devant le juge sont dispensées du ministère d'avocat.
 
 **Nota:**
 
-Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre    2014, les dispositions de l'article 509-2 telles
-qu'issues de l'article  2   III du présent décret, s'appliquent aux actions judiciaires  intentées,   aux actes authentiques
-dressés ou enregistrés formellement  et aux   transactions judiciairement approuvées ou conclues à compter du  10   janvier
-2015. Les décisions rendues dans les actions judiciaires    intentées, les actes authentiques dressés ou enregistrés
-formellement  et   les transactions approuvées ou conclues avant le 10 janvier 2015    demeurent dans le champ d'application
-du règlement (CE) n° 44/2001 du    Conseil du 22 décembre 2000 concernant la compétence judiciaire, la    reconnaissance et
-l'exécution des décisions en matière civile et    commerciale.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015, les dispositions de l'article 509-2 telles qu'issues de
+l'article 1er dudit décret, s'appliquent aux décisions judiciaires rendues, aux actes authentiques dressés ou enregistrés
+formellement et aux transactions judiciairement approuvées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 1
 
 _Cité par_:
 
   - Code de procédure civile - art. 1535 (V)
   - Code de procédure civile - art. 509-3 (V)
 
-_Cite_:
-
-  - règlement (CE) n°2201/2003
-
 
 ###### Article 509-3
 
-Par dérogation aux articles 509-1 et 509-2, les requêtes aux fins de certification, de reconnaissance ou de constatation de
-la force exécutoire des actes authentiques notariés, en application des règlements précités des 12 décembre 2012  et 18
-décembre 2008, ainsi que de la convention précitée du 30 octobre 2007, sont présentées au président de la chambre des
-notaires ou, en cas d'absence ou d'empêchement, à son suppléant désigné parmi les membres de la chambre. 
+Par dérogation aux articles 509-1 et 509-2, sont présentées au président de la chambre des notaires ou, en cas d'absence ou
+d'empêchement, à son suppléant désigné parmi les membres de la chambre les requêtes aux fins de certification, de
+reconnaissance ou de constatation de la force exécutoire, sur le territoire de la République, des actes authentiques notariés
+étrangers en application :
+
+- de l'article 60 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen ;
+
+- du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire,
+la reconnaissance et l'exécution des décisions en matière civile et commerciale ;
+
+- du règlement (CE) n° 4/2009 du Conseil du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions et la coopération en matière d'obligations alimentaires ;
+
+- de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
+commerciale, faite à Lugano le 30 octobre 2007. 
 
 Pour l'application du règlement précité du 12 décembre 2012, ainsi que de la convention précitée du 30 octobre 2007,
 l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des notaires. 
 
-Par dérogation à l'article 509-1, les requêtes aux fins de certification des actes authentiques notariés en vue de leur
-exécution à l'étranger en application du règlement (CE) n° 805 / 2004 du Parlement européen et du Conseil du 21 avril 2004
-portant création d'un titre exécutoire européen pour les créances incontestées sont présentées au notaire ou à la personne
-morale titulaire de l'office notarial conservant la minute de l'acte reçu.
+Par dérogation à l'article 509-1 sont présentées au notaire ou à la personne morale titulaire de l'office notarial conservant
+la minute de l'acte reçu les requêtes aux fins de certification des actes authentiques notariés en vue de leur acceptation et
+de leur exécution à l'étranger en application :
+
+- du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
+européen pour les créances incontestées ;
+
+- de l'article 59 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
+authentiques en matière de successions et à la création d'un certificat successoral européen.
 
 **Nota:**
 
-Conformément à l'article 3 I du décret n° 2014-1633 du 26 décembre     2014, les dispositions de l'article 509-3 telles
-qu'issues de l'article   2   IV du présent décret, s'appliquent aux actions judiciaires   intentées,   aux actes authentiques
-dressés ou enregistrés formellement   et aux   transactions judiciairement approuvées ou conclues à compter  du  10   janvier
-2015. Les décisions rendues dans les actions  judiciaires    intentées, les actes authentiques dressés ou enregistrés
-formellement  et   les transactions approuvées ou conclues avant le 10  janvier 2015    demeurent dans le champ d'application
-du règlement (CE)  n° 44/2001 du    Conseil du 22 décembre 2000 concernant la compétence  judiciaire, la    reconnaissance et
-l'exécution des décisions en matière  civile et    commerciale.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015,   les dispositions de l'article 509-3 telles qu'issues
+de l'article 2 du   présent décret, s'appliquent aux successions des personnes décédées à compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
@@ -10400,11 +10429,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
-
-_Cite_:
-
-  - Code de procédure civile - art. 509-1 (VD)
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 2
 
 
 ###### Article 509-4
@@ -10446,13 +10471,17 @@ Le double de la requête ainsi que du certificat ou de la décision sont conserv
 
 Le certificat délivré en application du règlement (UE) n° 606/2013 du Parlement européen et du Conseil du 12 juin 2013
 relatif à la reconnaissance mutuelle des mesures de protection en matière civile est en outre notifié par le greffe à la
-personne à l'origine du risque encouru.
+personne à l'origine du risque encouru. 
+
+La décision constatant la force exécutoire prévue à l'article 48 du règlement (UE) n° 650/2012 du Parlement européen et du
+Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et
+l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral
+européen est notifiée par le greffe à la partie contre laquelle l'exécution est demandée.
 
 **Nota:**
 
-Conformément à l'article 3 II du décret n° 2014-1633 du 26 décembre 2014, les dispositions de l'article 509-6 telles
-qu'issues de l'article 2 V du présent décret, s'appliquent aux mesures de protection ordonnées à compter du 11 janvier 2015,
-quelle que soit la date à laquelle la procédure a été engagée.
+Conformément à l'article 7 du décret n° 2015-1395 du 2 novembre 2015,    les dispositions de l'article 509-6 telles qu'issues
+de l'article 3 du    présent décret, s'appliquent aux successions des personnes décédées à  compter du 17 août 2015.
 
 **Liens relatifs à cet article**
 
@@ -10462,7 +10491,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 3
 
 
 ###### Article 509-7
@@ -10498,6 +10527,25 @@ qu'issues de l'article 2  VI du présent décret, s'appliquent aux mesures de pr
 _Créé par_:
 
   - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+
+
+###### Article 509-9
+
+La  décision statuant sur la demande de déclaration constatant la force  exécutoire, sur le territoire de la République, des
+titres et actes  étrangers, prévue à l'article 48 du règlement (UE) n° 650/2012 du  Parlement européen et du Conseil du 4
+juillet 2012 relatif à la  compétence, la loi applicable, la reconnaissance et l'exécution des  décisions, et l'acceptation
+et l'exécution des actes authentiques en  matière de successions et à la création d'un certificat successoral  européen peut
+faire l'objet d'un recours par le demandeur à la  déclaration ou par la partie contre laquelle l'exécution est demandée.
+
+Le recours contre la déclaration constatant  la force exécutoire et contre la décision de rejet de la demande de  déclaration
+constatant la force exécutoire est porté devant le président  du tribunal de grande instance qui statue en dernier ressort
+sur  requête, le requérant et l'autorité requise entendus ou appelés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 4
 
 
 ### Chapitre III : Le délai de grâce.<a id=150></a>
@@ -33736,9 +33784,110 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-## Titre IV : Les obligations et les contrats.<a id=418></a>
+#### Section VIII : Le certificat successoral européen<a id=418></a>
 
-### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=419></a>
+###### Article 1381-1
+
+Le certificat successoral européen prévu par le chapitre VI du règlement (UE) n° 650/2012 du Parlement européen et du Conseil
+du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et
+l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral
+européen est délivré à la demande de tout héritier, légataire, exécuteur testamentaire ou administrateur de la succession par
+un notaire conformément à la procédure définie par les articles 65 à 67 de ce règlement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+
+###### Article 1381-2
+
+Une copie certifiée conforme du certificat successoral européen est remise au requérant et à toute personne justifiant d'un
+intérêt légitime contre émargement ou récépissé, ou leur est notifiée par lettre recommandée avec demande d'avis de
+réception.
+
+En cas de rectification d'erreur matérielle ou de modification d'un certificat successoral européen, une copie certifiée
+conforme du certificat rectifié ou modifié est remise ou notifiée à toutes les personnes qui se sont vues délivrer une copie
+du certificat initial.
+
+Le notaire est tenu d'assurer la conservation du certificat successoral européen qu'il a délivré.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1381-4 (V)
+
+
+###### Article 1381-3
+
+En cas de refus de délivrer un certificat successoral européen, le notaire informe le demandeur par lettre recommandée avec
+demande d'avis de réception.
+
+En cas de retrait du certificat successoral européen, de suspension de ses effets ou de refus de procéder à sa rectification,
+sa modification, son retrait ou à la suspension de ses effets dans les conditions prévues aux articles 71 et 73 du règlement
+n° 650/2012 du Parlement et du Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et
+l'exécution des décisions, et l'acceptation et l'exécution des actes authentiques en matière de successions et à la création
+d'un certificat successoral européen, le notaire informe, dans les mêmes conditions, les personnes qui se sont vues délivrer
+une copie certifiée conforme du certificat initial.
+
+Le notaire informe les intéressés des motifs de sa décision et indique les voies de recours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1381-4 (V)
+
+
+###### Article 1381-4
+
+La décision de délivrance ou de refus de délivrance d'un certificat successoral européen peut être déférée au président du
+tribunal de grande instance dans le ressort duquel est situé l'office de cet officier public par tout héritier, légataire,
+exécuteur testamentaire ou administrateur de la succession et ce, dans un délai de quinze jours à compter de la remise ou
+notification de la copie certifiée conforme ou de la réception de la décision de refus de délivrance. 
+
+Les autres décisions mentionnées à l'article 1381-3 peuvent être déférées au président du tribunal de grande instance dans le
+ressort duquel est situé l'office de cet officier public par toute personne justifiant d'un intérêt légitime et ce, dans un
+délai de quinze jours à compter de la remise ou notification de la copie certifiée conforme du nouveau certificat ou de la
+réception de la décision. 
+
+Le président du tribunal statue en dernier ressort sur requête, le requérant, le notaire à l'origine de l'acte, et, le cas
+échéant, le demandeur d'un certificat successoral européen s'il n'est requérant, entendus ou appelés. Le notaire est avisé de
+la décision. 
+
+Lorsque le président du tribunal ordonne la délivrance, la rectification ou la modification du certificat, il peut, soit y
+procéder lui-même, soit inviter le notaire à le faire. Le greffe adresse alors le document par lettre recommandée avec avis
+de réception au notaire qui assurera sa conservation et en délivrera copie dans les conditions prévues par l'article 1381-2. 
+
+Si le retrait ou la suspension des effets du certificat successoral européen est ordonné par le président du tribunal, le
+notaire en informe sans délai toutes les personnes qui se sont vues délivrer des copies certifiées conformes. Aucune copie du
+certificat ne peut être délivrée pendant la période de suspension de ses effets.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+
+_Cite_:
+
+  - Code de procédure civile - art. 1381-2
+  - Code de procédure civile - art. 1381-3
+
+
+## Titre IV : Les obligations et les contrats.<a id=419></a>
+
+### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=420></a>
 
 ###### Article 1382
 
@@ -33904,9 +34053,9 @@ _Créé par_:
   - Décret n°2010-433 du 29 avril 2010 - art. 4
 
 
-### Chapitre II : Les procédures d'injonction.<a id=420></a>
+### Chapitre II : Les procédures d'injonction.<a id=421></a>
 
-#### Section I : L'injonction de payer.<a id=421></a>
+#### Section I : L'injonction de payer.<a id=422></a>
 
 ###### Article 1405
 
@@ -34371,7 +34520,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Section II : L'injonction de payer européenne.<a id=422></a>
+#### Section II : L'injonction de payer européenne.<a id=423></a>
 
 ###### Article 1424-1
 
@@ -34619,7 +34768,7 @@ _Cite_:
   - Code de procédure civile - art. 1424-8
 
 
-#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=423></a>
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=424></a>
 
 ###### Article 1425
 
@@ -34639,7 +34788,7 @@ _Modifié par_:
   - Décret n°2008-1346 du 17 décembre 2008 - art. 7
 
 
-#### Section IV : L'injonction de faire.<a id=424></a>
+#### Section IV : L'injonction de faire.<a id=425></a>
 
 ###### Article 1425-1
 
@@ -34884,7 +35033,7 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre III : Les offres de paiement et la consignation.<a id=425></a>
+### Chapitre III : Les offres de paiement et la consignation.<a id=426></a>
 
 ###### Article 1426
 
@@ -34985,7 +35134,7 @@ _Abrogé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 31
 
 
-### Chapitre IV : La reconstitution d'actes détruits.<a id=426></a>
+### Chapitre IV : La reconstitution d'actes détruits.<a id=427></a>
 
 ###### Article 1430
 
@@ -35065,7 +35214,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : La délivrance de copies d'actes et de registres.<a id=427></a>
+### Chapitre V : La délivrance de copies d'actes et de registres.<a id=428></a>
 
 ###### Article 1435
 
@@ -35187,7 +35336,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=428></a>
+### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=429></a>
 
 ###### Article 1441-1
 
@@ -35269,7 +35418,7 @@ _Modifié par_:
   - Décret n°2009-1456 du 27 novembre 2009 - art. 3
 
 
-### Chapitre VII : La transaction.<a id=429></a>
+### Chapitre VII : La transaction.<a id=430></a>
 
 ###### Article 1441-4
 
@@ -35296,11 +35445,11 @@ _Abrogé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 45
 
 
-# Livre IV : L'arbitrage.<a id=430></a>
+# Livre IV : L'arbitrage.<a id=431></a>
 
-## Titre Ier : L'arbitrage interne.<a id=431></a>
+## Titre Ier : L'arbitrage interne.<a id=432></a>
 
-### Chapitre Ier : La convention d'arbitrage.<a id=432></a>
+### Chapitre Ier : La convention d'arbitrage.<a id=433></a>
 
 ###### Article 1442
 
@@ -35468,7 +35617,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : Le tribunal arbitral<a id=433></a>
+### Chapitre II : Le tribunal arbitral<a id=434></a>
 
 ###### Article 1450
 
@@ -35730,7 +35879,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : L'instance arbitrale<a id=434></a>
+### Chapitre III : L'instance arbitrale<a id=435></a>
 
 ###### Article 1462
 
@@ -36046,7 +36195,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : La sentence arbitrale<a id=435></a>
+### Chapitre IV : La sentence arbitrale<a id=436></a>
 
 ###### Article 1478
 
@@ -36249,7 +36398,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre V : L'exequatur<a id=436></a>
+### Chapitre V : L'exequatur<a id=437></a>
 
 ###### Article 1487
 
@@ -36293,9 +36442,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre VI : Les voies de recours<a id=437></a>
+### Chapitre VI : Les voies de recours<a id=438></a>
 
-#### Section 1 : L'appel<a id=438></a>
+#### Section 1 : L'appel<a id=439></a>
 
 ###### Article 1489
 
@@ -36334,7 +36483,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Le recours en annulation<a id=439></a>
+#### Section 2 : Le recours en annulation<a id=440></a>
 
 ###### Article 1491
 
@@ -36402,7 +36551,7 @@ _Cite_:
   - Nouveau code de procédure civile 1457
 
 
-#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=440></a>
+#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=441></a>
 
 ###### Article 1494
 
@@ -36498,7 +36647,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=441></a>
+#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=442></a>
 
 ###### Article 1499
 
@@ -36540,7 +36689,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-#### Section 5 : Autres voies de recours<a id=442></a>
+#### Section 5 : Autres voies de recours<a id=443></a>
 
 ###### Article 1501
 
@@ -36603,7 +36752,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501 et 1502
 
 
-## Titre II : L'arbitrage international<a id=443></a>
+## Titre II : L'arbitrage international<a id=444></a>
 
 ###### Article 1504
 
@@ -36689,7 +36838,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501, 1502 et 1504
 
 
-### Chapitre Ier : La convention d'arbitrage international<a id=444></a>
+### Chapitre Ier : La convention d'arbitrage international<a id=445></a>
 
 ###### Article 1507
 
@@ -36726,7 +36875,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : L'instance et la sentence arbitrales<a id=445></a>
+### Chapitre II : L'instance et la sentence arbitrales<a id=446></a>
 
 ###### Article 1509
 
@@ -36821,7 +36970,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=446></a>
+### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=447></a>
 
 ###### Article 1514
 
@@ -36903,9 +37052,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : Les voies de recours<a id=447></a>
+### Chapitre IV : Les voies de recours<a id=448></a>
 
-#### Section 1 : Sentences rendues en France<a id=448></a>
+#### Section 1 : Sentences rendues en France<a id=449></a>
 
 ###### Article 1518
 
@@ -37023,7 +37172,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Sentences rendues à l'étranger<a id=449></a>
+#### Section 2 : Sentences rendues à l'étranger<a id=450></a>
 
 ###### Article 1525
 
@@ -37045,7 +37194,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=450></a>
+#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=451></a>
 
 ###### Article 1526
 
@@ -37082,7 +37231,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-# Livre V : La résolution amiable des différends<a id=451></a>
+# Livre V : La résolution amiable des différends<a id=452></a>
 
 ###### Article 1528
 
@@ -37118,7 +37267,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-## Titre Ier : La médiation et la conciliation conventionnelles<a id=452></a>
+## Titre Ier : La médiation et la conciliation conventionnelles<a id=453></a>
 
 ###### Article 1530
 
@@ -37154,7 +37303,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-### Chapitre Ier : La médiation conventionnelle<a id=453></a>
+### Chapitre Ier : La médiation conventionnelle<a id=454></a>
 
 ###### Article 1532
 
@@ -37226,7 +37375,7 @@ _Cite_:
   - Code de procédure civile - art. 509-2
 
 
-### Chapitre II : La conciliation menée par un conciliateur de justice<a id=454></a>
+### Chapitre II : La conciliation menée par un conciliateur de justice<a id=455></a>
 
 ###### Article 1536
 
@@ -37327,7 +37476,7 @@ _Modifié par_:
   - Décret n°2012-1515 du 28 décembre 2012 - art. 9
 
 
-## Titre II : La procédure participative<a id=455></a>
+## Titre II : La procédure participative<a id=456></a>
 
 ###### Article 1542
 
@@ -37356,9 +37505,9 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-### Chapitre Ier  : La procédure conventionnelle<a id=456></a>
+### Chapitre Ier  : La procédure conventionnelle<a id=457></a>
 
-#### Section 1 : Dispositions générales<a id=457></a>
+#### Section 1 : Dispositions générales<a id=458></a>
 
 ###### Article 1544
 
@@ -37403,7 +37552,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-#### Section 2 : Le recours à un technicien<a id=458></a>
+#### Section 2 : Le recours à un technicien<a id=459></a>
 
 ###### Article 1547
 
@@ -37512,7 +37661,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-#### Section 3 : L'issue de la procédure<a id=459></a>
+#### Section 3 : L'issue de la procédure<a id=460></a>
 
 ###### Article 1555
 
@@ -37540,7 +37689,7 @@ _Cité par_:
   - Code de procédure civile - art. 1564-2 (V)
 
 
-### Chapitre II : La procédure aux fins de jugement<a id=460></a>
+### Chapitre II : La procédure aux fins de jugement<a id=461></a>
 
 ###### Article 1556
 
@@ -37565,7 +37714,7 @@ _Cite_:
 
 
 #### Section 1 : La procédure d'homologation d'un accord 
-mettant fin à l'entier différend<a id=461></a>
+mettant fin à l'entier différend<a id=462></a>
 
 ###### Article 1557
 
@@ -37593,9 +37742,9 @@ _Cité par_:
   - Code de procédure civile - art. 1560 (M)
 
 
-#### Section 2 : La procédure de jugement du différend persistant<a id=462></a>
+#### Section 2 : La procédure de jugement du différend persistant<a id=463></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=463></a>
+##### Paragraphe 1 : Dispositions communes<a id=464></a>
 
 ###### Article 1558
 
@@ -37628,7 +37777,7 @@ _Cité par_:
   - Code de procédure civile - art. 1561 (M)
 
 
-##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=464></a>
+##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=465></a>
 
 ###### Article 1560
 
@@ -37690,7 +37839,7 @@ _Cité par_:
   - Code de procédure civile - art. 1559 (V)
 
 
-##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=465></a>
+##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=466></a>
 
 ###### Article 1562
 
@@ -37760,7 +37909,7 @@ _Cite_:
   - Code de procédure civile - art. 1563
 
 
-## Titre III : Dispositions communes<a id=466></a>
+## Titre III : Dispositions communes<a id=467></a>
 
 ###### Article 1565
 
@@ -37816,9 +37965,9 @@ _Anciens textes_:
   - Code de procédure civile - art. 1568 (T)
 
 
-# Livre VI : Dispositions relatives à l'outre-mer.<a id=467></a>
+# Livre VI : Dispositions relatives à l'outre-mer.<a id=468></a>
 
-## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=468></a>
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=469></a>
 
 ###### Article 1575
 
@@ -37972,9 +38121,9 @@ _Anciens textes_:
   - Code de procédure civile - art. 1519 (M)
 
 
-# Annexes<a id=469></a>
+# Annexes<a id=470></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=470></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=471></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -37988,9 +38137,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=471></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=472></a>
 
-#### Section I : Dispositions communes.<a id=472></a>
+#### Section I : Dispositions communes.<a id=473></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -38156,9 +38305,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=473></a>
+#### Section II : Dispositions propres à certaines matières.<a id=474></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=474></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=475></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -38332,7 +38481,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=475></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=476></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -38381,7 +38530,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (V)
 
 
-##### Sous-section III : Affaires de registres.<a id=476></a>
+##### Sous-section III : Affaires de registres.<a id=477></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -38497,9 +38646,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section IV : Dispositions particulières au registre des associations<a id=477></a>
+##### Sous-section IV : Dispositions particulières au registre des associations<a id=478></a>
 
-##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=478></a>
+##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=479></a>
 
 ###### Article ANNEXE, art. 30-1
 
@@ -38612,7 +38761,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 2 : La tenue du registre<a id=479></a>
+##### Paragraphe 2 : La tenue du registre<a id=480></a>
 
 ###### Article ANNEXE, art. 30-5
 
@@ -38692,7 +38841,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 3 : La publication de l'inscription<a id=480></a>
+##### Paragraphe 3 : La publication de l'inscription<a id=481></a>
 
 ###### Article ANNEXE, art. 30-9
 
@@ -38751,7 +38900,7 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 23
 
 
-##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=481></a>
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=482></a>
 
 ###### Article ANNEXE, art. 30-11
 
@@ -38803,7 +38952,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 5 : Les sanctions<a id=482></a>
+##### Paragraphe 5 : Les sanctions<a id=483></a>
 
 ###### Article ANNEXE, art. 30-13
 
@@ -38872,7 +39021,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=483></a>
+##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=484></a>
 
 ###### Article 30-16
 
@@ -39071,7 +39220,7 @@ _Cite_:
   - Code de commerce - art. L822-1
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=484></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=485></a>
 
 ###### Article ANNEXE, art. 31
 
@@ -39174,7 +39323,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=485></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance et à la juridiction de proximité.<a id=486></a>
 
 ###### Article ANNEXE, art. 36
 
@@ -39219,7 +39368,7 @@ _Cite_:
   - Nouveau code de procédure civile annexe, 36
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=486></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=487></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -39283,7 +39432,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=487></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=488></a>
 
 ###### Article ANNEXE, art. 42
 
@@ -39305,7 +39454,7 @@ _Cite_:
   - Code de procédure civile - art. 901
 
 
-### Chapitre VII : Dispositions diverses.<a id=488></a>
+### Chapitre VII : Dispositions diverses.<a id=489></a>
 
 ###### Article ANNEXE, art. 43
 
