@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-05-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -38459,9 +38459,9 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-450 du 29 mars 2017, à
-l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
-chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-683 du 28 avril 2017,
+à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis
+du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
@@ -38472,7 +38472,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-450 du 29 mars 2017 - art. 4
+  - Décret n°2017-683 du 28 avril 2017 - art. 4
 
 _Cité par_:
 
