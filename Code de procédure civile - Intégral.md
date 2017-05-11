@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-05-11 00:00:01 +0200
+Version Consolidée au 2017-05-12
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -272,11 +272,11 @@ Version Consolidée au 2017-05-11 00:00:01 +0200
     - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 972)](#269)
       - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-1)](#270)
         - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#271)
-          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930-2)](#272)
+          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930-3)](#272)
             - [Sous-section I : La procédure ordinaire. (art. 901 à 916)](#273)
             - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#274)
             - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#275)
-            - [Sous-section IV : Dispositions communes. (art. 930-1 à 930-2)](#276)
+            - [Sous-section IV : Dispositions communes. (art. 930-1 à 930-3)](#276)
           - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#277)
         - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#278)
         - [Chapitre III : Dispositions communes. (art. 954 à 955-1)](#279)
@@ -20442,23 +20442,33 @@ _Modifié par_:
 
 ###### Article 930-2
 
-Les dispositions de l'article 930-1 ne sont pas applicables au défenseur syndical. 
+Les dispositions de l'article 930-1 ne sont pas applicables au défenseur syndical.
 
-Les actes de procédure effectués par le défenseur syndical peuvent être établis sur support papier et remis au greffe. Dans
-ce cas, la déclaration d'appel est remise au greffe en autant d'exemplaires qu'il y a de parties destinataires, plus deux. La
-remise est constatée par la mention de sa date et le visa du greffier sur chaque exemplaire, dont l'un est immédiatement
-restitué.
+Les actes de procédure effectués par le défenseur syndical peuvent être établis sur support papier et remis au greffe ou lui
+être adressés par lettre recommandée avec demande d'avis de réception.
 
-**Nota:**
+La déclaration d'appel est remise ou adressée au greffe en autant d'exemplaires qu'il y a de parties destinataires, plus
+deux. Le greffe constate la remise par la mention de sa date et le visa du greffier sur chaque exemplaire, dont l'un est
+immédiatement restitué. Lorsque la déclaration d'appel est faite par voie postale, le greffe enregistre l'acte à sa date et
+adresse un récépissé par lettre simple.
 
-Décret n° 2016-660 du 20 mai 2016, article 46: Ces dispositions sont applicables aux instances et appels introduits à compter
-du 1er août 2016.
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-1008 du 10 mai 2017 - art. 7
+
+
+###### Article 930-3
+
+Les notifications entre un avocat et un défenseur syndical sont effectuées par lettre recommandée avec demande d'avis de
+réception ou par voie de signification.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2016-660 du 20 mai 2016 - art. 30
+  - Décret n°2017-1008 du 10 mai 2017 - art. 7
 
 
 ##### Section II : La procédure sans représentation obligatoire.<a id=277></a>
