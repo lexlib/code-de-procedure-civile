@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-10-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -9114,15 +9114,15 @@ d'empêchement du président, mention en est faite sur la minute, qui est signé
 
 Lorsque le jugement est établi sur support électronique, les procédés utilisés doivent en garantir l'intégrité et la
 conservation. Le jugement établi sur support électronique est signé au moyen d'un procédé de signature électronique sécurisée
-répondant aux exigences du décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code civil et
-relatif à la signature électronique.
+répondant aux exigences du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique. 
 
 Les modalités d'application du présent article sont précisées par arrêté du garde des sceaux, ministre de la justice.
 
 **Nota:**
 
-Conformément au décret n° 2016-1278 du 29 septembre 2016, article 1, l'article 1316-4 du code civil est devenu l'article 1367
-dudit code.
+Conformément au II de l'article 2 du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique, les
+références au décret n° 2001-272 du 30 mars 2001, contenues dans des dispositions de nature réglementaire, sont remplacées
+par les références à ce même décret n° 2017-1416 du 28 septembre 2017.
 
 **Liens relatifs à cet article**
 
@@ -9137,7 +9137,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1316-4
+  - Décret n°2017-1416 du 28 septembre 2017
+
+_Modifié par_:
+
+  - Décret n°2017-1416 du 28 septembre 2017 - art. 2 (V)
 
 
 ###### Article 457
