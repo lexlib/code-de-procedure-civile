@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-10-01
+Version Consolidée au 2017-11-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -439,83 +439,84 @@ Version Consolidée au 2017-10-01
             - [Paragraphe 1 : Dispositions générales. (art. 1359 à 1363)](#436)
             - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#437)
             - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#438)
-        - [Section VII : Dispositions communes. (art. 1379 à 1381)](#439)
-        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#440)
-    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#441)
-      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#442)
-      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#443)
-        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#444)
-        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#445)
-        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#446)
-        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#447)
-      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#448)
-      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#449)
-      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#450)
-      - [Chapitre VII : La transaction. (art. 1441-4)](#451)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#452)
-    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#453)
-      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#454)
-      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#455)
-      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#456)
-      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#457)
-      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#458)
-      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#459)
-        - [Section 1 : L'appel (art. 1489 à 1490)](#460)
-        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#461)
-        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#462)
-        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#463)
-        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#464)
-    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#465)
-      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#466)
-      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#467)
-      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#468)
-      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#469)
-        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#470)
-        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#471)
-        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#472)
-  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#473)
-    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#474)
-      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#475)
-      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#476)
-    - [Titre II : La procédure participative (art. 1542 à 1564-4)](#477)
-      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555)](#478)
-        - [Section 1 : La convention (art. 1544 à 1546-2)](#479)
-          - [Sous-section 1 : Dispositions générales (art. 1544 à 1546)](#480)
-          - [Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état (art. 1546-1 à 1546-2)](#481)
-        - [Section 1 bis : Les actes contresignés par avocats (art. 1546-3)](#482)
-        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#483)
-        - [Section 3 : L'issue de la procédure (art. 1555)](#484)
-      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564-4)](#485)
-        - [Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable (art. 1557 à 1564)](#486)
-          - [Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend (art. 1557)](#487)
-          - [Sous-section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#488)
-            - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#489)
-            - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#490)
-            - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#491)
-        - [Section 2 : La procédure de jugement après mise en état du litige (art. 1564-1 à 1564-4)](#492)
-    - [Titre III : Dispositions communes (art. 1565 à 1567)](#493)
-  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#494)
-    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#495)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#496)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#497)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#498)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#499)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#500)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#501)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#502)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#503)
-          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#504)
-            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#505)
-            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#506)
-            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#507)
-            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#508)
-            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#509)
-            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#510)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#511)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance (art. ANNEXE, art. 36)](#512)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#513)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#514)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#515)
+        - [Section VI bis : L'envoi en possession (art. 1378-1 à 1378-2)](#439)
+        - [Section VII : Dispositions communes. (art. 1379 à 1381)](#440)
+        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#441)
+    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#442)
+      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#443)
+      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#444)
+        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#445)
+        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#446)
+        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#447)
+        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#448)
+      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#449)
+      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#450)
+      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#451)
+      - [Chapitre VII : La transaction. (art. 1441-4)](#452)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#453)
+    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#454)
+      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#455)
+      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#456)
+      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#457)
+      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#458)
+      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#459)
+      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#460)
+        - [Section 1 : L'appel (art. 1489 à 1490)](#461)
+        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#462)
+        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#463)
+        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#464)
+        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#465)
+    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#466)
+      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#467)
+      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#468)
+      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#469)
+      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#470)
+        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#471)
+        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#472)
+        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#473)
+  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#474)
+    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#475)
+      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#476)
+      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#477)
+    - [Titre II : La procédure participative (art. 1542 à 1564-4)](#478)
+      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555)](#479)
+        - [Section 1 : La convention (art. 1544 à 1546-2)](#480)
+          - [Sous-section 1 : Dispositions générales (art. 1544 à 1546)](#481)
+          - [Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état (art. 1546-1 à 1546-2)](#482)
+        - [Section 1 bis : Les actes contresignés par avocats (art. 1546-3)](#483)
+        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#484)
+        - [Section 3 : L'issue de la procédure (art. 1555)](#485)
+      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564-4)](#486)
+        - [Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable (art. 1557 à 1564)](#487)
+          - [Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend (art. 1557)](#488)
+          - [Sous-section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#489)
+            - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#490)
+            - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#491)
+            - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#492)
+        - [Section 2 : La procédure de jugement après mise en état du litige (art. 1564-1 à 1564-4)](#493)
+    - [Titre III : Dispositions communes (art. 1565 à 1567)](#494)
+  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#495)
+    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#496)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#497)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#498)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#499)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#500)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#501)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#502)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#503)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#504)
+          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#505)
+            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#506)
+            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#507)
+            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#508)
+            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#509)
+            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#510)
+            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#511)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#512)
+      - [Chapitre III : Dispositions particulières au tribunal d'instance (art. ANNEXE, art. 36)](#513)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#514)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#515)
+      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#516)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -34329,12 +34330,16 @@ _Cité par_:
 
 ###### Article 1334
 
-La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal de grande instance indique les nom,
-prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il est appelé à la
-succession.
+La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal de grande instance ou devant notaire
+indique les nom, prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il
+est appelé à la succession. 
 
-Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant. Il informe l'héritier
-de l'obligation de publicité prévue au troisième alinéa de l'article 1335.
+Le notaire auprès de qui la déclaration est faite informe l'héritier de l'obligation de publicité prévue au troisième alinéa
+de l'article 1335. Dans le mois de la déclaration, le notaire en adresse copie au tribunal de grande instance dans le ressort
+duquel la succession s'est ouverte. 
+
+Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant ou au notaire. Il
+informe l'héritier de l'obligation de publicité prévue au troisième alinéa de l'article 1335. 
 
 Les cohéritiers, les créanciers successoraux et les légataires peuvent, sur justification de leur titre, consulter la partie
 du registre relative à la succession en cause.
@@ -34343,19 +34348,20 @@ du registre relative à la succession en cause.
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2016-1907 du 28 décembre 2016 - art. 35
+
+_Cite_:
+
+  - Code de procédure civile - art. 1335 (VD)
+  - Nouveau code de procédure civile 1335
 
 _Cité par_:
 
   - Code de procédure civile - art. 1355 (VD)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 1335
 
 
 ###### Article 1335
@@ -34365,7 +34371,7 @@ commerciales.
 
 Les modalités de la publicité par voie électronique sont définies par arrêté du garde des sceaux, ministre de la justice.
 
-Dans les quinze jours suivant la déclaration visée à l'article 788 du code civil, l'héritier fait procéder, dans les mêmes
+Dans le délai d'un mois suivant la déclaration visée à l'article 788 du code civil, l'héritier fait procéder, dans les mêmes
 formes que la publicité prévue au premier alinéa du présent article, à l'insertion d'un avis dans un journal d'annonces
 légales diffusé dans le ressort du tribunal compétent.
 
@@ -34373,22 +34379,22 @@ légales diffusé dans le ressort du tribunal compétent.
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
   - Arrêté du 9 novembre 2009 - art. 1 (V)
   - Code de procédure civile - art. 1334 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-1907 du 28 décembre 2016 - art. 36
+
 _Cite_:
 
-  - Code civil - art. 788 (M)
-  - Code civil - art. 790 (M)
-  - Code civil - art. 794 (M)
+  - Code civil - art. 788
+  - Code civil - art. 790
+  - Code civil - art. 794
 
 
 ###### Article 1336
@@ -34411,8 +34417,8 @@ _Créé par_:
 ###### Article 1337
 
 A l'issue du délai de quinze mois prévu à l'article 792 du code civil, après soit le désintéressement de tous les créanciers
-déclarés, soit l'épuisement de l'actif et l'affectation des sommes correspondantes au paiement des créanciers, l'héritier
-dépose au greffe le compte définitif de son administration.
+déclarés, soit l'épuisement de l'actif et l'affectation des sommes correspondantes au paiement des créanciers, l'héritier ou
+le notaire chargé du règlement de la succession dépose au greffe le compte de l'administration.
 
 Le dépôt donne lieu à publicité dans les conditions prévues à l'article 1335.
 
@@ -34420,11 +34426,7 @@ Le dépôt donne lieu à publicité dans les conditions prévues à l'article 13
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -34432,9 +34434,13 @@ _Cité par_:
   - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*814-5 (Ab)
   - Code de l'organisation judiciaire - art. R123-24 (VD)
 
+_Modifié par_:
+
+  - Décret n°2016-1907 du 28 décembre 2016 - art. 37
+
 _Cite_:
 
-  - Code civil - art. 792 (M)
+  - Code civil - art. 792
   - Nouveau code de procédure civile 1335
 
 
@@ -34467,16 +34473,18 @@ _Cite_:
 
 ###### Article 1339
 
-La déclaration de renonciation à une succession adressée ou déposée au greffe du tribunal de grande instance indique les nom,
-prénoms, profession et domicile du successible, ainsi que la qualité en vertu de laquelle il est appelé à la succession.
+La déclaration de renonciation à une succession adressée ou déposée par l'héritier ou le notaire  au greffe du tribunal de
+grande instance indique les nom, prénoms, profession et domicile du successible, ainsi que la qualité en vertu de laquelle il
+est appelé à la succession.
 
-Le greffe inscrit la déclaration dans un registre tenu à cet effet et en adresse ou délivre récépissé au déclarant.
+Le greffe inscrit la déclaration dans un registre tenu à cet effet et en adresse ou délivre récépissé au déclarant ou au
+notaire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1366 du 9 novembre 2009 - art. 1
+  - Décret n°2016-1907 du 28 décembre 2016 - art. 38
 
 
 ###### Article 1340
@@ -35322,7 +35330,46 @@ _Créé par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Section VII : Dispositions communes.<a id=439></a>
+#### Section VI bis : L'envoi en possession<a id=439></a>
+
+###### Article 1378-1
+
+Dans les quinze jours suivant l'établissement du procès-verbal de l'ouverture et de l'état du testament mentionné à l'article
+1007 du code civil,  le notaire fait procéder à l'insertion d'un avis, qui comporte le nom  du défunt, le nom et les
+coordonnées du notaire chargé de la succession,  ainsi que l'existence d'un legs universel, au Bulletin officiel des
+annonces civiles et commerciales et dans un journal d'annonces légales  diffusé dans le ressort du tribunal compétent. 
+
+Cette publicité peut être faite par voie électronique. 
+
+Les frais de publicité sont à la charge du légataire universel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1907 du 28 décembre 2016 - art. 39
+
+
+###### Article 1378-2
+
+L'opposition mentionnée au troisième alinéa de l'article 1007 du code civilest formée auprès du notaire chargé de la
+succession. 
+
+Le légataire universel se fait alors envoyer en possession par une  ordonnance du président mise au bas de la requête à
+laquelle est joint  l'acte d'opposition.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1907 du 28 décembre 2016 - art. 39
+
+_Cite_:
+
+  - Code civil - art. 1007 (VD)
+
+
+#### Section VII : Dispositions communes.<a id=440></a>
 
 ###### Article 1379
 
@@ -35410,7 +35457,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-#### Section VIII : Le certificat successoral européen<a id=440></a>
+#### Section VIII : Le certificat successoral européen<a id=441></a>
 
 ###### Article 1381-1
 
@@ -35511,9 +35558,9 @@ _Cite_:
   - Code de procédure civile - art. 1381-3
 
 
-## Titre IV : Les obligations et les contrats.<a id=441></a>
+## Titre IV : Les obligations et les contrats.<a id=442></a>
 
-### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=442></a>
+### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=443></a>
 
 ###### Article 1382
 
@@ -35679,9 +35726,9 @@ _Créé par_:
   - Décret n°2010-433 du 29 avril 2010 - art. 4
 
 
-### Chapitre II : Les procédures d'injonction.<a id=443></a>
+### Chapitre II : Les procédures d'injonction.<a id=444></a>
 
-#### Section I : L'injonction de payer.<a id=444></a>
+#### Section I : L'injonction de payer.<a id=445></a>
 
 ###### Article 1405
 
@@ -36144,7 +36191,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Section II : L'injonction de payer européenne.<a id=445></a>
+#### Section II : L'injonction de payer européenne.<a id=446></a>
 
 ###### Article 1424-1
 
@@ -36396,7 +36443,7 @@ _Cite_:
   - Code de procédure civile - art. 1424-8
 
 
-#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=446></a>
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=447></a>
 
 ###### Article 1425
 
@@ -36416,7 +36463,7 @@ _Modifié par_:
   - Décret n°2008-1346 du 17 décembre 2008 - art. 7
 
 
-#### Section IV : L'injonction de faire.<a id=447></a>
+#### Section IV : L'injonction de faire.<a id=448></a>
 
 ###### Article 1425-1
 
@@ -36658,7 +36705,7 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre IV : La reconstitution d'actes détruits.<a id=448></a>
+### Chapitre IV : La reconstitution d'actes détruits.<a id=449></a>
 
 ###### Article 1430
 
@@ -36738,7 +36785,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : La délivrance de copies d'actes et de registres.<a id=449></a>
+### Chapitre V : La délivrance de copies d'actes et de registres.<a id=450></a>
 
 ###### Article 1435
 
@@ -36860,7 +36907,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=450></a>
+### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=451></a>
 
 ###### Article 1441-1
 
@@ -36983,7 +37030,7 @@ _Créé par_:
   - Décret n°2016-360 du 25 mars 2016 - art. 181
 
 
-### Chapitre VII : La transaction.<a id=451></a>
+### Chapitre VII : La transaction.<a id=452></a>
 
 ###### Article 1441-4
 
@@ -37010,11 +37057,11 @@ _Abrogé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 45
 
 
-# Livre IV : L'arbitrage.<a id=452></a>
+# Livre IV : L'arbitrage.<a id=453></a>
 
-## Titre Ier : L'arbitrage interne.<a id=453></a>
+## Titre Ier : L'arbitrage interne.<a id=454></a>
 
-### Chapitre Ier : La convention d'arbitrage.<a id=454></a>
+### Chapitre Ier : La convention d'arbitrage.<a id=455></a>
 
 ###### Article 1442
 
@@ -37186,7 +37233,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : Le tribunal arbitral<a id=455></a>
+### Chapitre II : Le tribunal arbitral<a id=456></a>
 
 ###### Article 1450
 
@@ -37452,7 +37499,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : L'instance arbitrale<a id=456></a>
+### Chapitre III : L'instance arbitrale<a id=457></a>
 
 ###### Article 1462
 
@@ -37772,7 +37819,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : La sentence arbitrale<a id=457></a>
+### Chapitre IV : La sentence arbitrale<a id=458></a>
 
 ###### Article 1478
 
@@ -37975,7 +38022,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre V : L'exequatur<a id=458></a>
+### Chapitre V : L'exequatur<a id=459></a>
 
 ###### Article 1487
 
@@ -38023,9 +38070,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre VI : Les voies de recours<a id=459></a>
+### Chapitre VI : Les voies de recours<a id=460></a>
 
-#### Section 1 : L'appel<a id=460></a>
+#### Section 1 : L'appel<a id=461></a>
 
 ###### Article 1489
 
@@ -38064,7 +38111,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Le recours en annulation<a id=461></a>
+#### Section 2 : Le recours en annulation<a id=462></a>
 
 ###### Article 1491
 
@@ -38132,7 +38179,7 @@ _Cite_:
   - Nouveau code de procédure civile 1457
 
 
-#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=462></a>
+#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=463></a>
 
 ###### Article 1494
 
@@ -38228,7 +38275,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=463></a>
+#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=464></a>
 
 ###### Article 1499
 
@@ -38270,7 +38317,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-#### Section 5 : Autres voies de recours<a id=464></a>
+#### Section 5 : Autres voies de recours<a id=465></a>
 
 ###### Article 1501
 
@@ -38333,7 +38380,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501 et 1502
 
 
-## Titre II : L'arbitrage international<a id=465></a>
+## Titre II : L'arbitrage international<a id=466></a>
 
 ###### Article 1504
 
@@ -38419,7 +38466,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501, 1502 et 1504
 
 
-### Chapitre Ier : La convention d'arbitrage international<a id=466></a>
+### Chapitre Ier : La convention d'arbitrage international<a id=467></a>
 
 ###### Article 1507
 
@@ -38456,7 +38503,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : L'instance et la sentence arbitrales<a id=467></a>
+### Chapitre II : L'instance et la sentence arbitrales<a id=468></a>
 
 ###### Article 1509
 
@@ -38551,7 +38598,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=468></a>
+### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=469></a>
 
 ###### Article 1514
 
@@ -38633,9 +38680,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : Les voies de recours<a id=469></a>
+### Chapitre IV : Les voies de recours<a id=470></a>
 
-#### Section 1 : Sentences rendues en France<a id=470></a>
+#### Section 1 : Sentences rendues en France<a id=471></a>
 
 ###### Article 1518
 
@@ -38753,7 +38800,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Sentences rendues à l'étranger<a id=471></a>
+#### Section 2 : Sentences rendues à l'étranger<a id=472></a>
 
 ###### Article 1525
 
@@ -38775,7 +38822,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=472></a>
+#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=473></a>
 
 ###### Article 1526
 
@@ -38812,7 +38859,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-# Livre V : La résolution amiable des différends<a id=473></a>
+# Livre V : La résolution amiable des différends<a id=474></a>
 
 ###### Article 1528
 
@@ -38851,7 +38898,7 @@ _Cite_:
   - Code civil - art. 2066
 
 
-## Titre Ier : La médiation et la conciliation conventionnelles<a id=474></a>
+## Titre Ier : La médiation et la conciliation conventionnelles<a id=475></a>
 
 ###### Article 1530
 
@@ -38887,7 +38934,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-### Chapitre Ier : La médiation conventionnelle<a id=475></a>
+### Chapitre Ier : La médiation conventionnelle<a id=476></a>
 
 ###### Article 1532
 
@@ -38959,7 +39006,7 @@ _Cite_:
   - Code de procédure civile - art. 509-2
 
 
-### Chapitre II : La conciliation menée par un conciliateur de justice<a id=476></a>
+### Chapitre II : La conciliation menée par un conciliateur de justice<a id=477></a>
 
 ###### Article 1536
 
@@ -39052,7 +39099,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 25
 
 
-## Titre II : La procédure participative<a id=477></a>
+## Titre II : La procédure participative<a id=478></a>
 
 ###### Article 1542
 
@@ -39083,11 +39130,11 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
-### Chapitre Ier  : La procédure conventionnelle<a id=478></a>
+### Chapitre Ier  : La procédure conventionnelle<a id=479></a>
 
-#### Section 1 : La convention<a id=479></a>
+#### Section 1 : La convention<a id=480></a>
 
-##### Sous-section 1 : Dispositions générales<a id=480></a>
+##### Sous-section 1 : Dispositions générales<a id=481></a>
 
 ###### Article 1544
 
@@ -39142,7 +39189,7 @@ La convention de procédure participative est modifiée dans les mêmes formes q
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
-##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état<a id=481></a>
+##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état<a id=482></a>
 
 ###### Article 1546-1
 
@@ -39184,7 +39231,7 @@ _Cite_:
   - Code de procédure civile - art. 908 (VT)
 
 
-#### Section 1 bis : Les actes contresignés par avocats<a id=482></a>
+#### Section 1 bis : Les actes contresignés par avocats<a id=483></a>
 
 ###### Article 1546-3
 
@@ -39208,7 +39255,7 @@ _Créé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
-#### Section 2 : Le recours à un technicien<a id=483></a>
+#### Section 2 : Le recours à un technicien<a id=484></a>
 
 ###### Article 1547
 
@@ -39317,7 +39364,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-#### Section 3 : L'issue de la procédure<a id=484></a>
+#### Section 3 : L'issue de la procédure<a id=485></a>
 
 ###### Article 1555
 
@@ -39345,7 +39392,7 @@ _Cité par_:
   - Code de procédure civile - art. 1564-2 (V)
 
 
-### Chapitre II : La procédure aux fins de jugement<a id=485></a>
+### Chapitre II : La procédure aux fins de jugement<a id=486></a>
 
 ###### Article 1556
 
@@ -39370,9 +39417,9 @@ _Cite_:
   - Code civil - art. 2065
 
 
-#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable<a id=486></a>
+#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable<a id=487></a>
 
-##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend<a id=487></a>
+##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend<a id=488></a>
 
 ###### Article 1557
 
@@ -39400,9 +39447,9 @@ _Cité par_:
   - Code de procédure civile - art. 1560 (V)
 
 
-##### Sous-section 2 : La procédure de jugement du différend persistant<a id=488></a>
+##### Sous-section 2 : La procédure de jugement du différend persistant<a id=489></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=489></a>
+##### Paragraphe 1 : Dispositions communes<a id=490></a>
 
 ###### Article 1558
 
@@ -39442,7 +39489,7 @@ _Cité par_:
   - Code de procédure civile - art. 1561 (V)
 
 
-##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=490></a>
+##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=491></a>
 
 ###### Article 1560
 
@@ -39504,7 +39551,7 @@ _Cité par_:
   - Code de procédure civile - art. 1559 (VD)
 
 
-##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=491></a>
+##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=492></a>
 
 ###### Article 1562
 
@@ -39574,7 +39621,7 @@ _Cite_:
   - Code de procédure civile - art. 1563
 
 
-#### Section 2 : La procédure de jugement après mise en état du litige<a id=492></a>
+#### Section 2 : La procédure de jugement après mise en état du litige<a id=493></a>
 
 ###### Article 1564-1
 
@@ -39642,7 +39689,7 @@ _Créé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
-## Titre III : Dispositions communes<a id=493></a>
+## Titre III : Dispositions communes<a id=494></a>
 
 ###### Article 1565
 
@@ -39698,25 +39745,21 @@ _Anciens textes_:
   - Code de procédure civile - art. 1568 (T)
 
 
-# Livre VI : Dispositions relatives à l'outre-mer.<a id=494></a>
+# Livre VI : Dispositions relatives à l'outre-mer.<a id=495></a>
 
-## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=495></a>
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=496></a>
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-891 du 6 mai 2017, à
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-890 du 6 mai 2017, à
 l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
 chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2017-891 du 6 mai 2017
-
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 51
+  - Décret n°2017-890 du 6 mai 2017 - art. 57 (VD)
 
 _Cité par_:
 
@@ -39867,9 +39910,9 @@ _Anciens textes_:
   - Code de procédure civile - art. 1519 (M)
 
 
-# Annexes<a id=496></a>
+# Annexes<a id=497></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=497></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=498></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -39883,9 +39926,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=498></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=499></a>
 
-#### Section I : Dispositions communes.<a id=499></a>
+#### Section I : Dispositions communes.<a id=500></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -40051,9 +40094,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=500></a>
+#### Section II : Dispositions propres à certaines matières.<a id=501></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=501></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=502></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -40227,7 +40270,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=502></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=503></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -40276,7 +40319,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (VD)
 
 
-##### Sous-section III : Affaires de registres.<a id=503></a>
+##### Sous-section III : Affaires de registres.<a id=504></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -40392,9 +40435,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section IV : Dispositions particulières au registre des associations<a id=504></a>
+##### Sous-section IV : Dispositions particulières au registre des associations<a id=505></a>
 
-##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=505></a>
+##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=506></a>
 
 ###### Article ANNEXE, art. 30-1
 
@@ -40475,7 +40518,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 2 : La tenue du registre<a id=506></a>
+##### Paragraphe 2 : La tenue du registre<a id=507></a>
 
 ###### Article ANNEXE, art. 30-5
 
@@ -40554,7 +40597,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-##### Paragraphe 3 : La publication de l'inscription<a id=507></a>
+##### Paragraphe 3 : La publication de l'inscription<a id=508></a>
 
 ###### Article ANNEXE, art. 30-9
 
@@ -40613,7 +40656,7 @@ _Modifié par_:
   - Décret n°2014-551 du 27 mai 2014 - art. 23
 
 
-##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=508></a>
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=509></a>
 
 ###### Article ANNEXE, art. 30-11
 
@@ -40665,7 +40708,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 5 : Les sanctions<a id=509></a>
+##### Paragraphe 5 : Les sanctions<a id=510></a>
 
 ###### Article ANNEXE, art. 30-13
 
@@ -40734,7 +40777,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=510></a>
+##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=511></a>
 
 ###### Article 30-16
 
@@ -40933,7 +40976,7 @@ _Cite_:
   - Code de commerce - art. L822-1
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=511></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=512></a>
 
 ###### Article ANNEXE, art. 31
 
@@ -41036,7 +41079,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre III : Dispositions particulières au tribunal d'instance<a id=512></a>
+### Chapitre III : Dispositions particulières au tribunal d'instance<a id=513></a>
 
 ###### Article ANNEXE, art. 36
 
@@ -41058,7 +41101,7 @@ _Cite_:
   - Code de procédure civile - art. 843
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=513></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=514></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -41122,7 +41165,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=514></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=515></a>
 
 ###### Article ANNEXE, art. 42
 
@@ -41147,7 +41190,7 @@ _Cite_:
   - Code de procédure civile - art. 901
 
 
-### Chapitre VII : Dispositions diverses.<a id=515></a>
+### Chapitre VII : Dispositions diverses.<a id=516></a>
 
 ###### Article ANNEXE, art. 43
 
