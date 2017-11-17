@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-11-01
+Version Consolidée au 2017-11-18
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -28492,18 +28492,31 @@ _Modifié par_:
 
 ###### Article 1199-2
 
-La désignation d'un espace de rencontre en application de la dernière phrase du quatrième alinéa de l'article 375-7 du code
+La désignation d'un espace de rencontre en application de la troisième phrase du quatrième alinéa de l'article 375-7 du code
 civil donne lieu à une information préalable du juge des enfants.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2017-1572 du 15 novembre 2017 - art. 2
+
+_Cite_:
+
+  - Code civil - art. 375-7
+
+
+###### Article 1199-3
+
+La fréquence du droit de visite en présence d'un tiers est fixée dans la décision judiciaire sauf à ce que, sous le contrôle
+du juge, les conditions d'exercice de ce droit soient laissées à une détermination conjointe entre le ou les parents et la
+personne, le service ou l'établissement à qui l'enfant est confié.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2012-1312 du 27 novembre 2012 - art. 2
-
-_Cite_:
-
-  - Code civil - art. 375-7
+  - Décret n°2017-1572 du 15 novembre 2017 - art. 2
 
 
 ###### Article 1200
