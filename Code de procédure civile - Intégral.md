@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2017-11-18
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -19381,23 +19381,8 @@ _Cite_:
 
 ###### Article 889
 
-Les assesseurs titulaires et, s'il y a lieu, leurs suppléants sont convoqués comme il est dit à l'article 886.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cite_:
-
-  - Code de procédure civile - art. 886 (V)
-
-
-###### Article 890
-
-En cas d'absence ou de récusation de l'un des assesseurs, il est aussitôt remplacé par le membre suppléant de sa catégorie
-dans l'ordre de voix obtenues lors de l'élection.
+Les assesseurs titulaires et, s'il y a lieu, leurs suppléants, sont convoqués par tous moyens quinze jours au moins avant la
+date d'audience fixée par le président du tribunal.
 
 **Liens relatifs à cet article**
 
@@ -19405,7 +19390,7 @@ _Codifié par_:
 
   - Décret n°75-1123 du 5 décembre 1975
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2017-1100 du 15 juin 2017 - art. 3
 
