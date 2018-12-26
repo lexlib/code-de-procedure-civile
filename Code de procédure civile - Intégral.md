@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-12-27
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -15769,31 +15769,16 @@ justice, la fiabilité de l'identification des parties à la communication élec
 sécurité et la confidentialité des échanges, la conservation des transmissions opérées et permettre d'établir de manière
 certaine la date d'envoi et celle de la réception par le destinataire.
 
-**Nota:**
-
-Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
-décret entre en vigueur le 1er janvier 2009.
-
-Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
-le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
-président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
-communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
-du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
-de procédure civile) au 1er juillet 2008.
+Vaut signature, pour l'application des dispositions du présent code aux actes que le ministère public ou les auxiliaires de
+justice assistant ou représentant les parties notifient ou remettent à l'occasion des procédures suivies devant les
+juridictions des premier et second degrés, l'identification réalisée, lors de la transmission par voie électronique, selon
+les modalités prévues au premier alinéa.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2005-1678 2005-12-28 art. 88 : Champ d'application
-
-_Créé par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 73 () JORF 29 décembre 2005 en vigueur le 1er janvier 2009 sous réserve art. 88
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -15804,6 +15789,10 @@ _Cité par_:
   - Décret n°2012-366 du 15 mars 2012 - art. 24 (V)
   - Arrêté du 28 août 2012 - art. 5 (V)
   - Arrêté du 12 mars 2013 - art. 3 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 6
 
 
 ###### Article 748-7
@@ -39749,17 +39738,17 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2017-890 du 6 mai 2017, à
-l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
-chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2018-1219 du 24 décembre
+2018, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section
+II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2017-890 du 6 mai 2017 - art. 57 (VD)
-
 _Cité par_:
+
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 10
+
+_Modifié par_:
 
   - Décret n°2018-1219 du 24 décembre 2018 - art. 10
 
