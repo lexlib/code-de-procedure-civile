@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -442,7 +442,7 @@ Version Consolidée au 2018-12-31
         - [Section VI bis : L'envoi en possession (art. 1378-1 à 1378-2)](#439)
         - [Section VII : Dispositions communes. (art. 1379 à 1381)](#440)
         - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#441)
-    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-4)](#442)
+    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-3-1)](#442)
       - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#443)
       - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#444)
         - [Section I : L'injonction de payer. (art. 1405 à 1424)](#445)
@@ -452,7 +452,7 @@ Version Consolidée au 2018-12-31
       - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#449)
       - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#450)
       - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#451)
-      - [Chapitre VII : La transaction. (art. 1441-4)](#452)
+    - [Titre V : La sécurité sociale et l'aide sociale (art. 1441-4)](#452)
   - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#453)
     - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#454)
       - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#455)
@@ -2678,22 +2678,23 @@ _Créé par_:
 ###### Article 126-3
 
 Le juge qui statue sur la transmission de la question prioritaire de constitutionnalité est celui qui connaît de l'instance
-au cours de laquelle cette question est soulevée, sous réserve des alinéas qui suivent. 
+au cours de laquelle cette question est soulevée, sous réserve des alinéas qui suivent.
 
 Le magistrat chargé de la mise en état, ainsi que le magistrat de la cour d'appel chargé d'instruire l'affaire, statue par
 ordonnance sur la transmission de la question prioritaire de constitutionnalité soulevée devant lui. Lorsque la question le
 justifie, il peut également renvoyer l'affaire devant la formation de jugement, le cas échéant sans clore l'instruction, pour
-qu'elle statue sur la transmission de la question. Cette décision de renvoi est une mesure d'administration judiciaire. 
+qu'elle statue sur la transmission de la question. Cette décision de renvoi est une mesure d'administration judiciaire.
 
-Le président de la formation de jugement du tribunal paritaire des baux ruraux, du tribunal des affaires de sécurité sociale,
-du tribunal du contentieux de l'incapacité et de la Cour nationale de l'incapacité et de la tarification de l'assurance des
+Le président de la formation de jugement du tribunal paritaire des baux ruraux, du tribunal de grande instance spécialement
+désigné en application de l'article L. 211-16, de la cour d'appel spécialement désignée en application de l'article L. 311-16
+du code de l'organisation judiciaire et de la Cour nationale de l'incapacité et de la tarification de l'assurance des
 accidents du travail statuent sur la transmission de la question.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-148 du 16 février 2010 - art. 3
+  - Décret n°2018-928 du 29 octobre 2018 - art. 1
 
 
 ###### Article 126-4
@@ -21929,48 +21930,40 @@ _Modifié par_:
 
 Les dispositions particulières au pourvoi en cassation sont celles des articles suivants du code électoral : 
 
-Art. R. 15-1 
+Art. R. 19-1.-Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal
+d'instance. Il est ouvert dans tous les cas au préfet. Il n'est pas suspensif. 
 
-Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance. Il est
-ouvert dans tous les cas au préfet. Il n'est pas suspensif. 
+Art. R. 19-2.-Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir
+spécial fait, remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée,
+soit au greffe de la Cour de cassation. 
 
-Art. R. 15-2 
-
-Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
-remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée, soit au greffe de
-la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi ainsi que, s'il y a lieu,
-les nom, prénoms et adresse du ou des défendeurs au pourvoi.
+La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi, ainsi que, s'il y a lieu, les nom, prénoms et
+adresse du ou des défendeurs au pourvoi. 
 
 A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
 invoqués et être accompagnée d'une copie de la décision attaquée. 
 
-Art. R. 15-3 
+Art. R. 19-3.-Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est
+formé et délivre ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le
+pourvoi lui adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette
+notification reproduit la teneur de l'article R. 19-5. 
 
-Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est formé et délivre
-ou adresse, par lettre simple, récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le pourvoi lui
-adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette notification
-reproduit la teneur de l'article R. 15-5. 
-
-Art. R. 15-4 
-
-Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au greffe de la Cour
-de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée ainsi que les
-documents relatifs à la notification de celle-ci et, s'il y a un défendeur, les documents relatifs à la notification du
-pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement. 
+Art. R. 19-4.-Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au
+greffe de la Cour de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée
+ainsi que les documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à la
+notification du pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait
+ultérieurement. 
 
 Lorsque le pourvoi a été formé à la Cour de cassation, le greffe de la Cour de cassation demande immédiatement le dossier de
 l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal d'instance qui a rendu la décision. 
 
-Art. R. 15-5 
+Art. R. 19-5.-Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre
+récépissé ou adresse par lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie
+au demandeur. 
 
-Dès qu'il a reçu copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse par
-lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au demandeur. 
-
-Art. R. 15-6 
-
-Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
-d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
-articles 974 à 982 du code de procédure civile ne sont pas applicables. 
+Art. R. 19-6.-Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les
+parties ou l'une d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les
+dispositions des articles 974 à 982 du code de procédure civile ne sont pas applicables. 
 
 Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
 une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
@@ -21981,16 +21974,38 @@ notification.
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2018-350 du 14 mai 2018 - art. 3
 
 _Cite_:
 
-  - Code de procédure civile - art. 974 (V)
-  - Code de procédure civile - art. 982 (V)
+  - Code électoral
+  - Code électoral - art. R15-1
+  - Code électoral - art. R15-2
+  - Code électoral - art. R15-3
+  - Code électoral - art. R15-4
+  - Code électoral - art. R15-5
+  - Code électoral - art. R15-6
+  - Code électoral - art. R19-1
+  - Code électoral - art. R19-2
+  - Code électoral - art. R19-3
+  - Code électoral - art. R19-4
+  - Code électoral - art. R19-5
+  - Code électoral - art. R19-6
+  - Code de procédure civile - art. 974
+  - Code de procédure civile - art. 982
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code électoral - art. R15-1
+  - PILOTE_SUIVEUR: Code électoral - art. R15-2
+  - PILOTE_SUIVEUR: Code électoral - art. R15-3
+  - PILOTE_SUIVEUR: Code électoral - art. R15-4
+  - PILOTE_SUIVEUR: Code électoral - art. R15-5
+  - PILOTE_SUIVEUR: Code électoral - art. R15-6
 
 
 #### Section II : Les élections professionnelles.<a id=291></a>
@@ -36854,17 +36869,13 @@ _Créé par_:
   - Décret n°2016-360 du 25 mars 2016 - art. 181
 
 
-### Chapitre VII : La transaction.<a id=452></a>
+## Titre V : La sécurité sociale et l'aide sociale<a id=452></a>
 
 ###### Article 1441-4
 
-Le président du tribunal de grande instance, saisi sur requête par une partie à la transaction, confère force exécutoire à
-l'acte qui lui est présenté.
-
-**Nota:**
-
-Décret n° 2012-66 du 20 janvier 2012, article 45 : Le chapitre VII du titre IV du livre III du code de procédure civile est
-abrogé sauf pour son application à Wallis et Futuna.
+Les dispositions particulières aux demandes dont connaissent les tribunaux de grande instance et les cours d'appel
+spécialement désignés en application des articles  L. 211-16 , L. 311-15 et L. 311-16 du code de l'organisation judiciaire
+sont prévues au chapitre 2 du titre IV du livre Ier (partie réglementaire) du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -36872,13 +36883,13 @@ _Codifié par_:
 
   - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°98-1231 du 28 décembre 1998 - art. 30 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+  - Décret n°2018-928 du 29 octobre 2018 - art. 1
 
-_Abrogé par_:
+_Cite_:
 
-  - Décret n°2012-66 du 20 janvier 2012 - art. 45
+  - Code de l'organisation judiciaire - art. L211-16
 
 
 # Livre IV : L'arbitrage.<a id=453></a>
