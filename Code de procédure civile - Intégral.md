@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2018-12-31
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -21919,48 +21919,40 @@ _Modifié par_:
 
 Les dispositions particulières au pourvoi en cassation sont celles des articles suivants du code électoral : 
 
-Art. R. 15-1 
+Art. R. 19-1.-Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal
+d'instance. Il est ouvert dans tous les cas au préfet. Il n'est pas suspensif. 
 
-Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance. Il est
-ouvert dans tous les cas au préfet. Il n'est pas suspensif. 
+Art. R. 19-2.-Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir
+spécial fait, remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée,
+soit au greffe de la Cour de cassation. 
 
-Art. R. 15-2 
-
-Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
-remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée, soit au greffe de
-la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi ainsi que, s'il y a lieu,
-les nom, prénoms et adresse du ou des défendeurs au pourvoi.
+La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi, ainsi que, s'il y a lieu, les nom, prénoms et
+adresse du ou des défendeurs au pourvoi. 
 
 A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
 invoqués et être accompagnée d'une copie de la décision attaquée. 
 
-Art. R. 15-3 
+Art. R. 19-3.-Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est
+formé et délivre ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le
+pourvoi lui adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette
+notification reproduit la teneur de l'article R. 19-5. 
 
-Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est formé et délivre
-ou adresse, par lettre simple, récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le pourvoi lui
-adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette notification
-reproduit la teneur de l'article R. 15-5. 
-
-Art. R. 15-4 
-
-Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au greffe de la Cour
-de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée ainsi que les
-documents relatifs à la notification de celle-ci et, s'il y a un défendeur, les documents relatifs à la notification du
-pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement. 
+Art. R. 19-4.-Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au
+greffe de la Cour de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée
+ainsi que les documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à la
+notification du pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait
+ultérieurement. 
 
 Lorsque le pourvoi a été formé à la Cour de cassation, le greffe de la Cour de cassation demande immédiatement le dossier de
 l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal d'instance qui a rendu la décision. 
 
-Art. R. 15-5 
+Art. R. 19-5.-Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre
+récépissé ou adresse par lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie
+au demandeur. 
 
-Dès qu'il a reçu copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse par
-lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au demandeur. 
-
-Art. R. 15-6 
-
-Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
-d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
-articles 974 à 982 du code de procédure civile ne sont pas applicables. 
+Art. R. 19-6.-Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les
+parties ou l'une d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les
+dispositions des articles 974 à 982 du code de procédure civile ne sont pas applicables. 
 
 Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
 une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
@@ -21971,16 +21963,38 @@ notification.
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2018-350 du 14 mai 2018 - art. 3
 
 _Cite_:
 
-  - Code de procédure civile - art. 974 (V)
-  - Code de procédure civile - art. 982 (V)
+  - Code électoral
+  - Code électoral - art. R15-1
+  - Code électoral - art. R15-2
+  - Code électoral - art. R15-3
+  - Code électoral - art. R15-4
+  - Code électoral - art. R15-5
+  - Code électoral - art. R15-6
+  - Code électoral - art. R19-1
+  - Code électoral - art. R19-2
+  - Code électoral - art. R19-3
+  - Code électoral - art. R19-4
+  - Code électoral - art. R19-5
+  - Code électoral - art. R19-6
+  - Code de procédure civile - art. 974
+  - Code de procédure civile - art. 982
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code électoral - art. R15-1
+  - PILOTE_SUIVEUR: Code électoral - art. R15-2
+  - PILOTE_SUIVEUR: Code électoral - art. R15-3
+  - PILOTE_SUIVEUR: Code électoral - art. R15-4
+  - PILOTE_SUIVEUR: Code électoral - art. R15-5
+  - PILOTE_SUIVEUR: Code électoral - art. R15-6
 
 
 #### Section II : Les élections professionnelles.<a id=291></a>
