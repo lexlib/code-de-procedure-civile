@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-01-29
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -10126,6 +10126,14 @@ I. - Sont présentées au directeur de greffe de la juridiction qui a rendu la d
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
 authentiques en matière de successions et à la création d'un certificat successoral européen ;
 
+- des articles 44 à 57 et 60 du règlement (UE) n° 2016/1103 du Conseil du 24 juin 2016 mettant en œuvre une coopération
+renforcée dans le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en
+matière de régimes matrimoniaux ;
+
+- des articles 44 à 57 et 60 du règlement (UE) n° 2016/1104 du Conseil du 24 juin 2016 mettant en œuvre une coopération
+renforcée dans le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en
+matière d'effets patrimoniaux des partenariats enregistrés ;
+
 - du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire,
 la reconnaissance et l'exécution des décisions en matière civile et commerciale ;
 
@@ -10164,14 +10172,15 @@ Les requêtes présentées devant le juge sont dispensées du ministère d'avoca
 **Nota:**
 
 Se reporter pour les conditions d'application des dispositions de l'article 509-1 aux dispositions du III de l'article 70 du
-décret n° 2017-892 du 6 mai 2017.
+décret n° 2017-892 du 6 mai 2017 et à l'article 11 du décret n° 2018-1219 du 24 décembre 2018 portant diverses mesures de
+procédure civile relatives à la reconnaissance transfrontalière des décisions en matière familiale, à la communication
+électronique et au rôle du ministère public en appel.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
-  - Décret n°2017-892 du 6 mai 2017 - art. 7
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 1
 
 _Cité par_:
 
@@ -10187,6 +10196,14 @@ constatation de la force exécutoire, sur le territoire de la République, des t
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
 authentiques en matière de successions et à la création d'un certificat successoral européen ;
 
+- des articles 44 à 57 et 60 du règlement (UE) n° 2016/1103 du Conseil du 24 juin 2016 mettant en œuvre une coopération
+renforcée dans le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en
+matière de régimes matrimoniaux ;
+
+- des articles 44 à 57 et 60 du règlement (UE) n° 2016/1104 du Conseil du 24 juin 2016 mettant en œuvre une coopération
+renforcée dans le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en
+matière d'effets patrimoniaux des partenariats enregistrés ;
+
 - de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
 commerciale, faite à Lugano le 30 octobre 2007.
 
@@ -10201,11 +10218,19 @@ applicable, la reconnaissance et l'exécution des décisions et la coopération 
 
 Les requêtes présentées devant le juge sont dispensées du ministère d'avocat.
 
+**Nota:**
+
+Aux termes de l'article 11 I du décret n° 2018-1219 du 24 décembre 2018, les présentes dispositions s'appliquent aux
+procédures engagées, aux actes authentiques formellement dressés ou enregistrés et aux transactions judiciaires approuvées ou
+conclues à compter du 29 janvier 2019. Toutefois, elles sont applicables aux décisions rendues à compter du 29 janvier 2019 à
+la suite de procédures engagées antérieurement à cette date, dès lors que les règles de compétence appliquées sont conformes
+à celles prévues par le chapitre II des règlements n° 2016/1103 et n° 2016/1104 du 24 juin 2016 susvisés.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 2
 
 _Cité par_:
 
@@ -10224,6 +10249,14 @@ reconnaissance ou de constatation de la force exécutoire, sur le territoire de 
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
 authentiques en matière de successions et à la création d'un certificat successoral européen ;
 
+- de l'article 59 du règlement (UE) n° 2016/1103 du Conseil du 24 juin 2016 mettant en œuvre une coopération renforcée dans
+le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en matière de régimes
+matrimoniaux ;
+
+- de l'article 59 du règlement (UE) n° 2016/1104 du Conseil du 24 juin 2016 mettant en œuvre une coopération renforcée dans
+le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en matière d'effets
+patrimoniaux des partenariats enregistrés ;
+
 - du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire,
 la reconnaissance et l'exécution des décisions en matière civile et commerciale ;
 
@@ -10231,10 +10264,10 @@ la reconnaissance et l'exécution des décisions en matière civile et commercia
 l'exécution des décisions et la coopération en matière d'obligations alimentaires ;
 
 - de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
-commerciale, faite à Lugano le 30 octobre 2007. 
+commerciale, faite à Lugano le 30 octobre 2007.
 
 Pour l'application du règlement précité du 12 décembre 2012, ainsi que de la convention précitée du 30 octobre 2007,
-l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des notaires. 
+l'élection de domicile est faite dans le ressort de la cour d'appel où siège la chambre des notaires.
 
 Par dérogation à l'article 509-1 sont présentées au notaire ou à la personne morale titulaire de l'office notarial conservant
 la minute de l'acte reçu les requêtes aux fins de certification des actes authentiques notariés en vue de leur acceptation et
@@ -10243,15 +10276,31 @@ de leur exécution à l'étranger en application :
 - du règlement (CE) n° 805/2004 du Parlement européen et du Conseil du 21 avril 2004 portant création d'un titre exécutoire
 européen pour les créances incontestées ;
 
-- de l'article 59 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
+- des articles 59 et 60 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
-authentiques en matière de successions et à la création d'un certificat successoral européen. 
+authentiques en matière de successions et à la création d'un certificat successoral européen ;
+
+- des articles 58 et 59 du règlement (UE) n° 2016/1103 du Conseil du 24 juin 2016 mettant en œuvre une coopération renforcée
+dans le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en matière de
+régimes matrimoniaux ;
+
+- des articles 58 et 59 du règlement (UE) n° 2016/1104 du Conseil du 24 juin 2016 mettant en œuvre une coopération renforcée
+dans le domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en matière
+d'effets patrimoniaux des partenariats enregistrés ;
 
 Par dérogation à l'article 509-1, sont présentées au notaire ou à la personne morale titulaire de l'office notarial ayant
 reçu en dépôt la convention de divorce par consentement mutuel prévue à l'article 229-1 du code civil les requêtes aux fins
 de certification du titre exécutoire en vue de sa reconnaissance et de son exécution à l'étranger en application de l'article
 39 du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution
 des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) n° 1347/2000.
+
+**Nota:**
+
+Aux termes de l'article 11 I du décret n° 2018-1219 du 24 décembre 2018, les présentes dispositions s'appliquent aux
+procédures engagées, aux actes authentiques formellement dressés ou enregistrés et aux transactions judiciaires approuvées ou
+conclues à compter du 29 janvier 2019. Toutefois, elles sont applicables aux décisions rendues à compter du 29 janvier 2019 à
+la suite de procédures engagées antérieurement à cette date, dès lors que les règles de compétence appliquées sont conformes
+à celles prévues par le chapitre II des règlements n° 2016/1103 et n° 2016/1104 du 24 juin 2016 susvisés.
 
 **Liens relatifs à cet article**
 
@@ -10261,12 +10310,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1907 du 28 décembre 2016 - art. 2
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 3
 
 _Cite_:
 
-  - Code de procédure civile - art. 509-1 (V)
-  - Code civil - art. 229-1 (V)
+  - Code de procédure civile - art. 509-1
+  - Code civil - art. 229-1
 
 
 ###### Article 509-4
@@ -10313,7 +10362,18 @@ personne à l'origine du risque encouru.
 La décision constatant la force exécutoire prévue à l'article 48 du règlement (UE) n° 650/2012 du Parlement européen et du
 Conseil du 4 juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et
 l'acceptation et l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral
-européen est notifiée par le greffe à la partie contre laquelle l'exécution est demandée.
+européen est notifiée par le greffe à la partie contre laquelle l'exécution est demandée. Il en est de même des décisions
+constatant la force exécutoire prévues aux articles 47 des règlements (UE) n° 2016/1103 et n° 2016/1104 du Conseil du 24 juin
+2016 mettant en œuvre une coopération renforcée dans le domaine de la compétence, de la loi applicable, de la reconnaissance
+et de l'exécution des décisions en matière de régimes matrimoniaux et d'effets patrimoniaux des partenariats enregistrés.
+
+**Nota:**
+
+Aux termes de l'article 11 I du décret n° 2018-1219 du 24 décembre 2018, les présentes dispositions s'appliquent aux
+procédures engagées, aux actes authentiques formellement dressés ou enregistrés et aux transactions judiciaires approuvées ou
+conclues à compter du 29 janvier 2019. Toutefois, elles sont applicables aux décisions rendues à compter du 29 janvier 2019 à
+la suite de procédures engagées antérieurement à cette date, dès lors que les règles de compétence appliquées sont conformes
+à celles prévues par le chapitre II des règlements n° 2016/1103 et n° 2016/1104 du 24 juin 2016 susvisés.
 
 **Liens relatifs à cet article**
 
@@ -10323,7 +10383,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 4
 
 
 ###### Article 509-7
@@ -10363,21 +10423,33 @@ _Créé par_:
 
 ###### Article 509-9
 
-La  décision statuant sur la demande de déclaration constatant la force  exécutoire, sur le territoire de la République, des
-titres et actes  étrangers, prévue à l'article 48 du règlement (UE) n° 650/2012 du  Parlement européen et du Conseil du 4
-juillet 2012 relatif à la  compétence, la loi applicable, la reconnaissance et l'exécution des  décisions, et l'acceptation
-et l'exécution des actes authentiques en  matière de successions et à la création d'un certificat successoral  européen peut
-faire l'objet d'un recours par le demandeur à la  déclaration ou par la partie contre laquelle l'exécution est demandée.
+La décision statuant sur la demande de déclaration constatant la force exécutoire, sur le territoire de la République, des
+titres et actes étrangers, prévue à l'article 48 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4
+juillet 2012 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et
+l'exécution des actes authentiques en matière de successions et à la création d'un certificat successoral européen peut faire
+l'objet d'un recours par le demandeur à la déclaration ou par la partie contre laquelle l'exécution est demandée. Il en est
+de même des décisions statuant sur la demande de déclaration constatant la force exécutoire prévues aux articles 47 des
+règlements (UE) n° 2016/1103 et n° 2016/1104 du Conseil du 24 juin 2016 mettant en œuvre une coopération renforcée dans le
+domaine de la compétence, de la loi applicable, de la reconnaissance et de l'exécution des décisions en matière de régimes
+matrimoniaux et d'effets patrimoniaux des partenariats enregistrés.
 
-Le recours contre la déclaration constatant  la force exécutoire et contre la décision de rejet de la demande de  déclaration
-constatant la force exécutoire est porté devant le président  du tribunal de grande instance qui statue en dernier ressort
-sur  requête, le requérant et l'autorité requise entendus ou appelés.
+Le recours contre la déclaration constatant la force exécutoire et contre la décision de rejet de la demande de déclaration
+constatant la force exécutoire est porté devant le président du tribunal de grande instance qui statue en dernier ressort sur
+requête, le requérant et l'autorité requise entendus ou appelés.
+
+**Nota:**
+
+Aux termes de l'article 11 I du décret n° 2018-1219 du 24 décembre 2018, les présentes dispositions s'appliquent aux
+procédures engagées, aux actes authentiques formellement dressés ou enregistrés et aux transactions judiciaires approuvées ou
+conclues à compter du 29 janvier 2019. Toutefois, elles sont applicables aux décisions rendues à compter du 29 janvier 2019 à
+la suite de procédures engagées antérieurement à cette date, dès lors que les règles de compétence appliquées sont conformes
+à celles prévues par le chapitre II des règlements n° 2016/1103 et n° 2016/1104 du 24 juin 2016 susvisés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1395 du 2 novembre 2015 - art. 4
+  - Décret n°2018-1219 du 24 décembre 2018 - art. 5
 
 
 ### Chapitre III : Le délai de grâce.<a id=148></a>
