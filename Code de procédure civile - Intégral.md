@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2019-01-29
+Version Consolidée au 2019-05-05
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -9051,11 +9051,11 @@ _Modifié par_:
 ###### Article 456
 
 Le jugement peut être établi sur support papier ou électronique. Il est signé par le président et par le greffier. En cas
-d'empêchement du président, mention en est faite sur la minute, qui est signée par l'un des juges qui en ont délibéré. 
+d'empêchement du président, mention en est faite sur la minute, qui est signée par l'un des juges qui en ont délibéré.
 
 Lorsque le jugement est établi sur support électronique, les procédés utilisés doivent en garantir l'intégrité et la
-conservation. Le jugement établi sur support électronique est signé au moyen d'un procédé de signature électronique sécurisée
-répondant aux exigences du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique. 
+conservation. Le jugement établi sur support électronique est signé au moyen d'un procédé de signature électronique qualifiée
+répondant aux exigences du décret n° 2017-1416 du 28 septembre 2017 relatif à la signature électronique.
 
 Les modalités d'application du présent article sont précisées par arrêté du garde des sceaux, ministre de la justice.
 
@@ -9081,7 +9081,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1416 du 28 septembre 2017 - art. 2 (V)
+  - Décret n°2019-402 du 3 mai 2019 - art. 2
 
 
 ###### Article 457
@@ -14103,6 +14103,31 @@ _Cité par_:
   - Code de procédure civile - art. 688 (V)
 
 
+###### Article 687-2
+
+La date de notification d'un acte judiciaire ou extrajudiciaire à l'étranger est, sans préjudice des dispositions de
+l'article 687-1, à l'égard de celui à qui elle est faite, la date à laquelle l'acte lui est remis ou valablement notifié. 
+
+Lorsque l'acte n'a pu être remis ou notifié à son destinataire, la notification est réputée avoir été effectuée à la date à
+laquelle l'autorité étrangère compétente ou le représentant consulaire ou diplomatique français a tenté de remettre ou
+notifier l'acte, ou lorsque cette date n'est pas connue, celle à laquelle l'une de ces autorités a avisé l'autorité française
+requérante de l'impossibilité de notifier l'acte. 
+
+Lorsqu'aucune attestation décrivant l'exécution de la demande n'a pu être obtenue des autorités étrangères compétentes,
+nonobstant les démarches effectuées auprès de celles-ci, la notification est réputée avoir été effectuée à la date à laquelle
+l'acte leur a été envoyé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-402 du 3 mai 2019 - art. 7
+
+_Cite_:
+
+  - Code de procédure civile - art. 687-1 (V)
+
+
 ###### Article 688
 
 La juridiction est saisie de la demande formée par assignation par la remise qui lui est faite de l'acte complété par les
@@ -15724,39 +15749,32 @@ _Cite_:
 ###### Article 748-3
 
 Les envois, remises et notifications mentionnés à l'article 748-1 font l'objet d'un avis électronique de réception adressé
-par le destinataire, qui indique la date et, le cas échéant, l'heure de celle-ci. 
+par le destinataire, qui indique la date et, le cas échéant, l'heure de celle-ci.
 
-Cet avis tient lieu de visa, cachet et signature ou autre mention de réception qui sont apposés sur l'acte ou sa copie
-lorsque ces formalités sont prévues par le présent code. 
+Lorsque les envois, remises et notifications mentionnés à l'article 748-1 se font par l'intermédiaire d'une plateforme
+d'échanges dématérialisés entre le greffe et les personnes mentionnées à l'article 692-1, ils font l'objet d'un avis
+électronique de mise à disposition adressé au destinataire à l'adresse choisie par lui, lequel indique la date et, le cas
+échéant l'heure de la mise à disposition.
+
+Ces avis électroniques de réception ou de mise à disposition tiennent lieu de visa, cachet et signature ou autre mention de
+réception qui sont apposés sur l'acte ou sa copie lorsque ces formalités sont prévues par le présent code.
 
 En cas de transmission par voie électronique, il n'est pas fait application des dispositions du présent code prévoyant la
 transmission en plusieurs exemplaires et la restitution matérielle des actes et pièces remis ou notifiés.
 
-**Nota:**
-
-Décret n° 2005-1678 du 28 décembre 2005 article 88 : Par dérogation aux dispositions de l'article 87, l'article 73 du présent
-décret entre en vigueur le 1er janvier 2009.
-
-Toutefois, un arrêté du garde des sceaux, ministre de la justice, peut prévoir une application anticipée de l'article 73 dans
-le ressort des juridictions et pour les actes de procédure qu'il désigne, après approbation de conventions passées entre le
-président de la juridiction et une ou plusieurs catégories d'auxiliaires de justice et organisant le recours à la
-communication électronique dans les conditions prévues par cet article. L'arrêté du 17 juin 2008 publié au Journal officiel
-du 26 juin 2008 fixe l'application de l'article 73 du décret n° 2005-1678 du 28 décembre 2005 (Titre XXI du livre Ier du code
-de procédure civile) au 1er juillet 2008.
-
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-484 du 22 mai 2008 - art. 17
 
 _Cité par_:
 
   - Arrêté du 21 juin 2013 - art. 13 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-402 du 3 mai 2019 - art. 3
+
 _Cite_:
 
-  - Code de procédure civile - art. 748-1 (VD)
+  - Code de procédure civile - art. 748-1
 
 
 ###### Article 748-4
@@ -15827,12 +15845,12 @@ _Créé par_:
 Les procédés techniques utilisés doivent garantir, dans des conditions fixées par arrêté du garde des sceaux, ministre de la
 justice, la fiabilité de l'identification des parties à la communication électronique, l'intégrité des documents adressés, la
 sécurité et la confidentialité des échanges, la conservation des transmissions opérées et permettre d'établir de manière
-certaine la date d'envoi et celle de la réception par le destinataire.
+certaine la date d'envoi et, celle de la mise à disposition ou celle de la réception par le destinataire.
 
-Vaut signature, pour l'application des dispositions du présent code aux actes que le ministère public ou les auxiliaires de
-justice assistant ou représentant les parties notifient ou remettent à l'occasion des procédures suivies devant les
-juridictions des premier et second degrés, l'identification réalisée, lors de la transmission par voie électronique, selon
-les modalités prévues au premier alinéa.
+Vaut signature, pour l'application des dispositions du présent code aux actes que les parties, le ministère public ou les
+auxiliaires de justice assistant ou représentant les parties notifient ou remettent à l'occasion des procédures suivies
+devant les juridictions des premier et second degrés, l'identification réalisée, lors de la transmission par voie
+électronique, selon les modalités prévues au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -15852,7 +15870,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1219 du 24 décembre 2018 - art. 6
+  - Décret n°2019-402 du 3 mai 2019 - art. 4
 
 
 ###### Article 748-7
@@ -15875,26 +15893,34 @@ _Créé par_:
 
 ###### Article 748-8
 
-Par dérogation aux dispositions du présent titre, lorsqu'il est prévu qu'un avis est adressé par le greffe à une partie par
-tous moyens, il peut lui être envoyé au moyen d'un courrier électronique ou d'un message écrit, transmis, selon le cas, à
-l'adresse électronique ou au numéro de téléphone qu'elle a préalablement déclaré à cette fin à la juridiction.
+Par dérogation aux dispositions du présent titre, lorsqu'il est prévu qu'un avis, une convocation ou un récépissé est adressé
+par le greffe à une partie par tous moyens, par lettre simple, par lettre recommandée sans avis de réception, il peut lui
+être envoyé par voie électronique sur le “ Portail du justiciable ” du ministère de la justice, à la condition que la partie
+y ait préalablement consenti.
 
-Cette déclaration préalable mentionne le consentement de cette partie à l'utilisation de la voie électronique ou du message
-écrit transmis au numéro de téléphone, pour les avis du greffe transmis dans l'instance en cours, à charge pour elle de
-signaler toute modification de son adresse électronique ou de son numéro de téléphone. Ce consentement peut être révoqué à
-tout moment.
+La déclaration par laquelle une partie consent à l'utilisation de la voie électronique mentionne ses adresse électronique et
+numéro de téléphone portable, à charge pour elle de signaler toute modification de ceux-ci.
+
+La partie est alertée de toute nouvelle communication par un avis de mise à disposition envoyé à l'adresse électronique
+indiquée par elle qui indique la date et, le cas échéant, l'heure de celle-ci.
+
+Les procédés techniques utilisés doivent garantir, dans des conditions fixées par arrêté du garde des sceaux, ministre de la
+justice, la fiabilité de l'identification des parties à la communication électronique, l'intégrité des documents adressés, la
+sécurité et la confidentialité des échanges, la conservation des transmissions opérées et permettre d'établir de manière
+certaine la date d'envoi.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 17
+  - Décret n°2019-402 du 3 mai 2019 - art. 5
 
 
 ###### Article 748-9
 
-Par dérogation aux dispositions du présent titre et lorsque les personnes mentionnées à l'article 692-1 y ont préalablement
-consenti, les convocations émanant du greffe peuvent aussi leur être adressées par courrier électronique dans des conditions
+Par dérogation aux dispositions du présent titre, lorsqu'il est prévu qu'un avis, une convocation ou un récépissé est adressé
+par le greffe à une personne mentionnée à l'article 692-1, par tous moyens, par lettre simple, par lettre recommandée sans
+avis de réception, il peut lui être envoyé, si elle y a préalablement consenti, par courrier électronique dans des conditions
 assurant la confidentialité des informations transmises. Ce consentement peut être révoqué à tout moment. La date de la
 convocation adressée dans ces conditions est, à l'égard du destinataire, celle du premier jour ouvré suivant son envoi. Elle
 est réputée faite à personne si un avis électronique de réception est émis dans ce délai et faite à domicile dans le cas
@@ -15902,9 +15928,13 @@ contraire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 17
+  - Décret n°2019-402 du 3 mai 2019 - art. 6
+
+_Cite_:
+
+  - Code de procédure civile - art. 692-1 (V)
 
 
 ## Titre XXII : Disposition finale.<a id=200></a>
@@ -39808,9 +39838,9 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2018-1219 du 24 décembre
-2018, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section
-II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-402 du 3 mai 2019, à
+l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
+chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Liens relatifs à cet article**
 
@@ -39818,9 +39848,13 @@ _Cité par_:
 
   - Décret n°2018-1219 du 24 décembre 2018 - art. 10
 
+_Cite_:
+
+  - Décret n°2019-402 du 3 mai 2019 (V)
+
 _Modifié par_:
 
-  - Décret n°2018-1219 du 24 décembre 2018 - art. 10
+  - Décret n°2019-402 du 3 mai 2019 - art. 8
 
 _Anciens textes_:
 
