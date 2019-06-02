@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2019-05-05
+Version Consolidée au 2019-06-03
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -17755,26 +17755,26 @@ _Modifié par_:
 
 ###### Article 826-1
 
-Lorsqu'une affaire a été renvoyée devant le tribunal de grande instance dans les conditions prévues par l'alinéa 2 de
-l'article 470-1 et par l'article R. 41-1 du code de procédure pénale, le greffe convoque à l'audience, un mois au moins à
+Lorsque, dans les conditions et selon les modalités prévues par le code de procédure pénale, une affaire a été renvoyée
+devant le tribunal de grande instance afin qu'il soit statué, en application des règles du droit civil, sur la réparation de
+tous les dommages résultant des faits qui ont fondé la poursuite, le greffe convoque à l'audience, un mois au moins à
 l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée
 devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à
-laquelle est annexée une copie de la décision de renvoi vaut citation en justice. 
+laquelle est annexée une copie de la décision de renvoi vaut citation en justice.
+
+Le greffe convoque les parties à l'audience dans un délai maximal de deux mois.
 
 La convocation précise que la représentation à l'audience par avocat est obligatoire et que, même s'ils ne comparaissent pas,
 des décisions exécutoires à titre provisoire pourront être prises contre les parties autres que la victime du dommage et
-contre les tiers responsables mentionnés dans la décision de renvoi. 
+contre les tiers responsables mentionnés dans la décision de renvoi.
 
-Les organismes de sécurité sociale et le fonds de garantie automobile, s'ils sont intervenus devant la juridiction pénale,
-sont convoqués à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe.
-Une copie de la décision de renvoi est annexée à la convocation. 
+Les organismes de sécurité sociale, le fonds de garantie automobile ou le fonds d'indemnisation des victimes des actes de
+terrorisme et d'autres infractions, s'ils sont intervenus devant la juridiction pénale, sont convoqués à la même audience au
+moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe. Une copie de la décision de renvoi
+est annexée à la convocation.
 
 A l'audience, il est procédé comme il est dit aux articles 759 à 762. Le président de la chambre peut accorder en référé une
 provision dans les conditions prévues par l'alinéa 2 de l'article 809.
-
-**Nota:**
-
-Lire R. 41-2 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -17784,7 +17784,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 3
+  - Décret n°2019-547 du 31 mai 2019 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
@@ -40270,7 +40274,7 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-402 du 3 mai 2019, à
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-547 du 31 mai 2019, à
 l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
 chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
@@ -40282,11 +40286,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2019-402 du 3 mai 2019 (V)
+  - Décret n°2019-402 du 3 mai 2019
 
 _Modifié par_:
 
-  - Décret n°2019-402 du 3 mai 2019 - art. 8
+  - Décret n°2019-547 du 31 mai 2019 - art. 1
 
 _Anciens textes_:
 
