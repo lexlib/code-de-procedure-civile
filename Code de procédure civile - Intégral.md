@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -1391,20 +1391,25 @@ _Modifié par_:
 Les demandes relatives aux frais, émoluments et débours qui, afférents à une instance, ont été exposés devant une juridiction
 par les auxiliaires de justice et les officiers publics ou ministériels sont portées devant cette juridiction.
 
-Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées, selon
-le montant des frais, devant le tribunal d'instance ou le tribunal de grande instance dans le ressort duquel l'officier
-public ou ministériel ou l'auxiliaire de justice exerce ses fonctions.
+Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées devant
+le tribunal judiciaire dans le ressort duquel l'officier public ou ministériel ou l'auxiliaire de justice exerce ses
+fonctions.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°78-62 1978-01-20 art. 15 JORF 24 janvier 1978
-  - Décret n°81-500 1981-05-12 art. 9 JORF 14 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cité par_:
 
@@ -7018,18 +7023,23 @@ _Créé par_:
 ###### Article 339
 
 Le juge qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un
-autre juge que désigne le président de la juridiction à laquelle il appartient. Le remplaçant d'un juge d'instance est
-désigné par le président du tribunal de grande instance à défaut de juge directeur.
+autre juge que désigne le président de la juridiction à laquelle il appartient.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 340
@@ -10488,19 +10498,25 @@ l'exécution.
 En cas d'urgence, la même faculté appartient au juge des référés.
 
 Après signification d'un commandement ou d'un acte de saisie, selon le cas, le juge de l'exécution a compétence pour accorder
-un délai de grâce. Cette compétence appartient au tribunal d'instance en matière de saisie des rémunérations.
+un délai de grâce.
 
 L'octroi du délai doit être motivé.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 511
@@ -28417,11 +28433,17 @@ _Cite_:
 
 ###### Article 1188
 
-L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
-la convocation indique. 
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'une chambre de proximité située dans le ressort,
+que la convocation indique.
 
-Les  parents, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
+Les parents, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
 l'audience huit jours au moins avant la date de celle-ci ; les conseils des parties sont également avisés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, lcs dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -28431,7 +28453,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-429 du 24 mai 2013 - art. 1
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cité par_:
 
@@ -28931,20 +28953,26 @@ _Créé par_:
 
 ###### Article 1200-8
 
-L'affaire est instruite et jugée en chambre du conseil. 
+L'affaire est instruite et jugée en chambre du conseil.
 
-L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
-la convocation indique. 
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'une chambre de proximité située dans le ressort,
+que la convocation indique.
 
 A l'audience, le juge entend l'allocataire ou l'attributaire des prestations familiales et porte à sa connaissance les motifs
 de sa saisine. Il entend toute autre personne dont l'audition lui paraît utile. L'avocat de l'allocataire ou de
 l'attributaire des prestations est entendu en ses observations.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1486 du 30 décembre 2008 - art. 3
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 1200-9
@@ -39657,11 +39685,11 @@ _Anciens textes_:
 
 Pour l'application du présent code à Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de première instance" ;
+1° “ tribunal judiciaire ” par : "tribunal de première instance" ;
 
 2° "tribunal de commerce" ou "justice consulaire" par : "tribunal de première instance statuant en matière commerciale" ;
 
-3° "juge d'instance" par : "président du tribunal de première instance" ;
+3° “ juge des contentieux de la protection ” par : "président du tribunal de première instance" ;
 
 4° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
 
@@ -39677,11 +39705,17 @@ Pour l'application du présent code à Wallis et Futuna, les termes énumérés 
 
 10° " président du conseil départemental " ou " maire " par : " chef du territoire ".
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 69
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Anciens textes_:
 
@@ -39849,23 +39883,25 @@ _Cite_:
 
 Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal d'instance.
 
-Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
-tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
-successorale.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 21 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R911-2
+  - Code de l'organisation judiciaire
   - Nouveau code de procédure civile Annexe, 2
 
 
@@ -39928,17 +39964,23 @@ _Modifié par_:
 Le recours est ouvert à tout intéressé.
 
 Il est formé, instruit et jugé selon les règles applicables en matière gracieuse devant la cour d'appel. Il peut également
-être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction d'instance.
+être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article ANNEXE, art. 8
@@ -39993,17 +40035,21 @@ toute mesure conservatoire en matière d'administration légale, de succession e
 
 La compétence territoriale du juge des tutelles est déterminée par les articles 393 et 394 du code civil.
 
-Pour l'application des articles 1271 à 1281 du code de procédure civile, le tribunal compétent est le tribunal d'instance.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 37 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article ANNEXE, art. 12

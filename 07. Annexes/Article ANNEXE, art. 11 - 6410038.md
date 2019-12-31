@@ -5,14 +5,18 @@ toute mesure conservatoire en matière d'administration légale, de succession e
 
 La compétence territoriale du juge des tutelles est déterminée par les articles 393 et 394 du code civil.
 
-Pour l'application des articles 1271 à 1281 du code de procédure civile, le tribunal compétent est le tribunal d'instance.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 37 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19

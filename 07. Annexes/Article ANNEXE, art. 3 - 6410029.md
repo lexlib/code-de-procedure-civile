@@ -2,21 +2,23 @@
 
 Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal d'instance.
 
-Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
-tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
-successorale.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 21 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R911-2
+  - Code de l'organisation judiciaire
   - Nouveau code de procédure civile Annexe, 2
