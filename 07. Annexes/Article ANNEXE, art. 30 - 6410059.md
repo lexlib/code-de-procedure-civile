@@ -1,16 +1,17 @@
 # Article ANNEXE, art. 30
 
 Dans le cas prévu à l'article 37 du code civil local, la direction de l'association est entendue ou appelée avant que le
-tribunal d'instance n'ordonne la convocation de l'assemblée générale.
+tribunal judiciaire n'ordonne la convocation de l'assemblée générale.
 
 L'ordonnance ne peut être frappée que d'un pourvoi immédiat.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code civil local 37
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976

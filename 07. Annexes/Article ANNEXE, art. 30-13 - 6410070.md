@@ -1,6 +1,6 @@
 # Article ANNEXE, art. 30-13
 
-A la demande du ministère public, le tribunal d'instance peut enjoindre par ordonnance aux membres de la direction de
+A la demande du ministère public, le tribunal judiciaire peut enjoindre par ordonnance aux membres de la direction de
 l'association ou aux liquidateurs selon le cas d'avoir à justifier dans un délai qu'il fixe du respect de l'alinéa premier de
 l'article 67, de l'alinéa premier de l'article 71, de l'article 72, du deuxième alinéa de l'article 74 et de l'article 76 du
 code civil local.
@@ -14,16 +14,17 @@ l'article 670-1 du code de procédure civile.
 
 L'affaire est instruite et jugée en chambre du conseil.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code civil local 67, 71, 72, 74, 76, 78
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
