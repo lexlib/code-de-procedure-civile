@@ -2,20 +2,26 @@
 
 Si l'acte introductif d'instance est assorti d'une requête exposant des motifs d'urgence et si le président en reconnaît le
 bien-fondé dans son ordonnance de fixation, la notification prévue ci-dessus doit en outre comporter les énonciations visées
-au deuxième alinéa de l'article 789 du code de procédure civile. 
+au deuxième alinéa de l'article 841 du code de procédure civile. 
 
-Il est procédé devant le tribunal suivant les dispositions des articles 790 et 792 dudit code.
+Il est procédé devant le tribunal suivant les dispositions des articles 842 et 844 dudit code.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 789 (V)
+  - Code de procédure civile - art. 34
+  - Code de procédure civile - art. 841

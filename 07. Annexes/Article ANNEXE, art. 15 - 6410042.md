@@ -1,20 +1,12 @@
 # Article ANNEXE, art. 15
 
-Le tribunal d'instance peut également désigner un notaire pour apposer et lever des scellés ; il peut le charger de faire un
-inventaire. 
+Le tribunal judiciaire peut également désigner un notaire pour apposer et lever des scellés ; il peut le charger de faire un
+inventaire.
 
 Les héritiers intéressés doivent être appelés à ces opérations s'il n'en résulte aucun retard. Lorsque ces mesures ont été
-prises en l'absence d'un intéressé, le tribunal d'instance doit l'en aviser dès que possible.
+prises en l'absence d'un intéressé, le tribunal judiciaire doit l'en aviser dès que possible.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 8
 
 _Cité par_:
 
