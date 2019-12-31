@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2019-12-23
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 2019-12-23
       - [Chapitre Ier : Les défenses au fond. (art. 71 à 72)](#26)
       - [Chapitre II : Les exceptions de procédure. (art. 73 à 121)](#27)
         - [Section I : Les exceptions d'incompétence. (art. 75 à 91)](#28)
-          - [Sous-section I : Le jugement statuant sur la compétence (art. 75 à 82)](#29)
+          - [Sous-section I : Le jugement statuant sur la compétence (art. 75 à 82-1)](#29)
           - [Sous-section II : L'appel du jugement statuant sur la compétence (art. 83 à 91)](#30)
             - [Paragraphe 1 : L'appel du jugement statuant exclusivement sur la compétence (art. 83 à 89)](#31)
             - [Paragraphe 2 : L'appel du jugement statuant sur la compétence et le fond du litige (art. 90 à 91)](#32)
@@ -89,435 +89,443 @@ Version Consolidée au 2019-12-23
             - [Sous-section I : L'incident de faux. (art. 299)](#86)
             - [Sous-section II : Le faux demandé à titre principal. (art. 300 à 302)](#87)
         - [Chapitre II : L'inscription de faux contre les actes authentiques. (art. 303 à 316)](#88)
-          - [Section I : L'inscription de faux incidente. (art. 306 à 313)](#89)
-            - [Sous-section I : Incident soulevé devant le tribunal de grande instance ou la cour d'appel. (art. 306 à 312)](#90)
-            - [Sous-section II : Incident soulevé devant les autres juridictions. (art. 313)](#91)
-          - [Section II : L'inscription de faux principale. (art. 314 à 316)](#92)
-      - [Sous-titre IV : Le serment judiciaire. (art. 317 à 322)](#93)
-    - [Titre VIII : La pluralité des parties. (art. 323 à 324)](#94)
-    - [Titre IX : L'intervention. (art. 325 à 338)](#95)
-      - [Chapitre Ier : L'intervention volontaire. (art. 328 à 330)](#96)
-      - [Chapitre II : L'intervention forcée. (art. 331 à 338)](#97)
-        - [Section I : Dispositions communes à toutes les mises en cause. (art. 331 à 333)](#98)
-        - [Section II : Dispositions spéciales aux appels en garantie. (art. 334 à 338)](#99)
-    - [Titre IX bis : L'audition de l'enfant en justice. (art. 338-1 à 338-12)](#100)
-    - [Titre X : L'abstention, la récusation, le renvoi et la prise à partie. (art. 339 à 366-9)](#101)
-      - [Chapitre Ier : L'abstention. (art. 339 à 340)](#102)
-      - [Chapitre II : La récusation et le renvoi pour cause de suspicion légitime (art. 341 à 350)](#103)
-        - [Section I : Dispositions générales (art. 341 à 348)](#104)
-        - [Section II : Dispositions particulières (art. 349 à 350)](#105)
-      - [Chapitre III : Le renvoi pour cause de sûreté publique (art. 351 à 354)](#106)
-      - [Chapitre IV : La prise à partie. (art. 366-1 à 366-9)](#107)
-        - [Section I : Dispositions générales. (art. 366-1 à 366-8)](#108)
-        - [Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice. (art. 366-9)](#109)
-    - [Titre XI : Les incidents d'instance. (art. 367 à 410)](#110)
-      - [Chapitre Ier : Les jonction et disjonction d'instances. (art. 367 à 368)](#111)
-      - [Chapitre II : L'interruption de l'instance. (art. 369 à 376)](#112)
-      - [Chapitre III : La suspension de l'instance. (art. 377 à 383)](#113)
-        - [Section I : Le sursis à statuer. (art. 378 à 380-1)](#114)
-        - [Section II : La radiation et le retrait du rôle. (art. 381 à 383)](#115)
-      - [Chapitre IV : L'extinction de l'instance. (art. 384 à 410)](#116)
-        - [Section I : La péremption d'instance. (art. 386 à 393)](#117)
-        - [Section II : Le désistement d'instance. (art. 394 à 405)](#118)
-          - [Sous-section I : Le désistement de la demande en première instance. (art. 394 à 399)](#119)
-          - [Sous-section II : Le désistement de l'appel ou de l'opposition. (art. 400 à 405)](#120)
-        - [Section III : La caducité de la citation. (art. 406 à 407)](#121)
-        - [Section IV : L'acquiescement. (art. 408 à 410)](#122)
-    - [Titre XII : Représentation et assistance en justice. (art. 411 à 420)](#123)
-    - [Titre XIII : Le ministère public. (art. 421 à 429)](#124)
-      - [Chapitre Ier : Le ministère public partie principale. (art. 422 à 423)](#125)
-      - [Chapitre II : Le ministère public partie jointe. (art. 424 à 429)](#126)
-    - [Titre XIV : Le jugement. (art. 430 à 499)](#127)
-      - [Chapitre Ier : Dispositions générales. (art. 430 à 479)](#128)
-        - [Section I : Les débats, le délibéré et le jugement. (art. 430 à 466)](#129)
-          - [Sous-section I : Les débats. (art. 430 à 446-4)](#130)
-            - [Paragraphe 1 : Dispositions générales (art. 430 à 446)](#131)
-            - [Paragraphe 2 : Dispositions propres à la procédure orale (art. 446-1 à 446-4)](#132)
-          - [Sous-section II : Le délibéré. (art. 447 à 449)](#133)
-          - [Sous-section III : Le jugement. (art. 450 à 466)](#134)
-        - [Section II : Le défaut de comparution. (art. 467 à 479)](#135)
-          - [Sous-section I : Le jugement contradictoire. (art. 467 à 470)](#136)
-          - [Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire. (art. 471 à 479)](#137)
-      - [Chapitre II : Dispositions spéciales. (art. 480 à 498)](#138)
-        - [Section I : Les jugements sur le fond. (art. 480 à 481)](#139)
-        - [Section II : Les autres jugements. (art. 482 à 498)](#140)
-          - [Sous-section I : Les jugements avant dire droit. (art. 482 à 483)](#141)
-          - [Sous-section II : Les ordonnances de référé. (art. 484 à 492-1)](#142)
-          - [Sous-section III : Les ordonnances sur requête. (art. 493 à 498)](#143)
-      - [Chapitre III : Disposition finale. (art. 499)](#144)
-    - [Titre XV : L'exécution du jugement. (art. 500 à 526)](#145)
-      - [Chapitre Ier : Conditions générales de l'exécution. (art. 502 à 508)](#146)
-      - [Chapitre II : La reconnaissance transfrontalière. (art. 509 à 509-9)](#147)
-      - [Chapitre III : Le délai de grâce. (art. 510 à 513)](#148)
-      - [Chapitre IV : L'exécution provisoire. (art. 514 à 526)](#149)
-    - [Titre XVI : Les voies de recours. (art. 527 à 639-4)](#150)
-      - [Sous-titre Ier : Dispositions communes. (art. 528 à 537)](#151)
-      - [Sous-titre II : Les voies ordinaires de recours. (art. 538 à 578)](#152)
-        - [Chapitre Ier : L'appel. (art. 542 à 570)](#153)
-          - [Section I : Le droit d'appel. (art. 543 à 560)](#154)
-            - [Sous-section I : Les jugements susceptibles d'appel. (art. 543 à 545)](#155)
-            - [Sous-section II : Les parties. (art. 546 à 558)](#156)
-            - [Sous-section III : Dispositions diverses. (art. 559 à 560)](#157)
-          - [Section II : Les effets de l'appel. (art. 561 à 568)](#158)
-            - [Sous-section I : L'effet dévolutif. (art. 561 à 567)](#159)
-            - [Sous-section II : L'évocation. (art. 568)](#160)
-          - [Section III : Dispositions finales. (art. 569 à 570)](#161)
-        - [Chapitre II : L'opposition. (art. 571 à 578)](#162)
-      - [Sous-titre III : Les voies extraordinaires de recours. (art. 579 à 639-4)](#163)
-        - [Chapitre Ier : La tierce opposition. (art. 582 à 592)](#164)
-        - [Chapitre II : Le recours en révision. (art. 593 à 603)](#165)
-        - [Chapitre III : Le pourvoi en cassation. (art. 604 à 639-4)](#166)
-          - [Section I : L'ouverture du pourvoi en cassation. (art. 605 à 618)](#167)
-          - [Section II : Les effets du pourvoi en cassation. (art. 619 à 639)](#168)
-          - [Section III : Le pourvoi du procureur général près la Cour de cassation (art. 639-1 à 639-4)](#169)
-    - [Titre XVII : Délais, actes d'huissier de justice et notifications. (art. 640 à 694)](#170)
-      - [Chapitre Ier : La computation des délais. (art. 640 à 647-1)](#171)
-      - [Chapitre II : La forme des actes d'huissier de justice. (art. 648 à 650)](#172)
-      - [Chapitre III : La forme des notifications. (art. 651 à 694)](#173)
-        - [Section I : La signification. (art. 653 à 664-1)](#174)
-        - [Section II : La notification des actes en la forme ordinaire. (art. 665 à 670-3)](#175)
-        - [Section III : Les notifications entre avocats. (art. 671 à 673)](#176)
-        - [Section IV : Règles particulières à la notification des jugements. (art. 675 à 682)](#177)
-        - [Section V : Règles particulières aux notifications internationales. (art. 683 à 688-8)](#178)
-          - [Sous-section I : Notification des actes à l'étranger. (art. 684 à 688)](#179)
-          - [Sous-section II : Notification des actes en provenance de l'étranger. (art. 688-1 à 688-8)](#180)
-        - [Section VI : Le lieu des notifications. (art. 689 à 691)](#181)
-        - [Section VII : Dispositions diverses. (art. 692 à 694)](#182)
-    - [Titre XVIII : Les frais et les dépens. (art. 695 à 725-1)](#183)
-      - [Chapitre Ier : La charge des dépens. (art. 695 à 700)](#184)
-      - [Chapitre II : La liquidation des dépens à recouvrer par le greffe (art. 701 à 703)](#185)
-      - [Chapitre III : La vérification et le recouvrement des dépens. (art. 704 à 718)](#186)
-      - [Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens. (art. 719 à 721)](#187)
-      - [Chapitre V : Les contestations relatives à la rémunération des techniciens. (art. 724 à 725)](#188)
-      - [Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce. (art. 725-1)](#189)
-    - [Titre XIX : Le greffe de la juridiction (art. 726 à 729-1)](#190)
-    - [Titre XX : Les commissions rogatoires. (art. 730 à 748)](#191)
-      - [Chapitre Ier : Les commissions rogatoires internes. (art. 730 à 732)](#192)
-      - [Chapitre II : Les commissions rogatoires internationales. (art. 734 à 748)](#193)
-        - [Section I : Commissions rogatoires à destination de l'étranger (art. 734 à 734-2)](#194)
-        - [Section II : Commissions rogatoires en provenance de l'Etat étranger (art. 735 à 748)](#195)
-          - [Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance (art. 735 à 747)](#196)
-          - [Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale (art. 747-1 à 747-2)](#197)
-          - [Paragraphe 3 : Dispositions communes (art. 748)](#198)
-    - [Titre XXI : La communication par voie électronique. (art. 748-1 à 748-9)](#199)
-    - [Titre XXII : Disposition finale. (art. 749)](#200)
-  - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 1037-1)](#201)
-    - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art. 750 à 826-24)](#202)
-      - [Sous-titre Ier : La procédure devant le tribunal. (art. 750 à 807)](#203)
-        - [Chapitre Ier : La procédure en matière contentieuse. (art. 750 à 796-1)](#204)
-          - [Section I : La procédure ordinaire (art. 755 à 787)](#205)
-            - [Sous-section I : Saisine du tribunal. (art. 755 à 759)](#206)
-            - [Sous-section II : Renvoi à l'audience. (art. 760 à 762)](#207)
-            - [Sous-section III : Instruction devant le juge de la mise en état. (art. 763 à 781)](#208)
-            - [Sous-section IV : Dispositions communes. (art. 782 à 787)](#209)
-          - [Section II : Procédure à jour fixe. (art. 788 à 792)](#210)
-          - [Section III : La requête conjointe. (art. 793 à 796)](#211)
-          - [Section IV : Dispositions communes (art. 796-1)](#212)
-        - [Chapitre II : Procédure en matière gracieuse. (art. 761 à 800)](#213)
-        - [Chapitre III : Le juge unique. (art. 801 à 805)](#214)
-        - [Chapitre IV : Dispositions diverses. (art. 806 à 807)](#215)
-      - [Sous-titre II : Les pouvoirs du président. (art. 808 à 813)](#216)
-        - [Chapitre Ier : Les ordonnances de référé. (art. 808 à 791)](#217)
-          - [Section 2 : L'instruction devant le juge de la mise en état (art. 791)](#218)
-        - [Chapitre II : Les ordonnances sur requête. (art. 812 à 813)](#219)
-      - [Sous-titre III : Dispositions diverses. (art. 814 à 826)](#220)
-        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 814 à 816)](#221)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 819 à 820)](#222)
-        - [Chapitre III : Le greffe. (art. 821 à 826)](#223)
-      - [Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale. (art. 826-1)](#224)
-      - [Sous-titre V : L'action de groupe (art. 826-2 à 826-24)](#225)
-        - [Chapitre Ier : Dispositions préliminaires (art. 826-3 à 826-5)](#226)
-        - [Chapitre II : Cessation du manquement (art. 826-6 à 826-13)](#227)
-        - [Chapitre III : Réparation des préjudices (art. 826-14 à 826-23)](#228)
-          - [Section 1 : Jugement sur la responsabilité (art. 826-14 à 826-16)](#229)
-          - [Section 2 : Mise en œuvre du jugement et réparation des préjudices (art. 826-17 à 826-22)](#230)
-            - [Sous-section 1 : Adhésion au groupe (art. 826-17 à 826-20)](#231)
-            - [Sous-section 2 : Réparation des préjudices par le juge et exécution forcée du jugement (art. 826-21 à 826-22)](#232)
-          - [Section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. 826-23)](#233)
-        - [Chapitre IV :  Dispositions diverses (art. 826-24)](#234)
-    - [Titre II : Dispositions particulières au tribunal d'instance (art. 827 à 852-1)](#235)
-      - [Sous-titre Ier : La procédure ordinaire. (art. 829 à 847-3)](#236)
-        - [Chapitre Ier : La tentative préalable de conciliation. (art. 830 à 836)](#237)
-          - [Section I : La conciliation déléguée à un conciliateur de justice (art. 831 à 833)](#238)
-          - [Section II : La conciliation menée par le juge (art. 834 à 835)](#239)
-          - [Section III : La demande aux fins de jugement  en cas d'échec de la conciliation (art. 836)](#240)
-        - [Chapitre II : La procédure aux fins de jugement (art. 837 à 847-3)](#241)
-          - [Section I : L'introduction de l'instance (art. 837 à 844)](#242)
-            - [Sous-section I : La saisine par assignation à toutes fins (art. 837 à 840)](#243)
-            - [Sous-section II : La requête conjointe et la présentation volontaire des parties (art. 841 à 842)](#244)
-            - [Sous-section III : La déclaration au greffe (art. 843 à 844)](#245)
-          - [Section II : Le déroulement de l'instance (art. 845 à 847-3)](#246)
-            - [Sous-section I : La conciliation (art. 845)](#247)
-            - [Sous-section II : Les débats (art. 846 à 847-3)](#248)
-      - [Sous-titre II : Les ordonnances de référé devant le juge d'instance. (art. 848 à 850)](#249)
-      - [Sous-titre III : Les ordonnances sur requête devant le juge d'instance. (art. 851 à 852)](#250)
-      - [Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale. (art. 852-1)](#251)
-    - [Titre III : Dispositions particulières au tribunal de commerce. (art. 853 à 878-1)](#252)
-      - [Chapitre Ier : La procédure devant le tribunal de commerce. (art. 854 à 871)](#253)
-        - [Section I : L'introduction de l'instance. (art. 854 à 860)](#254)
-          - [Sous-section I : L'assignation. (art. 855 à 858)](#255)
-          - [Sous-section II : La requête conjointe et la présentation volontaire des parties. (art. 859 à 860)](#256)
-        - [Section II : L'instance. (art. 860-1 à 871)](#257)
-          - [Sous-section I : Dispositions générales (art. 860-1 à 861-2)](#258)
-          - [Sous-section II : Le juge chargé d'instruire l'affaire. (art. 861-3 à 871)](#259)
-      - [Chapitre II : Les pouvoirs du président. (art. 872 à 876)](#260)
-        - [Section I : Les ordonnances de référé. (art. 872 à 873-1)](#261)
-        - [Section II : Les ordonnances sur requête. (art. 874 à 876)](#262)
-      - [Chapitre III : Dispositions diverses. (art. 877 à 878-1)](#263)
-    - [Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale. (art. 879)](#264)
-    - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898)](#265)
-      - [Chapitre Ier : La procédure ordinaire. (art. 880 à 892)](#266)
-      - [Chapitre II : Les ordonnances de référé. (art. 893 à 896)](#267)
-      - [Chapitre III : Les ordonnances sur requête. (art. 897 à 898)](#268)
-    - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 972-1)](#269)
-      - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-1)](#270)
-        - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#271)
-          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930-3)](#272)
-            - [Sous-section I : La procédure ordinaire. (art. 901 à 916)](#273)
-            - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#274)
-            - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#275)
-            - [Sous-section IV : Dispositions communes. (art. 930-1 à 930-3)](#276)
-          - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#277)
-        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#278)
-        - [Chapitre III : Dispositions communes. (art. 954 à 955-1)](#279)
-      - [Sous-titre II : Les pouvoirs du premier président. (art. 956 à 959)](#280)
-        - [Chapitre Ier : Les ordonnances de référé. (art. 956 à 957)](#281)
-        - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#282)
-      - [Sous-titre III : Dispositions diverses. (art. 960 à 972-1)](#283)
-        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 960 à 962)](#284)
-        - [Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel (art. 963 à 964-1)](#285)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 964-2 à 965)](#286)
-        - [Chapitre III : Le greffe. (art. 966 à 972)](#287)
-        - [Chapitre IV : Le ministère public (art. 972-1)](#288)
-    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031-23)](#289)
-      - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#290)
-      - [Chapitre II : La procédure sans représentation obligatoire. (art. 983 à 995)](#291)
-      - [Chapitre III : La procédure en matière électorale. (art. 996 à 1008)](#292)
-        - [Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques. (art. 996)](#293)
-        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#294)
-      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022-1)](#295)
-      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#296)
-        - [Section I : Augmentation des délais. (art. 1023)](#297)
-        - [Section II : Le désistement. (art. 1024 à 1026)](#298)
-        - [Section III : La récusation. (art. 1027)](#299)
-        - [Section IV : La demande en faux. (art. 1028 à 1031)](#300)
-      - [Chapitre VI : La saisine pour avis de la Cour de cassation. (art. 1031-1 à 1031-7)](#301)
-      - [Chapitre VII : Le réexamen en matière civile (art. 1031-8 à 1031-23)](#302)
-        - [Section 1 : Procédure devant la cour de réexamen (art. 1031-8 à 1031-21)](#303)
-        - [Section 2 :  Dispositions particulières aux juridictions de renvoi (art. 1031-22 à 1031-23)](#304)
-    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037-1)](#305)
-  - [Livre III : Dispositions particulières à certaines matières (art. 1038 à 1441-4)](#306)
-    - [Titre Ier : Les personnes (art. 1038 à 1263-1)](#307)
-      - [Chapitre Ier : La nationalité des personnes physiques (art. 1038 à 1045)](#308)
-      - [Chapitre II : Les actes de l'état civil (art. 1046 à 1056-2)](#309)
-        - [Section I : L'annulation et la rectification des actes de l'état civil (art. 1046 à 1055)](#310)
-          - [Sous-section I : La rectification et l'annulation administratives (art. 1046 à 1047)](#311)
-          - [Sous-section II : La rectification et l'annulation judiciaire (art. 1048 à 1055)](#312)
-        - [Section II : Les procédures relatives au prénom (art. 1055-1 à 1055-4)](#313)
-        - [Section II bis : La modification de la mention du sexe dans les actes de l'état civil (art. 1055-5 à 1055-9)](#314)
-        - [Section III : La transcription et la mention des décisions sur les registres de l'état civil (art. 1056 à 1056-2)](#315)
-      - [Chapitre III : Le répertoire civil (art. 1057 à 1061)](#316)
-      - [Chapitre III bis : Les funérailles (art. 1061-1)](#317)
-      - [Chapitre IV : Les absents (art. 1062 à 1069)](#318)
-        - [Section I : La présomption d'absence (art. 1062 à 1065)](#319)
-        - [Section II : La déclaration d'absence (art. 1066 à 1069)](#320)
-      - [Chapitre V : La procédure en matière familiale (art. 1070 à 1143)](#321)
-        - [Section I : Dispositions générales (art. 1070 à 1074-1)](#322)
-        - [Section II : Le divorce judiciaire et la séparation de corps (art. 1075 à 1136)](#323)
-          - [Sous-section I : Dispositions générales (art. 1075 à 1087)](#324)
-            - [Paragraphe 1 : Les demandes (art. 1075 à 1078)](#325)
-            - [Paragraphe 2 : La prestation compensatoire (art. 1079 à 1080)](#326)
-            - [Paragraphe 3 : La publicité et la preuve des jugements (art. 1081 à 1082-1)](#327)
-            - [Paragraphe 4  : La modification des mesures accessoires (art. 1083 à 1085)](#328)
-            - [Paragraphe 5 : Le pourvoi en cassation (art. 1086 à 1087)](#329)
-          - [Sous-section II : Le divorce judiciaire par consentement mutuel (art. 1088 à 1105)](#330)
-          - [Sous-section III : Les autres procédures de divorce judiciaire (art. 1106 à 1128)](#331)
-            - [Paragraphe 1 : La requête initiale (art. 1106 à 1107)](#332)
-            - [Paragraphe 2 : La tentative de conciliation (art. 1108 à 1113)](#333)
-            - [Paragraphe 3 : L'instance (art. 1114 à 1116)](#334)
-            - [Paragraphe 4 : Les mesures provisoires (art. 1117 à 1121-1)](#335)
-            - [Paragraphe 5 : Les voies de recours (art. 1122)](#336)
-            - [Paragraphe 6 : Dispositions particulières au divorce accepté (art. 1123 à 1125)](#337)
-            - [Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal (art. 1126 à 1127)](#338)
-            - [Paragraphe 8 : Dispositions particulières au divorce pour faute (art. 1128)](#339)
-          - [Sous-section IV : La séparation de corps (art. 1129 à 1130)](#340)
-          - [Sous-section V : Le divorce sur conversion de la séparation de corps (art. 1131 à 1136)](#341)
-        - [Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins (art. 1136-1 à 1136-2)](#342)
-        - [Section II ter : La procédure aux fins de mesures de protection des victimes de violences (art. 1136-3 à 1136-14)](#343)
-        - [Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales (art. 1137 à 1143)](#344)
-      - [Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire (art. 1144 à 1148-3)](#345)
-      - [Chapitre VI : La filiation et les subsides (art. 1149 à 1157-3)](#346)
-        - [Section I : Dispositions générales (art. 1149 à 1151)](#347)
-        - [Section II : Les subsides (art. 1156)](#348)
-        - [Section IV : Le consentement à la procréation médicalement assistée (art. 1157-2 à 1157-3)](#349)
-      - [Chapitre VIII : L'adoption (art. 1165 à 1178-1)](#350)
-        - [Section I : Le consentement à l'adoption (art. 1165)](#351)
-        - [Section II : La procédure d'adoption (art. 1166 à 1176)](#352)
-        - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#353)
-        - [Section IV : Dispositions communes (art. 1178-1)](#354)
-      - [Chapitre IX : L'autorité parentale (art. 1179 à 1210-12)](#355)
-        - [Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant (art. 1179 à 1180-5)](#356)
-        - [Section I bis : L'intervention du juge des tutelles en matière d'administration légale (art. 1180-6 à 1180-19)](#357)
-          - [Sous-section 1 : La demande (art. 1180-6 à 1180-7)](#358)
-          - [Sous-section 2 : L'instruction de la demande (art. 1180-8 à 1180-11)](#359)
-          - [Sous-section 3 : La consultation du dossier et la délivrance de copies (art. 1180-12 à 1180-13)](#360)
-          - [Sous-section 4 : Les décisions du juge des tutelles (art. 1180-14 à 1180-15)](#361)
-          - [Sous-section 5 : Les notifications et les copies des décisions (art. 1180-16 à 1180-17)](#362)
-          - [Sous-section 6 : L'appel (art. 1180-18)](#363)
-          - [Sous-section 7 : L'amende civile (art. 1180-19)](#364)
-        - [Section II : L'assistance éducative (art. 1181 à 1200-1)](#365)
-        - [Section II bis : La mesure judiciaire d'aide à la gestion du budget familial (art. 1200-2 à 1200-13)](#366)
-        - [Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental (art. 1202 à 1210)](#367)
-        - [Section IV : Dispositions relatives à l'administrateur ad hoc (art. 1210-1 à 1210-3)](#368)
-        - [Section V : Le déplacement illicite international d'enfants (art. 1210-4 à 1210-12)](#369)
-      - [Chapitre X : La protection juridique des mineurs et des majeurs (art. 1211 à 1261-1)](#370)
-        - [Section I : Dispositions relatives aux mesures prononcées par le juge (art. 1211 à 1257)](#371)
-          - [Sous-section 1 : Dispositions générales (art. 1211 à 1216)](#372)
-          - [Sous-section 2 : La procédure devant le juge des tutelles (art. 1217 à 1233)](#373)
-            - [Paragraphe 1 : La demande (art. 1217 à 1219)](#374)
-            - [Paragraphe 2 : L'instruction de la demande (art. 1220 à 1221-2)](#375)
-            - [Paragraphe 3 : La consultation du dossier et la délivrance de copies (art. 1222 à 1224)](#376)
-            - [Paragraphe 4 : Les convocations à l'audience (art. 1225)](#377)
-            - [Paragraphe 5 : Les décisions du juge des tutelles (art. 1226 à 1229)](#378)
-            - [Paragraphe 6 : Les notifications (art. 1230 à 1231)](#379)
-            - [Paragraphe 7 : L'exécution de la décision (art. 1233)](#380)
-          - [Sous-section 3 : Le conseil de famille (art. 1234 à 1238)](#381)
-            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs (art. 1234 à 1235)](#382)
-            - [Paragraphe 2 : Dispositions relatives aux mineurs (art. 1236)](#383)
-            - [Paragraphe 3 : Dispositions relatives aux majeurs. (art. 1237 à 1238)](#384)
-          - [Sous-section 4 : L'appel. (art. 1239 à 1247)](#385)
-          - [Sous-section 5 : La sauvegarde de justice. (art. 1248 à 1252-1)](#386)
-          - [Sous-section 6 : La curatelle et la tutelle. (art. 1253 à 1257)](#387)
-            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs. (art. 1253 à 1254-1)](#388)
-            - [Paragraphe 2 : Dispositions relatives aux majeurs. (art. 1255 à 1257)](#389)
-        - [Section II : Dispositions relatives au mandat de protection future. (art. 1258 à 1260)](#390)
-        - [Section III : Dispositions applicables aux pupilles de l'Etat. (art. 1261 à 1261-1)](#391)
-      - [Chapitre XI : La mesure d'accompagnement judiciaire. (art. 1262 à 1263)](#392)
-      - [Chapitre XII : Les actions en matière de discriminations. (art. 1263-1)](#393)
-    - [Titre II : Les biens. (art. 1268 à 1281-19)](#394)
-      - [Chapitre II : La reddition de compte et la liquidation des fruits. (art. 1268 à 1269)](#395)
-      - [Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice. (art. 1270)](#396)
-      - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#397)
-      - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#398)
-      - [Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur. (art. 1281-13 à 1281-19)](#399)
-    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1381-4)](#400)
-      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303-6)](#401)
-        - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289-2)](#402)
-          - [Sous-section I : La procédure devant le juge aux affaires familiales. (art. 1287 à 1288)](#403)
-          - [Sous-section II : La procédure devant le juge des tutelles. (art. 1289 à 1289-2)](#404)
-        - [Section II : Les mesures urgentes. (art. 1290)](#405)
-        - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#406)
-        - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#407)
-        - [Section V : Le changement de régime matrimonial. (art. 1300 à 1303)](#408)
-          - [Paragraphe 1 : Dispositions générales (art. 1300 à 1300-3)](#409)
-          - [Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial (art. 1300-4 à 1303)](#410)
-        - [Section VI : La publicité en matière internationale (art. 1303-1 à 1303-6)](#411)
-          - [Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage (art. 1303-1 à 1303-2)](#412)
-          - [Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère (art. 1303-3 à 1303-5)](#413)
-          - [Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française (art. 1303-6)](#414)
-      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1381-4)](#415)
-        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1326)](#416)
-          - [Sous-section I : Les scellés (art. 1307 à 1322)](#417)
-            - [Paragraphe 1 : L'apposition des scellés. (art. 1307 à 1315)](#418)
-            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#419)
-          - [Sous-section II :  L'état descriptif (art. 1323)](#420)
-          - [Sous-section III : Dispositions communes. (art. 1324 à 1326)](#421)
-        - [Section II : L'inventaire. (art. 1328 à 1333)](#422)
-        - [Section III : L'option successorale. (art. 1334 à 1341)](#423)
-          - [Sous-section I : L'acceptation à concurrence de l'actif net. (art. 1334 à 1338)](#424)
-          - [Sous-section II : La renonciation. (art. 1339 à 1340)](#425)
-          - [Sous-section III : L'option du conjoint survivant. (art. 1341)](#426)
-        - [Section IV : Les successions vacantes et les successions en déshérence. (art. 1342 à 1354)](#427)
-          - [Sous-section I : Les successions vacantes. (art. 1342 à 1353)](#428)
-            - [Paragraphe 1 : L'ouverture de la curatelle. (art. 1342)](#429)
-            - [Paragraphe 2 : La mission du curateur. (art. 1343 à 1349)](#430)
-            - [Paragraphe 3 : La reddition de compte et la fin de la curatelle. (art. 1350 à 1353)](#431)
-          - [Sous-section II : Les successions en déshérence. (art. 1354)](#432)
-        - [Section V : Le mandataire successoral désigné en justice. (art. 1355 à 1357)](#433)
-        - [Section VI : Le partage. (art. 1358 à 1378)](#434)
-          - [Sous-section I : Le partage amiable. (art. 1358)](#435)
-          - [Sous-section II : Le partage judiciaire. (art. 1359 à 1378)](#436)
-            - [Paragraphe 1 : Dispositions générales. (art. 1359 à 1363)](#437)
-            - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#438)
-            - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#439)
-        - [Section VI bis : L'envoi en possession (art. 1378-1 à 1378-2)](#440)
-        - [Section VII : Dispositions communes. (art. 1379 à 1381)](#441)
-        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#442)
-    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-3-1)](#443)
-      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#444)
-      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#445)
-        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#446)
-        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#447)
-        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#448)
-        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#449)
-      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#450)
-      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#451)
-      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#452)
-    - [Titre V : La sécurité sociale et l'aide sociale (art. 1441-4)](#453)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#454)
-    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#455)
-      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#456)
-      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#457)
-      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#458)
-      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#459)
-      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#460)
-      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#461)
-        - [Section 1 : L'appel (art. 1489 à 1490)](#462)
-        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#463)
-        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#464)
-        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#465)
-        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#466)
-    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#467)
-      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#468)
-      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#469)
-      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#470)
-      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#471)
-        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#472)
-        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#473)
-        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#474)
-  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#475)
-    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#476)
-      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#477)
-      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#478)
-    - [Titre II : La procédure participative (art. 1542 à 1564-4)](#479)
-      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555)](#480)
-        - [Section 1 : La convention (art. 1544 à 1546-2)](#481)
-          - [Sous-section 1 : Dispositions générales (art. 1544 à 1546)](#482)
-          - [Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état (art. 1546-1 à 1546-2)](#483)
-        - [Section 1 bis : Les actes contresignés par avocats (art. 1546-3)](#484)
-        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#485)
-        - [Section 3 : L'issue de la procédure (art. 1555)](#486)
-      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564-4)](#487)
-        - [Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable (art. 1557 à 1564)](#488)
-          - [Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend (art. 1557)](#489)
-          - [Sous-section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#490)
-            - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#491)
-            - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#492)
-            - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#493)
-        - [Section 2 : La procédure de jugement après mise en état du litige (art. 1564-1 à 1564-4)](#494)
-    - [Titre III : Dispositions communes (art. 1565 à 1567)](#495)
-  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#496)
-    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#497)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#498)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#499)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#500)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#501)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#502)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#503)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#504)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#505)
-          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#506)
-            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#507)
-            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#508)
-            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#509)
-            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#510)
-            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#511)
-            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#512)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 35)](#513)
-      - [Chapitre III : Dispositions particulières au tribunal d'instance (art. ANNEXE, art. 36)](#514)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#515)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#516)
-      - [Chapitre VII : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#517)
+          - [Section I : L'inscription de faux incidente. (art.  à 313)](#89)
+            - [Sous-section I : Incident soulevé devant le tribunal de grande instance ou la cour d'appel. (art.  à 305)](#90)
+            - [Sous-section I : Incident soulevé devant le tribunal judiciaire ou la cour d'appel. (art. 306 à 312)](#91)
+            - [Sous-section II : Incident soulevé devant les autres juridictions. (art. 313)](#92)
+          - [Section II : L'inscription de faux principale. (art. 314 à 316)](#93)
+      - [Sous-titre IV : Le serment judiciaire. (art. 317 à 322)](#94)
+    - [Titre VIII : La pluralité des parties. (art. 323 à 324)](#95)
+    - [Titre IX : L'intervention. (art. 325 à 338)](#96)
+      - [Chapitre Ier : L'intervention volontaire. (art. 328 à 330)](#97)
+      - [Chapitre II : L'intervention forcée. (art. 331 à 338)](#98)
+        - [Section I : Dispositions communes à toutes les mises en cause. (art. 331 à 333)](#99)
+        - [Section II : Dispositions spéciales aux appels en garantie. (art. 334 à 338)](#100)
+    - [Titre IX bis : L'audition de l'enfant en justice. (art. 338-1 à 338-12)](#101)
+    - [Titre X : L'abstention, la récusation, le renvoi et la prise à partie. (art. 339 à 366-9)](#102)
+      - [Chapitre Ier : L'abstention. (art. 339 à 340)](#103)
+      - [Chapitre II : La récusation et le renvoi pour cause de suspicion légitime (art. 341 à 350)](#104)
+        - [Section I : Dispositions générales (art. 341 à 348)](#105)
+        - [Section II : Dispositions particulières (art. 349 à 350)](#106)
+      - [Chapitre III : Le renvoi pour cause de sûreté publique (art. 351 à 354)](#107)
+      - [Chapitre IV : La prise à partie. (art. 366-1 à 366-9)](#108)
+        - [Section I : Dispositions générales. (art. 366-1 à 366-8)](#109)
+        - [Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice. (art. 366-9)](#110)
+    - [Titre XI : Les incidents d'instance. (art. 367 à 410)](#111)
+      - [Chapitre Ier : Les jonction et disjonction d'instances. (art. 367 à 368)](#112)
+      - [Chapitre II : L'interruption de l'instance. (art. 369 à 376)](#113)
+      - [Chapitre III : La suspension de l'instance. (art. 377 à 383)](#114)
+        - [Section I : Le sursis à statuer. (art. 378 à 380-1)](#115)
+        - [Section II : La radiation et le retrait du rôle. (art. 381 à 383)](#116)
+      - [Chapitre IV : L'extinction de l'instance. (art. 384 à 410)](#117)
+        - [Section I : La péremption d'instance. (art. 386 à 393)](#118)
+        - [Section II : Le désistement d'instance. (art. 394 à 405)](#119)
+          - [Sous-section I : Le désistement de la demande en première instance. (art. 394 à 399)](#120)
+          - [Sous-section II : Le désistement de l'appel ou de l'opposition. (art. 400 à 405)](#121)
+        - [Section III : La caducité de la citation. (art. 406 à 407)](#122)
+        - [Section IV : L'acquiescement. (art. 408 à 410)](#123)
+    - [Titre XII : Représentation et assistance en justice. (art. 411 à 420)](#124)
+    - [Titre XIII : Le ministère public. (art. 421 à 429)](#125)
+      - [Chapitre Ier : Le ministère public partie principale. (art. 422 à 423)](#126)
+      - [Chapitre II : Le ministère public partie jointe. (art. 424 à 429)](#127)
+    - [Titre XIV : Le jugement. (art. 430 à 499)](#128)
+      - [Chapitre Ier : Dispositions générales. (art. 430 à 479)](#129)
+        - [Section I : Les débats, le délibéré et le jugement. (art. 430 à 466)](#130)
+          - [Sous-section I : Les débats. (art. 430 à 446-4)](#131)
+            - [Paragraphe 1 : Dispositions générales (art. 430 à 446)](#132)
+            - [Paragraphe 2 : Dispositions propres à la procédure orale (art. 446-1 à 446-4)](#133)
+          - [Sous-section II : Le délibéré. (art. 447 à 449)](#134)
+          - [Sous-section III : Le jugement. (art. 450 à 466)](#135)
+        - [Section II : Le défaut de comparution. (art. 467 à 479)](#136)
+          - [Sous-section I : Le jugement contradictoire. (art. 467 à 470)](#137)
+          - [Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire. (art. 471 à 479)](#138)
+      - [Chapitre II : Dispositions spéciales. (art. 480 à 498)](#139)
+        - [Section I : Les jugements sur le fond. (art. 480 à 481-1)](#140)
+          - [Sous-section 1 : Dispositions communes (art. 480 à 481)](#141)
+          - [Sous-section 2 : Les jugements en procédure accélérée au fond (art. 481-1)](#142)
+        - [Section II : Les autres jugements. (art. 482 à 498)](#143)
+          - [Sous-section I : Les jugements avant dire droit. (art. 482 à 483)](#144)
+          - [Sous-section II : Les ordonnances de référé. (art. 484 à 492)](#145)
+          - [Sous-section III : Les ordonnances sur requête. (art. 493 à 498)](#146)
+      - [Chapitre III : Disposition finale. (art. 499)](#147)
+    - [Titre XV : L'exécution du jugement. (art. 500 à 524)](#148)
+      - [Chapitre Ier : Conditions générales de l'exécution. (art. 502 à 508)](#149)
+      - [Chapitre II : La reconnaissance transfrontalière. (art. 509 à 509-9)](#150)
+      - [Chapitre III : Le délai de grâce. (art. 510 à 513)](#151)
+      - [Chapitre IV : L'exécution provisoire. (art. 514 à 524)](#152)
+        - [Section I : L'exécution provisoire de droit (art. 514-1 à 514-6)](#153)
+        - [Section II :  L'exécution provisoire facultative (art. 515 à 517-4)](#154)
+        - [Section III :  Dispositions communes (art. 518 à 524)](#155)
+    - [Titre XVI : Les voies de recours. (art. 527 à 639-4)](#156)
+      - [Sous-titre Ier : Dispositions communes. (art. 528 à 537)](#157)
+      - [Sous-titre II : Les voies ordinaires de recours. (art. 538 à 578)](#158)
+        - [Chapitre Ier : L'appel. (art. 542 à 570)](#159)
+          - [Section I : Le droit d'appel. (art. 543 à 560)](#160)
+            - [Sous-section I : Les jugements susceptibles d'appel. (art. 543 à 545)](#161)
+            - [Sous-section II : Les parties. (art. 546 à 558)](#162)
+            - [Sous-section III : Dispositions diverses. (art. 559 à 560)](#163)
+          - [Section II : Les effets de l'appel. (art. 561 à 568)](#164)
+            - [Sous-section I : L'effet dévolutif. (art. 561 à 567)](#165)
+            - [Sous-section II : L'évocation. (art. 568)](#166)
+          - [Section III : Dispositions finales. (art. 569 à 570)](#167)
+        - [Chapitre II : L'opposition. (art. 571 à 578)](#168)
+      - [Sous-titre III : Les voies extraordinaires de recours. (art. 579 à 639-4)](#169)
+        - [Chapitre Ier : La tierce opposition. (art. 582 à 592)](#170)
+        - [Chapitre II : Le recours en révision. (art. 593 à 603)](#171)
+        - [Chapitre III : Le pourvoi en cassation. (art. 604 à 639-4)](#172)
+          - [Section I : L'ouverture du pourvoi en cassation. (art. 605 à 618)](#173)
+          - [Section II : Les effets du pourvoi en cassation. (art. 619 à 639)](#174)
+          - [Section III : Le pourvoi du procureur général près la Cour de cassation (art. 639-1 à 639-4)](#175)
+    - [Titre XVII : Délais, actes d'huissier de justice et notifications. (art. 640 à 694)](#176)
+      - [Chapitre Ier : La computation des délais. (art. 640 à 647-1)](#177)
+      - [Chapitre II : La forme des actes d'huissier de justice. (art. 648 à 650)](#178)
+      - [Chapitre III : La forme des notifications. (art. 651 à 694)](#179)
+        - [Section I : La signification. (art. 653 à 664-1)](#180)
+        - [Section II : La notification des actes en la forme ordinaire. (art. 665 à 670-3)](#181)
+        - [Section III : Les notifications entre avocats. (art. 671 à 673)](#182)
+        - [Section IV : Règles particulières à la notification des jugements. (art. 675 à 682)](#183)
+        - [Section V : Règles particulières aux notifications internationales. (art. 683 à 688-8)](#184)
+          - [Sous-section I : Notification des actes à l'étranger. (art. 684 à 688)](#185)
+          - [Sous-section II : Notification des actes en provenance de l'étranger. (art. 688-1 à 688-8)](#186)
+        - [Section VI : Le lieu des notifications. (art. 689 à 691)](#187)
+        - [Section VII : Dispositions diverses. (art. 692 à 694)](#188)
+    - [Titre XVIII : Les frais et les dépens. (art. 695 à 725-1)](#189)
+      - [Chapitre Ier : La charge des dépens. (art. 695 à 700)](#190)
+      - [Chapitre II : La liquidation des dépens à recouvrer par le greffe (art. 701 à 703)](#191)
+      - [Chapitre III : La vérification et le recouvrement des dépens. (art. 704 à 718)](#192)
+      - [Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens. (art. 719 à 721)](#193)
+      - [Chapitre V : Les contestations relatives à la rémunération des techniciens. (art. 724 à 725)](#194)
+      - [Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce. (art. 725-1)](#195)
+    - [Titre XIX : Le greffe de la juridiction (art. 726 à 729-1)](#196)
+    - [Titre XX : Les commissions rogatoires. (art. 730 à 748)](#197)
+      - [Chapitre Ier : Les commissions rogatoires internes. (art. 730 à 732)](#198)
+      - [Chapitre II : Les commissions rogatoires internationales. (art. 734 à 748)](#199)
+        - [Section I : Commissions rogatoires à destination de l'étranger (art. 734 à 734-2)](#200)
+        - [Section II : Commissions rogatoires en provenance de l'Etat étranger (art.  à 748)](#201)
+          - [Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance (art.  à 734-2)](#202)
+          - [Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal judiciaire (art. 735 à 747)](#203)
+          - [Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale (art. 747-1 à 747-2)](#204)
+          - [Paragraphe 3 : Dispositions communes (art. 748)](#205)
+    - [Titre XXI : La communication par voie électronique. (art. 748-1 à 748-9)](#206)
+    - [Titre XXII : Disposition finale. (art. 749)](#207)
+  - [Livre II : Dispositions particulières à chaque juridiction. (art.  à 1037-1)](#208)
+    - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art.  à 797)](#209)
+      - [Sous-titre Ier : La procédure devant le tribunal. (art.  à 749)](#210)
+        - [Chapitre II : Procédure en matière gracieuse. (art.  à 749)](#211)
+      - [Sous-titre II : Les pouvoirs du président. (art. 780 à 797)](#212)
+        - [Chapitre Ier : Les ordonnances de référé. (art. 780 à 797)](#213)
+          - [Section 2 : L'instruction devant le juge de la mise en état (art. 780 à 797)](#214)
+    - [Titre Ier : Dispositions particulières au tribunal judiciaire (art. 750 à 852)](#215)
+      - [Sous-titre Ier : Dispositions communes (art. 750 à 774)](#216)
+        - [Chapitre Ier : L'introduction de l'instance (art. 750 à 759)](#217)
+          - [Section I : L'introduction de l'instance par assignation (art. 751 à 755)](#218)
+          - [Section II : L'introduction de l'instance par requête (art. 756 à 759)](#219)
+        - [Chapitre II : Constitution d'avocat et conclusions (art. 760 à 768)](#220)
+        - [Chapitre III : Le greffe (art. 769 à 774)](#221)
+      - [Sous-titre II : La procédure écrite (art. 775 à 816)](#222)
+        - [Chapitre Ier : La procédure ordinaire (art. 775 à 807)](#223)
+          - [Section 1 : L'orientation de l'affaire (art. 776 à 779)](#224)
+          - [Section 2 : L'instruction devant le juge de la mise en état (art.  à 779)](#225)
+          - [Section 3 : La clôture de l'instruction et renvoi à l'audience de plaidoirie (art. 798 à 807)](#226)
+        - [Chapitre II : La procédure en matière gracieuse (art. 808 à 811)](#227)
+        - [Chapitre III : Le juge unique (art. 812 à 816)](#228)
+      - [Sous-titre III : La procédure orale (art. 817 à 839)](#229)
+        - [Chapitre Ier : La procédure ordinaire (art. 817 à 833)](#230)
+          - [Section 1 : La tentative préalable de conciliation (art. 820 à 826)](#231)
+            - [Sous-section 1 : La conciliation déléguée à un conciliateur de justice (art. 821 à 824)](#232)
+            - [Sous-section 2 : La conciliation menée par le juge (art. 825)](#233)
+            - [Sous-section 3 : La demande aux fins de jugement en cas d'échec de la conciliation (art. 826)](#234)
+          - [Section 2 : La procédure aux fins de jugement (art. 827 à 833)](#235)
+            - [Sous-section 1 : La conciliation (art. 827)](#236)
+            - [Sous-section 2 : Les débats (art. 828 à 833)](#237)
+        - [Chapitre II : Les ordonnances de référé (art. 834 à 838)](#238)
+        - [Chapitre III : La procédure accélérée au fond (art. 839)](#239)
+      - [Sous-titre IV : Les autres procédures (art. 840 à 849-21)](#240)
+        - [Chapitre Ier : La procédure à jour fixe (art. 840 à 844)](#241)
+        - [Chapitre II : Les ordonnances sur requête (art. 845 à 846)](#242)
+        - [Chapitre III : La procédure sur décision de renvoi de la juridiction pénale (art. 847)](#243)
+        - [Chapitre IV : L'action de groupe (art. 848 à 849-21)](#244)
+          - [Section 1 :  Dispositions préliminaires (art. 849 à 849-2)](#245)
+          - [Section 2 : Cessation du manquement (art. 849-3 à 849-10)](#246)
+          - [Section 3 : Réparation des préjudices (art. 849-11 à 849-20)](#247)
+            - [Sous-section 1 : Jugement sur la responsabilité (art. 849-11 à 849-13)](#248)
+            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. 849-14 à 849-19)](#249)
+              - [Paragraphe 1 : Adhésion au groupe (art. 849-14 à 849-17)](#250)
+              - [Paragraphe 2 : Réparation des préjudices par le juge et exécution forcée du jugement (art. 849-18 à 849-19)](#251)
+            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. 849-20)](#252)
+          - [Section 4 : Dispositions diverses (art. 849-21)](#253)
+      - [Sous-titre V : Dispositions diverses (art. 850 à 852)](#254)
+        - [Chapitre Ier : La communication électronique (art. 850)](#255)
+        - [Chapitre II : Mesures d'administration judiciaire (art. 851 à 852)](#256)
+    - [Titre III : Dispositions particulières au tribunal de commerce. (art. 853 à 878-1)](#257)
+      - [Chapitre Ier : La procédure devant le tribunal de commerce. (art. 854 à 871)](#258)
+        - [Section I : L'introduction de l'instance. (art. 854 à 860)](#259)
+          - [Sous-section I : L'assignation. (art. 855 à 858)](#260)
+          - [Sous-section II : La requête conjointe (art. 859 à 860)](#261)
+        - [Section II : L'instance. (art. 860-1 à 871)](#262)
+          - [Sous-section I : Dispositions générales (art. 860-1 à 861-2)](#263)
+          - [Sous-section II : Le juge chargé d'instruire l'affaire. (art. 861-3 à 871)](#264)
+      - [Chapitre II : Les pouvoirs du président. (art. 872 à 876-1)](#265)
+        - [Section I : Les ordonnances de référé. (art. 872 à 873-1)](#266)
+        - [Section II : Les ordonnances sur requête. (art. 874 à 876-1)](#267)
+      - [Chapitre III : Dispositions diverses. (art. 877 à 878-1)](#268)
+    - [Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale. (art. 879)](#269)
+    - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898-1)](#270)
+      - [Chapitre Ier : La procédure ordinaire. (art. 880 à 892)](#271)
+      - [Chapitre II : Les ordonnances de référé. (art. 893 à 896)](#272)
+      - [Chapitre III : Les ordonnances sur requête. (art. 897 à 898-1)](#273)
+    - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 972-1)](#274)
+      - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-1)](#275)
+        - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#276)
+          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930-3)](#277)
+            - [Sous-section I : La procédure ordinaire. (art. 901 à 916)](#278)
+            - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#279)
+            - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#280)
+            - [Sous-section IV : Dispositions communes. (art. 930-1 à 930-3)](#281)
+          - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#282)
+        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#283)
+        - [Chapitre III : Dispositions communes. (art. 954 à 955-1)](#284)
+      - [Sous-titre II : Les pouvoirs du premier président. (art. 956 à 959)](#285)
+        - [Chapitre Ier : Les ordonnances de référé. (art. 956 à 957)](#286)
+        - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#287)
+      - [Sous-titre III : Dispositions diverses. (art. 960 à 972-1)](#288)
+        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 960 à 962)](#289)
+        - [Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel (art. 963 à 964-1)](#290)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 964-2 à 965)](#291)
+        - [Chapitre III : Le greffe. (art. 966 à 972)](#292)
+        - [Chapitre IV : Le ministère public (art. 972-1)](#293)
+    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031-23)](#294)
+      - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#295)
+      - [Chapitre II : La procédure sans représentation obligatoire. (art. 983 à 995)](#296)
+      - [Chapitre III : La procédure en matière électorale. (art. 996 à 1008)](#297)
+        - [Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques. (art. 996)](#298)
+        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#299)
+      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022-1)](#300)
+      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#301)
+        - [Section I : Augmentation des délais. (art. 1023)](#302)
+        - [Section II : Le désistement. (art. 1024 à 1026)](#303)
+        - [Section III : La récusation. (art. 1027)](#304)
+        - [Section IV : La demande en faux. (art. 1028 à 1031)](#305)
+      - [Chapitre VI : La saisine pour avis de la Cour de cassation. (art. 1031-1 à 1031-7)](#306)
+      - [Chapitre VII : Le réexamen en matière civile (art. 1031-8 à 1031-23)](#307)
+        - [Section 1 : Procédure devant la cour de réexamen (art. 1031-8 à 1031-21)](#308)
+        - [Section 2 :  Dispositions particulières aux juridictions de renvoi (art. 1031-22 à 1031-23)](#309)
+    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037-1)](#310)
+  - [Livre III : Dispositions particulières à certaines matières (art. 1038 à 1441-4)](#311)
+    - [Titre Ier : Les personnes (art. 1038 à 1263-1)](#312)
+      - [Chapitre Ier : La nationalité des personnes physiques (art. 1038 à 1045)](#313)
+      - [Chapitre II : Les actes de l'état civil (art. 1046 à 1056-2)](#314)
+        - [Section I : L'annulation et la rectification des actes de l'état civil (art. 1046 à 1055)](#315)
+          - [Sous-section I : La rectification et l'annulation administratives (art. 1046 à 1047)](#316)
+          - [Sous-section II : La rectification et l'annulation judiciaire (art. 1048 à 1055)](#317)
+        - [Section II : Les procédures relatives au prénom (art. 1055-1 à 1055-4)](#318)
+        - [Section II bis : La modification de la mention du sexe dans les actes de l'état civil (art. 1055-5 à 1055-10)](#319)
+        - [Section III : La transcription et la mention des décisions sur les registres de l'état civil (art. 1056 à 1056-2)](#320)
+      - [Chapitre III : Le répertoire civil (art. 1057 à 1061)](#321)
+      - [Chapitre III bis : Les funérailles (art. 1061-1)](#322)
+      - [Chapitre IV : Les absents (art. 1062 à 1069)](#323)
+        - [Section I : La présomption d'absence (art. 1062 à 1065)](#324)
+        - [Section II : La déclaration d'absence (art. 1066 à 1069)](#325)
+      - [Chapitre V : La procédure en matière familiale (art. 1070 à 1143)](#326)
+        - [Section I : Dispositions générales (art. 1070 à 1074-1)](#327)
+        - [Section II : Le divorce judiciaire et la séparation de corps (art. 1075 à 1136)](#328)
+          - [Sous-section I : Dispositions générales (art. 1075 à 1087)](#329)
+            - [Paragraphe 1 : Les demandes (art. 1075 à 1078)](#330)
+            - [Paragraphe 2 : La prestation compensatoire (art. 1079 à 1080)](#331)
+            - [Paragraphe 3 : La publicité et la preuve des jugements (art. 1081 à 1082-1)](#332)
+            - [Paragraphe 4  : La modification des mesures accessoires (art. 1083 à 1085)](#333)
+            - [Paragraphe 5 : Le pourvoi en cassation (art. 1086 à 1087)](#334)
+          - [Sous-section II : Le divorce judiciaire par consentement mutuel (art. 1088 à 1105)](#335)
+          - [Sous-section III : Les autres procédures de divorce judiciaire (art. 1106 à 1128)](#336)
+            - [Paragraphe 1 : La requête initiale (art. 1106 à 1107)](#337)
+            - [Paragraphe 2 : La tentative de conciliation (art. 1108 à 1113)](#338)
+            - [Paragraphe 3 : L'instance (art. 1114 à 1116)](#339)
+            - [Paragraphe 4 : Les mesures provisoires (art. 1117 à 1121-1)](#340)
+            - [Paragraphe 5 : Les voies de recours (art. 1122)](#341)
+            - [Paragraphe 6 : Dispositions particulières au divorce accepté (art. 1123 à 1125)](#342)
+            - [Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal (art. 1126 à 1127)](#343)
+            - [Paragraphe 8 : Dispositions particulières au divorce pour faute (art. 1128)](#344)
+          - [Sous-section IV : La séparation de corps (art. 1129 à 1130)](#345)
+          - [Sous-section V : Le divorce sur conversion de la séparation de corps (art. 1131 à 1136)](#346)
+        - [Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins (art. 1136-1 à 1136-2)](#347)
+        - [Section II ter : La procédure aux fins de mesures de protection des victimes de violences (art. 1136-3 à 1136-14)](#348)
+        - [Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales (art. 1137 à 1143)](#349)
+      - [Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire (art. 1144 à 1148-3)](#350)
+      - [Chapitre VI : La filiation et les subsides (art. 1149 à 1157-3)](#351)
+        - [Section I : Dispositions générales (art. 1149 à 1151)](#352)
+        - [Section II : Les subsides (art. 1156)](#353)
+        - [Section IV : Le consentement à la procréation médicalement assistée (art. 1157-2 à 1157-3)](#354)
+      - [Chapitre VIII : L'adoption (art. 1165 à 1178-1)](#355)
+        - [Section I : Le consentement à l'adoption (art. 1165)](#356)
+        - [Section II : La procédure d'adoption (art. 1166 à 1176)](#357)
+        - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#358)
+        - [Section IV : Dispositions communes (art. 1178-1)](#359)
+      - [Chapitre IX : L'autorité parentale (art. 1179 à 1210-12)](#360)
+        - [Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant (art. 1179 à 1180-5)](#361)
+        - [Section I bis : L'intervention du juge des tutelles en matière d'administration légale (art. 1180-6 à 1180-19)](#362)
+          - [Sous-section 1 : La demande (art. 1180-6 à 1180-7)](#363)
+          - [Sous-section 2 : L'instruction de la demande (art. 1180-8 à 1180-11)](#364)
+          - [Sous-section 3 : La consultation du dossier et la délivrance de copies (art. 1180-12 à 1180-13)](#365)
+          - [Sous-section 4 : Les décisions du juge des tutelles (art. 1180-14 à 1180-15)](#366)
+          - [Sous-section 5 : Les notifications et les copies des décisions (art. 1180-16 à 1180-17)](#367)
+          - [Sous-section 6 : L'appel (art. 1180-18)](#368)
+          - [Sous-section 7 : L'amende civile (art. 1180-19)](#369)
+        - [Section II : L'assistance éducative (art. 1181 à 1200-1)](#370)
+        - [Section II bis : La mesure judiciaire d'aide à la gestion du budget familial (art. 1200-2 à 1200-13)](#371)
+        - [Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental (art. 1202 à 1210)](#372)
+        - [Section IV : Dispositions relatives à l'administrateur ad hoc (art. 1210-1 à 1210-3)](#373)
+        - [Section V : Le déplacement illicite international d'enfants (art. 1210-4 à 1210-12)](#374)
+      - [Chapitre X : La protection juridique des mineurs et des majeurs (art. 1211 à 1261-1)](#375)
+        - [Section I : Dispositions relatives aux mesures prononcées par le juge (art. 1211 à 1257)](#376)
+          - [Sous-section 1 : Dispositions générales (art. 1211 à 1216)](#377)
+          - [Sous-section 1 bis : Les informations adressées au procureur de la République préalablement à la saisine du juge des tutelles (art. 1216-1 à 1216-3)](#378)
+          - [Sous-section 2 : La procédure devant le juge des tutelles (art. 1217 à 1233)](#379)
+            - [Paragraphe 1 : La demande (art. 1217 à 1219-1)](#380)
+            - [Paragraphe 2 : L'instruction de la demande (art. 1220 à 1221-2)](#381)
+            - [Paragraphe 3 : La consultation du dossier et la délivrance de copies (art. 1222 à 1224)](#382)
+            - [Paragraphe 4 : Les convocations à l'audience (art. 1225)](#383)
+            - [Paragraphe 5 : Les décisions du juge des tutelles (art. 1226 à 1229)](#384)
+            - [Paragraphe 6 : Les notifications (art. 1230 à 1231)](#385)
+            - [Paragraphe 7 : L'exécution de la décision (art. 1233)](#386)
+          - [Sous-section 3 : Le conseil de famille (art. 1234 à 1238)](#387)
+            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs (art. 1234 à 1235)](#388)
+            - [Paragraphe 2 : Dispositions relatives aux mineurs (art. 1236)](#389)
+            - [Paragraphe 3 : Dispositions relatives aux majeurs. (art. 1237 à 1238)](#390)
+          - [Sous-section 4 : L'appel. (art. 1239 à 1247)](#391)
+          - [Sous-section 5 : La sauvegarde de justice. (art. 1248 à 1252-1)](#392)
+          - [Sous-section 6 : La curatelle et la tutelle. (art. 1253 à 1257)](#393)
+            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs. (art. 1253 à 1254-1)](#394)
+            - [Paragraphe 2 : Dispositions relatives aux majeurs. (art. 1255 à 1257)](#395)
+        - [Section II : Dispositions relatives au mandat de protection future. (art. 1258 à 1260)](#396)
+        - [Section III : Dispositions applicables aux pupilles de l'Etat. (art. 1261 à 1261-1)](#397)
+      - [Chapitre XI : La mesure d'accompagnement judiciaire. (art. 1262 à 1263)](#398)
+      - [Chapitre XII : Les actions en matière de discriminations. (art. 1263-1)](#399)
+    - [Titre II : Les biens. (art. 1268 à 1281-19)](#400)
+      - [Chapitre II : La reddition de compte et la liquidation des fruits. (art. 1268 à 1269)](#401)
+      - [Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice. (art. 1270)](#402)
+      - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#403)
+      - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#404)
+      - [Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur. (art. 1281-13 à 1281-19)](#405)
+    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1381-4)](#406)
+      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303-6)](#407)
+        - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289-2)](#408)
+          - [Sous-section I : La procédure devant le juge aux affaires familiales. (art. 1287 à 1288)](#409)
+          - [Sous-section II : La procédure devant le juge des tutelles. (art. 1289 à 1289-2)](#410)
+        - [Section II : Les mesures urgentes. (art. 1290)](#411)
+        - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#412)
+        - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#413)
+        - [Section V : Le changement de régime matrimonial. (art. 1300 à 1303)](#414)
+          - [Paragraphe 1 : Dispositions générales (art. 1300 à 1300-3)](#415)
+          - [Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial (art. 1300-4 à 1303)](#416)
+        - [Section VI : La publicité en matière internationale (art. 1303-1 à 1303-6)](#417)
+          - [Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage (art. 1303-1 à 1303-2)](#418)
+          - [Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère (art. 1303-3 à 1303-5)](#419)
+          - [Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française (art. 1303-6)](#420)
+      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1381-4)](#421)
+        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1326)](#422)
+          - [Sous-section I : Les scellés (art. 1307 à 1322)](#423)
+            - [Paragraphe 1 : L'apposition des scellés. (art. 1307 à 1315)](#424)
+            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#425)
+          - [Sous-section II :  L'état descriptif (art. 1323)](#426)
+          - [Sous-section III : Dispositions communes. (art. 1324 à 1326)](#427)
+        - [Section II : L'inventaire. (art. 1328 à 1333)](#428)
+        - [Section III : L'option successorale. (art. 1334 à 1341)](#429)
+          - [Sous-section I : L'acceptation à concurrence de l'actif net. (art. 1334 à 1338)](#430)
+          - [Sous-section II : La renonciation. (art. 1339 à 1340)](#431)
+          - [Sous-section III : L'option du conjoint survivant. (art. 1341)](#432)
+        - [Section IV : Les successions vacantes et les successions en déshérence. (art. 1342 à 1354)](#433)
+          - [Sous-section I : Les successions vacantes. (art. 1342 à 1353)](#434)
+            - [Paragraphe 1 : L'ouverture de la curatelle. (art. 1342)](#435)
+            - [Paragraphe 2 : La mission du curateur. (art. 1343 à 1349)](#436)
+            - [Paragraphe 3 : La reddition de compte et la fin de la curatelle. (art. 1350 à 1353)](#437)
+          - [Sous-section II : Les successions en déshérence. (art. 1354)](#438)
+        - [Section V : Le mandataire successoral désigné en justice. (art. 1355 à 1357)](#439)
+        - [Section VI : Le partage. (art. 1358 à 1378)](#440)
+          - [Sous-section I : Le partage amiable. (art. 1358)](#441)
+          - [Sous-section II : Le partage judiciaire. (art. 1359 à 1378)](#442)
+            - [Paragraphe 1 : Dispositions générales. (art. 1359 à 1363)](#443)
+            - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#444)
+            - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#445)
+        - [Section VI bis : L'envoi en possession (art. 1378-1 à 1378-2)](#446)
+        - [Section VII : Dispositions communes. (art. 1379 à 1381)](#447)
+        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#448)
+    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-3-1)](#449)
+      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#450)
+      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#451)
+        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#452)
+        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#453)
+        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#454)
+        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#455)
+      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#456)
+      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#457)
+      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#458)
+    - [Titre V : La sécurité sociale et l'aide sociale (art. 1441-4)](#459)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#460)
+    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#461)
+      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#462)
+      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#463)
+      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#464)
+      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#465)
+      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#466)
+      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#467)
+        - [Section 1 : L'appel (art. 1489 à 1490)](#468)
+        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#469)
+        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#470)
+        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#471)
+        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#472)
+    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#473)
+      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#474)
+      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#475)
+      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#476)
+      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#477)
+        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#478)
+        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#479)
+        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#480)
+  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#481)
+    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#482)
+      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#483)
+      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#484)
+    - [Titre II : La procédure participative (art. 1542 à 1564-7)](#485)
+      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555-1)](#486)
+        - [Section 1 : La convention (art. 1544 à 1546-2)](#487)
+          - [Sous-section 1 : Dispositions générales (art. 1544 à 1546)](#488)
+          - [Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état (art. 1546-1 à 1546-2)](#489)
+        - [Section 1 bis : Les actes contresignés par avocats (art. 1546-3)](#490)
+        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#491)
+        - [Section 3 : L'issue de la procédure (art. 1555 à 1555-1)](#492)
+      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564-7)](#493)
+        - [Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable (art. 1557 à 1564)](#494)
+          - [Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend (art. 1557)](#495)
+          - [Sous-section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#496)
+            - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#497)
+            - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#498)
+            - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#499)
+        - [Section 2 : La procédure de jugement après mise en état conventionnelle du litige (art. 1564-1 à 1564-7)](#500)
+    - [Titre III : Dispositions communes (art. 1565 à 1567)](#501)
+  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#502)
+    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#503)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#504)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#505)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#506)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#507)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#508)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#509)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#510)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#511)
+          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#512)
+            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#513)
+            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#514)
+            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#515)
+            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#516)
+            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#517)
+            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#518)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 36)](#519)
+      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art.  à ANNEXE, art. 36)](#520)
+      - [Chapitre III : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#521)
+      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art.  à ANNEXE, art. 39)](#522)
+      - [Chapitre IV : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#523)
+      - [Chapitre VII : Dispositions diverses. (art.  à ANNEXE, art. 42)](#524)
+      - [Chapitre V : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#525)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -1381,17 +1389,22 @@ _Codifié par_:
 
 ###### Article 51
 
-Le tribunal de grande instance connaît de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une
-autre juridiction.
+Le tribunal judiciaire connaît de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une autre
+juridiction.
 
 Sauf disposition particulière, les autres juridictions ne connaissent que des demandes incidentes qui entrent dans leur
 compétence d'attribution.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. 9
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 52
@@ -1399,20 +1412,23 @@ _Modifié par_:
 Les demandes relatives aux frais, émoluments et débours qui, afférents à une instance, ont été exposés devant une juridiction
 par les auxiliaires de justice et les officiers publics ou ministériels sont portées devant cette juridiction.
 
-Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées, selon
-le montant des frais, devant le tribunal d'instance ou le tribunal de grande instance dans le ressort duquel l'officier
-public ou ministériel ou l'auxiliaire de justice exerce ses fonctions.
+Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées devant
+le tribunal judiciaire dans le ressort duquel l'officier public ou ministériel ou l'auxiliaire de justice exerce ses
+fonctions.
+
+**Nota:**
+
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°78-62 1978-01-20 art. 15 JORF 24 janvier 1978
-  - Décret n°81-500 1981-05-12 art. 9 JORF 14 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cité par_:
 
@@ -1442,9 +1458,36 @@ _Codifié par_:
 
 ###### Article 54
 
-Sous réserve des cas où l'instance est introduite par la présentation volontaire des parties devant le juge, la demande
-initiale est formée par assignation, par remise d'une requête conjointe au greffe de la juridiction ou par requête ou
-déclaration au greffe de la juridiction.
+La demande initiale est formée par assignation ou par requête remise ou adressée au greffe de la juridiction. La requête peut
+être formée conjointement par les parties.
+
+Lorsqu'elle est formée par voie électronique, la demande comporte également, à peine de nullité, les adresse électronique et
+numéro de téléphone mobile du demandeur lorsqu'il consent à la dématérialisation ou de son avocat. Elle peut comporter
+l'adresse électronique et le numéro de téléphone du défendeur.
+
+A peine de nullité, la demande initiale mentionne :
+
+1° L'indication de la juridiction devant laquelle la demande est portée ;
+
+2° L'objet de la demande ;
+
+3° a) Pour les personnes physiques, les nom, prénoms, profession, domicile, nationalité, date et lieu de naissance de chacun
+des demandeurs ;
+
+b) Pour les personnes morales, leur forme, leur dénomination, leur siège social et l'organe qui les représente légalement ;
+
+4° Le cas échéant, les mentions relatives à la désignation des immeubles exigées pour la publication au fichier immobilier ;
+
+5° Lorsqu'elle doit être précédée d'une tentative de conciliation, de médiation ou de procédure participative, les diligences
+entreprises en vue d'une résolution amiable du litige ou la justification de la dispense d'une telle tentative ;
+
+6° L'indication des modalités de comparution devant la juridiction et la précision que, faute pour le défendeur de
+comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les seuls éléments fournis par son adversaire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -1454,7 +1497,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -1465,34 +1508,44 @@ _Cité par_:
 
 L'assignation est l'acte d'huissier de justice par lequel le demandeur cite son adversaire à comparaître devant le juge.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 1
 
 
 ###### Article 56
 
-L'assignation contient à peine de nullité, outre les mentions prescrites pour les actes d'huissier de justice :
+L'assignation contient à peine de nullité, outre les mentions prescrites pour les actes d'huissier de justice et celles
+énoncées à l'article 54 :
 
-1° L'indication de la juridiction devant laquelle la demande est portée ;
+1° Les lieu, jour et heure de l'audience à laquelle l'affaire sera appelée ;
 
-2° L'objet de la demande avec un exposé des moyens en fait et en droit ;
+2° Un exposé des moyens en fait et en droit ;
 
-3° L'indication des modalités de comparution devant la juridiction et la précision que, faute pour le défendeur de
-comparaître, il s'expose à ce qu'un jugement soit rendu contre lui sur les seuls éléments fournis par son adversaire ;
+3° La liste des pièces sur lesquelles la demande est fondée dans un bordereau qui lui est annexé.
 
-4° Le cas échéant, les mentions relatives à la désignation des immeubles exigées pour la publication au fichier immobilier.
-
-Elle comprend en outre l'indication des pièces sur lesquelles la demande est fondée. Ces pièces sont énumérées sur un
-bordereau qui lui est annexé.
-
-Sauf justification d'un motif légitime tenant à l'urgence ou à la matière considérée, en particulier lorsqu'elle intéresse
-l'ordre public, l'assignation précise également les diligences entreprises en vue de parvenir à une résolution amiable du
-litige.
+L'assignation précise également, le cas échéant, la chambre désignée.
 
 Elle vaut conclusions.
+
+**Nota:**
+
+Conformément aux dispositions du I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en
+vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+Se reporter aux dispositions des II et III de l'article 55 dudit décret en ce qui concerne les mesures dérogatoires aux
+dispositions de son paragraphe I.
 
 **Liens relatifs à cet article**
 
@@ -1518,36 +1571,38 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 18
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 1
 
 
 ###### Article 57
 
-La requête conjointe est l'acte commun par lequel les parties soumettent au juge leurs prétentions respectives, les points
-sur lesquels elles sont en désaccord ainsi que leurs moyens respectifs.
+Lorsqu'elle est formée par le demandeur, la requête saisit la juridiction sans que son adversaire en ait été préalablement
+informé. Lorsqu'elle est remise ou adressée conjointement par les parties, elle soumet au juge leurs prétentions respectives,
+les points sur lesquels elles sont en désaccord ainsi que leurs moyens respectifs.
 
-Elle contient, en outre, à peine d'irrecevabilité :
+Elle contient, outre les mentions énoncées à l'article 54, également à peine de nullité :
 
-1° a) Pour les personnes physiques, les nom, prénoms, profession, domicile, nationalité, date et lieu de naissance de chacun
-des requérants ;
+- lorsqu'elle est formée par une seule partie, l'indication des nom, prénoms et domicile de la personne contre laquelle la
+demande est formée ou s'il s'agit d'une personne morale, de sa dénomination et de son siège social ;
 
-b) Pour les personnes morales, leur forme, leur dénomination, leur siège social et l'organe qui les représente légalement ;
+- dans tous les cas, l'indication des pièces sur lesquelles la demande est fondée.
 
-2° L'indication de la juridiction devant laquelle la demande est portée ;
+Elle est datée et signée.
 
-3° Le cas échéant, les mentions relatives à la désignation des immeubles exigées pour la publication au fichier immobilier.
+**Nota:**
 
-Elle comprend aussi l'indication des pièces sur lesquelles la demande est fondée.
-
-Elle est datée et signée par les parties.
-
-Elle vaut conclusions.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 1
 
 _Cité par_:
 
@@ -1568,58 +1623,16 @@ _Cité par_:
   - Code du travail - art. R3252-13 (VD)
 
 
-###### Article 57-1
-
-Lorsque cette faculté leur est ouverte par l'article 12, les parties peuvent, si elles ne l'ont déjà fait depuis la naissance
-du litige, conférer au juge dans la requête conjointe mission de statuer comme amiable compositeur ou le lier par les
-qualifications et points de droit auxquels elles entendent limiter le débat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 3 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 1
-
-_Cite_:
-
-  - Nouveau code de procédure civile 12
-
-_Anciens textes_:
-
-  - Nouveau code de procédure civile 58
-
-
 ###### Article 58
 
-La requête ou la déclaration est l'acte par lequel le demandeur saisit la juridiction sans que son adversaire en ait été
-préalablement informé.
+Lorsque cette faculté leur est ouverte par l'article 12, les parties peuvent, si elles ne l'ont déjà fait depuis la naissance
+du litige, conférer au juge, dans la requête conjointe, mission de statuer comme amiable compositeur ou le lier par les
+qualifications et points de droit auxquels elles entendent limiter le débat.
 
-Elle contient à peine de nullité :
+**Nota:**
 
-1° Pour les personnes physiques : l'indication des nom, prénoms, profession, domicile, nationalité, date et lieu de naissance
-du demandeur ;
-
-Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social et de l'organe qui les
-représente légalement ;
-
-2° L'indication des nom, prénoms et domicile de la personne contre laquelle la demande est formée, ou, s'il s'agit d'une
-personne morale, de sa dénomination et de son siège social ;
-
-3° L'objet de la demande.
-
-Sauf justification d'un motif légitime tenant à l'urgence ou à la matière considérée, en particulier lorsqu'elle intéresse
-l'ordre public, la requête ou la déclaration qui saisit la juridiction de première instance précise également les diligences
-entreprises en vue de parvenir à une résolution amiable du litige.
-
-Elle est datée et signée.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1652,7 +1665,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 19
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 1
 
 _Nouveaux textes_:
 
@@ -1903,12 +1916,18 @@ _Cité par_:
 
 ###### Article 76
 
-L'incompétence peut être prononcée d'office en cas de violation d'une règle de compétence d'attribution lorsque cette règle
-est d'ordre public ou lorsque le défendeur ne comparaît pas. Elle ne peut l'être qu'en ces cas.
+Sauf application de l'article 82-1, l'incompétence peut être prononcée d'office en cas de violation d'une règle de compétence
+d'attribution lorsque cette règle est d'ordre public ou lorsque le défendeur ne comparaît pas. Elle ne peut l'être qu'en ces
+cas.
 
 Devant la cour d'appel et devant la Cour de cassation, cette incompétence ne peut être relevée d'office que si l'affaire
 relève de la compétence d'une juridiction répressive ou administrative ou échappe à la connaissance de la juridiction
 française.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1922,7 +1941,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 1
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 2
 
 _Nouveaux textes_:
 
@@ -2077,6 +2096,37 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de procédure civile - art. 97 (VT)
+
+
+###### Article 82-1
+
+Par dérogation aux dispositions de la présente sous-section, les questions de compétence au sein d'un tribunal judiciaire
+peuvent être réglées avant la première audience par mention au dossier, à la demande d'une partie ou d'office par le juge.
+
+Les parties ou leurs avocats en sont avisés sans délai par tout moyen conférant date certaine.
+
+Le dossier de l'affaire est aussitôt transmis par le greffe au juge désigné.
+
+La compétence du juge à qui l'affaire a été ainsi renvoyée peut être remise en cause par ce juge ou une partie dans un délai
+de trois mois.
+
+Dans ce cas, le juge, d'office ou à la demande d'une partie, renvoie l'affaire par simple mention au dossier au président du
+tribunal judiciaire. Le président renvoie l'affaire, selon les mêmes modalités, au juge qu'il désigne. Sa décision n'est pas
+susceptible de recours.
+
+La compétence du juge peut être contestée devant lui par les parties. La décision se prononçant sur la compétence peut faire
+l'objet d'un appel dans les conditions prévues à la sous-section 2 de la présente section.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 2
 
 
 ##### Sous-section II : L'appel du jugement statuant sur la compétence<a id=30></a>
@@ -2621,14 +2671,24 @@ _Codifié par_:
 
 ###### Article 123
 
-Les fins de non-recevoir peuvent être proposées en tout état de cause, sauf la possibilité pour le juge de condamner à des
-dommages-intérêts ceux qui se seraient abstenus, dans une intention dilatoire, de les soulever plus tôt.
+Les fins de non-recevoir peuvent être proposées en tout état de cause, à moins qu'il en soit disposé autrement et sauf la
+possibilité pour le juge de condamner à des dommages-intérêts ceux qui se seraient abstenus, dans une intention dilatoire, de
+les soulever plus tôt.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article 124
@@ -2727,16 +2787,21 @@ ordonnance sur la transmission de la question prioritaire de constitutionnalité
 justifie, il peut également renvoyer l'affaire devant la formation de jugement, le cas échéant sans clore l'instruction, pour
 qu'elle statue sur la transmission de la question. Cette décision de renvoi est une mesure d'administration judiciaire.
 
-Le président de la formation de jugement du tribunal paritaire des baux ruraux, du tribunal de grande instance spécialement
-désigné en application de l'article L. 211-16, de la cour d'appel spécialement désignée en application de l'article L. 311-16
-du code de l'organisation judiciaire et de la Cour nationale de l'incapacité et de la tarification de l'assurance des
-accidents du travail statuent sur la transmission de la question.
+Le président de la formation de jugement du tribunal paritaire des baux ruraux, du tribunal judiciaire spécialement désigné
+en application de l'article L. 211-16, de la cour d'appel spécialement désignée en application de l'article L. 311-16 du code
+de l'organisation judiciaire et de la Cour nationale de l'incapacité et de la tarification de l'assurance des accidents du
+travail statuent sur la transmission de la question.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-928 du 29 octobre 2018 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 126-4
@@ -2961,15 +3026,20 @@ _Créé par_:
 
 ###### Article 127
 
-S'il n'est pas justifié, lors de l'introduction de l'instance et conformément aux dispositions des articles 56 et 58, des
+S'il n'est pas justifié, lors de l'introduction de l'instance et conformément aux dispositions de l'article 56, des
 diligences entreprises en vue de parvenir à une résolution amiable de leur litige, le juge peut proposer aux parties une
 mesure de conciliation ou de médiation.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 21
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Nouveaux textes_:
 
@@ -5689,21 +5759,21 @@ _Cité par_:
 ###### Article 272
 
 La décision ordonnant l'expertise peut être frappée d'appel indépendamment du jugement sur le fond sur autorisation du
-premier président de la cour d'appel s'il est justifié d'un motif grave et légitime. 
+premier président de la cour d'appel s'il est justifié d'un motif grave et légitime.
 
-La partie qui veut faire appel saisit le premier président qui statue en la forme des référés. L'assignation doit être
-délivrée dans le mois de la décision. 
+La partie qui veut faire appel saisit le premier président qui statue selon la procédure accélérée au fond. L'assignation
+doit être délivrée dans le mois de la décision.
 
 S'il fait droit à la demande, le premier président fixe le jour où l'affaire sera examinée par la cour, laquelle est saisie
-et statue comme en matière de procédure à jour fixe ou comme il est dit à l'article 948 selon le cas. 
+et statue comme en matière de procédure à jour fixe ou comme il est dit à l'article 948 selon le cas.
 
 Si le jugement ordonnant l'expertise s'est également prononcé sur la compétence, l'appel est formé, instruit et jugé selon
 les modalités prévues aux articles 83 à 89.
 
 **Nota:**
 
-Conformément aux dispositions du II de l'article 53 du décret n° 2017-891 du 6 mai 2017, ces dispositions s'appliquent aux
-décisions rendues à compter du 1er septembre 2017.
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5713,11 +5783,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 2
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cite_:
 
-  - Code de procédure civile - art. 83 (V)
+  - Code de procédure civile - art. 83
 
 
 ##### Sous-section II : Les opérations d'expertise.<a id=78></a>
@@ -6002,29 +6072,36 @@ _Créé par_:
 ###### Article 285
 
 La vérification des écritures sous seing privé relève de la compétence du juge saisi du principal lorsqu'elle est demandée
-incidemment.
+incidemment. Elle relève de la compétence du tribunal judiciaire lorsqu'elle est demandée à titre principal.
 
-Elle relève de la compétence du tribunal de grande instance lorsqu'elle est demandée à titre principal.
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 286
 
 L'inscription de faux contre un acte authentique relève de la compétence du juge saisi du principal lorsqu'elle est formée
-incidemment devant un tribunal de grande instance ou devant une cour d'appel.
+incidemment devant un tribunal judiciaire ou devant une cour d'appel. Dans les autres cas, l'inscription de faux relève de la
+compétence du tribunal judiciaire.
 
-Dans les autres cas, l'inscription de faux relève de la compétence du tribunal de grande instance.
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 #### Chapitre Ier : Les contestations relatives aux actes sous seing privé.<a id=81></a>
@@ -6365,6 +6442,8 @@ _Modifié par_:
 
 ##### Sous-section I : Incident soulevé devant le tribunal de grande instance ou la cour d'appel.<a id=90></a>
 
+##### Sous-section I : Incident soulevé devant le tribunal judiciaire ou la cour d'appel.<a id=91></a>
+
 ###### Article 306
 
 L'inscription de faux est formée par acte remis au greffe par la partie ou son mandataire muni d'un pouvoir spécial.
@@ -6473,23 +6552,24 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Incident soulevé devant les autres juridictions.<a id=91></a>
+##### Sous-section II : Incident soulevé devant les autres juridictions.<a id=92></a>
 
 ###### Article 313
 
-Si l'incident est soulevé devant une juridiction autre que le tribunal de grande instance ou la cour d'appel, il est sursis à
-statuer jusqu'au jugement sur le faux à moins que la pièce litigieuse ne soit écartée du débat lorsqu'il peut être statué au
-principal sans en tenir compte. 
+Si l'incident est soulevé devant une juridiction autre que le tribunal judiciaire ou la cour d'appel, il est sursis à statuer
+jusqu'au jugement sur le faux à moins que la pièce litigieuse ne soit écartée du débat lorsqu'il peut être statué au
+principal sans en tenir compte.
 
 Il est procédé à l'inscription de faux comme il est dit aux articles 314 à 316. L'acte d'inscription de faux doit être remis
-au greffe du tribunal de grande instance dans le mois de la décision de sursis à statuer, faute de quoi il est passé outre à
+au greffe du tribunal judiciaire dans le mois de la décision de sursis à statuer, faute de quoi il est passé outre à
 l'incident et l'acte litigieux est réputé reconnu entre les parties.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Cité par_:
 
@@ -6498,14 +6578,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Nouveau code de procédure civile 314, 315, 316
 
 
-##### Section II : L'inscription de faux principale.<a id=92></a>
+##### Section II : L'inscription de faux principale.<a id=93></a>
 
 ###### Article 314
 
@@ -6554,7 +6634,7 @@ _Cite_:
   - Nouveau code de procédure civile 287, 288, 289, 290, 291, 292, 293, 294, 309, 310, 311 et 312
 
 
-### Sous-titre IV : Le serment judiciaire.<a id=93></a>
+### Sous-titre IV : Le serment judiciaire.<a id=94></a>
 
 ###### Article 317
 
@@ -6642,7 +6722,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre VIII : La pluralité des parties.<a id=94></a>
+## Titre VIII : La pluralité des parties.<a id=95></a>
 
 ###### Article 323
 
@@ -6679,7 +6759,7 @@ _Cite_:
   - Code de procédure civile - art. 615 (V)
 
 
-## Titre IX : L'intervention.<a id=95></a>
+## Titre IX : L'intervention.<a id=96></a>
 
 ###### Article 325
 
@@ -6717,7 +6797,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : L'intervention volontaire.<a id=96></a>
+### Chapitre Ier : L'intervention volontaire.<a id=97></a>
 
 ###### Article 328
 
@@ -6758,9 +6838,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : L'intervention forcée.<a id=97></a>
+### Chapitre II : L'intervention forcée.<a id=98></a>
 
-#### Section I : Dispositions communes à toutes les mises en cause.<a id=98></a>
+#### Section I : Dispositions communes à toutes les mises en cause.<a id=99></a>
 
 ###### Article 331
 
@@ -6813,7 +6893,7 @@ _Cité par_:
   - Code de commerce. - art. R229-8 (V)
 
 
-#### Section II : Dispositions spéciales aux appels en garantie.<a id=99></a>
+#### Section II : Dispositions spéciales aux appels en garantie.<a id=100></a>
 
 ###### Article 334
 
@@ -6877,7 +6957,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre IX bis : L'audition de l'enfant en justice.<a id=100></a>
+## Titre IX bis : L'audition de l'enfant en justice.<a id=101></a>
 
 ###### Article 338-1
 
@@ -7060,25 +7140,30 @@ _Créé par_:
   - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
-## Titre X : L'abstention, la récusation, le renvoi et la prise à partie.<a id=101></a>
+## Titre X : L'abstention, la récusation, le renvoi et la prise à partie.<a id=102></a>
 
-### Chapitre Ier : L'abstention.<a id=102></a>
+### Chapitre Ier : L'abstention.<a id=103></a>
 
 ###### Article 339
 
 Le juge qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un
-autre juge que désigne le président de la juridiction à laquelle il appartient. Le remplaçant d'un juge d'instance est
-désigné par le président du tribunal de grande instance à défaut de juge directeur.
+autre juge que désigne le président de la juridiction à laquelle il appartient.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 340
@@ -7097,9 +7182,9 @@ _Modifié par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre II : La récusation et le renvoi pour cause de suspicion légitime<a id=103></a>
+### Chapitre II : La récusation et le renvoi pour cause de suspicion légitime<a id=104></a>
 
-#### Section I : Dispositions générales<a id=104></a>
+#### Section I : Dispositions générales<a id=105></a>
 
 ###### Article 341
 
@@ -7295,7 +7380,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
-#### Section II : Dispositions particulières<a id=105></a>
+#### Section II : Dispositions particulières<a id=106></a>
 
 ###### Article 349
 
@@ -7342,7 +7427,7 @@ _Cite_:
   - Code de procédure civile - art. 344 (V)
 
 
-### Chapitre III : Le renvoi pour cause de sûreté publique<a id=106></a>
+### Chapitre III : Le renvoi pour cause de sûreté publique<a id=107></a>
 
 ###### Article 351
 
@@ -7415,9 +7500,9 @@ _Cite_:
   - Code de procédure civile - art. 82 (V)
 
 
-### Chapitre IV : La prise à partie.<a id=107></a>
+### Chapitre IV : La prise à partie.<a id=108></a>
 
-#### Section I : Dispositions générales.<a id=108></a>
+#### Section I : Dispositions générales.<a id=109></a>
 
 ###### Article 366-1
 
@@ -7561,7 +7646,7 @@ _Cite_:
   - Nouveau code de procédure civile 931
 
 
-#### Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice.<a id=109></a>
+#### Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice.<a id=110></a>
 
 ###### Article 366-9
 
@@ -7584,9 +7669,9 @@ _Cite_:
   - Nouveau code de procédure civile 366-1
 
 
-## Titre XI : Les incidents d'instance.<a id=110></a>
+## Titre XI : Les incidents d'instance.<a id=111></a>
 
-### Chapitre Ier : Les jonction et disjonction d'instances.<a id=111></a>
+### Chapitre Ier : Les jonction et disjonction d'instances.<a id=112></a>
 
 ###### Article 367
 
@@ -7613,7 +7698,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : L'interruption de l'instance.<a id=112></a>
+### Chapitre II : L'interruption de l'instance.<a id=113></a>
 
 ###### Article 369
 
@@ -7624,7 +7709,14 @@ L'instance est interrompue par :
 - la cessation de fonctions de l'avocat lorsque la représentation est obligatoire ;
 
 - l'effet du jugement qui prononce la sauvegarde, le redressement judiciaire ou la liquidation judiciaire dans les causes où
-il emporte assistance ou dessaisissement du débiteur.
+il emporte assistance ou dessaisissement du débiteur ;
+
+- la conclusion d'une convention de procédure participative aux fins de mise en état y compris en cas de retrait du rôle.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -7634,7 +7726,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 21
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 12
 
 
 ###### Article 370
@@ -7738,7 +7830,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : La suspension de l'instance.<a id=113></a>
+### Chapitre III : La suspension de l'instance.<a id=114></a>
 
 ###### Article 377
 
@@ -7756,7 +7848,7 @@ _Modifié par_:
   - Décret n°98-1231 du 28 décembre 1998 - art. 9 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
-#### Section I : Le sursis à statuer.<a id=114></a>
+#### Section I : Le sursis à statuer.<a id=115></a>
 
 ###### Article 378
 
@@ -7788,12 +7880,17 @@ _Codifié par_:
 La décision de sursis peut être frappée d'appel sur autorisation du premier président de la cour d'appel s'il est justifié
 d'un motif grave et légitime.
 
-La partie qui veut faire appel saisit le premier président, qui statue dans la forme des référés. L'assignation doit être
-délivrée dans le mois de la décision.
+La partie qui veut faire appel saisit le premier président, qui statue selon la procédure accélérée au fond. L'assignation
+doit être délivrée dans le mois de la décision.
 
 S'il accueille la demande, le premier président fixe, par une décision insusceptible de pourvoi, le jour où l'affaire sera
 examinée par la cour, laquelle est saisie et statue comme en matière de procédure à jour fixe ou comme il est dit à l'article
 948, selon le cas.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -7803,7 +7900,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1338 du 6 novembre 2014 - art. 2
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 380-1
@@ -7822,7 +7919,7 @@ _Créé par_:
   - Décret n°79-941 1979-11-07 art. 7 et 16 JORF 9 décembre 1979 en vigueur le 1 janvier 1980
 
 
-#### Section II : La radiation et le retrait du rôle.<a id=115></a>
+#### Section II : La radiation et le retrait du rôle.<a id=116></a>
 
 ###### Article 381
 
@@ -7878,7 +7975,7 @@ _Modifié par_:
   - Décret n°98-1231 du 28 décembre 1998 - art. 10 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
-### Chapitre IV : L'extinction de l'instance.<a id=116></a>
+### Chapitre IV : L'extinction de l'instance.<a id=117></a>
 
 ###### Article 384
 
@@ -7912,7 +8009,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section I : La péremption d'instance.<a id=117></a>
+#### Section I : La péremption d'instance.<a id=118></a>
 
 ###### Article 386
 
@@ -8010,15 +8107,22 @@ Ce délai continue à courir en cas de suspension de l'instance sauf si celle-ci
 survenance d'un événement déterminé ; dans ces derniers cas, un nouveau délai court à compter de l'expiration de ce temps ou
 de la survenance de cet événement.
 
+Un nouveau délai court à compter de l'extinction de la convention de procédure participative aux fins de mise en état.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-1236 1976-12-28 art. 5 JORF 30 décembre 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 12
 
 
 ###### Article 393
@@ -8032,9 +8136,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Le désistement d'instance.<a id=118></a>
+#### Section II : Le désistement d'instance.<a id=119></a>
 
-##### Sous-section I : Le désistement de la demande en première instance.<a id=119></a>
+##### Sous-section I : Le désistement de la demande en première instance.<a id=120></a>
 
 ###### Article 394
 
@@ -8113,7 +8217,7 @@ _Cité par_:
   - Code de procédure civile - art. 1025 (V)
 
 
-##### Sous-section II : Le désistement de l'appel ou de l'opposition.<a id=120></a>
+##### Sous-section II : Le désistement de l'appel ou de l'opposition.<a id=121></a>
 
 ###### Article 400
 
@@ -8196,7 +8300,7 @@ _Cite_:
   - Nouveau code de procédure civile 396, 397 et 399
 
 
-#### Section III : La caducité de la citation.<a id=121></a>
+#### Section III : La caducité de la citation.<a id=122></a>
 
 ###### Article 406
 
@@ -8220,7 +8324,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section IV : L'acquiescement.<a id=122></a>
+#### Section IV : L'acquiescement.<a id=123></a>
 
 ###### Article 408
 
@@ -8266,7 +8370,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XII : Représentation et assistance en justice.<a id=123></a>
+## Titre XII : Représentation et assistance en justice.<a id=124></a>
 
 ###### Article 411
 
@@ -8415,7 +8519,7 @@ _Cité par_:
   - Arrêté du 31 janvier 2018 - art. (VD)
 
 
-## Titre XIII : Le ministère public.<a id=124></a>
+## Titre XIII : Le ministère public.<a id=125></a>
 
 ###### Article 421
 
@@ -8429,7 +8533,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Le ministère public partie principale.<a id=125></a>
+### Chapitre Ier : Le ministère public partie principale.<a id=126></a>
 
 ###### Article 422
 
@@ -8453,7 +8557,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Le ministère public partie jointe.<a id=126></a>
+### Chapitre II : Le ministère public partie jointe.<a id=127></a>
 
 ###### Article 424
 
@@ -8559,15 +8663,15 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XIV : Le jugement.<a id=127></a>
+## Titre XIV : Le jugement.<a id=128></a>
 
-### Chapitre Ier : Dispositions générales.<a id=128></a>
+### Chapitre Ier : Dispositions générales.<a id=129></a>
 
-#### Section I : Les débats, le délibéré et le jugement.<a id=129></a>
+#### Section I : Les débats, le délibéré et le jugement.<a id=130></a>
 
-##### Sous-section I : Les débats.<a id=130></a>
+##### Sous-section I : Les débats.<a id=131></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=131></a>
+##### Paragraphe 1 : Dispositions générales<a id=132></a>
 
 ###### Article 430
 
@@ -8831,7 +8935,7 @@ _Cite_:
   - Nouveau code de procédure civile 432, 433, 434, 435 et 444
 
 
-##### Paragraphe 2 : Dispositions propres à la procédure orale<a id=132></a>
+##### Paragraphe 2 : Dispositions propres à la procédure orale<a id=133></a>
 
 ###### Article 446-1
 
@@ -8954,7 +9058,7 @@ _Créé par_:
   - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
-##### Sous-section II : Le délibéré.<a id=133></a>
+##### Sous-section II : Le délibéré.<a id=134></a>
 
 ###### Article 447
 
@@ -8990,32 +9094,33 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section III : Le jugement.<a id=134></a>
+##### Sous-section III : Le jugement.<a id=135></a>
 
 ###### Article 450
 
 Si le jugement ne peut être prononcé sur-le-champ, le prononcé en est renvoyé, pour plus ample délibéré, à une date que le
-président indique à moins qu'il ait été fait application du troisième alinéa de l'article 764.
+président indique à moins qu'il ait été fait application du troisième alinéa de l'article 781 .
 
 Il peut toutefois aviser les parties, à l'issue des débats, que le jugement sera prononcé par sa mise à disposition au greffe
-de la juridiction, à la date qu'il indique à moins qu'il ait été fait application du troisième alinéa de l'article 764.
+de la juridiction, à la date qu'il indique à moins qu'il ait été fait application du troisième alinéa de l'article 781 .
 
 S'il décide de renvoyer le prononcé du jugement à une date ultérieure, le président en avise les parties par tout moyen. Cet
 avis comporte les motifs de la prorogation ainsi que la nouvelle date à laquelle la décision sera rendue.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 43 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cite_:
-
-  - Nouveau code de procédure civile 764
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article 451
@@ -9366,9 +9471,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Le défaut de comparution.<a id=135></a>
+#### Section II : Le défaut de comparution.<a id=136></a>
 
-##### Sous-section I : Le jugement contradictoire.<a id=136></a>
+##### Sous-section I : Le jugement contradictoire.<a id=137></a>
 
 ###### Article 467
 
@@ -9435,7 +9540,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire.<a id=137></a>
+##### Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire.<a id=138></a>
 
 ###### Article 471
 
@@ -9588,9 +9693,11 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions spéciales.<a id=138></a>
+### Chapitre II : Dispositions spéciales.<a id=139></a>
 
-#### Section I : Les jugements sur le fond.<a id=139></a>
+#### Section I : Les jugements sur le fond.<a id=140></a>
+
+##### Sous-section 1 : Dispositions communes<a id=141></a>
 
 ###### Article 480
 
@@ -9604,7 +9711,11 @@ Le principal s'entend de l'objet du litige tel qu'il est déterminé par l'artic
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 1
 
 _Cite_:
 
@@ -9623,16 +9734,68 @@ Il peut également l'interpréter ou la rectifier sous les distinctions établie
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 1
 
 _Cite_:
 
   - Nouveau code de procédure civile 461, 462, 463, 464
 
 
-#### Section II : Les autres jugements.<a id=140></a>
+##### Sous-section 2 : Les jugements en procédure accélérée au fond<a id=142></a>
 
-##### Sous-section I : Les jugements avant dire droit.<a id=141></a>
+###### Article 481-1
+
+A moins qu'il en soit disposé autrement, lorsqu'il est prévu par la loi ou le règlement qu'il est statué selon la procédure
+accélérée au fond, la demande est formée, instruite et jugée dans les conditions suivantes :
+
+1° La demande est portée par voie d'assignation à une audience tenue aux jour et heure prévus à cet effet ;
+
+2° Le juge est saisi par la remise d'une copie de l'assignation au greffe avant la date fixée pour l'audience, sous peine de
+caducité de l'assignation constatée d'office par ordonnance du juge, ou, à défaut, à la requête d'une partie ;
+
+3° Le jour de l'audience, le juge s'assure qu'il s'est écoulé un temps suffisant depuis l'assignation pour que la partie
+assignée ait pu préparer sa défense. La procédure est orale ;
+
+4° Le juge a la faculté de renvoyer l'affaire devant la formation collégiale, à une audience dont il fixe la date, qui
+statuera selon la procédure accélérée au fond ;
+
+5° A titre exceptionnel, en cas d'urgence manifeste à raison notamment d'un délai imposé par la loi ou le règlement, le
+président du tribunal, statuant sur requête, peut autoriser à assigner à une heure qu'il indique, même les jours fériés ou
+chômés ;
+
+6° Le jugement est exécutoire de droit à titre provisoire dans les conditions prévues aux articles 514-1 à 514-6 ;
+
+7° La décision du juge peut être frappée d'appel à moins qu'elle n'émane du premier président de la cour d'appel ou qu'elle
+n'ait été rendue en dernier ressort en raison du montant ou de l'objet de la demande.
+
+Le délai d'appel ou d'opposition est de quinze jours.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 26-1 (VD)
+  - Décret n°55-1350 du 14 octobre 1955 - art. 74 (VD)
+  - Décret n°67-223 du 17 mars 1967 - art. 62-5 (VD)
+  - Code des procédures civiles d'exécution - art. R121-5 (VD)
+
+_Créé par_:
+
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 1
+
+
+#### Section II : Les autres jugements.<a id=143></a>
+
+##### Sous-section I : Les jugements avant dire droit.<a id=144></a>
 
 ###### Article 482
 
@@ -9657,7 +9820,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Les ordonnances de référé.<a id=142></a>
+##### Sous-section II : Les ordonnances de référé.<a id=145></a>
 
 ###### Article 484
 
@@ -9781,20 +9944,22 @@ _Cité par_:
 
 ###### Article 489
 
-L'ordonnance de référé est exécutoire à titre provisoire. Le juge peut toutefois subordonner l'exécution provisoire à la
-constitution d'une garantie dans les conditions prévues aux articles 517 à 522.
+En cas de nécessité, le juge peut ordonner que l'exécution de l'ordonnance de référé aura lieu au seul vu de la minute.
 
-En cas de nécessité, le juge peut ordonner que l'exécution aura lieu au seul vu de la minute.
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 18 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 _Cite_:
 
@@ -9860,35 +10025,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-###### Article 492-1
-
-A moins qu'il en soit disposé autrement, lorsqu'il est prévu que le juge statue comme en matière de référé ou en la forme des
-référés, la demande est formée, instruite et jugée dans les conditions suivantes : 
-
-1° Il est fait application des articles 485 à 487 et 490 ; 
-
-2° Le juge exerce les pouvoirs dont dispose la juridiction au fond et statue par une ordonnance ayant l'autorité de la chose
-jugée relativement aux contestations qu'elle tranche ; 
-
-3° L'ordonnance est exécutoire à titre provisoire, à moins que le juge en décide autrement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 4
-
-_Abrogé par_:
-
-  - Décret n°2019-1419 du 20 décembre 2019 - art. 1
-
-_Cite_:
-
-  - Code de procédure civile - art. 485
-  - Code de procédure civile - art. 490
-
-
-##### Sous-section III : Les ordonnances sur requête.<a id=143></a>
+##### Sous-section III : Les ordonnances sur requête.<a id=146></a>
 
 ###### Article 493
 
@@ -10011,7 +10148,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-### Chapitre III : Disposition finale.<a id=144></a>
+### Chapitre III : Disposition finale.<a id=147></a>
 
 ###### Article 499
 
@@ -10024,7 +10161,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XV : L'exécution du jugement.<a id=145></a>
+## Titre XV : L'exécution du jugement.<a id=148></a>
 
 ###### Article 500
 
@@ -10056,7 +10193,7 @@ _Cité par_:
   - Arrêté du 31 janvier 2018 - art. (VD)
 
 
-### Chapitre Ier : Conditions générales de l'exécution.<a id=146></a>
+### Chapitre Ier : Conditions générales de l'exécution.<a id=149></a>
 
 ###### Article 502
 
@@ -10172,7 +10309,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : La reconnaissance transfrontalière.<a id=147></a>
+### Chapitre II : La reconnaissance transfrontalière.<a id=150></a>
 
 ###### Article 509
 
@@ -10268,8 +10405,8 @@ _Cité par_:
 
 ###### Article 509-2
 
-Sont présentées au directeur de greffe du tribunal de grande instance les requêtes aux fins de reconnaissance ou de
-constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application :
+Sont présentées au directeur de greffe du tribunal judiciaire les requêtes aux fins de reconnaissance ou de constatation de
+la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application :
 
 - des articles 45 à 58 et 61 du règlement (UE) n° 650/2012 du Parlement européen et du Conseil du 4 juillet 2012 relatif à la
 compétence, la loi applicable, la reconnaissance et l'exécution des décisions, et l'acceptation et l'exécution des actes
@@ -10286,7 +10423,7 @@ matière d'effets patrimoniaux des partenariats enregistrés ;
 - de la convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et
 commerciale, faite à Lugano le 30 octobre 2007.
 
-Sont présentées au président du tribunal de grande instance ou à son délégué les requêtes aux fins de reconnaissance ou de
+Sont présentées au président du tribunal judiciaire ou à son délégué les requêtes aux fins de reconnaissance ou de
 constatation de la force exécutoire, sur le territoire de la République, des titres exécutoires étrangers en application :
 
 - du règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des
@@ -10299,17 +10436,14 @@ Les requêtes présentées devant le juge sont dispensées du ministère d'avoca
 
 **Nota:**
 
-Aux termes de l'article 11 I du décret n° 2018-1219 du 24 décembre 2018, les présentes dispositions s'appliquent aux
-procédures engagées, aux actes authentiques formellement dressés ou enregistrés et aux transactions judiciaires approuvées ou
-conclues à compter du 29 janvier 2019. Toutefois, elles sont applicables aux décisions rendues à compter du 29 janvier 2019 à
-la suite de procédures engagées antérieurement à cette date, dès lors que les règles de compétence appliquées sont conformes
-à celles prévues par le chapitre II des règlements n° 2016/1103 et n° 2016/1104 du 24 juin 2016 susvisés.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1219 du 24 décembre 2018 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -10460,37 +10594,40 @@ _Modifié par_:
 
 ###### Article 509-7
 
-S'il n'émane du juge, le refus de délivrance du certificat peut être déféré au président du tribunal de grande instance. Ce
-dernier statue en dernier ressort sur requête, le requérant et l'autorité requise entendus ou appelés.
+S'il n'émane du juge, le refus de délivrance du certificat peut être déféré au président du tribunal judiciaire. Ce dernier
+statue en dernier ressort sur requête, le requérant et l'autorité requise entendus ou appelés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 509-8
 
-Les demandes formées en application des articles 11 et 13 du règlement  (UE) n° 606/2013 du Parlement européen et du Conseil
-du 12 juin 2013  relatif à la reconnaissance mutuelle des mesures de protection en  matière civile sont faites devant le
-président du tribunal de grande  instance ou son délégué statuant en la forme des référés.
+Les demandes formées en application des articles 11 et 13 du règlement (UE) n° 606/2013 du Parlement européen et du Conseil
+du 12 juin 2013 relatif à la reconnaissance mutuelle des mesures de protection en matière civile sont faites devant le
+président du tribunal judiciaire statuant selon la procédure accélérée au fond.
 
 **Nota:**
 
-Conformément à l'article 3 II du décret n° 2014-1633 du 26 décembre  2014, les dispositions de l'article 509-8 telles
-qu'issues de l'article 2  VI du présent décret, s'appliquent aux mesures de protection ordonnées à  compter du 11 janvier
-2015, quelle que soit la date à laquelle la  procédure a été engagée.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-1633 du 26 décembre 2014 - art. 2
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 509-9
@@ -10506,25 +10643,22 @@ domaine de la compétence, de la loi applicable, de la reconnaissance et de l'ex
 matrimoniaux et d'effets patrimoniaux des partenariats enregistrés.
 
 Le recours contre la déclaration constatant la force exécutoire et contre la décision de rejet de la demande de déclaration
-constatant la force exécutoire est porté devant le président du tribunal de grande instance qui statue en dernier ressort sur
+constatant la force exécutoire est porté devant le président du tribunal judiciaire qui statue en dernier ressort sur
 requête, le requérant et l'autorité requise entendus ou appelés.
 
 **Nota:**
 
-Aux termes de l'article 11 I du décret n° 2018-1219 du 24 décembre 2018, les présentes dispositions s'appliquent aux
-procédures engagées, aux actes authentiques formellement dressés ou enregistrés et aux transactions judiciaires approuvées ou
-conclues à compter du 29 janvier 2019. Toutefois, elles sont applicables aux décisions rendues à compter du 29 janvier 2019 à
-la suite de procédures engagées antérieurement à cette date, dès lors que les règles de compétence appliquées sont conformes
-à celles prévues par le chapitre II des règlements n° 2016/1103 et n° 2016/1104 du 24 juin 2016 susvisés.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-1219 du 24 décembre 2018 - art. 5
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre III : Le délai de grâce.<a id=148></a>
+### Chapitre III : Le délai de grâce.<a id=151></a>
 
 ###### Article 510
 
@@ -10534,19 +10668,25 @@ l'exécution.
 En cas d'urgence, la même faculté appartient au juge des référés.
 
 Après signification d'un commandement ou d'un acte de saisie, selon le cas, le juge de l'exécution a compétence pour accorder
-un délai de grâce. Cette compétence appartient au tribunal d'instance en matière de saisie des rémunérations.
+un délai de grâce.
 
 L'octroi du délai doit être motivé.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 511
@@ -10598,205 +10738,17 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-### Chapitre IV : L'exécution provisoire.<a id=149></a>
+### Chapitre IV : L'exécution provisoire.<a id=152></a>
 
 ###### Article 514
 
-L'exécution provisoire ne peut pas être poursuivie sans avoir été ordonnée si ce n'est pour les décisions qui en bénéficient
-de plein droit.
+Les décisions de première instance sont de droit exécutoires à titre provisoire à moins que la loi ou la décision rendue n'en
+dispose autrement.
 
-Sont notamment exécutoires de droit à titre provisoire les ordonnances de référé, les décisions qui prescrivent des mesures
-provisoires pour le cours de l'instance, celles qui ordonnent des mesures conservatoires ainsi que les ordonnances du juge de
-la mise en état qui accordent une provision au créancier.
+**Nota:**
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - Code des assurances - art. R421-9 (VD)
-
-
-###### Article 515
-
-Hors les cas où elle est de droit, l'exécution provisoire peut être ordonnée, à la demande des parties ou d'office, chaque
-fois que le juge l'estime nécessaire et compatible avec la nature de l'affaire, à condition qu'elle ne soit pas interdite par
-la loi.
-
-Elle peut être ordonnée pour tout ou partie de la condamnation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 46 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cité par_:
-
-  - Code des assurances - art. R421-9 (VD)
-
-
-###### Article 516
-
-L'exécution provisoire ne peut être ordonnée que par la décision qu'elle est destinée à rendre exécutoire, sous réserve des
-dispositions des articles 525 et 526.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cite_:
-
-  - Nouveau code de procédure civile 525, 526
-
-
-###### Article 517
-
-L'exécution provisoire peut être subordonnée à la constitution d'une garantie, réelle ou personnelle, suffisante pour
-répondre de toutes restitutions ou réparations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - Décret n°2018-1126 du 11 décembre 2018 - art. 1
-  - Code de commerce - art. R152-1 (VD)
-  - Code de l'environnement - art. R426-29 (VD)
-  - Code de procédure civile - art. 523 (VD)
-  - Code de procédure civile - art. 524 (V)
-  - Code de procédure civile - art. 771 (VD)
-  - Livre des procédures fiscales - art. R*202-5 (VT)
-
-
-###### Article 518
-
-La nature, l'étendue et les modalités de la garantie sont précisées par la décision qui en prescrit la constitution.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 519
-
-Lorsque la garantie consiste en une somme d'argent, celle-ci est déposée à la Caisse des dépôts et consignations ; elle peut
-aussi l'être, à la demande de l'une des parties, entre les mains d'un tiers commis à cet effet.
-
-Dans ce dernier cas, le juge, s'il fait droit à cette demande, constate dans sa décision les modalités du dépôt.
-
-Si le tiers refuse le dépôt, la somme est déposée, sans nouvelle décision, à la Caisse des dépôts et consignations.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 520
-
-Si la valeur de la garantie ne peut être immédiatement appréciée, le juge invite les parties à se présenter devant lui à la
-date qu'il fixe, avec leurs justifications.
-
-Il est alors statué sans recours.
-
-La décision est mentionnée sur la minute et sur les expéditions du jugement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 521
-
-La partie condamnée au paiement de sommes autres que des aliments, des rentes indemnitaires ou des provisions peut éviter que
-l'exécution provisoire soit poursuivie en consignant, sur autorisation du juge, les espèces ou les valeurs suffisantes pour
-garantir, en principal, intérêts et frais, le montant de la condamnation.
-
-En cas de condamnation au versement d'un capital en réparation d'un dommage corporel, le juge peut aussi ordonner que ce
-capital sera confié à un séquestre à charge d'en verser périodiquement à la victime la part que le juge détermine.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - Code de procédure civile - art. 524 (V)
-  - Code de procédure civile - art. 526 (VD)
-
-
-###### Article 522
-
-Le juge peut, à tout moment, autoriser la substitution à la garantie primitive d'une garantie équivalente.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - Code de procédure civile - art. 524 (V)
-
-
-###### Article 523
-
-Les demandes relatives à l'application des articles 517 à 522 ne peuvent être portées, en cas d'appel, que devant le premier
-président statuant en référé ou, dans les cas prévus aux articles 525 ou 525-1, devant le magistrat chargé de la mise en état
-dès lors qu'il est saisi.
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -10806,54 +10758,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1338 du 6 novembre 2014 - art. 3
-
-_Cite_:
-
-  - Code de procédure civile - art. 517
-
-
-###### Article 524
-
-Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas d'appel, que par le premier président et
-dans les cas suivants : 
-
-1° Si elle est interdite par la loi ; 
-
-2° Si elle risque d'entraîner des conséquences manifestement excessives ; dans ce dernier cas, le premier président peut
-aussi prendre les mesures prévues aux articles 517 à 522. 
-
-Le même pouvoir appartient, en cas d'opposition, au juge qui a rendu la décision. 
-
-Lorsque l'exécution provisoire est de droit, le premier président peut prendre les mesures prévues au deuxième alinéa de
-l'article 521 et à l'article 522. 
-
-Le premier président peut arrêter l'exécution provisoire de droit en cas de violation manifeste du principe du contradictoire
-ou de l'article 12 et lorsque l'exécution risque d'entraîner des conséquences manifestement excessives.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 _Cité par_:
 
-  - Décret n°91-1197 du 27 novembre 1991 - art. 241-9 (VD)
-  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (VD)
-  - Code de commerce - art. R661-1 (VD)
-  - Code de procédure civile - art. 525-2 (V)
-
-_Modifié par_:
-
-  - Décret n°2014-1338 du 6 novembre 2014 - art. 3
-
-_Cite_:
-
-  - Code de procédure civile - art. 12 (V)
-  - Code de procédure civile - art. 517 (V)
-  - Code de procédure civile - art. 521 (V)
-  - Code de procédure civile - art. 522 (V)
+  - Code des assurances - art. R421-9 (VD)
 
 
 ###### Article 525
@@ -10957,7 +10866,513 @@ _Cite_:
   - Code de procédure civile - art. 909 (VD)
 
 
-## Titre XVI : Les voies de recours.<a id=150></a>
+#### Section I : L'exécution provisoire de droit<a id=153></a>
+
+###### Article 514-1
+
+Le juge peut écarter l'exécution provisoire de droit, en tout ou partie, s'il estime qu'elle est incompatible avec la nature
+de l'affaire.
+
+Il statue, d'office ou à la demande d'une partie, par décision spécialement motivée.
+
+Par exception, le juge ne peut écarter l'exécution provisoire de droit lorsqu'il statue en référé, qu'il prescrit des mesures
+provisoires pour le cours de l'instance, qu'il ordonne des mesures conservatoires ainsi que lorsqu'il accorde une provision
+au créancier en qualité de juge de la mise en état.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 514-2
+
+Sans préjudice des dispositions de l'article 514-3, l'exécution provisoire de droit ne peut être écartée que par la décision
+en cause.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 514-3
+
+En cas d'appel, le premier président peut être saisi afin d'arrêter l'exécution provisoire de la décision lorsqu'il existe un
+moyen sérieux d'annulation ou de réformation et que l'exécution risque d'entraîner des conséquences manifestement excessives.
+
+La demande de la partie qui a comparu en première instance sans faire valoir d'observations sur l'exécution provisoire n'est
+recevable que si, outre l'existence d'un moyen sérieux d'annulation ou de réformation, l'exécution provisoire risque
+d'entraîner des conséquences manifestement excessives qui se sont révélées postérieurement à la décision de première
+instance.
+
+En cas d'opposition, le juge qui a rendu la décision peut, d'office ou à la demande d'une partie, arrêter l'exécution
+provisoire de droit lorsqu'elle risque d'entraîner des conséquences manifestement excessives.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°91-1197 du 27 novembre 1991 - art. 241-9 (VD)
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 514-4
+
+Lorsque l'exécution provisoire de droit a été écartée en tout ou partie, son rétablissement ne peut être demandé, en cas
+d'appel, qu'au premier président ou, dès lors qu'il est saisi, au magistrat chargé de la mise en état et à condition qu'il y
+ait urgence, que ce rétablissement soit compatible avec la nature de l'affaire et qu'il ne risque pas d'entraîner des
+conséquences manifestement excessives.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 514-5
+
+Le rejet de la demande tendant à voir écarter ou arrêter l'exécution provisoire de droit et le rétablissement de l'exécution
+provisoire de droit peuvent être subordonnés, à la demande d'une partie ou d'office, à la constitution d'une garantie, réelle
+ou personnelle, suffisante pour répondre de toutes restitutions ou réparations.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°91-1197 du 27 novembre 1991 - art. 241-9 (MMN)
+  - Code de commerce - art. R152-1 (VD)
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 514-6
+
+Lorsqu'il est saisi en application des articles 514-3 et 514-4, le premier président statue en référé, par une décision non
+susceptible de pourvoi.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+#### Section II :  L'exécution provisoire facultative<a id=154></a>
+
+###### Article 515
+
+Lorsqu'il est prévu par la loi que l'exécution provisoire est facultative, elle peut être ordonnée, d'office ou à la demande
+d'une partie, chaque fois que le juge l'estime nécessaire et compatible avec la nature de l'affaire.
+
+Elle peut être ordonnée pour tout ou partie de la décision.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+_Cité par_:
+
+  - Code des assurances - art. R421-9 (VD)
+
+
+###### Article 516
+
+L'exécution provisoire ne peut être ordonnée que par la décision qu'elle est destinée à rendre exécutoire, sous réserve des
+dispositions des articles 517-2 et 517-3.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+_Cite_:
+
+  - Nouveau code de procédure civile 525, 526
+
+
+###### Article 517
+
+L'exécution provisoire peut être subordonnée à la constitution d'une garantie, réelle ou personnelle, suffisante pour
+répondre de toutes restitutions ou réparations.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2018-1126 du 11 décembre 2018 - art. 1
+  - Code de commerce - art. R152-1 (VD)
+  - Code de l'environnement - art. R426-29 (VD)
+  - Code de procédure civile - art. 523 (VD)
+  - Code de procédure civile - art. 524 (VD)
+  - Code de procédure civile - art. 771 (VD)
+  - Livre des procédures fiscales - art. R*202-5 (VT)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 517-1
+
+Lorsque l'exécution provisoire a été ordonnée, elle ne peut être arrêtée, en cas d'appel, que par le premier président et
+dans les cas suivants :
+
+1° Si elle est interdite par la loi ;
+
+2° Lorsqu'il existe un moyen sérieux d'annulation ou de réformation de la décision et que l'exécution risque d'entraîner des
+conséquences manifestement excessives ; dans ce dernier cas, le premier président peut aussi prendre les mesures prévues aux
+articles 517 et 518 à 522.
+
+Le même pouvoir appartient, en cas d'opposition, au juge qui a rendu la décision lorsque l'exécution risque d'entraîner des
+conséquences manifestement excessives.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 517-2
+
+Lorsque l'exécution provisoire a été refusée, elle ne peut être demandée, en cas d'appel, qu'au premier président ou, dès
+lors qu'il est saisi, au magistrat chargé de la mise en état et à condition qu'il y ait urgence.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 517-3
+
+Lorsque l'exécution provisoire n'a pas été demandée, ou si, l'ayant été, le juge a omis de statuer, elle ne peut être
+demandée, en cas d'appel, qu'au premier président ou, dès lors qu'il est saisi, au magistrat chargé de la mise en état.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 517-4
+
+Lorsqu'il est saisi en application des articles 517-1,517-2 et 517-3, le premier président statue en référé, par une décision
+non susceptible de pourvoi.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+#### Section III :  Dispositions communes<a id=155></a>
+
+###### Article 518
+
+La nature, l'étendue et les modalités de la garantie prévue aux articles 514-5 et 517 sont précisées par la décision qui en
+prescrit la constitution.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 519
+
+Lorsque la garantie consiste en une somme d'argent, celle-ci est déposée à la Caisse des dépôts et consignations ; elle peut
+aussi l'être, à la demande de l'une des parties, entre les mains d'un tiers commis à cet effet.
+
+Dans ce dernier cas, le juge, s'il fait droit à cette demande, constate dans sa décision les modalités du dépôt.
+
+Si le tiers refuse le dépôt, la somme est déposée, sans nouvelle décision, à la Caisse des dépôts et consignations.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 520
+
+Si la valeur de la garantie ne peut être immédiatement appréciée, le juge invite les parties à se présenter devant lui à la
+date qu'il fixe, avec leurs justifications.
+
+Il est alors statué sans recours.
+
+La décision est mentionnée sur la minute et sur les expéditions du jugement.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+###### Article 521
+
+La partie condamnée au paiement de sommes autres que des aliments, des rentes indemnitaires ou des provisions peut éviter que
+l'exécution provisoire soit poursuivie en consignant, sur autorisation du juge, les espèces ou les valeurs suffisantes pour
+garantir, en principal, intérêts et frais, le montant de la condamnation.
+
+En cas de condamnation au versement d'un capital en réparation d'un dommage corporel, le juge peut aussi ordonner que ce
+capital sera confié à un séquestre à charge d'en verser périodiquement à la victime la part que le juge détermine.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+_Cité par_:
+
+  - Code de procédure civile - art. 524 (VD)
+  - Code de procédure civile - art. 526 (VD)
+
+
+###### Article 522
+
+Le juge peut, à tout moment, autoriser la substitution à la garantie primitive d'une garantie équivalente.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+_Cité par_:
+
+  - Code de procédure civile - art. 524 (VD)
+
+
+###### Article 523
+
+Les demandes relatives à l'application des articles 514-5,517 et 518 à 522 ne peuvent être portées, en cas d'appel, que
+devant le premier président statuant en référé ou, dans les cas prévus aux articles 514-4,517-2 ou 517-3, devant le magistrat
+chargé de la mise en état dès lors qu'il est saisi.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+_Cite_:
+
+  - Code de procédure civile - art. 517
+
+
+###### Article 524
+
+Lorsque l'exécution provisoire est de droit ou a été ordonnée, le premier président ou, dès qu'il est saisi, le conseiller de
+la mise en état peut, en cas d'appel, décider, à la demande de l'intimé et après avoir recueilli les observations des
+parties, la radiation du rôle de l'affaire lorsque l'appelant ne justifie pas avoir exécuté la décision frappée d'appel ou
+avoir procédé à la consignation autorisée dans les conditions prévues à l'article 521, à moins qu'il lui apparaisse que
+l'exécution serait de nature à entraîner des conséquences manifestement excessives ou que l'appelant est dans l'impossibilité
+d'exécuter la décision.
+
+La demande de l'intimé doit, à peine d'irrecevabilité prononcée d'office, être présentée avant l'expiration des délais
+prescrits aux articles 905-2,909,910 et 911.
+
+La décision de radiation est notifiée par le greffe aux parties ainsi qu'à leurs représentants par lettre simple. Elle est
+une mesure d'administration judiciaire.
+
+La demande de radiation suspend les délais impartis à l'intimé par les articles 905-2,909,910 et 911.
+
+Ces délais recommencent à courir à compter de la notification de la décision autorisant la réinscription de l'affaire au rôle
+de la cour ou de la décision rejetant la demande de radiation.
+
+La décision de radiation n'emporte pas suspension des délais impartis à l'appelant par les articles 905-2,908 et 911. Elle
+interdit l'examen des appels principaux et incidents ou provoqués.
+
+Le délai de péremption court à compter de la notification de la décision ordonnant la radiation. Il est interrompu par un
+acte manifestant sans équivoque la volonté d'exécuter. Le premier président ou le conseiller de la mise en état peut, soit à
+la demande des parties, soit d'office, après avoir invité les parties à présenter leurs observations, constater la
+péremption.
+
+Le premier président ou le conseiller de la mise en état autorise, sauf s'il constate la péremption, la réinscription de
+l'affaire au rôle de la cour sur justification de l'exécution de la décision attaquée.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°91-1197 du 27 novembre 1991 - art. 241-9 (VD)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (VD)
+  - Code de commerce - art. R661-1 (VD)
+  - Code de procédure civile - art. 525-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+_Cite_:
+
+  - Code de procédure civile - art. 12
+  - Code de procédure civile - art. 517 (VD)
+  - Code de procédure civile - art. 521 (VD)
+  - Code de procédure civile - art. 522 (VD)
+
+
+## Titre XVI : Les voies de recours.<a id=156></a>
 
 ###### Article 527
 
@@ -10971,7 +11386,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre Ier : Dispositions communes.<a id=151></a>
+### Sous-titre Ier : Dispositions communes.<a id=157></a>
 
 ###### Article 528
 
@@ -11146,7 +11561,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre II : Les voies ordinaires de recours.<a id=152></a>
+### Sous-titre II : Les voies ordinaires de recours.<a id=158></a>
 
 ###### Article 538
 
@@ -11179,7 +11594,7 @@ forclusion résultant de l'expiration du délai si le défendeur, sans qu'il y a
 du jugement en temps utile pour exercer son recours, ou s'il s'est trouvé dans l'impossibilité d'agir.
 
 Le relevé de forclusion est demandé au président de la juridiction compétente pour connaître de l'opposition ou de l'appel.
-Le président est saisi comme en matière de référé.
+Le président est saisi par voie d'assignation.
 
 La demande est recevable jusqu'à l'expiration d'un délai de deux mois suivant le premier acte signifié à personne ou, à
 défaut, suivant la première mesure d'exécution ayant pour effet de rendre indisponibles en tout ou partie les biens du
@@ -11187,12 +11602,17 @@ débiteur.
 
 Le président se prononce sans recours.
 
-S'il fait droit à la requête, le délai d'opposition ou d'appel court à compter de la date de sa décision, sauf au président à
+S'il fait droit à la demande, le délai d'opposition ou d'appel court à compter de la date de sa décision, sauf au président à
 réduire le délai ou à ordonner que la citation sera faite pour le jour qu'il fixe.
 
 Par exception aux dispositions qui précèdent, le droit au réexamen prévu à l'article 19 du règlement (CE) du Conseil n°
 4/2009 du 18 décembre 2008 relatif à la compétence, la loi applicable, la reconnaissance et l'exécution des décisions et la
 coopération en matière d'obligations alimentaires s'exerce par la voie de l'appel.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11207,7 +11627,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 541
@@ -11226,7 +11646,7 @@ _Cite_:
   - Nouveau code de procédure civile 540
 
 
-#### Chapitre Ier : L'appel.<a id=153></a>
+#### Chapitre Ier : L'appel.<a id=159></a>
 
 ###### Article 542
 
@@ -11244,9 +11664,9 @@ _Modifié par_:
   - Décret n°2017-891 du 6 mai 2017 - art. 7
 
 
-##### Section I : Le droit d'appel.<a id=154></a>
+##### Section I : Le droit d'appel.<a id=160></a>
 
-##### Sous-section I : Les jugements susceptibles d'appel.<a id=155></a>
+##### Sous-section I : Les jugements susceptibles d'appel.<a id=161></a>
 
 ###### Article 543
 
@@ -11287,7 +11707,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Les parties.<a id=156></a>
+##### Sous-section II : Les parties.<a id=162></a>
 
 ###### Article 546
 
@@ -11464,7 +11884,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section III : Dispositions diverses.<a id=157></a>
+##### Sous-section III : Dispositions diverses.<a id=163></a>
 
 ###### Article 559
 
@@ -11501,9 +11921,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Section II : Les effets de l'appel.<a id=158></a>
+##### Section II : Les effets de l'appel.<a id=164></a>
 
-##### Sous-section I : L'effet dévolutif.<a id=159></a>
+##### Sous-section I : L'effet dévolutif.<a id=165></a>
 
 ###### Article 561
 
@@ -11605,7 +12025,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : L'évocation.<a id=160></a>
+##### Sous-section II : L'évocation.<a id=166></a>
 
 ###### Article 568
 
@@ -11630,7 +12050,7 @@ _Cite_:
   - Nouveau code de procédure civile 554, 555, 563, 564, 565, 566, 567
 
 
-##### Section III : Dispositions finales.<a id=161></a>
+##### Section III : Dispositions finales.<a id=167></a>
 
 ###### Article 569
 
@@ -11647,21 +12067,26 @@ _Codifié par_:
 ###### Article 570
 
 L'exécution de l'arrêt d'appel appartient à la juridiction qui a statué en premier ressort ou, si cette dernière ne peut
-connaître de l'exécution de ses décisions, au tribunal de grande instance.
+connaître de l'exécution de ses décisions, au tribunal judiciaire.
 
 Toutefois, la juridiction d'appel peut, même d'office, décider dans son arrêt d'en retenir l'exécution à moins que celle-ci
 ne soit attribuée par la loi à une autre juridiction ; sous la même réserve, elle peut aussi désigner la juridiction qui
 connaîtra de l'exécution de son arrêt, à la condition que cette juridiction soit compétente pour connaître de l'exécution des
 décisions de justice.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Chapitre II : L'opposition.<a id=162></a>
+#### Chapitre II : L'opposition.<a id=168></a>
 
 ###### Article 571
 
@@ -11780,7 +12205,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre III : Les voies extraordinaires de recours.<a id=163></a>
+### Sous-titre III : Les voies extraordinaires de recours.<a id=169></a>
 
 ###### Article 579
 
@@ -11825,7 +12250,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 
-#### Chapitre Ier : La tierce opposition.<a id=164></a>
+#### Chapitre Ier : La tierce opposition.<a id=170></a>
 
 ###### Article 582
 
@@ -11999,7 +12424,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre II : Le recours en révision.<a id=165></a>
+#### Chapitre II : Le recours en révision.<a id=171></a>
 
 ###### Article 593
 
@@ -12156,7 +12581,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre III : Le pourvoi en cassation.<a id=166></a>
+#### Chapitre III : Le pourvoi en cassation.<a id=172></a>
 
 ###### Article 604
 
@@ -12174,7 +12599,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
-##### Section I : L'ouverture du pourvoi en cassation.<a id=167></a>
+##### Section I : L'ouverture du pourvoi en cassation.<a id=173></a>
 
 ###### Article 605
 
@@ -12446,7 +12871,7 @@ _Cite_:
   - Nouveau code de procédure civile 605, 612
 
 
-##### Section II : Les effets du pourvoi en cassation.<a id=168></a>
+##### Section II : Les effets du pourvoi en cassation.<a id=174></a>
 
 ###### Article 619
 
@@ -12827,7 +13252,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
-##### Section III : Le pourvoi du procureur général près la Cour de cassation<a id=169></a>
+##### Section III : Le pourvoi du procureur général près la Cour de cassation<a id=175></a>
 
 ###### Article 639-1
 
@@ -12912,9 +13337,9 @@ _Créé par_:
   - Décret n°2014-1338 du 6 novembre 2014 - art. 13
 
 
-## Titre XVII : Délais, actes d'huissier de justice et notifications.<a id=170></a>
+## Titre XVII : Délais, actes d'huissier de justice et notifications.<a id=176></a>
 
-### Chapitre Ier : La computation des délais.<a id=171></a>
+### Chapitre Ier : La computation des délais.<a id=177></a>
 
 ###### Article 640
 
@@ -13204,7 +13629,7 @@ _Cité par_:
   - Code de procédure civile - art. 664-1 (VD)
 
 
-### Chapitre II : La forme des actes d'huissier de justice.<a id=172></a>
+### Chapitre II : La forme des actes d'huissier de justice.<a id=178></a>
 
 ###### Article 648
 
@@ -13259,7 +13684,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : La forme des notifications.<a id=173></a>
+### Chapitre III : La forme des notifications.<a id=179></a>
 
 ###### Article 651
 
@@ -13295,7 +13720,7 @@ _Cité par_:
   - Code de procédure civile - art. 1138 (V)
 
 
-#### Section I : La signification.<a id=174></a>
+#### Section I : La signification.<a id=180></a>
 
 ###### Article 653
 
@@ -13635,7 +14060,7 @@ _Cite_:
   - Code de procédure civile - art. 659
 
 
-#### Section II : La notification des actes en la forme ordinaire.<a id=175></a>
+#### Section II : La notification des actes en la forme ordinaire.<a id=181></a>
 
 ###### Article 665
 
@@ -13851,7 +14276,7 @@ _Cite_:
   - Code de procédure pénale - art. R93
 
 
-#### Section III : Les notifications entre avocats.<a id=176></a>
+#### Section III : Les notifications entre avocats.<a id=182></a>
 
 ###### Article 671
 
@@ -13904,7 +14329,7 @@ _Cité par_:
   - Arrêté du 21 juin 2013 - art. 12 (V)
 
 
-#### Section IV : Règles particulières à la notification des jugements.<a id=177></a>
+#### Section IV : Règles particulières à la notification des jugements.<a id=183></a>
 
 ###### Article 675
 
@@ -14035,7 +14460,7 @@ _Cité par_:
   - Code de procédure civile - art. 689-1 (V)
 
 
-#### Section V : Règles particulières aux notifications internationales.<a id=178></a>
+#### Section V : Règles particulières aux notifications internationales.<a id=184></a>
 
 ###### Article 683
 
@@ -14058,7 +14483,7 @@ _Cité par_:
   - Code des transports - art. R4123-5 (V)
 
 
-##### Sous-section I : Notification des actes à l'étranger.<a id=179></a>
+##### Sous-section I : Notification des actes à l'étranger.<a id=185></a>
 
 ###### Article 684
 
@@ -14073,25 +14498,26 @@ puisse être faite par une autre voie.
 
 Le parquet auquel la remise doit être faite est, selon le cas, celui de la juridiction devant laquelle la demande est portée,
 celui de la juridiction qui a statué ou celui de la juridiction dans le ressort de laquelle demeure le requérant. S'il
-n'existe pas de parquet près la juridiction, l'acte est remis au parquet du tribunal de grande instance dans le ressort
-duquel cette juridiction a son siège.
+n'existe pas de parquet près la juridiction, l'acte est remis au parquet du tribunal judiciaire dans le ressort duquel cette
+juridiction a son siège.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code de commerce - art. Annexe 4-7 (V)
-  - Code de procédure civile - art. 688 (V)
+  - Code de procédure civile - art. 688 (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 10
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 684-1
@@ -14262,7 +14688,7 @@ _Cite_:
   - Code de procédure civile - art. 687-1 (V)
 
 
-##### Sous-section II : Notification des actes en provenance de l'étranger.<a id=180></a>
+##### Sous-section II : Notification des actes en provenance de l'étranger.<a id=186></a>
 
 ###### Article 688-1
 
@@ -14282,26 +14708,27 @@ _Créé par_:
 
 ###### Article 688-2
 
-Le ministre de la justice transmet les actes qui lui sont adressés au ministère public près le tribunal de grande instance
-dans le ressort duquel ils doivent être notifiés ou à la chambre nationale des huissiers de justice, à moins qu'en vertu d'un
-traité la transmission puisse être effectuée directement par les autorités étrangères au ministère public ou à la chambre
-nationale des huissiers de justice et sous réserve de tous autres modes de notification. Il peut également notifier ces actes
-à leur destinataire par lettre recommandée avec demande d'avis de réception.
+Le ministre de la justice transmet les actes qui lui sont adressés au ministère public près le tribunal judiciaire dans le
+ressort duquel ils doivent être notifiés ou à la chambre nationale des huissiers de justice, à moins qu'en vertu d'un traité
+la transmission puisse être effectuée directement par les autorités étrangères au ministère public ou à la chambre nationale
+des huissiers de justice et sous réserve de tous autres modes de notification. Il peut également notifier ces actes à leur
+destinataire par lettre recommandée avec demande d'avis de réception.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2012-366 du 15 mars 2012 - art. 22
 
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code de commerce - art. Annexe 4-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 688-3
@@ -14417,7 +14844,7 @@ _Créé par_:
   - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
 
 
-#### Section VI : Le lieu des notifications.<a id=181></a>
+#### Section VI : Le lieu des notifications.<a id=187></a>
 
 ###### Article 689
 
@@ -14489,21 +14916,26 @@ Les notifications destinées au ministère public et celles qui doivent être fa
 parquet de la juridiction devant laquelle la demande est portée, à celui de la juridiction qui a statué ou à celui du dernier
 domicile connu.
 
-S'il n'existe pas de parquet près la juridiction, la notification est faite au parquet du tribunal de grande instance dans le
-ressort duquel cette juridiction a son siège.
+S'il n'existe pas de parquet près la juridiction, la notification est faite au parquet du tribunal judiciaire dans le ressort
+duquel cette juridiction a son siège.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
 
 
-#### Section VII : Dispositions diverses.<a id=182></a>
+#### Section VII : Dispositions diverses.<a id=188></a>
 
 ###### Article 692
 
@@ -14598,9 +15030,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XVIII : Les frais et les dépens.<a id=183></a>
+## Titre XVIII : Les frais et les dépens.<a id=189></a>
 
-### Chapitre Ier : La charge des dépens.<a id=184></a>
+### Chapitre Ier : La charge des dépens.<a id=190></a>
 
 ###### Article 695
 
@@ -14784,7 +15216,7 @@ _Modifié par_:
   - Décret n°2013-1280 du 29 décembre 2013 - art. 22
 
 
-### Chapitre II : La liquidation des dépens à recouvrer par le greffe<a id=185></a>
+### Chapitre II : La liquidation des dépens à recouvrer par le greffe<a id=191></a>
 
 ###### Article 701
 
@@ -14842,7 +15274,7 @@ _Cite_:
   - Nouveau code de procédure civile 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718
 
 
-### Chapitre III : La vérification et le recouvrement des dépens.<a id=186></a>
+### Chapitre III : La vérification et le recouvrement des dépens.<a id=192></a>
 
 ###### Article 704
 
@@ -15132,7 +15564,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.<a id=187></a>
+### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.<a id=193></a>
 
 ###### Article 719
 
@@ -15192,7 +15624,7 @@ _Cite_:
   - Nouveau code de procédure civile 720
 
 
-### Chapitre V : Les contestations relatives à la rémunération des techniciens.<a id=188></a>
+### Chapitre V : Les contestations relatives à la rémunération des techniciens.<a id=194></a>
 
 ###### Article 724
 
@@ -15243,31 +15675,32 @@ _Cite_:
   - Nouveau code de procédure civile 714, 715, 724
 
 
-### Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce.<a id=189></a>
+### Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce.<a id=195></a>
 
 ###### Article 725-1
 
 Par dérogation aux articles 704 à 708, les demandes ou contestations relatives aux frais, émoluments et débours, compris ou
-non dans les dépens des greffiers des tribunaux de commerce, sont portées directement devant le président du tribunal de
-grande instance dans le ressort duquel le greffier du tribunal de commerce exerce ses fonctions, sans qu'il y ait lieu
-d'établir préalablement un certificat de vérification.
+non dans les dépens des greffiers des tribunaux de commerce, sont portées directement devant le président du tribunal
+judiciaire dans le ressort duquel le greffier du tribunal de commerce exerce ses fonctions, sans qu'il y ait lieu d'établir
+préalablement un certificat de vérification.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°85-1330 1985-12-17 art. 7 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Nouveau code de procédure civile 704, 705, 706, 707, 708
 
 
-## Titre XIX : Le greffe de la juridiction<a id=190></a>
+## Titre XIX : Le greffe de la juridiction<a id=196></a>
 
 ###### Article 726
 
@@ -15378,9 +15811,9 @@ _Créé par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 71 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-## Titre XX : Les commissions rogatoires.<a id=191></a>
+## Titre XX : Les commissions rogatoires.<a id=197></a>
 
-### Chapitre Ier : Les commissions rogatoires internes.<a id=192></a>
+### Chapitre Ier : Les commissions rogatoires internes.<a id=198></a>
 
 ###### Article 730
 
@@ -15436,9 +15869,9 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-### Chapitre II : Les commissions rogatoires internationales.<a id=193></a>
+### Chapitre II : Les commissions rogatoires internationales.<a id=199></a>
 
-#### Section I : Commissions rogatoires à destination de l'étranger<a id=194></a>
+#### Section I : Commissions rogatoires à destination de l'étranger<a id=200></a>
 
 ###### Article 734
 
@@ -15493,26 +15926,29 @@ _Anciens textes_:
   - Code de procédure civile - art. 735 (T)
 
 
-#### Section II : Commissions rogatoires en provenance de l'Etat étranger<a id=195></a>
+#### Section II : Commissions rogatoires en provenance de l'Etat étranger<a id=201></a>
 
-##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance<a id=196></a>
+##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance<a id=202></a>
+
+##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal judiciaire<a id=203></a>
 
 ###### Article 735
 
-Le tribunal de grande instance a seul compétence pour connaître des commissions rogatoires.
+Le tribunal judiciaire a seul compétence pour connaître des commissions rogatoires.
 
-Le tribunal de grande instance territorialement compétent est celui dans le ressort duquel la commission rogatoire doit être
+Le tribunal judiciaire territorialement compétent est celui dans le ressort duquel la commission rogatoire doit être
 exécutée.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Nouveaux textes_:
 
@@ -15521,50 +15957,52 @@ _Nouveaux textes_:
 
 ###### Article 736
 
-Le ministre de la justice transmet au ministère public près le tribunal de grande instance compétent les commissions
-rogatoires qui lui sont adressées.
+Le ministre de la justice transmet au ministère public près le tribunal judiciaire compétent les commissions rogatoires qui
+lui sont adressées.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 737
 
-Le ministère public fait aussitôt parvenir la commission rogatoire au président du tribunal de grande instance aux fins
-d'exécution.
+Le ministère public fait aussitôt parvenir la commission rogatoire au président du tribunal judiciaire aux fins d'exécution.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 738
 
-Dès réception de la commission rogatoire, le juge commis à cet effet par le président du tribunal de grande instance procède
-aux opérations prescrites.
+Dès réception de la commission rogatoire, le juge commis à cet effet par le président du tribunal judiciaire procède aux
+opérations prescrites.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 739
@@ -15727,7 +16165,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
-##### Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale<a id=197></a>
+##### Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale<a id=204></a>
 
 ###### Article 747-1
 
@@ -15745,17 +16183,22 @@ _Créé par_:
 ###### Article 747-2
 
 S'il est déféré à la demande de la juridiction étrangère, le ministère de la justice indique dans quelles conditions il doit
-être procédé à la mesure d'instruction et, s'il y a lieu, désigne le tribunal de grande instance compétent chargé d'assister
-la juridiction étrangère dans l'exécution de la mesure d'instruction.
+être procédé à la mesure d'instruction et, s'il y a lieu, désigne le tribunal judiciaire compétent chargé d'assister la
+juridiction étrangère dans l'exécution de la mesure d'instruction.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 3 : Dispositions communes<a id=198></a>
+##### Paragraphe 3 : Dispositions communes<a id=205></a>
 
 ###### Article 748
 
@@ -15776,7 +16219,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
-## Titre XXI : La communication par voie électronique.<a id=199></a>
+## Titre XXI : La communication par voie électronique.<a id=206></a>
 
 ###### Article 748-1
 
@@ -16039,7 +16482,7 @@ _Cite_:
   - Code de procédure civile - art. 692-1 (V)
 
 
-## Titre XXII : Disposition finale.<a id=200></a>
+## Titre XXII : Disposition finale.<a id=207></a>
 
 ###### Article 749
 
@@ -16058,307 +16501,23 @@ _Modifié par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 72 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-# Livre II : Dispositions particulières à chaque juridiction.<a id=201></a>
+# Livre II : Dispositions particulières à chaque juridiction.<a id=208></a>
 
-## Titre Ier : Dispositions particulières au tribunal de grande instance.<a id=202></a>
+## Titre Ier : Dispositions particulières au tribunal de grande instance.<a id=209></a>
 
-### Sous-titre Ier : La procédure devant le tribunal.<a id=203></a>
+### Sous-titre Ier : La procédure devant le tribunal.<a id=210></a>
 
-#### Chapitre Ier : La procédure en matière contentieuse.<a id=204></a>
+#### Chapitre II : Procédure en matière gracieuse.<a id=211></a>
 
-###### Article 750
+### Sous-titre II : Les pouvoirs du président.<a id=212></a>
 
-La demande en justice est formée par assignation ou par remise au greffe d'une requête conjointe, sous réserve des cas dans
-lesquels le tribunal peut être saisi par simple requête ou par déclaration.
+#### Chapitre Ier : Les ordonnances de référé.<a id=213></a>
 
-**Liens relatifs à cet article**
+##### Section 2 : L'instruction devant le juge de la mise en état<a id=214></a>
 
-_Codifié par_:
+###### Article 780
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 168 (VD)
-  - Décret n°2019-1333 du 11 décembre 2019 (V)
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
-  - Code de procédure civile - art. 1061-1 (VD)
-
-
-###### Article 751
-
-Les parties sont, sauf disposition contraire, tenues de constituer avocat.
-
-La constitution de l'avocat emporte élection de domicile.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 26-1 (VD)
-  - Code de procédure civile - art. 1136-4 (VD)
-  - Code de procédure civile - art. 1137 (VD)
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 752
-
-Outre les mentions prescrites à l'article 56, l'assignation contient à peine de nullité :
-
-1° La constitution de l'avocat du demandeur ;
-
-2° Le délai dans lequel le défendeur est tenu de constituer avocat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 (V)
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
-  - Code de la consommation - art. R423-3 (Ab)
-  - Code de la consommation - art. R623-3 (V)
-  - Code de procédure civile - art. 826-4 (VT)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 56
-
-
-###### Article 753
-
-Les conclusions doivent formuler expressément les prétentions des parties ainsi que les moyens en fait et en droit sur
-lesquels chacune de ces prétentions est fondée avec indication pour chaque prétention des pièces invoquées et de leur
-numérotation. Un bordereau énumérant les pièces justifiant ces prétentions est annexé aux conclusions.
-
-Les conclusions comprennent distinctement un exposé des faits et de la procédure, une discussion des prétentions et des
-moyens ainsi qu'un dispositif récapitulant les prétentions. Les moyens qui n'auraient pas été formulés dans les conclusions
-précédentes doivent être présentés de manière formellement distincte. Le tribunal ne statue que sur les prétentions énoncées
-au dispositif et n'examine les moyens au soutien de ces prétentions que s'ils sont invoqués dans la discussion.
-
-Les parties doivent reprendre dans leurs dernières conclusions les prétentions et moyens présentés ou invoqués dans leurs
-conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et le tribunal ne statue que sur les dernières
-conclusions déposées.
-
-Les conclusions sont notifiées et les pièces communiquées par l'avocat de chacune des parties à celui de l'autre partie ; en
-cas de pluralité de demandeurs ou de défendeurs, elles doivent l'être à tous les avocats constitués.
-
-Copie des conclusions est remise au greffe avec la justification de leur notification.
-
-**Nota:**
-
-Conformément aux dispositions du II de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
-aux instances introduites à compter de l'entrée en vigueur dudit décret.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2017-892 du 6 mai 2017 - art. 18
-
-_Cité par_:
-
-  - Code de procédure civile - art. 772-1 (VT)
-
-
-###### Article 754
-
-Le tribunal est saisi et l'affaire instruite en suivant, sauf le cas d'urgence, les règles de la procédure ordinaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-##### Section I : La procédure ordinaire<a id=205></a>
-
-##### Sous-section I : Saisine du tribunal.<a id=206></a>
-
-###### Article 755
-
-Le défendeur est tenu de constituer avocat dans le délai de quinze jours, à compter de l'assignation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Code de procédure civile - art. ANNEXE, art. 33 (V)
-
-
-###### Article 756
-
-Dès qu'il est constitué, l'avocat du défendeur en informe celui du demandeur ; copie de l'acte de constitution est remise au
-greffe.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 17
-
-
-###### Article 757
-
-Le tribunal est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation. 
-
-Cette remise doit être faite dans les quatre mois de l'assignation, faute de quoi celle-ci sera caduque, à moins qu'une
-convention de procédure participative ne soit conclue avant l'expiration de ce délai. Dans ce cas, le délai de quatre mois
-est suspendu jusqu'à l'extinction de la procédure conventionnelle.
-
-La caducité est constatée d'office par ordonnance du président ou du juge saisi de l'affaire. 
-
-A défaut de remise, requête peut être présentée au président en vue de faire constater la caducité.
-
-**Nota:**
-
-Conformément à l'article 35 du décret n° 2015-282 du 14 mars 2015 les présentes dispositions sont applicables aux
-assignations délivrées à compter du 1er avril 2015.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2015-282 du 11 mars 2015 - art. 22
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 (V)
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
-
-
-###### Article 758
-
-Le président du tribunal fixe les jour et heure auxquels l'affaire sera appelée ; s'il y a lieu, il désigne la chambre à
-laquelle elle est distribuée. 
-
-Avis en est donné par le greffier aux avocats constitués.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 (V)
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
-
-
-###### Article 759
-
-Au jour fixé, l'affaire est obligatoirement appelée devant le président de la chambre à laquelle elle a été distribuée.
-
-Celui-ci confère de l'état de la cause avec les avocats présents.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Code de procédure civile - art. ANNEXE, art. 33 (V)
-
-
-##### Sous-section II : Renvoi à l'audience.<a id=207></a>
-
-###### Article 760
-
-Le président renvoie à l'audience les affaires qui, d'après les explications des avocats et au vu des conclusions échangées
-et des pièces communiquées, lui paraissent prêtes à être jugées sur le fond.
-
-Il renvoie également à l'audience les affaires dans lesquelles le défendeur ne comparaît pas si elles sont en état d'être
-jugées sur le fond, à moins qu'il n'ordonne la réassignation du défendeur.
-
-Dans tous ces cas, le président déclare l'instruction close et fixe la date de l'audience. Celle-ci peut être tenue le jour
-même.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°55-22 du 4 janvier 1955 - art. 26-1 (VD)
-  - Loi n°2001-504 du 12 juin 2001 - art. 1 (VD)
-  - Code de procédure civile - art. 905 (VD)
-  - Code de procédure civile - art. ANNEXE, art. 35 (VD)
-  - Livre des procédures fiscales - art. R*288-3 (VD)
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 762
-
-Toutes les affaires que le président ne renvoie pas à l'audience sont mises en état d'être jugées, conformément aux
-dispositions ci-après.
-
-Le greffe avise les avocats constitués de la désignation du juge de la mise en état.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2017-891 du 6 mai 2017 - art. 48
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 17
-  - Code de l'aviation civile - art. R123-7 (MMN)
-  - Code de procédure civile - art. ANNEXE, art. 33 (VD)
-  - Code du domaine de l'Etat - art. R170-17 (VD)
-  - Code du domaine public fluvial et de la navigat... - art. 131 (VD)
-  - Code général de la propriété des personnes publ... - art. R5112-35 (VD)
-
-
-##### Sous-section III : Instruction devant le juge de la mise en état.<a id=208></a>
-
-###### Article 763
-
-L'affaire est instruite sous le contrôle d'un magistrat de la chambre à laquelle elle a été distribuée.
+L'affaire est instruite sous le contrôle d'un magistrat de la chambre saisie ou à laquelle l'affaire a été distribuée.
 
 Celui-ci a mission de veiller au déroulement loyal de la procédure, spécialement à la ponctualité de l'échange des
 conclusions et de la communication des pièces.
@@ -16368,28 +16527,30 @@ injonctions.
 
 Il peut ordonner le retrait du rôle dans les cas et conditions des articles 382 et 383.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 10 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
-  - Code de commerce - art. R661-6 (VD)
-  - Code de la sécurité sociale. - art. R142-10-5 (M)
-  - Code du domaine public fluvial et de la navigat... - art. 131 (VD)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
+  - Code de l'aviation civile - art. R123-7 (VD)
+  - Code de la sécurité sociale. - art. R142-10-5 (V)
+  - Code de procédure civile - art. 907 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Nouveau code de procédure civile 382, 383
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-###### Article 764
+###### Article 781
 
 Le juge de la mise en état fixe, au fur et à mesure, les délais nécessaires à l'instruction de l'affaire, eu égard à la
 nature, à l'urgence et à la complexité de celle-ci, et après avoir provoqué l'avis des avocats.
@@ -16403,7 +16564,13 @@ et, par dérogation aux premier et deuxième alinéas de l'article 450, celle du
 
 Les délais fixés dans le calendrier de la mise en état ne peuvent être prorogés qu'en cas de cause grave et dûment justifiée.
 
-Le juge peut également renvoyer l'affaire à une conférence ultérieure en vue de faciliter le règlement du litige.
+Le juge peut également renvoyer l'affaire à une audience de mise en état ultérieure en vue de faciliter le règlement du
+litige.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -16411,458 +16578,38 @@ _Codifié par_:
 
   - Décret n°75-1123 du 5 décembre 1975
 
-_Modifié par_:
-
-  - Décret n°2017-892 du 6 mai 2017 - art. 19
-
 _Cité par_:
 
-  - Code de procédure civile - art. 1425-3 (VD)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 450
-
-
-###### Article 765
-
-Le juge de la mise en état peut inviter les avocats à répondre aux moyens sur lesquels ils n'auraient pas conclu, à fournir
-les explications de fait et de droit nécessaires à la solution du litige et, le cas échéant, à mettre leurs écritures en
-conformité avec les dispositions de l'article 753.
-
-Il peut se faire communiquer l'original des pièces versées aux débats ou en demander la remise en copie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
+  - Code de l'aviation civile - art. R123-7 (VD)
 
 _Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 15 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
-_Cite_:
-
-  - Nouveau code de procédure civile 753
-
-
-###### Article 766
-
-Le juge de la mise en état procède aux jonctions et disjonctions d'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Code des procédures civiles d'exécution - art. R311-6 (VD)
-
-
-###### Article 767
-
-Le juge de la mise en état peut, même d'office, entendre les parties.
-
-L'audition des parties a lieu contradictoirement à moins que l'une d'elles, dûment convoquée, ne se présente pas.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 768
-
-Le juge de la mise en état peut constater la conciliation, même partielle, des parties.
-
-Il homologue, à la demande des parties, l'accord qu'elles lui soumettent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 24 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-
-###### Article 768-1
-
-Le juge de la mise en état peut inviter les parties à mettre en cause tous les intéressés dont la présence lui paraît
-nécessaire à la solution du litige.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°84-618 1984-07-13 art. 14 et 31 JORF 18 juillet 1984 rectificatif JORF 18 août 1984 en vigueur le 1er octobre 1984
-
-_Abrogé par_:
 
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-
-###### Article 769
-
-Le juge de la mise en état constate l'extinction de l'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Arrêté du 15 février 1995 - art. 2 (V)
-  - Arrêté du 18 février 2020 - art. 2
-
-
-###### Article 770
-
-Le juge de la mise en état exerce tous les pouvoirs nécessaires à la communication, à l'obtention et à la production des
-pièces.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Code de l'aviation civile - art. R123-7 (VD)
-
-
-###### Article 771
-
-Lorsque la demande est présentée postérieurement à sa désignation, le juge de la mise en état est, jusqu'à son
-dessaisissement, seul compétent, à l'exclusion de toute autre formation du tribunal, pour : 
-
-1. Statuer sur les exceptions de procédure, les demandes formées en application de l'article 47 et sur les incidents mettant
-fin à l'instance ; les parties ne sont plus recevables à soulever ces exceptions et incidents ultérieurement à moins qu'ils
-ne surviennent ou soient révélés postérieurement au dessaisissement du juge ; 
-
-2. Allouer une provision pour le procès ; 
-
-3. Accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable. Le juge de la
-mise en état peut subordonner l'exécution de sa décision à la constitution d'une garantie dans les conditions prévues aux
-articles 517 à 522 ; 
-
-4. Ordonner toutes autres mesures provisoires, même conservatoires, à l'exception des saisies conservatoires et des
-hypothèques et nantissements provisoires, ainsi que modifier ou compléter, en cas de survenance d'un fait nouveau, les
-mesures qui auraient déjà été ordonnées ; 
-
-5. Ordonner, même d'office, toute mesure d'instruction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Cité par_:
-
-  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
-  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (V)
-  - Décret n°91-1369 du 30 décembre 1991 - art. 17-11 (V)
-  - Code de commerce - art. Annexe 4-7 (V)
-  - Code de procédure civile - art. 819 (VT)
-  - Code des assurances - art. R421-9 (V)
-
-_Modifié par_:
-
-  - Décret n°2012-66 du 20 janvier 2012 - art. 37
-
-_Cite_:
-
-  - Code de procédure civile - art. 47
-  - Code de procédure civile - art. 517
-
-
-###### Article 772
-
-Le juge de la mise en état peut statuer sur les dépens et les demandes formées en application de l'article 700.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 26 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cité par_:
-
-  - Code de procédure civile - art. 969 (VD)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 700
-
-
-###### Article 772-1
-
-Le juge de la mise en état est saisi par des conclusions qui lui sont spécialement adressées distinctes des conclusions au
-sens de l'article 753.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-891 du 6 mai 2017 - art. 49
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cite_:
-
-  - Code de procédure civile - art. 753
-
-
-###### Article 773
-
-Les mesures prises par le juge de la mise en état sont l'objet d'une simple mention au dossier ; avis en est donné aux
-avocats.
-
-Toutefois, dans les cas prévus aux articles 769 à 772, le juge de la mise en état statue par ordonnance motivée sous réserve
-des règles particulières aux mesures d'instruction.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Arrêté du 25 septembre 2008 - art. 1 (V)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 769 à 772
-
-
-###### Article 774
-
-L'ordonnance est rendue, immédiatement s'il y a lieu, les avocats entendus ou appelés.
-
-Les avocats sont convoqués par le juge à son audience.
-
-En cas d'urgence, une partie peut, par notification entre avocats, inviter l'autre à se présenter devant le juge aux jour,
-heure et lieu fixés par celui-ci.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. R142-10-5 (M)
-
-
-###### Article 775
-
-Les ordonnances du juge de la mise en état n'ont pas, au principal, l'autorité de la chose jugée à l'exception de celles
-statuant sur les exceptions de procédure et sur les incidents mettant fin à l'instance.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 27 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-
-###### Article 776
-
-Les ordonnances du juge de la mise en état ne sont pas susceptibles d'opposition.
-
-Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'avec le jugement statuant sur le fond.
-
-Toutefois, elles sont susceptibles d'appel dans les cas et conditions prévus en matière d'expertise ou de sursis à statuer.
-
-Elles le sont également, dans les quinze jours à compter de leur signification, lorsque :
-
-1° Elles statuent sur un incident mettant fin à l'instance, elles ont pour effet de mettre fin à celle-ci ou elles en
-constatent l'extinction ;
-
-2° Elles statuent sur une exception de procédure ;
-
-3° Elles ont trait aux mesures provisoires ordonnées en matière de divorce ou de séparation de corps ;
-
-4° Dans le cas où le montant de la demande est supérieur au taux de compétence en dernier ressort, elles ont trait aux
-provisions qui peuvent être accordées au créancier au cas où l'existence de l'obligation n'est pas sérieusement contestable.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 28 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cité par_:
-
-  - Code de procédure civile - art. 905 (VD)
-  - Code de procédure civile - art. ANNEXE, art. 33 (VD)
-
-
-###### Article 777
-
-Le juge de la mise en état contrôle l'exécution des mesures d'instruction qu'il ordonne, sous réserve des dispositions du
-troisième alinéa de l'article 155.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 18 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
-_Cite_:
-
-  - Nouveau code de procédure civile 155
-
-
-###### Article 778
-
-Dès l'exécution de la mesure d'instruction ordonnée, l'instance poursuit son cours à la diligence du juge de la mise en état.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Code de procédure civile - art. 905 (VD)
-
-
-###### Article 779
-
-Sauf dans le cas où il est fait application des dispositions du deuxième alinéa de l'article 764, le juge de la mise en état
-déclare l'instruction close dès que l'état de celle-ci le permet et renvoie l'affaire devant le tribunal pour être plaidée à
-la date fixée par le président ou par lui-même s'il a reçu délégation à cet effet. La date de la clôture doit être aussi
-proche que possible de celle fixée pour les plaidoiries.
-
-S'il l'estime nécessaire pour l'établissement de son rapport à l'audience, le juge de la mise en état peut demander aux
-avocats de déposer au greffe leur dossier, comprenant notamment les pièces produites, à la date qu'il détermine.
-
-Le président ou le juge de la mise en état, s'il a reçu délégation à cet effet, peut également, à la demande des avocats, et
-après accord, le cas échéant, du ministère public, autoriser le dépôt des dossiers au greffe de la chambre à une date qu'il
-fixe, quand il lui apparaît que l'affaire ne requiert pas de plaidoiries.
-
-Le juge de la mise en état demeure saisi jusqu'à l'ouverture des débats ou jusqu'à la date fixée pour le dépôt des dossiers
-des avocats.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 29 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
-  - Code de l'aviation civile - art. R123-7 (VD)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 764
-
-
-###### Article 780
-
-Si l'un des avocats n'a pas accompli les actes de la procédure dans le délai imparti, le juge peut ordonner la clôture à son
-égard, d'office ou à la demande d'une autre partie, sauf, en ce dernier cas, la possibilité pour le juge de refuser par
-ordonnance motivée non susceptible de recours. Copie de l'ordonnance est adressée à la partie défaillante, à son domicile
-réel ou à sa résidence.
-
-Le juge rétracte l'ordonnance de clôture partielle, d'office ou lorsqu'il est saisi de conclusions à cette fin, pour
-permettre de répliquer à des demandes ou des moyens nouveaux présentés par une partie postérieurement à cette ordonnance. Il
-en est de même en cas de cause grave et dûment justifiée.
-
-Si aucune autre partie ne doit conclure, le juge ordonne la clôture de l'instruction et le renvoi devant le tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 30 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
-  - Code de l'aviation civile - art. R123-7 (VD)
-  - Code de la sécurité sociale. - art. R142-10-5 (V)
-  - Code de procédure civile - art. 907 (V)
-
-
-###### Article 781
-
-Si les avocats s'abstiennent d'accomplir les actes de la procédure dans les délais impartis, le juge de la mise en état peut,
-d'office, après avis donné aux avocats, prendre une ordonnance de radiation motivée non susceptible de recours.
-
-Copie de cette ordonnance est adressée à chacune des parties par lettre simple adressée à leur domicile réel ou à leur
-résidence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
-  - Code de l'aviation civile - art. R123-7 (VD)
-
-
-##### Sous-section IV : Dispositions communes.<a id=209></a>
 
 ###### Article 782
 
-La clôture de l'instruction, dans les cas prévus aux articles 760, 761, 779 et 780, est prononcée par une ordonnance non
-motivée qui ne peut être frappée d'aucun recours. Copie de cette ordonnance est délivrée aux avocats.
+Le juge de la mise en état peut inviter les avocats à répondre aux moyens sur lesquels ils n'auraient pas conclu, à fournir
+les explications de fait et de droit nécessaires à la solution du litige et, le cas échéant, à mettre leurs écritures en
+conformité avec les dispositions de l'article 768.
+
+Il peut se faire communiquer l'original des pièces versées aux débats ou en demander la remise en copie.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
@@ -16871,132 +16618,130 @@ _Cite_:
 
 ###### Article 783
 
-Après l'ordonnance de clôture, aucune conclusion ne peut être déposée ni aucune pièce produite aux débats, à peine
-d'irrecevabilité prononcée d'office.
+Le juge de la mise en état procède aux jonctions et disjonctions d'instance.
 
-Sont cependant recevables les demandes en intervention volontaire, les conclusions relatives aux loyers, arrérages, intérêts
-et autres accessoires échus et aux débours faits jusqu'à l'ouverture des débats, si leur décompte ne peut faire l'objet
-d'aucune contestation sérieuse, ainsi que les demandes de révocation de l'ordonnance de clôture.
+**Nota:**
 
-Sont également recevables les conclusions qui tendent à la reprise de l'instance en l'état où celle-ci se trouvait au moment
-de son interruption.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 784
 
-L'ordonnance de clôture ne peut être révoquée que s'il se révèle une cause grave depuis qu'elle a été rendue ; la
-constitution d'avocat postérieurement à la clôture ne constitue pas, en soi, une cause de révocation.
+Le juge de la mise en état peut, même d'office, entendre les parties.
 
-Si une demande en intervention volontaire est formée après la clôture de l'instruction, l'ordonnance de clôture n'est
-révoquée que si le tribunal ne peut immédiatement statuer sur le tout.
+L'audition des parties a lieu contradictoirement à moins que l'une d'elles, dûment convoquée, ne se présente pas.
 
-L'ordonnance de clôture peut être révoquée, d'office ou à la demande des parties, soit par ordonnance motivée du juge de la
-mise en état, soit, après l'ouverture des débats, par décision du tribunal.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 785
 
-Le juge de la mise en état fait un rapport oral de l'affaire à l'audience avant les plaidoiries. Exceptionnellement, le
-rapport peut être fait par le président de la chambre ou un autre juge qu'il désigne.
+Le juge de la mise en état peut constater la conciliation, même partielle, des parties.
 
-Le rapport expose l'objet de la demande et les moyens des parties, il précise les questions de fait et de droit soulevées par
-le litige et fait mention des éléments propres à éclairer le débat, sans faire connaître l'avis du magistrat qui en est
-l'auteur.
+Le juge de la mise en état peut également désigner un médiateur dans les conditions de l'article 131-1.
+
+Il homologue, à la demande des parties, l'accord qu'elles lui soumettent.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 31 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 786
 
-Le juge de la mise en état ou le magistrat chargé du rapport peut, si les avocats ne s'y opposent pas, tenir seul l'audience
-pour entendre les plaidoiries. Il en rend compte au tribunal dans son délibéré.
+Le juge de la mise en état peut inviter les parties à mettre en cause tous les intéressés dont la présence lui paraît
+nécessaire à la solution du litige.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-
-###### Article 786-1
-
-Lorsqu'il a été fait application du troisième alinéa de l'article 779, le président de la chambre, à l'expiration du délai
-prévu pour la remise des dossiers, informe les parties du nom des juges de la chambre qui seront amenés à délibérer et de la
-date à laquelle le jugement sera rendu.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 32 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cite_:
-
-  - Nouveau code de procédure civile 779
 
 
 ###### Article 787
 
-Les mesures d'instruction ordonnées par le tribunal sont exécutées sous le contrôle du juge de la mise en état.
+Le juge de la mise en état constate l'extinction de l'instance.
 
-Dès l'accomplissement d'une mesure d'instruction, le président de la chambre à laquelle l'affaire a été distribuée la renvoie
-à l'audience du tribunal ou au juge de la mise en état comme il est dit à la sous-section II ci-dessus.
+**Nota:**
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-##### Section II : Procédure à jour fixe.<a id=210></a>
-
-###### Article 788
-
-En cas d'urgence, le président du tribunal peut autoriser le demandeur, sur sa requête, à assigner le défendeur à jour fixe.
-Il désigne, s'il y a lieu, la chambre à laquelle l'affaire est distribuée.
-
-La requête doit exposer les motifs de l'urgence, contenir les conclusions du demandeur et viser les pièces justificatives.
-
-Copie de la requête et des pièces doit être remise au président pour être versée au dossier du tribunal.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°98-1231 du 28 décembre 1998 - art. 20 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 788
+
+Le juge de la mise en état exerce tous les pouvoirs nécessaires à la communication, à l'obtention et à la production des
+pièces.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -17007,17 +16752,55 @@ _Cité par_:
 
 ###### Article 789
 
-L'assignation indique à peine de nullité les jour et heure fixés par le président auxquels l'affaire sera appelée ainsi que
-la chambre à laquelle elle est distribuée. Copie de la requête est jointe à l'assignation.
+Lorsque la demande est présentée postérieurement à sa désignation, le juge de la mise en état est, jusqu'à son
+dessaisissement, seul compétent, à l'exclusion de toute autre formation du tribunal, pour :
 
-L'assignation informe le défendeur qu'il peut prendre connaissance au greffe de la copie des pièces visées dans la requête et
-lui fait sommation de communiquer avant la date de l'audience celles dont il entend faire état.
+1° Statuer sur les exceptions de procédure, les demandes formées en application de l'article 47 et les incidents mettant fin
+à l'instance ;
+
+Les parties ne sont plus recevables à soulever ces exceptions et incidents ultérieurement à moins qu'ils ne surviennent ou
+soient révélés postérieurement au dessaisissement du juge ;
+
+2° Allouer une provision pour le procès ;
+
+3° Accorder une provision au créancier lorsque l'existence de l'obligation n'est pas sérieusement contestable. Le juge de la
+mise en état peut subordonner l'exécution de sa décision à la constitution d'une garantie dans les conditions prévues aux
+articles 514-5,517 et 518 à 522 ;
+
+4° Ordonner toutes autres mesures provisoires, même conservatoires, à l'exception des saisies conservatoires et des
+hypothèques et nantissements provisoires, ainsi que modifier ou compléter, en cas de survenance d'un fait nouveau, les
+mesures qui auraient déjà été ordonnées ;
+
+5° Ordonner, même d'office, toute mesure d'instruction ;
+
+6° Statuer sur les fins de non-recevoir.
+
+Lorsque la fin de non-recevoir nécessite que soit tranchée au préalable une question de fond, le juge de la mise en état
+statue sur cette question de fond et sur cette fin de non-recevoir. Toutefois, dans les affaires qui ne relèvent pas du juge
+unique ou qui ne lui sont pas attribuées, une partie peut s'y opposer. Dans ce cas, et par exception aux dispositions du
+premier alinéa, le juge de la mise en état renvoie l'affaire devant la formation de jugement, le cas échéant sans clore
+l'instruction, pour qu'elle statue sur cette question de fond et sur cette fin de non-recevoir. Il peut également ordonner ce
+renvoi s'il l'estime nécessaire. La décision de renvoi est une mesure d'administration judiciaire.
+
+Le juge de la mise en état ou la formation de jugement statuent sur la question de fond et sur la fin de non-recevoir par des
+dispositions distinctes dans le dispositif de l'ordonnance ou du jugement. La formation de jugement statue sur la fin de non-
+recevoir même si elle n'estime pas nécessaire de statuer au préalable sur la question de fond. Le cas échéant, elle renvoie
+l'affaire devant le juge de la mise en état.
+
+Les parties ne sont plus recevables à soulever ces fins de non-recevoir au cours de la même instance à moins qu'elles ne
+surviennent ou soient révélées postérieurement au dessaisissement du juge de la mise en état.
+
+**Nota:**
+
+Conformément à l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er janvier
+2020 et sont applicables aux instances en cours à cette date. Par dérogation, les dispositions du 6° de l'article 789 qui
+résultent du décret précité sont applicables aux instances introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -17026,56 +16809,102 @@ _Cité par_:
   - Code de procédure civile - art. ANNEXE, art. 34 (V)
   - Code des assurances - art. R421-9 (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
 
 ###### Article 790
 
-Le défendeur est tenu de constituer avocat avant la date de l'audience.
+Le juge de la mise en état peut statuer sur les dépens et les demandes formées en application de l'article 700.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 791
+
+Le juge de la mise en état est saisi par des conclusions qui lui sont spécialement adressées distinctes des conclusions au
+sens de l'article 768, sous réserve des dispositions de l'article 1117.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+Conformément à l'article 15 et à l'article 2 du décret n°2019-1380, l'ajout des mots "sous réserve des dispositions de
+l'article 1117 " entre en vigueur le 1er septembre 2020.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1380 du 17 décembre 2019 - art. 2
 
 
 ###### Article 792
 
-Le jour de l'audience, le président s'assure qu'il s'est écoulé un temps suffisant depuis l'assignation pour que la partie
-assignée ait pu préparer sa défense.
+Les mesures prises par le juge de la mise en état sont l'objet d'une simple mention au dossier ; avis en est donné aux
+avocats.
 
-Si le défendeur a constitué avocat, l'affaire est plaidée sur-le-champ en l'état où elle se trouve, même en l'absence de
-conclusions du défendeur ou sur simples conclusions verbales.
+Toutefois, dans les cas prévus aux articles 787 à 790, le juge de la mise en état statue par ordonnance motivée sous réserve
+des règles particulières aux mesures d'instruction.
 
-En cas de nécessité, le président de la chambre peut user des pouvoirs prévus à l'article 761 ou renvoyer l'affaire devant le
-juge de la mise en état.
+**Nota:**
 
-Si le défendeur n'a pas constitué avocat, il est procédé selon les règles prévues à l'article 760.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
   - Nouveau code de procédure civile 760 et 761
 
 
-##### Section III : La requête conjointe.<a id=211></a>
-
 ###### Article 793
 
-Outre les mentions prescrites à l'article 57, la requête conjointe contient, à peine d'irrecevabilité, la constitution des
-avocats des parties.
+L'ordonnance est rendue, immédiatement s'il y a lieu, les avocats entendus ou appelés.
 
-Elle est signée par les avocats constitués.
+Les avocats sont convoqués à l'audience par le juge de la mise en état.
+
+En cas d'urgence, une partie peut, par notification entre avocats, inviter l'autre à se présenter devant le juge aux jour,
+heure et lieu fixés par celui-ci.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -17088,29 +16917,60 @@ _Cite_:
 
 ###### Article 794
 
-Les requérants peuvent, dès la requête conjointe, demander que l'affaire soit attribuée à un juge unique, ou renoncer à la
-faculté de demander le renvoi à la formation collégiale.
+Les ordonnances du juge de la mise en état n'ont pas, au principal, l'autorité de la chose jugée à l'exception de celles
+statuant sur les exceptions de procédure, sur les fins de non-recevoir, sur les incidents mettant fin à l'instance et sur la
+question de fond tranchée en application des dispositions du 6° de l'article 789.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 795
 
-Le tribunal est saisi par la remise au greffe de la requête conjointe.
+Les ordonnances du juge de la mise en état ne sont pas susceptibles d'opposition.
+
+Elles ne peuvent être frappées d'appel ou de pourvoi en cassation qu'avec le jugement statuant sur le fond.
+
+Toutefois, elles sont susceptibles d'appel dans les cas et conditions prévus en matière d'expertise ou de sursis à statuer.
+
+Elles le sont également, dans les quinze jours à compter de leur signification, lorsque :
+
+1° Elles statuent sur un incident mettant fin à l'instance, elles ont pour effet de mettre fin à celle-ci ou elles en
+constatent l'extinction ;
+
+2° Elles statuent sur une exception de procédure ou une fin de non-recevoir ;
+
+3° Elles ont trait aux mesures provisoires ordonnées en matière de divorce ou de séparation de corps ;
+
+4° Dans le cas où le montant de la demande est supérieur au taux de compétence en dernier ressort, elles ont trait aux
+provisions qui peuvent être accordées au créancier au cas où l'existence de l'obligation n'est pas sérieusement contestable.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -17119,69 +16979,454 @@ _Cité par_:
 
 ###### Article 796
 
-Le président du tribunal fixe les jour et heure auxquels l'affaire sera appelée ; s'il y a lieu, il désigne la chambre à
-laquelle elle est distribuée. 
+Le juge de la mise en état contrôle l'exécution des mesures d'instruction qu'il ordonne, sous réserve des dispositions du
+troisième alinéa de l'article 155.
 
-Avis en est donné par le greffe aux avocats constitués. 
+**Nota:**
 
-Il est alors procédé comme il est dit aux articles 759, 760 et 762, sauf dans le cas prévu à l'article 794 où l'affaire
-aurait été attribuée à un juge unique.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
   - Nouveau code de procédure civile 759, 760, 762 et 794
 
 
-##### Section IV : Dispositions communes<a id=212></a>
+###### Article 797
 
-###### Article 796-1
-
-I. – A peine d'irrecevabilité relevée d'office, les actes de procédure sont remis à la juridiction par voie électronique. 
-
-II. – Lorsqu'un acte ne peut être transmis par voie électronique pour une cause étrangère à celui qui l'accomplit, il est
-établi sur support papier et remis au greffe selon les modalités de l'article 821 ou lui est adressé par lettre recommandée
-avec demande d'avis de réception. Si l'acte est une simple requête ou une déclaration, il est remis ou adressé au greffe en
-autant d'exemplaires qu'il y a de destinataires, plus deux. 
-
-Lorsque l'acte est adressé par voie postale, le greffe l'enregistre à la date figurant sur le cachet du bureau d'émission et
-adresse à l'expéditeur un récépissé par tout moyen. 
-
-III. – Les avis, avertissements ou convocations sont remis aux avocats des parties par voie électronique, sauf impossibilité
-pour cause étrangère à l'expéditeur. 
-
-Un arrêté du garde des sceaux, ministre de la justice définit les modalités des échanges par voie électronique.
+Dès l'exécution de la mesure d'instruction ordonnée, l'instance poursuit son cours à la diligence du juge de la mise en état.
 
 **Nota:**
 
-Conformément aux dispositions du IX de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
-aux actes afférents aux instances introduites à compter du 1er septembre 2019.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+## Titre Ier : Dispositions particulières au tribunal judiciaire<a id=215></a>
+
+### Sous-titre Ier : Dispositions communes<a id=216></a>
+
+#### Chapitre Ier : L'introduction de l'instance<a id=217></a>
+
+###### Article 750
+
+La demande en justice est formée par assignation.
+
+Elle peut l'être également par requête lorsque le montant de la demande n'excède pas 5 000 euros en procédure orale ordinaire
+ou dans certaines matières fixées par la loi ou le règlement.
+
+Dans tous les cas, les parties peuvent saisir la juridiction par une requête conjointe.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 168 (VD)
+  - Décret n°2019-1333 du 11 décembre 2019 (V)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
+  - Code de procédure civile - art. 1061-1 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 750-1
+
+A peine d'irrecevabilité que le juge peut prononcer d'office, la demande en justice doit être précédée, au choix des parties,
+d'une tentative de conciliation menée par un conciliateur de justice, d'une tentative de médiation ou d'une tentative de
+procédure participative, lorsqu'elle tend au paiement d'une somme n'excédant pas 5 000 euros ou lorsqu'elle est relative à
+l'une des actions mentionnées aux articles R. 211-3-4 et R. 211-3-8 du code de l'organisation judiciaire.
+
+Les parties sont dispensées de l'obligation mentionnée au premier alinéa dans les cas suivants :
+
+1° Si l'une des parties au moins sollicite l'homologation d'un accord ;
+
+2° Lorsque l'exercice d'un recours préalable est imposé auprès de l'auteur de la décision ;
+
+3° Si l'absence de recours à l'un des modes de résolution amiable mentionnés au premier alinéa est justifiée par un motif
+légitime tenant soit à l'urgence manifeste soit aux circonstances de l'espèce rendant impossible une telle tentative ou
+nécessitant qu'une décision soit rendue non contradictoirement soit à l'indisponibilité de conciliateurs de justice
+entraînant l'organisation de la première réunion de conciliation dans un délai manifestement excessif au regard de la nature
+et des enjeux du litige ;
+
+4° Si le juge ou l'autorité administrative doit, en application d'une disposition particulière, procéder à une tentative
+préalable de conciliation.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 20
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-_Abrogé par_:
+
+##### Section I : L'introduction de l'instance par assignation<a id=218></a>
+
+###### Article 751
+
+La demande formée par assignation est portée à une audience dont la date est communiquée par tout moyen au demandeur selon
+des modalités définies par arrêté du garde des sceaux.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 26-1 (VD)
+  - Code de procédure civile - art. 1136-4 (VD)
+  - Code de procédure civile - art. 1137 (VD)
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 752
+
+Lorsque la représentation par avocat est obligatoire, outre les mentions prescrites aux articles 54 et 56, l'assignation
+contient à peine de nullité :
+
+1° La constitution de l'avocat du demandeur ;
+
+2° Le délai dans lequel le défendeur est tenu de constituer avocat.
+
+Le cas échéant, l'assignation mentionne l'accord du demandeur pour que la procédure se déroule sans audience en application
+de l'article L. 212-5-1 du code de l'organisation judiciaire.
+
+**Nota:**
+
+Conformément au III de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, jusqu'au 1er septembre 2020, dans les
+procédures soumises, au 31 décembre 2019, à la procédure écrite ordinaire, la saisine par assignation de la juridiction et la
+distribution de l'affaire demeurent soumises aux dispositions de l’article 752 du code de procédure civile dans sa rédaction
+antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 (V)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
+  - Code de la consommation - art. R423-3 (Ab)
+  - Code de la consommation - art. R623-3 (V)
+  - Code de procédure civile - art. 826-4 (VT)
+
+_Modifié par_:
 
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de procédure civile - art. 821 (VD)
+  - Nouveau code de procédure civile 56
 
 
-#### Chapitre II : Procédure en matière gracieuse.<a id=213></a>
+###### Article 753
+
+Lorsque la représentation par avocat n'est pas obligatoire, l'assignation contient, à peine de nullité, outre les mentions
+prescrites aux articles 54 et 56, les nom, prénoms et adresse de la personne chez qui le demandeur élit domicile en France
+lorsqu'il réside à l'étranger.
+
+Le cas échéant, l'assignation mentionne l'accord du demandeur pour que la procédure se déroule sans audience en application
+de l'article L. 212-5-1 du code de l'organisation judiciaire.
+
+L'acte introductif d'instance rappelle en outre les dispositions de l'article 832 et mentionne les conditions dans lesquelles
+le défendeur peut se faire assister ou représenter, ainsi que, s'il y a lieu, le nom du représentant du demandeur.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. 772-1 (VT)
+
+
+###### Article 754
+
+La juridiction est saisie, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation.
+
+La copie de l'assignation doit être remise dans le délai de deux mois suivant la communication de la date d'audience par la
+juridiction effectuée selon les modalités prévues à l'article 748-1.
+
+Toutefois, la copie de l'assignation doit être remise au plus tard quinze jours avant la date de l'audience lorsque :
+
+1° La date d'audience est communiquée par la juridiction selon d'autres modalités que celles prévues à l'article 748-1 ;
+
+2° La date d'audience est fixée moins de deux mois après la communication de cette date par la juridiction selon les
+modalités prévues à l'article 748-1.
+
+La remise doit avoir lieu dans les délais prévus aux alinéas précédents sous peine de caducité de l'assignation constatée
+d'office par ordonnance du juge, ou, à défaut, à la requête d'une partie.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 755
+
+En cas d'urgence, les délais de comparution et de remise de l'assignation peuvent être réduits par autorisation du juge.
+
+Ces délais peuvent également être réduits en application de la loi ou du règlement.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. ANNEXE, art. 33 (V)
+
+
+##### Section II : L'introduction de l'instance par requête<a id=219></a>
+
+###### Article 756
+
+Dans les cas où la demande peut être formée par requête, la partie la plus diligente saisit le tribunal par la remise au
+greffe de la requête. Cette requête peut être remise ou adressée ou effectuée par voie électronique dans les conditions
+prévues par arrêté du garde des sceaux.
+
+Lorsque les parties ont soumis leur différend à un conciliateur de justice sans parvenir à un accord, leur requête peut
+également être transmise au greffe à leur demande par le conciliateur..
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cite_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 55
+
+_Cité par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 17
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 757
+
+Outre les mentions prescrites par les articles 54 et 57, la requête doit contenir, à peine de nullité, un exposé sommaire des
+motifs de la demande. Les pièces que le requérant souhaite invoquer à l'appui de ses prétentions sont jointes à sa requête en
+autant de copies que de personnes dont la convocation est demandée.
+
+Le cas échéant, la requête mentionne l'accord du requérant pour que la procédure se déroule sans audience en application de
+l'article L. 212-5-1 du code de l'organisation judiciaire.
+
+Lorsque la requête est formée par voie électronique, les pièces sont jointes en un seul exemplaire.
+
+Lorsque chaque partie est représentée par un avocat, la requête contient, à peine de nullité, la constitution de l'avocat ou
+des avocats des parties. Elle est signée par les avocats constitués.
+
+Elle vaut conclusions.
+
+**Nota:**
+
+Conformément au III de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, jusqu'au 1er septembre 2020, dans les
+procédures soumises, au 31 décembre 2019, à la procédure écrite ordinaire, la saisine par assignation de la juridiction et la
+distribution de l'affaire demeurent soumises aux dispositions de l’article 757 du code de procédure civile dans sa rédaction
+antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 (V)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 758
+
+Lorsque la juridiction est saisie par requête, le président du tribunal fixe les lieu, jour et heure de l'audience. Lorsque
+la requête est signée conjointement par les parties, cette date est fixée par le président du tribunal ; s'il y a lieu il
+désigne la chambre à laquelle elle est distribuée. Les parties en sont avisées par le greffier.
+
+Le requérant en est avisé par tous moyens.
+
+Le greffier convoque le défendeur à l'audience par lettre recommandée avec demande d'avis de réception. Outre les mentions
+prescrites par l'article 665-1, la convocation rappelle les dispositions de l'article 832.
+
+Cette convocation vaut citation.
+
+Lorsque la représentation est obligatoire, l'avis est donné aux avocats par simple bulletin.
+
+La copie de la requête est jointe à l'avis adressé à l'avocat du défendeur ou, lorsqu'il n'est pas représenté, au défendeur.
+
+**Nota:**
+
+Conformément au III de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, jusqu'au 1er septembre 2020, dans les
+procédures soumises, au 31 décembre 2019, à la procédure écrite ordinaire, la saisine par assignation de la juridiction et la
+distribution de l'affaire demeurent soumises aux dispositions de l’article 758 du code de procédure civile dans sa rédaction
+antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 (V)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 55 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 759
+
+Lorsque la requête est formée conjointement par les parties, les requérants peuvent, dès le dépôt de la requête au greffe
+demander que l'affaire soit attribuée à un juge unique, ou renoncer à la faculté de demander le renvoi à la formation
+collégiale.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. ANNEXE, art. 33 (V)
+
+
+#### Chapitre II : Constitution d'avocat et conclusions<a id=220></a>
+
+###### Article 760
+
+Les parties sont, sauf disposition contraire, tenues de constituer avocat devant le tribunal judiciaire.
+
+La constitution de l'avocat emporte élection de domicile.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 26-1 (VD)
+  - Loi n°2001-504 du 12 juin 2001 - art. 1 (VD)
+  - Code de procédure civile - art. 905 (VD)
+  - Code de procédure civile - art. ANNEXE, art. 35 (VD)
+  - Livre des procédures fiscales - art. R*288-3 (VD)
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
 
 ###### Article 761
 
@@ -17226,49 +17471,54 @@ _Cite_:
   - Code de l'organisation judiciaire - art. R211-3-23
 
 
-###### Article 797
+###### Article 762
 
-La demande est formée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par
-les dispositions en vigueur.
+Lorsque la représentation par avocat n'est pas obligatoire, les parties se défendent elles-mêmes.
+
+Les parties peuvent se faire assister ou représenter par :
+
+- un avocat ;
+
+- leur conjoint, leur concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
+
+- leurs parents ou alliés en ligne directe ;
+
+- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
+
+- les personnes exclusivement attachées à leur service personnel ou à leur entreprise.
+
+Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 17
+  - Code de l'aviation civile - art. R123-7 (MMN)
+  - Code de procédure civile - art. ANNEXE, art. 33 (VD)
+  - Code du domaine de l'Etat - art. R170-17 (VD)
+  - Code du domaine public fluvial et de la navigat... - art. 131 (VD)
+  - Code général de la propriété des personnes publ... - art. R5112-35 (VD)
 
 _Modifié par_:
 
-  - Décret n°76-714 1976-07-29 art. 6 JORF 30 juillet 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-###### Article 798
+###### Article 763
 
-Le ministère public doit avoir communication des affaires gracieuses.
+Lorsque la représentation par avocat est obligatoire, le défendeur est tenu de constituer avocat dans le délai de quinze
+jours, à compter de l'assignation.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 799
-
-Un juge rapporteur est désigné par le président de la chambre à laquelle l'affaire est distribuée.
-
-Il dispose, pour instruire l'affaire, des mêmes pouvoirs que le tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 800
-
-Le ministère public, s'il y a des débats, est tenu d'y assister ou de faire connaître son avis.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -17278,39 +17528,652 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 27
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de commerce - art. R661-6 (VD)
+  - Code de la sécurité sociale. - art. R142-10-5 (M)
+  - Code du domaine public fluvial et de la navigat... - art. 131 (VD)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 382, 383
 
 
-#### Chapitre III : Le juge unique.<a id=214></a>
+###### Article 764
 
-###### Article 801
+Dès qu'il est constitué, l'avocat du défendeur en informe celui du demandeur ; copie de l'acte de constitution est remise au
+greffe.
 
-L'attribution d'une affaire au juge unique peut être décidée jusqu'à la fixation de la date de l'audience.
+L'acte comporte, le cas échéant, l'accord du défendeur pour que la procédure se déroule sans audience en application de
+l'article L. 212-5-1 du code de l'organisation judiciaire.
 
-La répartition des affaires attribuées au juge unique est faite par le président du tribunal ou par le président de la
-chambre à laquelle elles ont été distribuées.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1425-3 (VD)
+
+_Cite_:
+
+  - Nouveau code de procédure civile 450
+
+
+###### Article 765
+
+La constitution de l'avocat par le défendeur ou par toute personne qui devient partie en cours d'instance est dénoncée aux
+autres parties par notification entre avocats.
+
+Cet acte indique :
+
+a) Si le défendeur est une personne physique, ses nom, prénoms, profession, domicile, nationalité, date et lieu de
+naissance ;
+
+b) Si le défendeur est une personne morale, sa forme, sa dénomination, son siège social et l'organe qui le représente
+légalement.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Nouveau code de procédure civile 753
+
+
+###### Article 766
+
+Les conclusions des parties sont signées par leur avocat et notifiées dans la forme des notifications entre avocats. En cas
+de pluralité de demandeurs ou de défendeurs, elles doivent être notifiées à tous les avocats constitués. Elles ne sont pas
+recevables tant que les indications mentionnées à l'alinéa 2 de l'article 765 n'auront pas été fournies.
+
+La communication des pièces produites est valablement attestée par la signature de l'avocat destinataire apposée sur le
+bordereau établi par l'avocat qui procède à la communication.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code des procédures civiles d'exécution - art. R311-6 (VD)
+
+
+###### Article 767
+
+La remise au greffe de la copie de l'acte de constitution et des conclusions est faite soit dès leur notification avec la
+justification de leur notification, soit si celle-ci est antérieure à la saisine de la juridiction, avec la remise de la
+copie de l'assignation.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 768
+
+Les conclusions doivent formuler expressément les prétentions des parties ainsi que les moyens en fait et en droit sur
+lesquels chacune de ces prétentions est fondée avec indication pour chaque prétention des pièces invoquées et de leur
+numérotation. Un bordereau énumérant les pièces justifiant ces prétentions est annexé aux conclusions.
+
+Les conclusions comprennent distinctement un exposé des faits et de la procédure, une discussion des prétentions et des
+moyens ainsi qu'un dispositif récapitulant les prétentions. Les moyens qui n'auraient pas été formulés dans les conclusions
+précédentes doivent être présentés de manière formellement distincte. Le tribunal ne statue que sur les prétentions énoncées
+au dispositif et n'examine les moyens au soutien de ces prétentions que s'ils sont invoqués dans la discussion.
+
+Les parties doivent reprendre dans leurs dernières conclusions les prétentions et moyens présentés ou invoqués dans leurs
+conclusions antérieures. A défaut, elles sont réputées les avoir abandonnés et le tribunal ne statue que sur les dernières
+conclusions déposées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+#### Chapitre III : Le greffe<a id=221></a>
+
+###### Article 769
+
+La remise au greffe de la copie d'un acte de procédure ou d'une pièce est constatée par la mention de la date de remise et le
+visa du greffier sur la copie ainsi que sur l'original, qui est immédiatement restitué.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Arrêté du 15 février 1995 - art. 2 (V)
+  - Arrêté du 18 février 2020 - art. 2
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 770
+
+La copie de la requête est, dès sa remise au greffe, présentée par le greffier au président du tribunal en vue des formalités
+de fixation et de distribution.
+
+La décision du président fait l'objet d'une simple mention en marge de la copie.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de l'aviation civile - art. R123-7 (VD)
+
+
+###### Article 771
+
+Le dossier de l'affaire est conservé et tenu à jour par le greffier de la chambre à laquelle l'affaire a été distribuée.
+
+Il est établi une fiche permettant de connaître à tout moment l'état de l'affaire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°91-1266 du 19 décembre 1991 - art. 90 (V)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 92 (V)
+  - Décret n°91-1369 du 30 décembre 1991 - art. 17-11 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+  - Code de procédure civile - art. 819 (VT)
+  - Code des assurances - art. R421-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Code de procédure civile - art. 47
+  - Code de procédure civile - art. 517
+
+
+###### Article 772
+
+Dans le cas prévu à l'article 840, les copies de la requête et des pièces remises au président sont, ainsi qu'une copie de
+son ordonnance, placées par le greffier dans le dossier, dès sa constitution.
+
+Si, le jour où l'affaire doit être appelée, la copie de l'assignation n'a pas été remise au greffe, le greffier restitue
+d'office à l'avocat les copies qu'il détient.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. 969 (VD)
+
+
+###### Article 773
+
+Le greffier avise aussitôt les avocats dont la constitution lui est connue du numéro d'inscription au répertoire général, des
+jour et heure fixés par le président du tribunal pour l'appel de l'affaire et de la chambre à laquelle celle-ci est
+distribuée.
+
+Cet avis est donné aux avocats dont la constitution n'est pas encore connue, dès la remise au greffe de la copie de l'acte de
+constitution.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Arrêté du 25 septembre 2008 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Nouveau code de procédure civile 769 à 772
+
+
+###### Article 774
+
+En procédure écrite ordinaire, les avocats de chacune des parties sont convoqués ou avisés des charges qui leur incombent par
+le président ou par le juge de la mise en état, selon le mode d'instruction de l'affaire ; ils sont convoqués ou avisés
+verbalement, avec émargement et mention au dossier.
+
+En cas d'absence, ils le sont par simple bulletin, daté et signé par le greffier, et remis ou déposé par celui-ci au lieu où
+sont effectuées, au siège du tribunal, les notifications entre avocats.
+
+Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de la sécurité sociale. - art. R142-10-5 (M)
+
+
+### Sous-titre II : La procédure écrite<a id=222></a>
+
+#### Chapitre Ier : La procédure ordinaire<a id=223></a>
+
+###### Article 775
+
+La procédure est écrite sauf disposition contraire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Section 1 : L'orientation de l'affaire<a id=224></a>
+
+###### Article 776
+
+Sous réserve des dispositions de l'article 1108, au jour de l'audience d'orientation, l'affaire est appelée devant le
+président de la chambre saisie ou à laquelle l'affaire a été distribuée.
+
+Celui-ci confère de l'état de la cause avec les avocats présents en leur demandant notamment s'ils envisagent de conclure une
+convention de procédure participative aux fins de mise en état dans les conditions du titre II du livre V.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. 905 (VD)
+  - Code de procédure civile - art. ANNEXE, art. 33 (VD)
+
+
+###### Article 777
+
+Lorsque les parties et leurs avocats justifient avoir conclu une convention de procédure participative aux fins de mise en
+état de l'affaire, le président prend les mesures prévues au deuxième alinéa de l'article 1546-1. Sauf en cas de retrait du
+rôle, il désigne le juge de la mise en état.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Nouveau code de procédure civile 155
+
+
+###### Article 778
+
+Le président renvoie à l'audience de plaidoirie les affaires qui, d'après les explications des avocats et au vu des
+conclusions échangées et des pièces communiquées, lui paraissent prêtes à être jugées sur le fond.
+
+Il renvoie également à l'audience de plaidoirie les affaires dans lesquelles le défendeur ne comparaît pas si elles sont en
+état d'être jugées sur le fond, à moins qu'il n'ordonne la réassignation du défendeur.
+
+Dans tous ces cas, le président déclare l'instruction close.
+
+Il fixe la date de l'audience de plaidoirie qui peut être tenue le jour même.
+
+Lorsque les parties ont donné leur accord pour que la procédure se déroule sans audience conformément aux dispositions de
+l'article L. 212-5-1 du code de l'organisation judiciaire, le président déclare l'instruction close et fixe la date pour le
+dépôt des dossiers au greffe de la chambre. Le greffier en avise les parties et, le cas échéant, le ministère public et les
+informe du nom des juges de la chambre qui seront amenés à délibérer et de la date à laquelle le jugement sera rendu.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. 905 (VD)
+
+
+###### Article 779
+
+Le président peut décider que les avocats se présenteront à nouveau devant lui, à une date d'audience qu'il fixe, pour
+conférer une dernière fois de l'affaire s'il estime qu'un ultime échange de conclusions ou une ultime communication de pièces
+suffit à mettre l'affaire en état ou que les conclusions des parties doivent être mises en conformité avec les dispositions
+de l'article 768. Les parties peuvent également solliciter un délai pour conclure une convention de procédure participative
+aux fins de mise en état.
+
+La décision de renvoi fait l'objet d'une simple mention au dossier. Le président impartit, s'il y a lieu, à chacun des
+avocats le délai nécessaire à la notification des conclusions et à la communication des pièces.
+
+A la date d'audience fixée par lui, lorsque les parties et leurs avocats justifient avoir conclu une convention de procédure
+participative aux fins de mise en état, le président prend les mesures prévues au deuxième alinéa de l'article 1546-1. Sauf
+en cas de retrait du rôle, il désigne le juge de la mise en état. A défaut d'une telle justification et si l'affaire est en
+état d'être jugée, le président déclare l'instruction close et renvoie l'affaire à l'audience de plaidoiries. Elle peut être
+tenue le jour même.
+
+Si l'affaire est en état d'être jugée, il peut être fait application des dispositions du dernier alinéa de l'article 778.
+
+Le président renvoie au juge de la mise en état, les affaires qui ne sont pas en état d'être jugées. Il fixe la date de
+l'audience de mise en état. Le greffe en avise les avocats constitués.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 15
+  - Code de l'aviation civile - art. R123-7 (VD)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Nouveau code de procédure civile 764
+
+
+##### Section 2 : L'instruction devant le juge de la mise en état<a id=225></a>
+
+##### Section 3 : La clôture de l'instruction et renvoi à l'audience de plaidoirie<a id=226></a>
+
+###### Article 798
+
+La clôture de l'instruction, dans les cas prévus aux articles 778, 779, 799 et 800, est prononcée par une ordonnance non
+motivée qui ne peut être frappée d'aucun recours. Copie de cette ordonnance est délivrée aux avocats.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 799
+
+Sauf dans le cas où il est fait application des dispositions du deuxième alinéa de l'article 781, le juge de la mise en état
+déclare l'instruction close dès que l'état de celle-ci le permet et renvoie l'affaire devant le tribunal pour être plaidée à
+la date fixée par le président ou par lui-même s'il a reçu délégation à cet effet. La date de la clôture doit être aussi
+proche que possible de celle fixée pour les plaidoiries.
+
+S'il l'estime nécessaire pour l'établissement de son rapport à l'audience de plaidoirie, le juge de la mise en état peut
+demander aux avocats de déposer au greffe leur dossier, comprenant notamment les pièces produites, à la date qu'il détermine.
+
+Lorsque les parties ont donné leur accord pour que la procédure se déroule sans audience conformément aux dispositions de
+l'article L. 212-5-1 du code de l'organisation judiciaire, le juge de la mise en état déclare l'instruction close dès que
+l'état de celle-ci le permet et fixe la date pour le dépôt des dossiers au greffe de la chambre. Le greffier en avise les
+parties et, le cas échéant, le ministère public.
+
+Le juge de la mise en état demeure saisi jusqu'à l'ouverture des débats ou jusqu'à la date fixée pour le dépôt des dossiers
+des avocats.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 800
+
+Si l'un des avocats n'a pas accompli les actes de la procédure dans le délai imparti, le juge peut ordonner la clôture à son
+égard, d'office ou à la demande d'une autre partie, sauf, en ce dernier cas, la possibilité pour le juge de refuser par
+ordonnance motivée non susceptible de recours. Copie de l'ordonnance est adressée à la partie défaillante, à son domicile
+réel ou à sa résidence.
+
+Le juge rétracte l'ordonnance de clôture partielle, d'office ou lorsqu'il est saisi de conclusions à cette fin, pour
+permettre de répliquer à des demandes ou des moyens nouveaux présentés par une partie postérieurement à cette ordonnance. Il
+en est de même en cas de cause grave et dûment justifiée.
+
+Si aucune autre partie ne doit conclure, le juge ordonne la clôture de l'instruction et le renvoi devant le tribunal.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 801
+
+Si les avocats s'abstiennent d'accomplir les actes de la procédure dans les délais impartis, le juge de la mise en état peut,
+d'office, après avis donné aux avocats, prendre une ordonnance de radiation motivée non susceptible de recours.
+
+Copie de cette ordonnance est adressée à chacune des parties par lettre simple adressée à leur domicile réel ou à leur
+résidence.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 802
 
-Lorsqu'une affaire est attribuée au juge unique, celui-ci exerce les pouvoirs conférés tant au tribunal qu'au juge de la mise
-en état.
+Après l'ordonnance de clôture, aucune conclusion ne peut être déposée ni aucune pièce produite aux débats, à peine
+d'irrecevabilité prononcée d'office.
 
-Si l'affaire est ultérieurement renvoyée à la formation collégiale, son instruction est poursuivie, s'il y a lieu, soit par
-le même juge avec les pouvoirs du juge de la mise en état, soit par le juge de la mise en état, selon la décision du
-président de la chambre.
+Sont cependant recevables les demandes en intervention volontaire, les conclusions relatives aux loyers, arrérages, intérêts
+et autres accessoires échus et aux débours faits jusqu'à l'ouverture des débats, si leur décompte ne peut faire l'objet
+d'aucune contestation sérieuse, ainsi que les demandes de révocation de l'ordonnance de clôture.
+
+Sont également recevables les conclusions qui tendent à la reprise de l'instance en l'état où celle-ci se trouvait au moment
+de son interruption.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -17319,32 +18182,54 @@ _Cité par_:
 
 ###### Article 803
 
-L'attribution au juge unique ainsi que le renvoi à la formation collégiale font l'objet d'une mention au dossier. Avis en est
-donné aux avocats constitués.
+L'ordonnance de clôture ne peut être révoquée que s'il se révèle une cause grave depuis qu'elle a été rendue ; la
+constitution d'avocat postérieurement à la clôture ne constitue pas, en soi, une cause de révocation.
 
-Dans les affaires dispensées du ministère d'avocat, cet avis est adressé aux parties par lettre recommandée avec demande
-d'avis de réception.
+Si une demande en intervention volontaire est formée après la clôture de l'instruction, l'ordonnance de clôture n'est
+révoquée que si le tribunal ne peut immédiatement statuer sur le tout.
+
+L'ordonnance de clôture peut être révoquée, d'office ou à la demande des parties, soit par ordonnance motivée du juge de la
+mise en état, soit, après l'ouverture des débats, par décision du tribunal.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 804
 
-La demande de renvoi à la formation collégiale d'une affaire attribuée au juge unique doit, à peine de forclusion, être
-formulée dans les quinze jours de l'avis prévu à l'article précédent, ou de sa réception lorsqu'il est adressé aux parties
-elles-mêmes.
+Le juge de la mise en état fait un rapport oral de l'affaire à l'audience avant les plaidoiries. Exceptionnellement, le
+rapport peut être fait par le président de la chambre ou un autre juge qu'il désigne.
 
-Le renvoi d'une affaire à la formation collégiale par le président du tribunal ou son délégué peut être décidé à tout moment.
+Le rapport expose l'objet de la demande et les moyens des parties, il précise les questions de fait et de droit soulevées par
+le litige et fait mention des éléments propres à éclairer le débat, sans faire connaître l'avis du magistrat qui en est
+l'auteur.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
@@ -17353,36 +18238,52 @@ _Cite_:
 
 ###### Article 805
 
-Les dispositions du deuxième alinéa de l'article 803 et du premier alinéa de l'article 804 cessent d'être applicables s'il
-est renoncé à la faculté de demander le renvoi à la formation collégiale.
+Le juge de la mise en état ou le magistrat chargé du rapport peut, si les avocats ne s'y opposent pas, tenir seul l'audience
+pour entendre les plaidoiries. Il en rend compte au tribunal dans son délibéré.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
   - Nouveau code de procédure civile 803 et 804
 
 
-#### Chapitre IV : Dispositions diverses.<a id=215></a>
-
 ###### Article 806
 
-Lorsque le tribunal est saisi par requête, en matière contentieuse ou gracieuse, les parties sont avisées de la date de
-l'audience par le greffier.
+Lorsqu'il a été fait application des dispositions du troisième alinéa de l'article 799, le président de la chambre, à
+l'expiration du délai prévu pour la remise des dossiers, informe les parties du nom des juges de la chambre qui seront amenés
+à délibérer et de la date à laquelle le jugement sera rendu.
+
+Il est procédé comme il est dit à l'article 444 lorsque le tribunal estime qu'il n'est pas possible de rendre une décision au
+regard des preuves écrites ou si l'une des parties en fait la demande.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°82-716 du 10 août 1982 - art. 1 (V) JORF 17 août 1982
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
@@ -17391,9 +18292,16 @@ _Cite_:
 
 ###### Article 807
 
-L'avis est donné aux avocats par simple bulletin. Lorsque la représentation n'est pas obligatoire, cet avis est transmis au
-défendeur par lettre recommandée avec demande d'avis de réception et au demandeur par tous moyens. Copie de la requête est
-jointe à l'avis adressé à l'avocat du défendeur ou, lorsque la représentation n'est pas obligatoire, au défendeur.
+Les mesures d'instruction ordonnées par le tribunal sont exécutées sous le contrôle du juge de la mise en état, sous réserve
+des dispositions du troisième alinéa de l'article 155.
+
+Dès l'accomplissement d'une mesure d'instruction, le président de la chambre à laquelle l'affaire a été distribuée la renvoie
+à l'audience du tribunal ou au juge de la mise en état comme il est dit à la section 2 ci-dessus.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -17403,27 +18311,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
   - Nouveau code de procédure civile 803 et 804
 
 
-### Sous-titre II : Les pouvoirs du président.<a id=216></a>
-
-#### Chapitre Ier : Les ordonnances de référé.<a id=217></a>
+#### Chapitre II : La procédure en matière gracieuse<a id=227></a>
 
 ###### Article 808
 
-Dans tous les cas d'urgence, le président du tribunal de grande instance peut ordonner en référé toutes les mesures qui ne se
-heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend.
+La demande est formée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par
+les dispositions en vigueur.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -17432,200 +18347,12 @@ _Cité par_:
 
 ###### Article 809
 
-Le président peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou
-de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement
-illicite.
-
-Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
-ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°85-1330 1985-12-17 art. 8 JORF 18 décembre 1985
-  - Décret n°87-434 1987-06-17 art. 1 JORF 23 juin 1987
-
-
-###### Article 810
-
-Les pouvoirs du président du tribunal de grande instance prévus aux deux articles précédents s'étendent à toutes les matières
-où il n'existe pas de procédure particulière de référé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cite_:
-
-  - Nouveau code de procédure civile 808 et 809
-
-
-###### Article 811
-
-A la demande de l'une des parties et si l'urgence le justifie, le président saisi en référé peut renvoyer l'affaire à une
-audience dont il fixe la date pour qu'il soit statué au fond. Il veille à ce que le défendeur dispose d'un temps suffisant
-pour préparer sa défense. L'ordonnance emporte saisine du tribunal. Il est ensuite procédé comme il est dit à l'article 790
-et aux trois derniers alinéas de l'article 792.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°98-1231 du 28 décembre 1998 - art. 21 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
-
-_Cite_:
-
-  - Nouveau code de procédure civile 790, 792
-
-
-##### Section 2 : L'instruction devant le juge de la mise en état<a id=218></a>
-
-###### Article 791
-
-Le juge de la mise en état est saisi par des conclusions qui lui sont spécialement adressées distinctes des conclusions au
-sens de l'article 768, sous réserve des dispositions de l'article 1117.
+Le ministère public doit avoir communication des affaires gracieuses.
 
 **Nota:**
 
 Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
 le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
-
-Conformément à l'article 15 et à l'article 2 du décret n°2019-1380, l'ajout des mots "sous réserve des dispositions de
-l'article 1117 " entre en vigueur le 1er septembre 2020.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-1380 du 17 décembre 2019 - art. 2
-
-
-#### Chapitre II : Les ordonnances sur requête.<a id=219></a>
-
-###### Article 812
-
-Le président du tribunal est saisi par requête dans les cas spécifiés par la loi.
-
-Il peut également ordonner sur requête toutes mesures urgentes lorsque les circonstances exigent qu'elles ne soient pas
-prises contradictoirement.
-
-Les requêtes afférentes à une instance en cours sont présentées au président de la chambre à laquelle l'affaire a été
-distribuée ou au juge déjà saisi.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 813
-
-La requête est présentée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité
-par les dispositions en vigueur.
-
-Si elle est présentée à l'occasion d'une instance, elle doit indiquer la juridiction saisie.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°76-714 1976-07-29 art. 7 JORF 30 juillet 1976
-
-_Cité par_:
-
-  - Code monétaire et financier - art. R561-36 (MMN)
-
-
-### Sous-titre III : Dispositions diverses.<a id=220></a>
-
-#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=221></a>
-
-###### Article 814
-
-La constitution de l'avocat par le défendeur ou par toute personne qui devient partie en cours d'instance est dénoncée aux
-autres parties par notification entre avocats.
-
-Cet acte indique :
-
-a) Si le défendeur est une personne physique, ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance.
-
-b) Si le défendeur est une personne morale, sa forme, sa dénomination, son siège social et l'organe qui le représente
-légalement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-###### Article 815
-
-Les conclusions des parties sont signées par leur avocat et notifiées dans la forme des notifications entre avocats. Elles ne
-sont pas recevables tant que les indications mentionnées à l'alinéa 2 de l'article 814 n'auront pas été fournies.
-
-La communication des pièces produites est valablement attestée par la signature de l'avocat destinataire apposée sur le
-bordereau établi par l'avocat qui procède à la communication.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Cité par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 7 (Ab)
-  - Décret n°2009-160 du 12 février 2009 - art. 129
-  - Code des procédures civiles d'exécution - art. R311-6 (V)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 814
-
-
-###### Article 816
-
-La remise au greffe de la copie de l'acte de constitution et des conclusions est faite soit dès leur notification, soit si
-celle-ci est antérieure à la saisine du tribunal, avec la remise de la copie de l'assignation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-#### Chapitre II : Mesures d'administration judiciaire.<a id=222></a>
-
-###### Article 819
-
-Le juge chargé de contrôler l'exécution des mesures d'instruction, désigné dans les conditions de l'article 155-1, est
-compétent pour assurer le contrôle des mesures d'instruction ordonnées en référé, sauf s'il en est décidé autrement lors de
-la répartition des juges entre les différentes chambres et services du tribunal. 
-
-Il est également compétent pour les mesures ordonnées par le juge de la mise en état en application de l'article 771, sauf si
-ce dernier s'en réserve le contrôle.
 
 **Liens relatifs à cet article**
 
@@ -17635,103 +18362,369 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1451 du 24 décembre 2012 - art. 4
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-_Abrogé par_:
+
+###### Article 810
+
+Un juge rapporteur est désigné par le président de la chambre saisie ou à laquelle l'affaire est distribuée.
+
+Il dispose, pour instruire l'affaire, des mêmes pouvoirs que le tribunal.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
 
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de procédure civile - art. 155-1
-  - Code de procédure civile - art. 771
+  - Nouveau code de procédure civile 808 et 809
 
 
-###### Article 820
+###### Article 811
 
-Le président du tribunal de grande instance peut déléguer à un ou plusieurs magistrats tout ou partie des pouvoirs qui lui
-sont dévolus par les sous-titres Ier et II.
+Le ministère public, s'il y a des débats, est tenu d'y assister ou de faire connaître son avis.
 
-Les présidents de chambre peuvent de même déléguer aux magistrats de leur chambre tout ou partie des fonctions qui leur sont
-attribuées par le sous-titre Ier.
+**Nota:**
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-#### Chapitre III : Le greffe.<a id=223></a>
-
-###### Article 821
-
-La remise au greffe de la copie d'un acte de procédure ou d'une pièce est constatée par la mention de la date de remise et le
-visa du greffier sur la copie ainsi que sur l'original, qui est immédiatement restitué.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+#### Chapitre III : Le juge unique<a id=228></a>
+
+###### Article 812
+
+L'attribution d'une affaire au juge unique peut être décidée jusqu'à la fixation de la date de l'audience.
+
+La répartition des affaires attribuées au juge unique est faite par le président du tribunal ou par le président de la
+chambre saisie ou à laquelle elles ont été distribuées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 813
+
+Lorsqu'une affaire est attribuée au juge unique, celui-ci exerce les pouvoirs conférés tant au tribunal qu'au juge de la mise
+en état.
+
+Si l'affaire est ultérieurement renvoyée à la formation collégiale, son instruction est poursuivie, s'il y a lieu, soit par
+le même juge avec les pouvoirs du juge de la mise en état, soit par le juge de la mise en état, selon la décision du
+président de la chambre.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code monétaire et financier - art. R561-36 (MMN)
+
+
+###### Article 814
+
+L'attribution au juge unique ainsi que le renvoi à la formation collégiale font l'objet d'une mention au dossier. Avis en est
+donné aux avocats constitués.
+
+Dans les affaires dispensées du ministère d'avocat, cet avis est adressé aux parties par lettre recommandée avec demande
+d'avis de réception.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 815
+
+La demande de renvoi à la formation collégiale d'une affaire attribuée au juge unique doit, à peine de forclusion, être
+formulée dans les quinze jours de la réception de l'avis prévu à l'article 814.
+
+Le renvoi d'une affaire à la formation collégiale par le président du tribunal ou son délégué peut être décidé à tout moment.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Cité par_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 7 (Ab)
+  - Décret n°2009-160 du 12 février 2009 - art. 129
+  - Code des procédures civiles d'exécution - art. R311-6 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Nouveau code de procédure civile 814
+
+
+###### Article 816
+
+Les dispositions du deuxième alinéa de l'article 814 et du premier alinéa de l'article 815 cessent d'être applicables s'il
+est renoncé à la faculté de demander le renvoi à la formation collégiale.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+### Sous-titre III : La procédure orale<a id=229></a>
+
+#### Chapitre Ier : La procédure ordinaire<a id=230></a>
+
+###### Article 817
+
+Lorsque les parties sont dispensées de constituer avocat conformément aux dispositions de l'article 761, la procédure est
+orale, sous réserve des dispositions particulières propres aux matières concernées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R311-29-1 (Ab)
+
+
+###### Article 818
+
+La demande en justice est formée soit par une assignation soit par une requête remise ou adressée conjointement par les
+parties.
+
+La demande peut également être formée par une requête lorsque le montant de la demande n'excède pas 5 000 euros ou
+lorsqu'elle est formée aux fins de tentative préalable de conciliation.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les dispositions qui résultent du décret
+précité sont applicables aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cite_:
+
+  - Code de procédure civile - art. 62
+  - Code de procédure civile - art. 700
+
+
+##### Section 1 : La tentative préalable de conciliation<a id=231></a>
+
+###### Article 820
+
+La demande aux fins de tentative préalable de conciliation est formée par requête faite, remise ou adressée au greffe.
+
+La prescription et les délais pour agir sont interrompus par l'enregistrement de la demande.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Sous-section 1 : La conciliation déléguée à un conciliateur de justice<a id=232></a>
+
+###### Article 821
+
+Le juge peut déléguer à un conciliateur de justice la tentative préalable de conciliation.
+
+Le greffier avise par tous moyens le défendeur de la décision du juge. L'avis précise les nom, prénoms, profession et adresse
+du demandeur et l'objet de la demande.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+_Cité par_:
+
+  - Code de procédure civile - art. 796-1 (VT)
 
 
 ###### Article 822
 
-La copie de l'assignation, de la requête ou de la requête conjointe est, dès sa remise au greffe, présentée par le greffier
-au président du tribunal en vue des formalités de fixation et de distribution.
+Le demandeur et le conciliateur de justice sont avisés par tous moyens de la décision du juge. Une copie de la demande est
+adressée au conciliateur.
 
-La décision du président fait l'objet d'une simple mention en marge de la copie.
+Le conciliateur de justice procède à la tentative de conciliation comme il est dit aux articles 129-3 à 129-5,130 et 131. A
+sa demande, sa mission peut être renouvelée, sans qu'il soit nécessaire de recueillir l'accord des parties.
+
+En cas d'échec de la tentative de conciliation, le conciliateur de justice en informe le juge en précisant la date de la
+réunion à l'issue de laquelle il a constaté cet échec.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 823
 
-Le dossier de l'affaire est conservé et tenu à jour par le greffier de la chambre à laquelle l'affaire a été distribuée. 
+Les avis adressés aux parties par le greffier précisent que chaque partie peut se présenter devant le conciliateur avec une
+personne ayant qualité pour l'assister devant le juge.
 
-Il est établi une fiche permettant de connaître à tout moment l'état de l'affaire.
+Les parties sont en outre avisées qu'en application des articles 824 et 826, dont les dispositions sont reproduites, la
+juridiction peut être saisie aux fins d'homologation de leur accord ou aux fins de jugement en cas d'échec de la
+conciliation.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
 ###### Article 824
 
-Dans le cas prévu à l'article 788, les copies de la requête et des pièces remises au président sont, ainsi qu'une copie de
-son ordonnance, placées par le greffier dans le dossier, dès sa constitution.
+La demande d'homologation du constat d'accord formée par les parties est transmise au juge par le conciliateur. Une copie du
+constat y est jointe.
 
-Si, le jour où l'affaire doit être appelée, la copie de l'assignation n'a pas été remise au greffe, le greffier restitue
-d'office à l'avocat les copies qu'il détient.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -17742,72 +18735,22 @@ _Cite_:
   - Nouveau code de procédure civile 788
 
 
+##### Sous-section 2 : La conciliation menée par le juge<a id=233></a>
+
 ###### Article 825
 
-Le greffier avise aussitôt les avocats dont la constitution lui est connue du numéro d'inscription au répertoire général, des
-jour et heure fixés par le président du tribunal pour l'appel de l'affaire et de la chambre à laquelle celle-ci est
-distribuée.
+Lorsque le juge procède lui-même à la tentative préalable de conciliation, le greffe avise le demandeur par tout moyen des
+lieu, jour et heure auxquels l'audience de conciliation se déroulera.
 
-Cet avis est donné aux avocats dont la constitution n'est pas encore connue, dès la remise au greffe de la copie de l'acte de
-constitution.
+Le défendeur est convoqué par lettre simple. La convocation mentionne les nom, prénoms, profession et adresse du demandeur
+ainsi que l'objet de la demande.
 
-**Liens relatifs à cet article**
+L'avis et la convocation précisent que chaque partie peut se faire assister par une des personnes énumérées à l'article 762.
 
-_Codifié par_:
+**Nota:**
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 826
-
-Les avocats de chacune des parties sont convoqués ou avisés des charges qui leur incombent par le président ou par le juge de
-la mise en état, selon le mode d'instruction de l'affaire ; ils sont convoqués ou avisés verbalement, avec émargement et
-mention au dossier.
-
-En cas d'absence, ils le sont par simple bulletin, daté et signé par le greffier, et remis ou déposé par celui-ci au lieu où
-sont effectuées, au siège du tribunal, les notifications entre avocats.
-
-Les injonctions doivent toujours donner lieu à la délivrance d'un bulletin.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.<a id=224></a>
-
-###### Article 826-1
-
-Lorsque, dans les conditions et selon les modalités prévues par le code de procédure pénale, une affaire a été renvoyée
-devant le tribunal de grande instance afin qu'il soit statué, en application des règles du droit civil, sur la réparation de
-tous les dommages résultant des faits qui ont fondé la poursuite, le greffe convoque à l'audience, un mois au moins à
-l'avance et par lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée
-devant la juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à
-laquelle est annexée une copie de la décision de renvoi vaut citation en justice.
-
-Le greffe convoque les parties à l'audience dans un délai maximal de deux mois.
-
-La convocation précise que la représentation à l'audience par avocat est obligatoire et que, même s'ils ne comparaissent pas,
-des décisions exécutoires à titre provisoire pourront être prises contre les parties autres que la victime du dommage et
-contre les tiers responsables mentionnés dans la décision de renvoi.
-
-Les organismes de sécurité sociale, le fonds de garantie automobile ou le fonds d'indemnisation des victimes des actes de
-terrorisme et d'autres infractions, s'ils sont intervenus devant la juridiction pénale, sont convoqués à la même audience au
-moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe. Une copie de la décision de renvoi
-est annexée à la convocation.
-
-A l'audience, il est procédé comme il est dit aux articles 759 à 762. Le président de la chambre peut accorder en référé une
-provision dans les conditions prévues par l'alinéa 2 de l'article 809.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -17817,573 +18760,57 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-547 du 31 mai 2019 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cite_:
-
-  - Code de procédure pénale
-  - Nouveau code de procédure civile 759 à 762 et 809
-
-
-### Sous-titre V : L'action de groupe<a id=225></a>
-
-###### Article 826-2
-
-Sous réserve des dispositions particulières prévues pour chacune de ces actions, le présent sous-titre est applicable aux
-actions de groupe suivantes engagées sur le fondement du titre V de la loi n° 2016-1547 du 18 novembre 2016 de modernisation
-de la justice du XXI
-  <sup>e</sup> siècle :
-
-1° L'action ouverte sur le fondement de la loi n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit
-communautaire dans le domaine de la lutte contre les discriminations ;
-
-2° L'action ouverte sur le fondement des articles L. 1134-6 à L. 1134-10 du code du travail ;
-
-3° L'action ouverte sur le fondement de l'article L. 142-3-1 du code de l'environnement ;
-
-4° L'action ouverte sur le fondement du chapitre III du titre IV du livre Ier de la première partie du code de la santé
-publique ;
-
-5° L'action ouverte sur le fondement de l'article 43 ter de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 - art. 43 ter
-  - Loi n°2008-496 du 27 mai 2008
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 60
-  - Code du travail - art. L1134-6
-  - Code de la santé publique
-  - Code de l'environnement - art. L142-3-1
-
-_Modifié par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-#### Chapitre Ier : Dispositions préliminaires<a id=226></a>
+##### Sous-section 3 : La demande aux fins de jugement en cas d'échec de la conciliation<a id=234></a>
 
-###### Article 826-3
+###### Article 826
 
-Le tribunal de grande instance territorialement compétent est celui du lieu où demeure le défendeur.
+En cas d'échec total ou partiel de la tentative préalable de conciliation, le demandeur peut saisir la juridiction aux fins
+de jugement de tout ou partie de ses prétentions initiales.
 
-Le tribunal de grande instance de Paris est compétent lorsque le défendeur demeure à l'étranger ou n'a ni domicile ni
-résidence connus.
+La saisine de la juridiction est faite selon les modalités prévues par l'article 818.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-4
-
-Outre les mentions prescrites aux articles 56 et 752, l'assignation expose expressément, à peine de nullité, les cas
-individuels présentés par le demandeur au soutien de son action.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cite_:
-
-  - Code de procédure civile - art. 56
-  - Code de procédure civile - art. 752
-
-
-###### Article 826-5
-
-La demande est formée, instruite et jugée selon les règles applicables à la procédure ordinaire en matière contentieuse.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-#### Chapitre II : Cessation du manquement<a id=227></a>
-
-###### Article 826-6
-
-Lorsqu'il désigne un tiers aux fins de mise en œuvre des mesures destinées à faire cesser le manquement, le juge statue par
-décision spécialement motivée énonçant les chefs de la mission confiée et le délai dans lequel le tiers lui en fait rapport.
-
-Le tiers est choisi parmi tout professionnel justifiant d'une compétence dans le domaine considéré.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-7
-
-Dès le prononcé de la décision désignant un tiers, le greffe lui en notifie copie par tout moyen. 
-
-Le tiers fait connaître sans délai au juge son acceptation. Il commence ses opérations dès qu'il est avisé du versement de la
-provision mentionnée à l'article 826-8, à moins que le juge ne lui enjoigne d'entreprendre immédiatement ses opérations.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cite_:
-
-  - Code de procédure civile - art. 826-8
-
-
-###### Article 826-8
-
-Le coût de la mission est à la charge de l'auteur du manquement. Le juge qui désigne le tiers fixe le montant d'une provision
-à valoir sur la rémunération de celui-ci aussi proche que possible de sa rémunération définitive prévisible et détermine le
-délai dans lequel l'auteur du manquement la consigne au secrétariat de la juridiction. Le juge aménage, s'il y a lieu, les
-échéances dont la consignation peut être assortie.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cité par_:
-
-  - Code de procédure civile - art. 826-7 (VT)
-
-
-###### Article 826-9
-
-A l'issue du délai imparti par le juge, le tiers remet son rapport, accompagné de sa demande de rémunération, dont il adresse
-un exemplaire aux parties par tout moyen permettant d'en établir la réception. S'il y a lieu, l'auteur du manquement adresse
-au tiers et au juge ses observations écrites sur cette demande dans un délai de quinze jours à compter de sa réception.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-10
-
-Le greffier invite l'auteur du manquement à consigner la provision au greffe dans le délai et selon les modalités impartis.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-11
-
-Si le tiers se heurte à des difficultés qui font obstacle à l'accomplissement de sa mission ou si une extension de celle-ci
-s'avère nécessaire, il en fait rapport aux parties et au juge.
-
-Celui-ci peut, en se prononçant, proroger le délai dans lequel le tiers doit déposer son rapport.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-12
-
-Le tiers peut, sur justification de l'état d'avancement de ses opérations, être autorisé par le juge à prélever un acompte
-sur la somme consignée si la complexité de l'affaire le requiert.
-
-En cas d'insuffisance manifeste de la provision allouée, au vu des diligences faites ou à venir, le tiers en fait sans délai
-rapport au juge, qui, s'il y a lieu, ordonne la consignation d'une provision complémentaire. A défaut de consignation dans le
-délai et selon les modalités fixés par le juge, et sauf prorogation de ce délai, le tiers dépose son rapport en l'état.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-13
-
-Passé le délai imparti à l'auteur du manquement pour présenter ses observations, le juge fixe la rémunération du tiers en
-fonction, notamment, des diligences accomplies, du respect des délais impartis et de la qualité du travail fourni.
-
-Il autorise le tiers à se faire remettre, à due concurrence, les sommes consignées au greffe. Il ordonne, selon le cas, soit
-le versement des sommes complémentaires dues au tiers, soit la restitution des sommes consignées en excédent.
-
-Lorsque le juge envisage de fixer la rémunération du tiers à un montant inférieur au montant demandé, il doit au préalable
-l'inviter à formuler ses observations.
-
-Le juge délivre au tiers un titre exécutoire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-#### Chapitre III : Réparation des préjudices<a id=228></a>
-
-##### Section 1 : Jugement sur la responsabilité<a id=229></a>
-
-###### Article 826-14
-
-Le jugement qui reconnaît la responsabilité du défendeur fixe le délai dans lequel ce dernier doit mettre en œuvre les
-mesures de publicité ordonnées en application de l'article 67 de la loi du 18 novembre 2016 susmentionnée et, à défaut, à
-l'expiration duquel elles le seront par le demandeur à l'action aux frais du défendeur.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 67
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-15
-
-Le jugement qui reconnaît la responsabilité du défendeur précise s'il est fait application de la procédure individuelle de
-réparation ou de la procédure collective de liquidation des préjudices.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-16
-
-Les mesures d'information ordonnées par le juge comportent, outre les mentions éventuellement prescrites par le jugement :
-
-1° La reproduction du dispositif de la décision ;
-
-2° Selon qu'il est fait application de la procédure collective de liquidation ou de la procédure individuelle de réparation,
-les coordonnées de la ou des parties auprès desquelles chaque personne intéressée peut adresser sa demande de réparation ;
-
-3° La forme, le contenu de cette demande de réparation ainsi que le délai dans lequel elle doit être adressée, dans le cadre
-d'une procédure individuelle de réparation des préjudices, au choix de la personne intéressé, soit à la personne déclarée
-responsable, soit au demandeur à l'action, et dans le cadre d'une procédure collective de liquidation des préjudices, au
-demandeur à l'action ;
-
-4° L'indication que la demande de réparation adressée au demandeur à l'action lui confère un mandat aux fins d'indemnisation
-et, le cas échéant, en cas de refus d'indemnisation opposé par la personne déclarée responsable, aux fins de représentation
-pour engager une action en réparation ou pour l'exécution forcée du jugement prononcé à l'issue de cette action, ainsi que
-l'indication qu'elle peut y mettre fin à tout moment et que ce mandat ne vaut ni n'implique adhésion à l'association qui
-engage l'action ;
-
-5° L'indication que, à défaut de demande de réparation reçue selon les modalités et dans le délai prévus par le jugement, la
-personne intéressée ne sera plus recevable à obtenir une indemnisation dans le cadre de l'action de groupe mais qu'elle
-pourra toujours agir en indemnisation de ses préjudices à titre individuel ;
-
-6° L'indication qu'en cas d'adhésion, la personne intéressée ne pourra plus agir individuellement à l'encontre de la personne
-déclarée responsable en réparation du préjudice déjà indemnisé dans le cadre de l'action de groupe mais qu'elle pourra
-toujours agir en indemnisation de ses autres préjudices ;
-
-7° L'indication que la personne intéressée doit produire tout document utile au soutien de sa demande.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cité par_:
-
-  - Code de procédure civile - art. 826-19 (VT)
-
-
-##### Section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=230></a>
-
-##### Sous-section 1 : Adhésion au groupe<a id=231></a>
-
-###### Article 826-17
-
-L'adhésion au groupe prend la forme d'une demande de réparation. Elle est faite par tout moyen permettant d'en accuser la
-réception, selon les modalités et dans le délai déterminés par le juge :
-
-1° Auprès de l'une des parties à l'instance lorsqu'il est fait application de la procédure individuelle de réparation des
-préjudices ;
-
-2° Auprès du demandeur à l'action lorsqu'il est fait application de la procédure collective de liquidation des préjudices.
-
-Elle contient notamment les nom, prénoms, domicile de la personne intéressée ainsi que, le cas échéant, une adresse
-électronique à laquelle elle accepte de recevoir les informations relatives à la procédure.
-
-Cette demande justifie que les critères de rattachement au groupe sont remplis.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-18
-
-Dans le cadre de la mise en œuvre de la procédure individuelle de réparation des préjudices, lorsque la personne intéressée
-adresse directement la demande de réparation à la personne déclarée responsable, elle en informe le demandeur à l'action ou
-le demandeur de son choix en cas de pluralité de demandeurs.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-19
-
-Les personnes susceptibles d'appartenir au groupe qui n'y ont pas adhéré dans le délai prévu dans le jugement statuant sur la
-responsabilité et dans les conditions prévues par l'article 826-16 ne sont plus recevables à demander leur indemnisation dans
-le cadre de l'action de groupe et ne sont pas représentées par le demandeur à l'action.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cite_:
-
-  - Code de procédure civile - art. 826-16 (VT)
-
-
-###### Article 826-20
-
-Le mandat aux fins d'indemnisation donné au demandeur à l'action par l'effet de l'adhésion de la personne intéressée au
-groupe vaut pouvoir d'accomplir au nom de celle-ci tous actes de procédure et diligences en vue d'obtenir la réparation du
-préjudice subi par elle et entrant dans le champ de l'action de groupe, notamment pour l'exercice des voies de recours.
-
-Le mandat emporte avance par le demandeur à l'action de toutes les dépenses et frais liés à la procédure et représentation
-des personnes intéressées lors du déroulement d'éventuelles mesures d'instruction et lors de l'action en justice tendant à la
-réparation du préjudice subi.
-
-La personne intéressée peut mettre un terme au mandat à tout moment. Elle doit en informer le demandeur à l'action par tout
-moyen permettant d'en accuser la réception et celle-ci en avise la personne déclarée responsable sans délai. La révocation du
-mandat emporte renonciation à l'adhésion au groupe.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-##### Sous-section 2 : Réparation des préjudices par le juge et exécution forcée du jugement<a id=232></a>
-
-###### Article 826-21
-
-Le demandeur à l'action ayant reçu mandat aux fins d'indemnisation est réputé créancier, au sens des articles L. 111-1 et L.
-111-2 du code des procédures civiles d'exécution, pour l'exécution forcée du jugement rendu sur le fondement de l'article 71
-ou de l'article 73 de la loi du 18 novembre 2016 susmentionnée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 71
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 73
-  - Code des procédures civiles d'exécution - art. L111-1
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-###### Article 826-22
-
-Dans tous les actes relatifs à la réparation par le juge des préjudices et à l'exécution forcée du jugement, le demandeur à
-l'action précise, outre les mentions prévues par la loi, à peine de nullité, l'identité des personnes pour le compte
-desquelles il agit.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-##### Section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=233></a>
-
-###### Article 826-23
-
-Le demandeur à l'action ouvre auprès de la Caisse des dépôts et consignations un compte spécifique au groupe des personnes
-lésées défini par le juge. 
-
-Sous réserve de l'article 240 du décret n° 91-1197 du 27 novembre 1991, toute somme reçue au titre des articles 68 et 74 de
-la loi du 18 novembre 2016 susmentionnée est immédiatement déposée par le demandeur à l'action sur le compte ouvert
-conformément à l'alinéa précédent. 
-
-Le demandeur à l'action est seul habilité, sous sa responsabilité, à procéder aux mouvements sur chaque compte ouvert
-conformément au premier alinéa et à le clôturer. 
-
-La tenue des comptes ouverts conformément au premier alinéa peut donner lieu à des frais de gestion perçus par la Caisse des
-dépôts et consignations, qui ne peuvent être imputés sur les indemnités versées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°91-1197 du 27 novembre 1991 - art. 240
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 68
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 74
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-#### Chapitre IV :  Dispositions diverses<a id=234></a>
-
-###### Article 826-24
-
-La substitution dans les droits du demandeur à l'action défaillant est faite par voie de demande incidente. 
-
-Lorsque le juge fait droit à une demande de substitution à un demandeur défaillant, il statue, saisi de conclusions en ce
-sens, sur le transfert de tout ou partie de la provision qui aura pu être allouée en application des dispositions de
-l'article 68 de la loi du 18 novembre 2016 susmentionnée. 
-
-La substitution emporte transfert du mandat donné par les personnes intéressées au demandeur substitué. 
-
-Le demandeur défaillant est tenu de remettre les pièces ainsi que les fonds détenus, le cas échéant pour le compte des
-personnes intéressées, au demandeur qui lui est substitué qui en accuse réception. Tant que cette remise n'a pas lieu, le
-demandeur défaillant n'est pas déchargé de ses obligations.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 68
-
-_Créé par_:
-
-  - Décret n°2017-888 du 6 mai 2017 - art. 1
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-
-## Titre II : Dispositions particulières au tribunal d'instance<a id=235></a>
-
-###### Article 827
-
-Les parties se défendent elles-mêmes.
-
-Elles ont la faculté de se faire assister ou représenter.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Section 2 : La procédure aux fins de jugement<a id=235></a>
+
+##### Sous-section 1 : La conciliation<a id=236></a>
+
+###### Article 827
+
+Le juge s'efforce de concilier les parties.
+
+Le juge peut également, à tout moment de la procédure, inviter les parties à rencontrer un conciliateur de justice aux lieu,
+jour et heure qu'il détermine. Les parties en sont avisées, selon le cas, dans l'acte de convocation à l'audience ou par tous
+moyens. L'avis indique la date de l'audience à laquelle l'affaire sera examinée afin que le juge constate la conciliation ou
+tranche le litige. L'invitation peut également être faite par le juge à l'audience.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -18391,28 +18818,27 @@ _Cité par_:
   - Code de la consommation - art. R331-9-2 (Ab)
   - Code de la consommation - art. R713-4 (VD)
 
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Sous-section 2 : Les débats<a id=237></a>
 
 ###### Article 828
 
-Les parties peuvent se faire assister ou représenter par :
+A tout moment de la procédure, les parties peuvent donner expressément leur accord pour que la procédure se déroule sans
+audience conformément aux dispositions de l'article L. 212-5-1 du code de l'organisation judiciaire.
 
-- un avocat ;
+Dans ce cas, les parties formulent leurs prétentions et leurs moyens par écrit. Le jugement est contradictoire.
 
-- leur conjoint ;
+Le tribunal peut décider de tenir une audience s'il estime qu'il n'est pas possible de rendre une décision au regard des
+preuves écrites ou si l'une des parties en fait la demande.
 
-- comme il est dit à l'article 2 de la loi n° 2007-1787 du 20 décembre 2007 relative à la simplification du droit, leur
-concubin ou la personne avec laquelle elles ont conclu un pacte civil de solidarité ;
+**Nota:**
 
-- leurs parents ou alliés en ligne directe ;
-
-- leurs parents ou alliés en ligne collatérale jusqu'au troisième degré inclus ;
-
-- les personnes exclusivement attachées à leur service personnel ou à leur entreprise. 
-
-L'Etat,  les départements, les régions, les communes et les établissements publics peuvent se faire représenter ou assister
-par un fonctionnaire ou un agent de leur administration. 
-
-Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -18432,24 +18858,33 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-66 du 20 janvier 2012 - art. 38
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-
-### Sous-titre Ier : La procédure ordinaire.<a id=236></a>
 
 ###### Article 829
 
-La demande en justice est formée par assignation à fin de conciliation et, à défaut, de jugement, sauf la faculté pour le
-demandeur de provoquer une tentative de conciliation. 
+Lorsqu'elle est formulée en cours d'instance, la déclaration par laquelle chacune des parties consent au déroulement de la
+procédure sans audience est remise ou adressée au greffe et comporte à peine de nullité :
 
-La demande peut également être formée soit par une requête conjointe remise au greffe, soit par la présentation volontaire
-des parties devant le juge, soit, dans le cas prévu à l'article 843, par une déclaration au greffe.
+1° Pour les personnes physiques : l'indication des nom, prénoms, profession, domicile, nationalité, date et lieu de
+naissance ;
+
+2° Pour les personnes morales : l'indication de leur forme, leur dénomination, leur siège social et de l'organe qui les
+représente légalement ;
+
+Elle est écrite, datée et signée de la main de son auteur. Celui-ci doit lui annexer, en original ou en photocopie, tout
+document officiel justifiant de son identité et comportant sa signature.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -18461,15 +18896,16 @@ _Cite_:
   - Code de procédure civile - art. 843
 
 
-#### Chapitre Ier : La tentative préalable de conciliation.<a id=237></a>
-
 ###### Article 830
 
-La demande aux fins de tentative préalable de conciliation est formée par déclaration faite, remise ou adressée au greffe.
+A défaut de conciliation constatée à l'audience, l'affaire est immédiatement jugée ou, si elle n'est pas en état de l'être,
+renvoyée à une audience ultérieure. Dans ce cas, le greffier avise par tous moyens les parties qui ne l'auraient pas été
+verbalement de la date de l'audience.
 
-Le demandeur indique les nom, prénoms, profession et adresse des parties, ainsi que l'objet de sa prétention.
+**Nota:**
 
-La prescription et les délais pour agir sont interrompus par l'enregistrement de la demande.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -18479,23 +18915,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 23
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-
-##### Section I : La conciliation déléguée à un conciliateur de justice<a id=238></a>
 
 ###### Article 831
 
-Le juge peut déléguer à un conciliateur de justice la tentative préalable de conciliation.
+Le juge peut, conformément au second alinéa de l'article 446-1, dispenser une partie qui en fait la demande de se présenter à
+une audience ultérieure. Dans ce cas et dans celui mentionné aux deux premiers alinéas de l'article 828, le juge organise les
+échanges entre les parties. La communication entre elles est faite par lettre recommandée avec demande d'avis de réception ou
+par notification entre avocats et il en est justifié auprès du tribunal dans les délais que le juge impartit. A l'issue, ce
+dernier informe les parties de la date à laquelle le jugement sera rendu.
 
-Le greffier avise par tous moyens le défendeur de la décision du juge. L'avis précise les nom, prénoms, profession et adresse
-du demandeur et l'objet de la demande.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 24
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -18504,134 +18944,122 @@ _Cité par_:
 
 ###### Article 832
 
-Le demandeur et le conciliateur de justice sont avisés par tous moyens de la décision du juge. Une copie de la demande est
-adressée au conciliateur. 
+Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
+application de l'article 1343-5 du code civil peut être formée par courrier remis ou adressé au greffe. Les pièces que la
+partie souhaite invoquer à l'appui de sa demande sont jointes à son courrier. La demande est communiquée aux autres parties,
+à l'audience, par le juge, sauf la faculté pour ce dernier de la leur faire notifier par le greffier, accompagnée des pièces
+jointes, par lettre recommandée avec demande d'avis de réception.
 
-Le conciliateur de justice procède à la tentative de conciliation comme il est dit aux articles 129-3 à 129-5,130 et 131. A
-sa demande, sa mission peut être renouvelée, sans qu'il soit nécessaire de recueillir l'accord des parties. 
+L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
+Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
+bien fondées.
 
-En cas d'échec de la tentative de conciliation, le conciliateur de justice en informe le juge en précisant la date de la
-réunion à l'issue de laquelle il a constaté cet échec.
+**Nota:**
 
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2017-892 du 6 mai 2017 - art. 21
-
-_Cite_:
-
-  - Code de procédure civile - art. 129-3 (V)
-  - Code de procédure civile - art. 130
-
-
-###### Article 832-1
-
-Les avis adressés aux parties par le greffier précisent que chaque partie peut se présenter devant le conciliateur avec une
-personne ayant qualité pour l'assister devant le juge. 
-
-Les parties sont en outre avisées qu'en application des articles 833 et 836, dont les dispositions sont reproduites, la
-juridiction peut être saisie aux fins d'homologation de leur accord ou aux fins de jugement en cas d'échec de la
-conciliation.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
-
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-_Abrogé par_:
 
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de procédure civile - art. 833
+  - Code de procédure civile - art. 129-3
+  - Code de procédure civile - art. 130
 
 
 ###### Article 833
 
-La demande d'homologation du constat d'accord formée par les parties est transmise au juge par le conciliateur. Une copie du
-constat y est jointe.
+La reprise de l'instance, après une suspension, a lieu sur l'avis qui en est donné aux parties par le greffier, par tout
+moyen.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
   - Code de procédure civile - art. 832-1 (VT)
 
 
-##### Section II : La conciliation menée par le juge<a id=239></a>
+#### Chapitre II : Les ordonnances de référé<a id=238></a>
 
 ###### Article 834
 
-Lorsque le juge procède lui-même à la tentative préalable de conciliation, le greffe avise le demandeur par tout moyen des
-lieu, jour et heure auxquels l'audience de conciliation se déroulera. 
+Dans tous les cas d'urgence, le président du tribunal judiciaire ou le juge du contentieux de la protection dans les limites
+de sa compétence, peuvent ordonner en référé toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que
+justifie l'existence d'un différend.
 
-Le défendeur est convoqué par lettre simple. La convocation mentionne les nom, prénoms, profession et adresse du demandeur
-ainsi que l'objet de la demande.
+**Nota:**
 
-L'avis et la convocation précisent que chaque partie peut se faire assister par une des personnes énumérées à l'article 828.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de procédure civile - art. 828
+  - Code de procédure civile - art. 828 (VD)
 
 
 ###### Article 835
 
-A défaut de conciliation, l'affaire peut être immédiatement jugée si les parties y consentent. Dans ce cas, il est procédé
-selon les modalités de la présentation volontaire. 
+Le président du tribunal judiciaire ou le juge du contentieux de la protection dans les limites de sa compétence peuvent
+toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures conservatoires ou de remise en état
+qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble manifestement illicite.
 
-Dans le cas contraire, les parties comparantes sont avisées que la juridiction peut être saisie aux fins de jugement de la
-demande, en application de l'article 836 dont les dispositions sont reproduites.
+Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, ils peuvent accorder une provision au
+créancier, ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
   - Code de procédure civile - art. 836
 
 
-##### Section III : La demande aux fins de jugement  en cas d'échec de la conciliation<a id=240></a>
-
 ###### Article 836
 
-En cas d'échec total ou partiel de la tentative préalable de conciliation, le demandeur peut saisir la juridiction aux fins
-de jugement de tout ou partie de ses prétentions initiales. 
+Les pouvoirs du président du tribunal judiciaire prévus aux deux articles précédents s'étendent à toutes les matières où il
+n'existe pas de procédure particulière de référé.
 
-La saisine de la juridiction est faite selon les modalités prévues par l'article 829. 
+**Nota:**
 
-La demande qui n'entre pas dans le champ d'application de l'article 843 peut également être faite par déclaration au greffe
-lorsqu'elle est formée dans le mois suivant la réunion ou l'audience à l'issue de laquelle a été constaté l'échec de la
-tentative de conciliation. Toutefois, dans ce cas, le tribunal peut renvoyer le demandeur à mieux se pourvoir, s'il lui
-apparaît que l'affaire ne relève pas de sa compétence, ou à le saisir autrement, si la déclaration est tardive ou ne
-mentionne pas son fondement juridique. Cette décision est une mesure d'administration judiciaire qui peut être prise par
-simple mention au dossier.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de procédure civile - art. 829
+  - Code de procédure civile - art. 829 (VD)
   - Code de procédure civile - art. 843
 
 _Cité par_:
@@ -18639,32 +19067,28 @@ _Cité par_:
   - Code de procédure civile - art. 835 (VD)
 
 
-#### Chapitre II : La procédure aux fins de jugement<a id=241></a>
-
-##### Section I : L'introduction de l'instance<a id=242></a>
-
-##### Sous-section I : La saisine par assignation à toutes fins<a id=243></a>
-
 ###### Article 837
 
-L'assignation contient, à peine de nullité, outre les mentions prescrites à l'article 56 : 
+A la demande de l'une des parties et si l'urgence le justifie, le président du tribunal judiciaire ou le juge des contentieux
+de la protection saisi en référé peut renvoyer l'affaire à une audience dont il fixe la date pour qu'il soit statué au fond.
+Il veille à ce que le défendeur dispose d'un temps suffisant pour préparer sa défense. L'ordonnance emporte saisine de la
+juridiction.
 
-1° Les lieu, jour et heure de l'audience à laquelle la conciliation sera tentée si elle ne l'a déjà été, et, le cas échéant,
-l'affaire jugée ; 
+Lorsque la représentation par avocat est obligatoire devant la juridiction à laquelle l'affaire est renvoyée, il est ensuite
+procédé comme il est dit à l'article 842 et aux trois derniers alinéas de l'article 844. Lorsque le président de la
+juridiction a ordonné la réassignation du défendeur non comparant, ce dernier est convoqué par acte d'huissier de justice à
+l'initiative du demandeur.
 
-2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France.
+**Nota:**
 
-L'acte introductif d'instance rappelle en outre les dispositions de l'article 847-2, lorsqu'il contient une demande en
-paiement, et mentionne les conditions dans lesquelles le défendeur peut se faire assister ou représenter, ainsi que, s'il y a
-lieu, le nom du représentant du demandeur.
-
-L'assignation est accompagnée des pièces énumérées dans le bordereau annexé.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
@@ -18674,56 +19098,91 @@ _Cite_:
 
 ###### Article 838
 
-L'assignation doit être délivrée quinze jours au moins avant la date de l'audience.
+Le président du tribunal judiciaire dispose des mêmes pouvoirs dans les contestations nées à l'occasion du contrat de travail
+lorsqu'elles relèvent de sa compétence.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
+
+#### Chapitre III : La procédure accélérée au fond<a id=239></a>
 
 ###### Article 839
 
-Le juge est saisi, à la diligence de l'une ou l'autre partie, par la remise au greffe d'une copie de l'assignation.
+Lorsqu'il est prévu par la loi ou le règlement qu'il est statué selon la procédure accélérée au fond, le président du
+tribunal judiciaire connaît de l'affaire dans les conditions de l'article 481-1.
 
-Cette remise doit avoir lieu au plus tard huit jours avant la date de l'audience, sous peine de caducité de l'assignation
-constatée d'office par ordonnance du juge, ou, à défaut, à la requête d'une partie.
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les dispositions qui résultent du décret
+précité sont applicables aux instances introduites à compter du 1er janvier 2020.
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
+
+### Sous-titre IV : Les autres procédures<a id=240></a>
+
+#### Chapitre Ier : La procédure à jour fixe<a id=241></a>
 
 ###### Article 840
 
-En cas d'urgence, les délais de comparution et de remise de l'assignation peuvent être réduits par autorisation du juge.
+Dans les litiges relevant de la procédure écrite ordinaire, le président du tribunal peut, en cas d'urgence, autoriser le
+demandeur, sur sa requête, à assigner le défendeur à jour fixe. Il désigne, s'il y a lieu, la chambre à laquelle l'affaire
+est distribuée.
+
+La requête doit exposer les motifs de l'urgence, contenir les conclusions du demandeur et viser les pièces justificatives.
+
+Copie de la requête et des pièces doit être remise au président pour être versée au dossier du tribunal.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
   - Code de procédure civile - art. 1287 (VD)
 
 
-##### Sous-section II : La requête conjointe et la présentation volontaire des parties<a id=244></a>
-
 ###### Article 841
 
-Les parties peuvent exposer leurs prétentions par requête conjointe. Elles peuvent aussi se présenter volontairement devant
-le juge pour les faire juger.
+L'assignation indique à peine de nullité les jour et heure fixés par le président auxquels l'affaire sera appelée ainsi que
+la chambre à laquelle elle est distribuée. Copie de la requête est jointe à l'assignation.
+
+L'assignation informe le défendeur qu'il peut prendre connaissance au greffe de la copie des pièces visées dans la requête et
+lui fait sommation de communiquer avant la date de l'audience celles dont il entend faire état.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -18732,42 +19191,42 @@ _Cité par_:
 
 ###### Article 842
 
-Le juge est saisi soit par la remise de la requête conjointe, soit par la signature d'un procès-verbal constatant que les
-parties se présentent volontairement pour faire juger leurs prétentions. 
+Le défendeur est tenu de constituer avocat avant la date de l'audience.
 
-Le procès-verbal contient les mentions prévues à l'article 57. 
+**Nota:**
 
-Lorsque les parties ont soumis leur différend à un conciliateur de justice sans parvenir à un accord, leur requête conjointe
-peut également être transmise au greffe à leur demande par le conciliateur.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cite_:
 
   - Code de procédure civile - art. 57
 
 
-##### Sous-section III : La déclaration au greffe<a id=245></a>
-
 ###### Article 843
 
-Lorsque le montant de la demande n'excède pas 4 000 euros, la juridiction peut être saisie par une déclaration faite, remise
-ou adressée au greffe, où elle est enregistrée. La prescription et les délais pour agir sont interrompus par l'enregistrement
-de la déclaration.
+Le tribunal est saisi par la remise d'une copie de l'assignation au greffe.
 
-Outre les mentions prescrites par l'article 58, la déclaration doit contenir, à peine de nullité, un exposé sommaire des
-motifs de la demande. Les pièces que le demandeur souhaite invoquer à l'appui de ses prétentions sont jointes à sa
-déclaration en autant de copies que de personnes dont la convocation est demandée.
+Cette remise doit être faite avant la date fixée pour l'audience faute de quoi l'assignation sera caduque.
+
+La caducité est constatée d'office par ordonnance du président de la chambre à laquelle l'affaire est distribuée.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 **Liens**:
 
@@ -18783,12 +19242,21 @@ _Cité par_:
 
 ###### Article 844
 
-Le greffier convoque le défendeur à l'audience par lettre recommandée avec demande d'avis de réception. Le demandeur est
-avisé par tous moyens des lieu, jour et heure de l'audience. 
+Le jour de l'audience, le président s'assure qu'il s'est écoulé un temps suffisant depuis l'assignation pour que la partie
+assignée ait pu préparer sa défense.
 
-Outre les mentions prescrites par l'article 665-1, la convocation adressée au défendeur rappelle les dispositions de
-l'article 847-2 et comprend en annexe une copie de la déclaration et des pièces qui y sont jointes. Cette convocation vaut
-citation.
+Si le défendeur a constitué avocat, l'affaire est plaidée sur-le-champ en l'état où elle se trouve, même en l'absence de
+conclusions du défendeur ou sur simples conclusions verbales.
+
+En cas de nécessité, le président de la chambre peut user des pouvoirs prévus à l'article 779 ou renvoyer l'affaire devant le
+juge de la mise en état.
+
+Si le défendeur n'a pas constitué avocat, il est procédé selon les règles prévues à l'article 778.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -18800,7 +19268,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 4
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 **Liens**:
 
@@ -18809,21 +19277,26 @@ _Modifié par_:
 _Cite_:
 
   - Code de procédure civile - art. 665-1
-  - Code de procédure civile - art. 847-2
+  - Code de procédure civile - art. 847-2 (VT)
 
 
-##### Section II : Le déroulement de l'instance<a id=246></a>
-
-##### Sous-section I : La conciliation<a id=247></a>
+#### Chapitre II : Les ordonnances sur requête<a id=242></a>
 
 ###### Article 845
 
-Le juge s'efforce de concilier les parties.
+Le président du tribunal judiciaire ou le juge des contentieux de la protection est saisi par requête dans les cas spécifiés
+par la loi.
 
-Le juge peut également, à tout moment de la procédure, inviter les parties à rencontrer un conciliateur de justice aux lieu,
-jour et heure qu'il détermine. Les parties en sont avisées, selon le cas, dans l'acte de convocation à l'audience ou par tous
-moyens. L'avis indique la date de l'audience à laquelle l'affaire sera examinée afin que le juge constate la conciliation ou
-tranche le litige. L'invitation peut également être faite par le juge à l'audience.
+Il peut également ordonner sur requête toutes mesures urgentes lorsque les circonstances exigent qu'elles ne soient pas
+prises contradictoirement.
+
+Les requêtes afférentes à une instance en cours sont présentées au président de la chambre saisie ou à laquelle l'affaire a
+été distribuée ou au juge déjà saisi.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -18834,20 +19307,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 5
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-
-##### Sous-section II : Les débats<a id=248></a>
 
 ###### Article 846
 
-La procédure est orale.
+La requête est présentée par un avocat ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par
+les dispositions en vigueur.
+
+Dans les cas où les parties sont dispensées de représentation par avocat, la requête est remise ou adressée au greffe par le
+requérant ou par tout mandataire. Si elle est présentée à l'occasion d'une instance, elle doit indiquer la juridiction
+saisie.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 _Cité par_:
 
@@ -18855,106 +19336,70 @@ _Cité par_:
   - Code monétaire et financier - art. R561-36 (V)
 
 
+#### Chapitre III : La procédure sur décision de renvoi de la juridiction pénale<a id=243></a>
+
 ###### Article 847
 
-A défaut de conciliation constatée à l'audience, l'affaire est immédiatement jugée ou, si elle n'est pas en état de l'être,
-renvoyée à une audience ultérieure. Dans ce cas, le greffier avise par tous moyens les parties qui ne l'auraient pas été
-verbalement de la date de l'audience.
+Lorsque, dans les conditions et selon les modalités prévues par le code de procédure pénale, une affaire a été renvoyée
+devant le tribunal judiciaire afin qu'il soit statué, en application des règles du droit civil, sur la réparation de tous les
+dommages résultant des faits qui ont fondé la poursuite, le greffe convoque à l'audience, un mois au moins à l'avance et par
+lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée devant la
+juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à laquelle est
+annexée une copie de la décision de renvoi vaut citation en justice.
+
+Le greffe convoque les parties à l'audience dans un délai maximal de deux mois.
+
+La convocation précise si la représentation à l'audience par avocat est obligatoire. Elle indique en tout état de cause que
+même s'ils ne comparaissent pas, des décisions exécutoires à titre provisoire seront prises contre les parties autres que la
+victime du dommage et contre les tiers responsables mentionnés dans la décision de renvoi sauf décision contraire du juge.
+
+Les organismes de sécurité sociale, le fonds de garantie des assurances obligatoires de dommages ou le fonds de garantie des
+victimes des actes de terrorisme et d'autres infractions, s'ils sont intervenus devant la juridiction pénale, sont convoqués
+à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe. Une copie de la
+décision de renvoi est annexée à la convocation.
+
+A l'audience, lorsque la représentation par avocat est obligatoire, il est procédé comme il est dit aux articles 776 à 779. A
+défaut il est procédé comme il est dit aux articles 827 à 833.
+
+Une provision peut être accordée en référé dans les conditions prévues par l'article 835.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
-
-  - Décret n°2015-282 du 11 mars 2015 - art. 5
-
-
-###### Article 847-1
-
-Le juge qui organise les échanges entre les parties comparantes peut, conformément au second alinéa de l'article 446-1,
-dispenser une partie qui en fait la demande de se présenter à une audience ultérieure. Dans ce cas, la communication entre
-les parties est faite par lettre recommandée avec demande d'avis de réception ou par notification entre avocats et il en est
-justifié auprès du tribunal dans les délais que le juge impartit.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
-
-_Cite_:
-
-  - Code de procédure civile - art. 446-1
-
-
-###### Article 847-2
-
-Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
-application de l'article 1343-5 du code civil peut être formée par courrier remis ou adressé au greffe. Les pièces que la
-partie souhaite invoquer à l'appui de sa demande sont jointes à son courrier. La demande est communiquée aux autres parties,
-à l'audience, par le juge, sauf la faculté pour ce dernier de la leur faire notifier par le greffier, accompagnée des pièces
-jointes, par lettre recommandée avec demande d'avis de réception. 
-
-L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
-Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
-bien fondées.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
-
-_Cité par_:
-
-  - Code de la consommation - art. R142-1 (Ab)
-  - Code de procédure civile - art. 837 (VD)
-  - Code de procédure civile - art. 844 (VD)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de la consommation - art. R142-1 (V)
-
-_Cite_:
-
-  - Code de procédure civile - art. 446-1
-  - Code de procédure civile - art. 68
-  - Code civil - art. 1343-5
-
-
-###### Article 847-3
-
-La reprise de l'instance, après une suspension, a lieu sur l'avis qui en est donné aux parties par le greffier, par tout
-moyen.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 6
-
-_Abrogé par_:
 
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-### Sous-titre II : Les ordonnances de référé devant le juge d'instance.<a id=249></a>
+#### Chapitre IV : L'action de groupe<a id=244></a>
 
 ###### Article 848
 
-Dans tous les cas d'urgence, le juge du tribunal d'instance peut, dans les limites de sa compétence, ordonner en référé
-toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend.
+Sous réserve des dispositions particulières prévues pour chacune de ces actions, le présent sous-titre est applicable aux
+actions de groupe suivantes engagées sur le fondement du titre V de la loi n° 2016-1547 du 18 novembre 2016 de modernisation
+de la justice du XXIe siècle :
+
+1° L'action ouverte sur le fondement de la loi n° 2008-496 du 27 mai 2008 portant diverses dispositions d'adaptation au droit
+communautaire dans le domaine de la lutte contre les discriminations ;
+
+2° L'action ouverte sur le fondement des articles L. 1134-6 à L. 1134-10 du code du travail ;
+
+3° L'action ouverte sur le fondement de l'article L. 142-3-1 du code de l'environnement ;
+
+4° L'action ouverte sur le fondement du chapitre III du titre IV du livre Ier de la première partie du code de la santé
+publique ;
+
+5° L'action ouverte sur le fondement de l'article 37 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -18964,129 +19409,26 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
+
+##### Section 1 :  Dispositions préliminaires<a id=245></a>
 
 ###### Article 849
 
-Le juge du tribunal d'instance peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures
-conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
-manifestement illicite.
+Le tribunal judiciaire territorialement compétent est celui du lieu où demeure le défendeur.
 
-Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
-ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
+Le tribunal judiciaire de Paris est compétent lorsque le défendeur demeure à l'étranger ou n'a ni domicile ni résidence
+connus.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-_Cité par_:
-
-  - Code de procédure civile - art. 852-1 (VT)
-
-
-###### Article 849-1
-
-A la demande de l'une des parties, et si l'urgence le justifie, le juge, saisi en référé, peut renvoyer l'affaire à une
-audience dont il fixe la date pour qu'il soit statué au fond. Il veille à ce que le défendeur dispose d'un temps suffisant
-pour préparer sa défense. L'ordonnance emporte saisine du tribunal.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 13 () JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article 850
-
-Le juge du tribunal d'instance dispose des mêmes pouvoirs dans les contestations nées à l'occasion du contrat de travail
-lorsqu'elles relèvent de sa compétence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-
-### Sous-titre III : Les ordonnances sur requête devant le juge d'instance.<a id=250></a>
-
-###### Article 851
-
-Le juge du tribunal d'instance est saisi par requête dans les cas spécifiés par la loi.
-
-Il peut également ordonner sur requête, dans les limites de sa compétence, toutes mesures urgentes lorsque les circonstances
-exigent qu'elles ne soient pas prises contradictoirement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
-
-###### Article 852
-
-La requête est remise ou adressée au greffe par le requérant ou par tout mandataire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-
-### Sous-titre IV : La procédure sur décision de renvoi de la juridiction pénale.<a id=251></a>
-
-###### Article 852-1
-
-Lorsqu'une affaire a été renvoyée devant le juge dans les conditions prévues par l'alinéa 2 de l'article 470-1 et par
-l'article R. 41-2 du code de procédure pénale, le greffe de ce juge convoque à l'audience, un mois au moins à l'avance et par
-lettre recommandée avec demande d'avis de réception, les parties à l'instance civile qui avait été engagée devant la
-juridiction pénale ainsi que les tiers responsables mentionnés dans la décision de renvoi. La convocation à laquelle est
-annexée une copie de la décision de renvoi vaut citation en justice. 
-
-La convocation indique que, même s'ils ne comparaissent pas, des décisions exécutoires à titre provisoire pourront être
-prises contre les parties autres que la victime du dommage et contre les tiers responsables mentionnés dans la décision de
-renvoi. 
-
-Les organismes de sécurité sociale et le fonds de garantie automobile, s'ils sont intervenus devant la juridiction pénale,
-sont convoqués à la même audience au moyen d'une lettre recommandée avec demande d'avis de réception adressée par le greffe.
-Une copie de la décision de renvoi est annexée à la convocation. 
-
-A l'audience, il est procédé comme il est dit aux articles 845 à 847-3. Le président peut accorder en référé une provision
-dans les conditions prévues par l'alinéa 2 de l'article 849.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -19096,86 +19438,657 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 22
-
-_Abrogé par_:
-
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
-_Cite_:
+_Cité par_:
 
-  - Code de procédure civile - art. 845
-  - Code de procédure civile - art. 849
-  - Code de procédure pénale - art. 470-1
-  - Code de procédure pénale - art. R41-2
+  - Code de procédure civile - art. 852-1 (VT)
 
 
-## Titre III : Dispositions particulières au tribunal de commerce.<a id=252></a>
+###### Article 849-1
 
-###### Article 853
+Outre les mentions prescrites aux articles 752 ou 753 selon les cas, l'assignation expose expressément, à peine de nullité,
+les cas individuels présentés par le demandeur au soutien de son action.
 
-Les parties se défendent elles-mêmes.
+**Nota:**
 
-Elles ont la faculté de se faire assister ou représenter par toute personne de leur choix.
-
-Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-2
+
+La demande est formée, instruite et jugée selon les règles applicables à la procédure écrite ordinaire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Section 2 : Cessation du manquement<a id=246></a>
+
+###### Article 849-3
+
+Lorsqu'il désigne un tiers aux fins de mise en œuvre des mesures destinées à faire cesser le manquement, le juge statue par
+décision spécialement motivée énonçant les chefs de la mission confiée et le délai dans lequel le tiers lui en fait rapport.
+
+Le tiers est choisi parmi tout professionnel justifiant d'une compétence dans le domaine considéré.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-4
+
+Dès le prononcé de la décision désignant un tiers, le greffe lui en notifie copie par tout moyen.
+
+Le tiers fait connaître sans délai au juge son acceptation. Il commence ses opérations dès qu'il est avisé du versement de la
+provision mentionnée à l'article 849-5, à moins que le juge ne lui enjoigne d'entreprendre immédiatement ses opérations.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-5
+
+Le coût de la mission est à la charge de l'auteur du manquement. Le juge qui désigne le tiers fixe le montant d'une provision
+à valoir sur la rémunération de celui-ci aussi proche que possible de sa rémunération définitive prévisible et détermine le
+délai dans lequel l'auteur du manquement la consigne au secrétariat de la juridiction. Le juge aménage, s'il y a lieu, les
+échéances dont la consignation peut être assortie.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-6
+
+A l'issue du délai imparti par le juge, le tiers remet son rapport, accompagné de sa demande de rémunération, dont il adresse
+un exemplaire aux parties par tout moyen permettant d'en établir la réception. S'il y a lieu, l'auteur du manquement adresse
+au tiers et au juge ses observations écrites sur cette demande dans un délai de quinze jours à compter de sa réception.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-7
+
+Le greffier invite l'auteur du manquement à consigner la provision au greffe dans le délai et selon les modalités impartis.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-8
+
+Si le tiers se heurte à des difficultés qui font obstacle à l'accomplissement de sa mission ou si une extension de celle-ci
+s'avère nécessaire, il en fait rapport aux parties et au juge.
+
+Celui-ci peut, en se prononçant, proroger le délai dans lequel le tiers doit déposer son rapport.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-9
+
+Le tiers peut, sur justification de l'état d'avancement de ses opérations, être autorisé par le juge à prélever un acompte
+sur la somme consignée si la complexité de l'affaire le requiert.
+
+En cas d'insuffisance manifeste de la provision allouée, au vu des diligences faites ou à venir, le tiers en fait sans délai
+rapport au juge, qui, s'il y a lieu, ordonne la consignation d'une provision complémentaire. A défaut de consignation dans le
+délai et selon les modalités fixées par le juge, et sauf prorogation de ce délai, le tiers dépose son rapport en l'état.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-10
+
+Passé le délai imparti à l'auteur du manquement pour présenter ses observations, le juge fixe la rémunération du tiers en
+fonction, notamment, des diligences accomplies, du respect des délais impartis et de la qualité du travail fourni.
+
+Il autorise le tiers à se faire remettre, à due concurrence, les sommes consignées au greffe. Il ordonne, selon le cas, soit
+le versement des sommes complémentaires dues au tiers, soit la restitution des sommes consignées en excédent.
+
+Lorsque le juge envisage de fixer la rémunération du tiers à un montant inférieur au montant demandé, il doit au préalable
+l'inviter à formuler ses observations.
+
+Le juge délivre au tiers un titre exécutoire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Section 3 : Réparation des préjudices<a id=247></a>
+
+##### Sous-section 1 : Jugement sur la responsabilité<a id=248></a>
+
+###### Article 849-11
+
+Le jugement qui reconnaît la responsabilité du défendeur fixe le délai dans lequel ce dernier doit mettre en œuvre les
+mesures de publicité ordonnées en application de l'article 67 de la loi du 18 novembre 2016 susmentionnée et, à défaut, à
+l'expiration duquel elles le seront par le demandeur à l'action aux frais du défendeur.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-12
+
+Le jugement qui reconnaît la responsabilité du défendeur précise s'il est fait application de la procédure individuelle de
+réparation ou de la procédure collective de liquidation des préjudices.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-13
+
+Les mesures d'information ordonnées par le juge comportent, outre les mentions éventuellement prescrites par le jugement :
+
+1° La reproduction du dispositif de la décision ;
+
+2° Selon qu'il est fait application de la procédure collective de liquidation ou de la procédure individuelle de réparation,
+les coordonnées de la ou des parties auprès desquelles chaque personne intéressée peut adresser sa demande de réparation ;
+
+3° La forme, le contenu de cette demande de réparation ainsi que le délai dans lequel elle doit être adressée, dans le cadre
+d'une procédure individuelle de réparation des préjudices, au choix de la personne intéressée, soit à la personne déclarée
+responsable, soit au demandeur à l'action, et dans le cadre d'une procédure collective de liquidation des préjudices, au
+demandeur à l'action ;
+
+4° L'indication que la demande de réparation adressée au demandeur à l'action lui confère un mandat aux fins d'indemnisation
+et, le cas échéant, en cas de refus d'indemnisation opposé par la personne déclarée responsable, aux fins de représentation
+pour engager une action en réparation ou pour l'exécution forcée du jugement prononcé à l'issue de cette action, ainsi que
+l'indication qu'elle peut y mettre fin à tout moment et que ce mandat ne vaut ni n'implique adhésion à l'association qui
+engage l'action ;
+
+5° L'indication que, à défaut de demande de réparation reçue selon les modalités et dans le délai prévu par le jugement, la
+personne intéressée ne sera plus recevable à obtenir une indemnisation dans le cadre de l'action de groupe mais qu'elle
+pourra toujours agir en indemnisation de ses préjudices à titre individuel ;
+
+6° L'indication qu'en cas d'adhésion, la personne intéressée ne pourra plus agir individuellement à l'encontre de la personne
+déclarée responsable en réparation du préjudice déjà indemnisé dans le cadre de l'action de groupe mais qu'elle pourra
+toujours agir en indemnisation de ses autres préjudices ;
+
+7° L'indication que la personne intéressée doit produire tout document utile au soutien de sa demande.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=249></a>
+
+##### Paragraphe 1 : Adhésion au groupe<a id=250></a>
+
+###### Article 849-14
+
+L'adhésion au groupe prend la forme d'une demande de réparation. Elle est faite par tout moyen permettant d'en accuser la
+réception, selon les modalités et dans le délai déterminé par le juge :
+
+1° Auprès de l'une des parties à l'instance lorsqu'il est fait application de la procédure individuelle de réparation des
+préjudices ;
+
+2° Auprès du demandeur à l'action lorsqu'il est fait application de la procédure collective de liquidation des préjudices.
+
+Elle contient notamment les nom, prénoms, domicile de la personne intéressée ainsi que, le cas échéant, une adresse
+électronique à laquelle elle accepte de recevoir les informations relatives à la procédure.
+
+Cette demande justifie que les critères de rattachement au groupe sont remplis.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-15
+
+Dans le cadre de la mise en œuvre de la procédure individuelle de réparation des préjudices, lorsque la personne intéressée
+adresse directement la demande de réparation à la personne déclarée responsable, elle en informe le demandeur à l'action ou
+le demandeur de son choix en cas de pluralité de demandeurs.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-16
+
+Les personnes susceptibles d'appartenir au groupe qui n'y ont pas adhéré dans le délai prévu dans le jugement statuant sur la
+responsabilité et dans les conditions prévues par l'article 849-13 ne sont plus recevables à demander leur indemnisation dans
+le cadre de l'action de groupe et ne sont pas représentées par le demandeur à l'action.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-17
+
+Le mandat aux fins d'indemnisation donné au demandeur à l'action par l'effet de l'adhésion de la personne intéressée au
+groupe vaut pouvoir d'accomplir au nom de celle-ci tous actes de procédure et diligences en vue d'obtenir la réparation du
+préjudice subi par elle et entrant dans le champ de l'action de groupe, notamment pour l'exercice des voies de recours.
+
+Le mandat emporte avance par le demandeur à l'action de toutes les dépenses et frais liés à la procédure et représentation
+des personnes intéressées lors du déroulement d'éventuelles mesures d'instruction et lors de l'action en justice tendant à la
+réparation du préjudice subi.
+
+La personne intéressée peut mettre un terme au mandat à tout moment. Elle doit en informer le demandeur à l'action par tout
+moyen permettant d'en accuser la réception et celle-ci en avise la personne déclarée responsable sans délai. La révocation du
+mandat emporte renonciation à l'adhésion au groupe.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Paragraphe 2 : Réparation des préjudices par le juge et exécution forcée du jugement<a id=251></a>
+
+###### Article 849-18
+
+Le demandeur à l'action ayant reçu mandat aux fins d'indemnisation est réputé créancier, au sens des articles L. 111-1 et L.
+111-2 du code des procédures civiles d'exécution, pour l'exécution forcée du jugement rendu sur le fondement de l'article 71
+ou de l'article 73 de la loi du 18 novembre 2016 susmentionnée.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 849-19
+
+Dans tous les actes relatifs à la réparation par le juge des préjudices et à l'exécution forcée du jugement, le demandeur à
+l'action précise, outre les mentions prévues par la loi, à peine de nullité, l'identité des personnes pour le compte
+desquelles il agit.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=252></a>
+
+###### Article 849-20
+
+Le demandeur à l'action ouvre auprès de la Caisse des dépôts et consignations un compte spécifique au groupe des personnes
+lésées défini par le juge.
+
+Sous réserve de l'article 240 du décret n° 91-1197 du 27 novembre 1991, toute somme reçue au titre des articles 68 et 74 de
+la loi du 18 novembre 2016 susmentionnée est immédiatement déposée par le demandeur à l'action sur le compte ouvert
+conformément à l'alinéa précédent.
+
+Le demandeur à l'action est seul habilité, sous sa responsabilité, à procéder aux mouvements sur chaque compte ouvert
+conformément au premier alinéa et à le clôturer.
+
+La tenue des comptes ouverts conformément au premier alinéa peut donner lieu à des frais de gestion perçus par la Caisse des
+dépôts et consignations, qui ne peuvent être imputés sur les indemnités versées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+##### Section 4 : Dispositions diverses<a id=253></a>
+
+###### Article 849-21
+
+La substitution dans les droits du demandeur à l'action défaillant est faite par voie de demande incidente.
+
+Lorsque le juge fait droit à une demande de substitution à un demandeur défaillant, il statue, saisi de conclusions en ce
+sens, sur le transfert de tout ou partie de la provision qui aura pu être allouée en application des dispositions de
+l'article 68 de la loi du 18 novembre 2016 susmentionnée.
+
+La substitution emporte transfert du mandat donné par les personnes intéressées au demandeur substitué.
+
+Le demandeur défaillant est tenu de remettre les pièces ainsi que les fonds détenus, le cas échéant pour le compte des
+personnes intéressées, au demandeur qui lui est substitué qui en accuse réception. Tant que cette remise n'a pas lieu, le
+demandeur défaillant n'est pas déchargé de ses obligations.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+### Sous-titre V : Dispositions diverses<a id=254></a>
+
+#### Chapitre Ier : La communication électronique<a id=255></a>
+
+###### Article 850
+
+I.-A peine d'irrecevabilité relevée d'office, en matière de procédure écrite ordinaire et de procédure à jour fixe, les actes
+de procédure à l'exception de la requête mentionnée à l'article 840 sont remis à la juridiction par voie électronique.
+
+II.-Lorsqu'un acte ne peut être transmis par voie électronique pour une cause étrangère à celui qui l'accomplit, il est
+établi sur support papier et remis au greffe selon les modalités de l'article 769 ou lui est adressé par lettre recommandée
+avec demande d'avis de réception. Si l'acte est une requête ou une déclaration d'appel, il est remis ou adressé au greffe en
+autant d'exemplaires qu'il y a de destinataires, plus deux.
+
+Lorsque l'acte est adressé par voie postale, le greffe l'enregistre à la date figurant sur le cachet du bureau d'émission et
+adresse à l'expéditeur un récépissé par tout moyen.
+
+III.-Les avis, avertissements ou convocations sont remis aux avocats des parties par voie électronique, sauf impossibilité
+pour cause étrangère à l'expéditeur.
+
+Un arrêté du garde des sceaux, ministre de la justice, définit les modalités des échanges par voie électronique.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+#### Chapitre II : Mesures d'administration judiciaire<a id=256></a>
+
+###### Article 851
+
+Le juge chargé de contrôler l'exécution des mesures d'instruction, désigné dans les conditions de l'article 155-1, est
+compétent pour assurer le contrôle des mesures d'instruction ordonnées en référé, sauf s'il en est décidé autrement lors de
+la répartition des juges entre les différentes chambres et services du tribunal.
+
+Il est également compétent pour les mesures ordonnées par le juge de la mise en état en application de l'article 789, sauf si
+ce dernier s'en réserve le contrôle.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+###### Article 852
+
+Le président du tribunal judiciaire peut déléguer à un ou plusieurs magistrats tout ou partie des pouvoirs qui lui sont
+dévolus au titre du présent livre.
+
+Les présidents de chambre peuvent de même déléguer aux magistrats de leur chambre tout ou partie des fonctions qui leur sont
+attribuées par le sous-titre II.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, les présentes dispositions entrent en vigueur
+le 1er janvier 2020 et sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 4
+
+
+## Titre III : Dispositions particulières au tribunal de commerce.<a id=257></a>
+
+###### Article 853
+
+Les parties sont, sauf disposition contraire, tenues de constituer avocat devant le tribunal de commerce.
+
+La constitution de l'avocat emporte élection de domicile.
+
+Les parties sont dispensées de l'obligation de constituer avocat dans les cas prévus par la loi ou le règlement, lorsque la
+demande porte sur un montant inférieur ou égal à 10 000 euros, dans le cadre des procédures instituées par le livre VI du
+code de commerce ou pour les litiges relatifs à la tenue du registre du commerce et des sociétés.
+
+Dans ces cas, elles ont la faculté de se faire assister ou représenter par toute personne de leur choix.
+
+Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 5
 
 _Cité par_:
 
   - Code de commerce - art. R662-2 (VD)
 
 
-### Chapitre Ier : La procédure devant le tribunal de commerce.<a id=253></a>
+### Chapitre Ier : La procédure devant le tribunal de commerce.<a id=258></a>
 
-#### Section I : L'introduction de l'instance.<a id=254></a>
+#### Section I : L'introduction de l'instance.<a id=259></a>
 
 ###### Article 854
 
-La demande en justice est formée par assignation, par la remise au greffe d'une requête conjointe ou par la présentation
-volontaire des parties devant le tribunal.
+La demande en justice est formée par assignation ou par la remise au greffe d'une requête conjointe.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-
-##### Sous-section I : L'assignation.<a id=255></a>
-
-###### Article 855
-
-L'assignation contient, à peine de nullité, outre les mentions prescrites par l'article 56 : 
-
-1° Les lieu, jour et heure de l'audience à laquelle l'affaire sera appelée ; 
-
-2° Si le demandeur réside à l'étranger, les nom, prénoms et adresse de la personne chez qui il élit domicile en France. 
-
-L'acte introductif d'instance mentionne en outre les conditions dans lesquelles le défendeur peut se faire assister ou
-représenter, s'il y a lieu, le nom du représentant du demandeur ainsi que, lorsqu'il contient une demande en paiement, les
-dispositions de l'article 861-2.
-
-**Liens relatifs à cet article**
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 5
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 5
+
+
+##### Sous-section I : L'assignation.<a id=260></a>
+
+###### Article 855
+
+L'assignation contient, à peine de nullité, outre les mentions prescrites par les articles 54 et 56, les nom, prénoms et
+adresse de la personne chez qui le demandeur élit domicile en France s'il réside à l'étranger.
+
+L'acte introductif d'instance mentionne en outre les conditions dans lesquelles le défendeur peut ou doit se faire assister
+ou représenter, s'il y a lieu, le nom du représentant du demandeur ainsi que, lorsqu'il contient une demande en paiement, les
+dispositions de l'article 861-2.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
   - Décret n°2018-350 du 14 mai 2018 - art. 1
   - Code électoral - art. R14 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 5
+
 _Cite_:
 
   - Code de procédure civile - art. 56
-  - Code de procédure civile - art. 861-2
+  - Code de procédure civile - art. 861-2 (VD)
 
 
 ###### Article 856
@@ -19232,41 +20145,55 @@ _Cité par_:
   - Code électoral - art. R14 (V)
 
 
-##### Sous-section II : La requête conjointe et la présentation volontaire des parties.<a id=256></a>
+##### Sous-section II : La requête conjointe<a id=261></a>
 
 ###### Article 859
 
-Les parties peuvent exposer leurs prétentions par requête conjointe ; elles peuvent aussi se présenter volontairement devant
-le tribunal pour les faire juger.
+Les parties peuvent exposer leurs prétentions par requête conjointe.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 5
 
 
 ###### Article 860
 
-Le tribunal est saisi soit par la remise de la requête conjointe, soit par la signature d'un procès-verbal constatant que les
-parties se présentent volontairement pour faire juger leurs prétentions.
+Le tribunal est saisi par la remise de la requête conjointe.
 
-Le procès-verbal contient les mentions prévues pour la requête conjointe à l'article 57.
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 5
 
 _Cite_:
 
   - Nouveau code de procédure civile 57
 
 
-#### Section II : L'instance.<a id=257></a>
+#### Section II : L'instance.<a id=262></a>
 
-##### Sous-section I : Dispositions générales<a id=258></a>
+##### Sous-section I : Dispositions générales<a id=263></a>
 
 ###### Article 860-1
 
@@ -19333,20 +20260,25 @@ _Cite_:
 ###### Article 861-2
 
 Sans préjudice des dispositions de l'article 68, la demande incidente tendant à l'octroi d'un délai de paiement en
-application de l'article 1343-5 du code civil peut être formée par déclaration faite, remise ou adressée au greffe, où elle
-est enregistrée. L'auteur de cette demande doit justifier avant l'audience que l'adversaire en a eu connaissance par lettre
+application de l'article 1343-5 du code civil peut être formée par requête faite, remise ou adressée au greffe, où elle est
+enregistrée. L'auteur de cette demande doit justifier avant l'audience que l'adversaire en a eu connaissance par lettre
 recommandée avec demande d'avis de réception. Les pièces que la partie invoque à l'appui de sa demande de délai de paiement
-sont jointes à la déclaration. 
+sont jointes à la requête.
 
 L'auteur de cette demande incidente peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1.
 Dans ce cas, le juge ne fait droit aux demandes présentées contre cette partie que s'il les estime régulières, recevables et
 bien fondées.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
@@ -19356,10 +20288,10 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de procédure civile - art. 855 (V)
+  - Code de procédure civile - art. 855 (VD)
 
 
-##### Sous-section II : Le juge chargé d'instruire l'affaire.<a id=259></a>
+##### Sous-section II : Le juge chargé d'instruire l'affaire.<a id=264></a>
 
 ###### Article 861-3
 
@@ -19553,9 +20485,9 @@ _Modifié par_:
   - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
-### Chapitre II : Les pouvoirs du président.<a id=260></a>
+### Chapitre II : Les pouvoirs du président.<a id=265></a>
 
-#### Section I : Les ordonnances de référé.<a id=261></a>
+#### Section I : Les ordonnances de référé.<a id=266></a>
 
 ###### Article 872
 
@@ -19608,17 +20540,34 @@ _Créé par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 74 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-#### Section II : Les ordonnances sur requête.<a id=262></a>
+#### Section II : Les ordonnances sur requête.<a id=267></a>
 
 ###### Article 874
 
 Le président du tribunal de commerce est saisi par requête dans les cas spécifiés par la loi.
 
+Les parties sont dispensées de l'obligation de constituer avocat en matière de gage des stocks et de gage sans dépossession.
+
+En cette matière, les parties peuvent présenter elles-mêmes leur requête.
+
+Elles ont la faculté de se faire assister ou représenter par toute personne de leur choix.
+
+Le représentant, s'il n'est avocat, doit justifier d'un pouvoir spécial.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 5
 
 
 ###### Article 875
@@ -19645,7 +20594,24 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : Dispositions diverses.<a id=263></a>
+###### Article 876-1
+
+Dans les cas prévus par la loi ou le règlement, le président du tribunal de commerce statue selon la procédure accélérée au
+fond.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
+
+
+### Chapitre III : Dispositions diverses.<a id=268></a>
 
 ###### Article 877
 
@@ -19672,21 +20638,26 @@ _Codifié par_:
 
 ###### Article 878-1
 
-Lorsque le tribunal de grande instance statue en matière commerciale en application de l'article L. 722-4 du code de
-commerce, les demandes sont formées, instruites et jugées conformément aux règles établies par le présent titre.
+Lorsque le tribunal judiciaire statue en matière commerciale en application de l'article L. 722-4 du code de commerce, les
+demandes sont formées, instruites et jugées conformément aux règles établies par le présent titre.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-522 du 2 juin 2008 - art. 9
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de commerce - art. L722-4
 
 
-## Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale.<a id=264></a>
+## Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale.<a id=269></a>
 
 ###### Article 879
 
@@ -19700,9 +20671,9 @@ _Modifié par_:
   - Décret n°2016-660 du 20 mai 2016 - art. 7
 
 
-## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.<a id=265></a>
+## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.<a id=270></a>
 
-### Chapitre Ier : La procédure ordinaire.<a id=266></a>
+### Chapitre Ier : La procédure ordinaire.<a id=271></a>
 
 ###### Article 880
 
@@ -19732,14 +20703,23 @@ _Codifié par_:
 
 ###### Article 882
 
-La procédure applicable devant le tribunal paritaire est celle qui est suivie devant le tribunal d'instance sous réserve des
-dispositions ci-dessous.
+La procédure applicable devant le tribunal paritaire est la procédure orale ordinaire applicable devant le tribunal
+judiciaire sous réserve des dispositions ci-dessous.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 6
 
 
 ###### Article 883
@@ -19785,20 +20765,23 @@ _Modifié par_:
 
 ###### Article 885
 
-La demande est formée et le tribunal saisi par déclaration faite, remise ou adressée au greffe du tribunal ou par acte
-d'huissier de justice adressé à ce greffe. 
+La demande est formée et le tribunal saisi par requête remise ou adressée au greffe du tribunal ou par acte d'huissier de
+justice adressé à ce greffe conformément aux dispositions des articles 54 à 57.
 
-Lorsqu'elle est formée par déclaration au greffe, la demande comporte les mentions prescrites par l'article 58. 
-
-Dans tous les cas, la demande doit indiquer, même de façon sommaire, les motifs sur lesquels elle repose. 
+Dans tous les cas, la demande doit indiquer, même de façon sommaire, les motifs sur lesquels elle repose.
 
 Les demandes soumises à publication au fichier immobilier sont faites par acte d'huissier de justice.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 6
 
 _Cite_:
 
@@ -19902,7 +20885,7 @@ _Modifié par_:
   - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 
-### Chapitre II : Les ordonnances de référé.<a id=267></a>
+### Chapitre II : Les ordonnances de référé.<a id=272></a>
 
 ###### Article 893
 
@@ -19979,7 +20962,7 @@ _Modifié par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 75 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-### Chapitre III : Les ordonnances sur requête.<a id=268></a>
+### Chapitre III : Les ordonnances sur requête.<a id=273></a>
 
 ###### Article 897
 
@@ -20012,11 +20995,28 @@ _Cite_:
   - Nouveau code de procédure civile 892
 
 
-## Titre VI : Dispositions particulières à la cour d'appel.<a id=269></a>
+###### Article 898-1
 
-### Sous-titre Ier : La procédure devant la formation collégiale.<a id=270></a>
+Dans les cas prévus par la loi ou le règlement, le président du tribunal paritaire statue selon la procédure accélérée au
+fond.
 
-#### Chapitre Ier : La procédure en matière contentieuse.<a id=271></a>
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
+
+
+## Titre VI : Dispositions particulières à la cour d'appel.<a id=274></a>
+
+### Sous-titre Ier : La procédure devant la formation collégiale.<a id=275></a>
+
+#### Chapitre Ier : La procédure en matière contentieuse.<a id=276></a>
 
 ###### Article 899
 
@@ -20035,7 +21035,7 @@ _Modifié par_:
   - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
-##### Section I : La procédure avec représentation obligatoire.<a id=272></a>
+##### Section I : La procédure avec représentation obligatoire.<a id=277></a>
 
 ###### Article 900
 
@@ -20048,11 +21048,11 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section I : La procédure ordinaire.<a id=273></a>
+##### Sous-section I : La procédure ordinaire.<a id=278></a>
 
 ###### Article 901
 
-La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 58, et à peine de nullité :
+La déclaration d'appel est faite par acte contenant, outre les mentions prescrites par l'article 57, et à peine de nullité :
 
 1° La constitution de l'avocat de l'appelant ;
 
@@ -20068,20 +21068,21 @@ demande d'inscription au rôle.
 
 **Nota:**
 
-
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 30 mars 2011 - art. 2 (VD)
-  - Code de commerce - art. R661-6 (V)
+  - Code de commerce - art. R661-6 (VD)
   - Code de procédure civile - art. 85 (VD)
   - Code de procédure civile - art. ANNEXE, art. 42 (VD)
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 13
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
@@ -20173,9 +21174,18 @@ _Créé par_:
 ###### Article 905
 
 Lorsque l'affaire semble présenter un caractère d'urgence ou être en état d'être jugée ou lorsque l'appel est relatif à une
-ordonnance de référé ou en la forme des référés ou à une des ordonnances du juge de la mise en état énumérées aux 1° à 4° de
-l'article 776, le président de la chambre saisie, d'office ou à la demande d'une partie, fixe les jours et heures auxquels
-l'affaire sera appelée à bref délai ; au jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762.
+ordonnance de référé ou à un jugement rendu selon la procédure accélérée au fond ou à une des ordonnances du juge de la mise
+en état énumérées aux 1° à 4° de l'article 795, le président de la chambre saisie, d'office ou à la demande d'une partie,
+fixe les jours et heures auxquels l'affaire sera appelée à bref délai ; au jour indiqué, il est procédé selon les modalités
+prévues aux articles 778 et 779.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -20197,12 +21207,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 16
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cite_:
 
-  - Code de procédure civile - art. 760
-  - Code de procédure civile - art. 776
+  - Code de procédure civile - art. 778
+  - Code de procédure civile - art. 795
 
 
 ###### Article 905-1
@@ -20294,19 +21304,14 @@ _Modifié par_:
 ###### Article 907
 
 A moins qu'il ne soit fait application de l'article 905, l'affaire est instruite sous le contrôle d'un magistrat de la
-chambre à laquelle elle est distribuée, dans les conditions prévues par les articles 763 à 787 et sous réserve des
+chambre à laquelle elle est distribuée, dans les conditions prévues par les articles 780 à 807 et sous réserve des
 dispositions qui suivent.
-
-**Nota:**
-
-Décret n° 2009-1524 du 9 décembre 2009 art 15 : Les dispositions du présent article s'appliquent aux appels formés à compter
-du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1524 du 9 décembre 2009 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
@@ -20425,17 +21430,26 @@ _Créé par_:
 
 A peine d'irrecevabilité, relevée d'office, les parties doivent présenter, dès les conclusions mentionnées aux articles 905-2
 et 908 à 910, l'ensemble de leurs prétentions sur le fond. L'irrecevabilité peut également être invoquée par la partie contre
-laquelle sont formées des prétentions ultérieures.
+laquelle sont formées des prétentions ultérieures. 
 
-Néanmoins, et sans préjudice de l'alinéa 2 de l'article 783, demeurent recevables, dans les limites des chefs du jugement
+Néanmoins, et sans préjudice de l'alinéa 2 de l'article 802, demeurent recevables, dans les limites des chefs du jugement
 critiqués, les prétentions destinées à répliquer aux conclusions et pièces adverses ou à faire juger les questions nées,
 postérieurement aux premières conclusions, de l'intervention d'un tiers ou de la survenance ou de la révélation d'un fait.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 22
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+
+_Cite_:
+
+  - Code de procédure civile - art. 802
 
 
 ###### Article 911
@@ -20647,7 +21661,7 @@ _Cite_:
   - Code de procédure civile - art. 930-1 (VD)
 
 
-##### Sous-section II : La procédure à jour fixe.<a id=274></a>
+##### Sous-section II : La procédure à jour fixe.<a id=279></a>
 
 ###### Article 917
 
@@ -20823,7 +21837,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section III : L'appel par requête conjointe.<a id=275></a>
+##### Sous-section III : L'appel par requête conjointe.<a id=280></a>
 
 ###### Article 926
 
@@ -20908,7 +21922,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section IV : Dispositions communes.<a id=276></a>
+##### Sous-section IV : Dispositions communes.<a id=281></a>
 
 ###### Article 930-1
 
@@ -20976,7 +21990,7 @@ _Créé par_:
   - Décret n°2017-1008 du 10 mai 2017 - art. 7
 
 
-##### Section II : La procédure sans représentation obligatoire.<a id=277></a>
+##### Section II : La procédure sans représentation obligatoire.<a id=282></a>
 
 ###### Article 931
 
@@ -21037,10 +22051,15 @@ _Modifié par_:
 
 ###### Article 933
 
-La déclaration comporte les mentions prescrites par l'article 58. Elle désigne le jugement    dont il est fait appel, précise
+La déclaration comporte les mentions prescrites par l'article 57. Elle désigne le jugement dont il est fait appel, précise
 les chefs du jugement critiqués auquel l'appel est limité, sauf si l'appel tend à l'annulation du jugement ou si l'objet du
 litige est indivisible, et mentionne, le cas échéant, le nom et l'adresse du représentant de l'appelant devant la cour. Elle
 est accompagnée de la copie de la décision.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
@@ -21050,11 +22069,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 31
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 58
+  - Code de procédure civile - art. 57
 
 _Cité par_:
 
@@ -21344,7 +22363,7 @@ _Cite_:
   - Code de procédure civile - art. 947 (V)
 
 
-#### Chapitre II : La procédure en matière gracieuse.<a id=278></a>
+#### Chapitre II : La procédure en matière gracieuse.<a id=283></a>
 
 ###### Article 950
 
@@ -21399,20 +22418,25 @@ _Modifié par_:
 
 ###### Article 953
 
-L'appel est instruit et jugé selon les règles applicables en matière gracieuse devant le tribunal de grande instance.
+L'appel est instruit et jugé selon les règles applicables en matière gracieuse devant le tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code civil - art. 459 (VT)
 
 
-#### Chapitre III : Dispositions communes.<a id=279></a>
+#### Chapitre III : Dispositions communes.<a id=284></a>
 
 ###### Article 954
 
@@ -21497,9 +22521,9 @@ _Cite_:
   - Code de procédure civile - art. 930-1
 
 
-### Sous-titre II : Les pouvoirs du premier président.<a id=280></a>
+### Sous-titre II : Les pouvoirs du premier président.<a id=285></a>
 
-#### Chapitre Ier : Les ordonnances de référé.<a id=281></a>
+#### Chapitre Ier : Les ordonnances de référé.<a id=286></a>
 
 ###### Article 956
 
@@ -21533,7 +22557,7 @@ _Modifié par_:
   - Décret n°76-1236 1976-12-28 art. 21 JORF 30 décembre 1976
 
 
-#### Chapitre II : Les ordonnances sur requête.<a id=282></a>
+#### Chapitre II : Les ordonnances sur requête.<a id=287></a>
 
 ###### Article 958
 
@@ -21546,6 +22570,22 @@ contradictoirement.
 _Codifié par_:
 
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+
+
+###### Article 958-1
+
+Dans les cas prévus par la loi ou le règlement, le premier président statue selon la procédure accélérée au fond.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 959
@@ -21568,9 +22608,9 @@ _Cite_:
   - Code de procédure civile - art. 930-1
 
 
-### Sous-titre III : Dispositions diverses.<a id=283></a>
+### Sous-titre III : Dispositions diverses.<a id=288></a>
 
-#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=284></a>
+#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=289></a>
 
 ###### Article 960
 
@@ -21641,7 +22681,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel<a id=285></a>
+#### Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel<a id=290></a>
 
 ###### Article 963
 
@@ -21755,7 +22795,7 @@ _Cite_:
   - Code de procédure civile - art. 963 (VT)
 
 
-#### Chapitre II : Mesures d'administration judiciaire.<a id=286></a>
+#### Chapitre II : Mesures d'administration judiciaire.<a id=291></a>
 
 ###### Article 964-2
 
@@ -21785,7 +22825,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-#### Chapitre III : Le greffe.<a id=287></a>
+#### Chapitre III : Le greffe.<a id=292></a>
 
 ###### Article 966
 
@@ -21839,21 +22879,26 @@ _Modifié par_:
 
 ###### Article 969
 
-Lorsque la procédure est à jour fixe, les dispositions de l'article 824 sont observées.
+Lorsque la procédure est à jour fixe, les dispositions de l'article 772 sont observées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 824 (V)
+  - Code de procédure civile - art. 772
 
 
 ###### Article 970
@@ -21919,7 +22964,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-#### Chapitre IV : Le ministère public<a id=288></a>
+#### Chapitre IV : Le ministère public<a id=293></a>
 
 ###### Article 972-1
 
@@ -21942,7 +22987,7 @@ _Créé par_:
   - Décret n°2018-1219 du 24 décembre 2018 - art. 7
 
 
-## Titre VII : Dispositions particulières à la Cour de cassation.<a id=289></a>
+## Titre VII : Dispositions particulières à la Cour de cassation.<a id=294></a>
 
 ###### Article 973
 
@@ -21966,7 +23011,7 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R221-8 (V)
 
 
-### Chapitre Ier : La procédure avec représentation obligatoire.<a id=290></a>
+### Chapitre Ier : La procédure avec représentation obligatoire.<a id=295></a>
 
 ###### Article 974
 
@@ -22200,7 +23245,7 @@ _Cité par_:
   - Code électoral - art. R19-6 (VD)
 
 
-### Chapitre II : La procédure sans représentation obligatoire.<a id=291></a>
+### Chapitre II : La procédure sans représentation obligatoire.<a id=296></a>
 
 ###### Article 983
 
@@ -22497,63 +23542,64 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
 
 
-### Chapitre III : La procédure en matière électorale.<a id=292></a>
+### Chapitre III : La procédure en matière électorale.<a id=297></a>
 
-#### Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques.<a id=293></a>
+#### Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques.<a id=298></a>
 
 ###### Article 996
 
-Les dispositions particulières au pourvoi en cassation sont celles des articles suivants du code électoral : 
+Les dispositions particulières au pourvoi en cassation sont celles des articles suivants du code électoral :
 
 Art. R. 19-1 .-Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal
-d'instance. Il est ouvert dans tous les cas au préfet. Il n'est pas suspensif. 
+judiciaire. Il est ouvert dans tous les cas au préfet. Il n'est pas suspensif.
 
 Art. R. 19-2 .-Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir
-spécial fait, remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée,
-soit au greffe de la Cour de cassation. 
+spécial fait, remet ou adresse par pli recommandé soit au greffe du tribunal judiciaire qui a rendu la décision attaquée,
+soit au greffe de la Cour de cassation.
 
 La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi, ainsi que, s'il y a lieu, les nom, prénoms et
-adresse du ou des défendeurs au pourvoi. 
+adresse du ou des défendeurs au pourvoi.
 
 A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
-invoqués et être accompagnée d'une copie de la décision attaquée. 
+invoqués et être accompagnée d'une copie de la décision attaquée.
 
 Art. R. 19-3 .-Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est
 formé et délivre ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le
 pourvoi lui adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette
-notification reproduit la teneur de l'article R. 19-5. 
+notification reproduit la teneur de l'article R. 19-5.
 
-Art. R. 19-4 .-Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au
+Art. R. 19-4 .-Lorsque le pourvoi a été formé au tribunal judiciaire, le greffe de ce tribunal transmet immédiatement au
 greffe de la Cour de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée
 ainsi que les documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à la
 notification du pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait
-ultérieurement. 
+ultérieurement.
 
 Lorsque le pourvoi a été formé à la Cour de cassation, le greffe de la Cour de cassation demande immédiatement le dossier de
-l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal d'instance qui a rendu la décision. 
+l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal judiciaire qui a rendu la décision.
 
 Art. R. 19-5 .-Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre
 récépissé ou adresse par lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie
-au demandeur. 
+au demandeur.
 
 Art. R. 19-6 .-Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les
 parties ou l'une d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les
-dispositions des articles 974 à 982 du code de procédure civile ne sont pas applicables. 
+dispositions des articles 974 à 982 du code de procédure civile ne sont pas applicables.
 
 Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
 une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
 entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du greffe, vaut
 notification.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2018-350 du 14 mai 2018 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -22583,7 +23629,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code électoral - art. R15-6
 
 
-#### Section II : Les élections professionnelles.<a id=294></a>
+#### Section II : Les élections professionnelles.<a id=299></a>
 
 ###### Article 999
 
@@ -22645,21 +23691,26 @@ _Modifié par_:
 
 ###### Article 1000
 
-Outre les mentions prescrites par l'article 58, la déclaration désigne la décision attaquée.
+Outre les mentions prescrites par l'article 57, la déclaration désigne la décision attaquée.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 10 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 58 (V)
+  - Code de procédure civile - art. 57
 
 
 ###### Article 1001
@@ -22850,7 +23901,7 @@ _Cite_:
   - Code de procédure civile - art. 1004 (V)
 
 
-### Chapitre IV : Dispositions communes.<a id=295></a>
+### Chapitre IV : Dispositions communes.<a id=300></a>
 
 ###### Article 1009
 
@@ -23248,9 +24299,9 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-### Chapitre V : Dispositions diverses<a id=296></a>
+### Chapitre V : Dispositions diverses<a id=301></a>
 
-#### Section I : Augmentation des délais.<a id=297></a>
+#### Section I : Augmentation des délais.<a id=302></a>
 
 ###### Article 1023
 
@@ -23284,7 +24335,7 @@ _Cité par_:
   - Code de procédure civile - art. 1031-21 (VD)
 
 
-#### Section II : Le désistement.<a id=298></a>
+#### Section II : Le désistement.<a id=303></a>
 
 ###### Article 1024
 
@@ -23345,7 +24396,7 @@ _Cite_:
   - Code de procédure civile - art. 700
 
 
-#### Section III : La récusation.<a id=299></a>
+#### Section III : La récusation.<a id=304></a>
 
 ###### Article 1027
 
@@ -23361,7 +24412,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017, art. 2 (V)
 
 
-#### Section IV : La demande en faux.<a id=300></a>
+#### Section IV : La demande en faux.<a id=305></a>
 
 ###### Article 1028
 
@@ -23441,7 +24492,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-### Chapitre VI : La saisine pour avis de la Cour de cassation.<a id=301></a>
+### Chapitre VI : La saisine pour avis de la Cour de cassation.<a id=306></a>
 
 ###### Article 1031-1
 
@@ -23567,9 +24618,9 @@ _Créé par_:
   - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
 
 
-### Chapitre VII : Le réexamen en matière civile<a id=302></a>
+### Chapitre VII : Le réexamen en matière civile<a id=307></a>
 
-#### Section 1 : Procédure devant la cour de réexamen<a id=303></a>
+#### Section 1 : Procédure devant la cour de réexamen<a id=308></a>
 
 ###### Article 1031-8
 
@@ -23899,7 +24950,7 @@ _Cite_:
   - Code de procédure civile - art. 1031-12
 
 
-#### Section 2 :  Dispositions particulières aux juridictions de renvoi<a id=304></a>
+#### Section 2 :  Dispositions particulières aux juridictions de renvoi<a id=309></a>
 
 ###### Article 1031-22
 
@@ -23935,7 +24986,7 @@ _Créé par_:
   - Décret n°2017-396 du 24 mars 2017 - art. 4
 
 
-## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=305></a>
+## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=310></a>
 
 ###### Article 1032
 
@@ -24102,46 +25153,48 @@ _Cite_:
   - Code de procédure civile - art. 916 (VD)
 
 
-# Livre III : Dispositions particulières à certaines matières<a id=306></a>
+# Livre III : Dispositions particulières à certaines matières<a id=311></a>
 
-## Titre Ier : Les personnes<a id=307></a>
+## Titre Ier : Les personnes<a id=312></a>
 
-### Chapitre Ier : La nationalité des personnes physiques<a id=308></a>
+### Chapitre Ier : La nationalité des personnes physiques<a id=313></a>
 
 ###### Article 1038
 
-Le tribunal de grande instance est seul compétent pour connaître en premier ressort des contestations sur la nationalité
-française ou étrangère des personnes physiques, sous réserve des dispositions figurant au code de la nationalité pour les
-juridictions répressives comportant un jury criminel.
+Le tribunal judiciaire est seul compétent pour connaître en premier ressort des contestations sur la nationalité française ou
+étrangère des personnes physiques, sous réserve des dispositions figurant au code de la nationalité pour les juridictions
+répressives comportant un jury criminel.
 
 Les exceptions de nationalité et d'extranéité ainsi que celle d'incompétence pour en connaître sont d'ordre public. Elles
 peuvent être soulevées en tout état de cause et doivent être relevées d'office par le juge.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1039
 
-Le tribunal de grande instance territorialement compétent est celui du lieu où demeure la personne dont la nationalité est en
-cause ou, si cette personne ne demeure pas en France, le tribunal de grande instance de Paris.
+Le tribunal judiciaire territorialement compétent est celui du lieu où demeure la personne dont la nationalité est en cause
+ou, si cette personne ne demeure pas en France, le tribunal judiciaire de Paris.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1040
@@ -24186,24 +25239,25 @@ _Créé par_:
 ###### Article 1042
 
 Si une question de nationalité est soulevée par une partie devant une juridiction qui estime qu'il y a question
-préjudicielle, la juridiction renvoie cette partie à se pourvoir devant le tribunal de grande instance compétent dans le
-délai d'un mois ou, dans le même délai, à présenter requête au procureur de la République. Lorsque la personne dont la
-nationalité est contestée se prévaut d'un certificat de nationalité française, ou lorsque la question de nationalité a été
-relevée d'office, la juridiction saisie au fond impartit le même délai d'un mois au procureur de la République pour saisir le
-tribunal de grande instance compétent.
+préjudicielle, la juridiction renvoie cette partie à se pourvoir devant le tribunal judiciaire compétent dans le délai d'un
+mois ou, dans le même délai, à présenter requête au procureur de la République. Lorsque la personne dont la nationalité est
+contestée se prévaut d'un certificat de nationalité française, ou lorsque la question de nationalité a été relevée d'office,
+la juridiction saisie au fond impartit le même délai d'un mois au procureur de la République pour saisir le tribunal
+judiciaire compétent.
 
 Si le délai d'un mois n'est pas respecté, l'instance poursuit son cours. Dans le cas contraire, la juridiction saisie au fond
 surseoit à statuer jusqu'à ce que la question de nationalité ait été jugée.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -24267,25 +25321,32 @@ _Cite_:
 
 ###### Article 1045
 
+Le jugement qui statue sur la nationalité n'est pas de droit exécutoire à titre provisoire.
+
 Le délai de pourvoi en cassation suspend l'exécution de l'arrêt qui statue sur la nationalité ; le pourvoi en cassation
 exercé dans ce délai est également suspensif.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-### Chapitre II : Les actes de l'état civil<a id=309></a>
+### Chapitre II : Les actes de l'état civil<a id=314></a>
 
-#### Section I : L'annulation et la rectification des actes de l'état civil<a id=310></a>
+#### Section I : L'annulation et la rectification des actes de l'état civil<a id=315></a>
 
-##### Sous-section I : La rectification et l'annulation administratives<a id=311></a>
+##### Sous-section I : La rectification et l'annulation administratives<a id=316></a>
 
 ###### Article 1046
 
@@ -24298,14 +25359,15 @@ Toutefois, sont compétents :
 1° Le procureur de la République du lieu où est établi le service central d'état civil du ministère des affaires étrangères,
 pour les actes détenus par ce service ;
 
-2° Le procureur de la République près le tribunal de grande instance de Paris pour les certificats tenant lieu d'actes de
-l'état civil à un réfugié, un apatride ou un bénéficiaire de la protection subsidiaire.
+2° Le procureur de la République près le tribunal judiciaire de Paris pour les certificats tenant lieu d'actes de l'état
+civil à un réfugié, un apatride ou un bénéficiaire de la protection subsidiaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -24313,7 +25375,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-890 du 6 mai 2017 - art. 47
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1046-1
@@ -24411,31 +25473,32 @@ _Cite_:
   - Code civil - art. 99-1 (V)
 
 
-##### Sous-section II : La rectification et l'annulation judiciaire<a id=312></a>
+##### Sous-section II : La rectification et l'annulation judiciaire<a id=317></a>
 
 ###### Article 1048
 
-Le tribunal de grande instance ou son président territorialement compétent, est celui du lieu où demeure la personne dont
-l'état civil est en cause ou, si elle demeure hors de France, le tribunal de grande instance de Paris ou son président. Peut
-également être saisie la juridiction du lieu ou l'acte a été dressé ou transcrit.
+Le tribunal judiciaire ou son président territorialement compétent, est celui du lieu où demeure la personne dont l'état
+civil est en cause ou, si elle demeure hors de France, le tribunal judiciaire de Paris ou son président. Peut également être
+saisie la juridiction du lieu ou l'acte a été dressé ou transcrit.
 
 Sont toutefois seuls compétents :
 
 - la juridiction du lieu d'établissement du service central d'état civil du ministère des affaires étrangères, pour les actes
 détenus par ce service ;
 
-- le tribunal de grande instance de Paris ou son président, pour les certificats tenant lieu d'acte d'état civil à un
-réfugié, un apatride ou un bénéficiaire de la protection subsidiaire.
+- le tribunal judiciaire de Paris ou son président, pour les certificats tenant lieu d'acte d'état civil à un réfugié, un
+apatride ou un bénéficiaire de la protection subsidiaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-890 du 6 mai 2017 - art. 47
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1049
@@ -24496,21 +25559,26 @@ L'affaire est communiquée pour avis au ministère public.
 
 Lorsque la demande est formée par le procureur de la République ou un tiers, la personne dont l'état civil est en cause ou
 ses héritiers sont entendus ou appelés. A cette fin, la demande indique leurs nom, prénom, domicile, date et lieu de
-naissance sans préjudice des mentions prévues par le 1° de l'article 57.
+naissance sans préjudice des mentions prévues par le 3° de l'article 54.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 14 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 57 (V)
+  - Code de procédure civile - art. 54
 
 
 ###### Article 1053
@@ -24546,6 +25614,22 @@ _Modifié par_:
   - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
+###### Article 1054-1
+
+La décision n'est pas de droit exécutoire à titre provisoire.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
 ###### Article 1055
 
 L'appel des décisions rendues en matière gracieuse est formé selon les règles prévues à l'article 950. Les dispositions de
@@ -24567,7 +25651,7 @@ _Modifié par_:
   - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
-#### Section II : Les procédures relatives au prénom<a id=313></a>
+#### Section II : Les procédures relatives au prénom<a id=318></a>
 
 ###### Article 1055-1
 
@@ -24597,18 +25681,19 @@ _Cite_:
 ###### Article 1055-2
 
 Lorsque le procureur de la République s'oppose au changement de prénom en application des dispositions du dernier alinéa de
-l'article 60 du code civil, la demande est portée contre lui devant le juge aux affaires familiales du tribunal de grande
-instance auprès duquel le procureur de la République exerce ses fonctions.
+l'article 60 du code civil, la demande est portée contre lui devant le juge aux affaires familiales du tribunal judiciaire
+auprès duquel le procureur de la République exerce ses fonctions.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-450 du 29 mars 2017 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -24618,22 +25703,29 @@ _Cite_:
 ###### Article 1055-3
 
 Les demandes formées en application des dispositions du troisième alinéa de l'article 57 et du dernier alinéa de l'article 60
-du code civil obéissent aux règles de la procédure en matière contentieuse applicable devant le tribunal de grande instance.
+du code civil obéissent aux règles de la procédure écrite ordinaire applicable devant le tribunal judiciaire.
+
+Toutefois, la décision n'est pas de droit exécutoire à titre provisoire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-450 du 29 mars 2017 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 _Cite_:
 
-  - Code civil - art. 57 (V)
-  - Code civil - art. 60 (V)
+  - Code civil - art. 57
+  - Code civil - art. 60
 
 
 ###### Article 1055-4
@@ -24653,27 +25745,32 @@ _Cite_:
   - Code civil - art. 57
 
 
-#### Section II bis : La modification de la mention du sexe dans les actes de l'état civil<a id=314></a>
+#### Section II bis : La modification de la mention du sexe dans les actes de l'état civil<a id=319></a>
 
 ###### Article 1055-5
 
 La demande en modification de la mention du sexe et, le cas échéant, des prénoms, dans les actes de l'état civil, est portée
-devant le tribunal de grande instance dans le ressort duquel soit la personne intéressée demeure, soit son acte de naissance
-a été dressé ou transcrit.
+devant le tribunal judiciaire dans le ressort duquel soit la personne intéressée demeure, soit son acte de naissance a été
+dressé ou transcrit.
 
 Dans le second cas mentionné à l'alinéa précédent, sont toutefois seuls compétents :
 
 – la juridiction du lieu d'établissement du service central d'état civil du ministère des affaires étrangères, pour les actes
 détenus par ce service ;
 
-– le tribunal de grande instance de Paris, pour les pièces tenant lieu d'acte d'état civil à un réfugié, un apatride ou un
+– le tribunal judiciaire de Paris, pour les pièces tenant lieu d'acte d'état civil à un réfugié, un apatride ou un
 bénéficiaire de la protection subsidiaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-450 du 29 mars 2017 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -24745,7 +25842,23 @@ _Créé par_:
   - Décret n°2017-450 du 29 mars 2017 - art. 3
 
 
-#### Section III : La transcription et la mention des décisions sur les registres de l'état civil<a id=315></a>
+###### Article 1055-10
+
+La décision du tribunal n'est pas de droit exécutoire à titre provisoire.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
+
+
+#### Section III : La transcription et la mention des décisions sur les registres de l'état civil<a id=320></a>
 
 ###### Article 1056
 
@@ -24816,24 +25929,25 @@ _Anciens textes_:
   - Code de procédure civile - art. 1056-1 (T)
 
 
-### Chapitre III : Le répertoire civil<a id=316></a>
+### Chapitre III : Le répertoire civil<a id=321></a>
 
 ###### Article 1057
 
 Le répertoire civil est constitué par l'ensemble des extraits des demandes, actes et jugements qui, en vertu des textes
-particuliers se référant à ce répertoire, doivent être classés et conservés aux greffes des tribunaux de grande instance.
+particuliers se référant à ce répertoire, doivent être classés et conservés aux greffes des tribunaux judiciaires.
 
 Les extraits sont inscrits sur un registre, jour par jour et par ordre numérique.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -24842,38 +25956,40 @@ _Cité par_:
 
 ###### Article 1058
 
-Le classement et la conservation des extraits sont assurés par le greffe du tribunal de grande instance dans le ressort
-duquel est née la personne concernée et par le service central d'état civil pour les personnes nées à l'étranger.
+Le classement et la conservation des extraits sont assurés par le greffe du tribunal judiciaire dans le ressort duquel est
+née la personne concernée et par le service central d'état civil pour les personnes nées à l'étranger.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1059
 
 La publicité des demandes, actes et jugements est réalisée par une mention en marge de l'acte de naissance de l'intéressé.
-Cette mention est faite à la diligence du greffier du tribunal de grande instance ou, le cas échéant, à celle du service
-central d'état civil. Elle est constituée par l'indication " RC " suivie de la référence sous laquelle la demande, l'acte ou
-le jugement a été conservé. 
+Cette mention est faite à la diligence du greffier du tribunal judiciaire ou, le cas échéant, à celle du service central
+d'état civil. Elle est constituée par l'indication " RC " suivie de la référence sous laquelle la demande, l'acte ou le
+jugement a été conservé.
 
 La date à laquelle la mention est apposée est portée sur l'extrait conservé au greffe ou au service central d'état civil.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 29
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1060
@@ -24922,12 +26038,12 @@ _Cite_:
   - Nouveau code de procédure civile 1060
 
 
-### Chapitre III bis : Les funérailles<a id=317></a>
+### Chapitre III bis : Les funérailles<a id=322></a>
 
 ###### Article 1061-1
 
-En matière de contestation sur les conditions des funérailles, le tribunal d'instance est saisi à la requête de la partie la
-plus diligente selon un des modes prévus à l'article 829. 
+En matière de contestation sur les conditions des funérailles, le tribunal judiciaire est saisi à la requête de la partie la
+plus diligente selon un des modes prévus à l'article 750. 
 
 Il statue dans les vingt-quatre heures. 
 
@@ -24936,42 +26052,47 @@ ci ou son délégué est saisi sans forme et doit statuer immédiatement. Les pa
 
 La décision exécutoire sur minute est notifiée au maire chargé de l'exécution.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2012-634 du 3 mai 2012 - art. 19
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 829 (V)
+  - Code de procédure civile - art. 750
 
 
-### Chapitre IV : Les absents<a id=318></a>
+### Chapitre IV : Les absents<a id=323></a>
 
-#### Section I : La présomption d'absence<a id=319></a>
+#### Section I : La présomption d'absence<a id=324></a>
 
 ###### Article 1062
 
 Les demandes relatives à la présomption d'absence sont présentées au juge des tutelles qui exerce ses fonctions au tribunal
-d'instance dans le ressort duquel la personne dont il s'agit de constater la présomption d'absence demeure ou a eu sa
+judiciaire dans le ressort duquel la personne dont il s'agit de constater la présomption d'absence demeure ou a eu sa
 dernière résidence.
 
-A défaut, le juge compétent est celui du tribunal d'instance du lieu où demeure le demandeur.
+A défaut, le juge compétent est celui du tribunal judiciaire du lieu où demeure le demandeur.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1063
@@ -24998,19 +26119,20 @@ _Modifié par_:
 
 Un extrait de toute décision constatant une présomption d'absence ou désignant une personne pour représenter un présumé
 absent et administrer ses biens ainsi que de toute décision portant modification ou suppression des mesures prises est
-transmis au greffe du tribunal de grande instance dans le ressort duquel est née la personne présumée absente, à fin de
-conservation au répertoire civil et de publicité par mention en marge de l'acte de naissance, selon les modalités prévues aux
-articles 1057 à 1061. La transmission est faite au service central d'état civil pour les personnes nées à l'étranger.
+transmis au greffe du tribunal judiciaire dans le ressort duquel est née la personne présumée absente, à fin de conservation
+au répertoire civil et de publicité par mention en marge de l'acte de naissance, selon les modalités prévues aux articles
+1057 à 1061. La transmission est faite au service central d'état civil pour les personnes nées à l'étranger.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -25019,41 +26141,42 @@ _Cite_:
 
 ###### Article 1065
 
-Lorsque la décision a été rendue par le juge des tutelles, la transmission est faite par le greffier du tribunal d'instance
+Lorsque la décision a été rendue par le juge des tutelles, la transmission est faite par le greffier du tribunal judiciaire
 dans les quinze jours qui suivent l'expiration des délais de recours.
 
 Lorsque la décision a été rendue par la cour d'appel, la transmission est faite par le greffe de cette cour dans les quinze
 jours de l'arrêt.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2017-891 du 6 mai 2017 - art. 50
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Section II : La déclaration d'absence<a id=320></a>
+#### Section II : La déclaration d'absence<a id=325></a>
 
 ###### Article 1066
 
-Les demandes relatives à la déclaration d'absence d'une personne sont portées devant le tribunal de grande instance dans le
-ressort duquel celle-ci demeure ou a eu sa dernière résidence.
+Les demandes relatives à la déclaration d'absence d'une personne sont portées devant le tribunal judiciaire dans le ressort
+duquel celle-ci demeure ou a eu sa dernière résidence. A défaut, le tribunal compétent est celui du lieu où demeure le
+demandeur.
 
-A défaut, le tribunal compétent est celui du lieu où demeure le demandeur.
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1067
@@ -25069,6 +26192,22 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+
+
+###### Article 1067-1
+
+Le jugement n'est pas de droit exécutoire à titre provisoire.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
 ###### Article 1068
@@ -25112,9 +26251,9 @@ _Cite_:
   - Code civil - art. 127 (V)
 
 
-### Chapitre V : La procédure en matière familiale<a id=321></a>
+### Chapitre V : La procédure en matière familiale<a id=326></a>
 
-#### Section I : Dispositions générales<a id=322></a>
+#### Section I : Dispositions générales<a id=327></a>
 
 ###### Article 1070
 
@@ -25254,18 +26393,24 @@ _Cité par_:
 
 Le juge aux affaires familiales est, le cas échéant, juge de la mise en état.
 
-Il exerce aussi les fonctions de juge des référés.
+Il exerce les fonctions de juge des référés.
+
+Dans les cas prévus par la loi ou le règlement, il statue selon la procédure accélérée au fond.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 4 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 1074
@@ -25283,19 +26428,27 @@ _Modifié par_:
 
 ###### Article 1074-1
 
-Les mesures portant sur l'exercice de l'autorité parentale, la pension alimentaire, la contribution à l'entretien et
-l'éducation de l'enfant et la contribution aux charges du mariage, ainsi que toutes les mesures prises en application de
-l'article 255 du code civil, sont exécutoires de droit à titre provisoire.
+A moins qu'il n'en soit disposé autrement, les décisions du juge aux affaires familiales qui mettent fin à l'instance ne sont
+pas, de droit, exécutoires à titre provisoire.
+
+Par exception, les mesures portant sur l'exercice de l'autorité parentale, la pension alimentaire, la contribution à
+l'entretien et l'éducation de l'enfant et la contribution aux charges du mariage, ainsi que toutes les mesures prises en
+application de l'article 255 du code civil, sont exécutoires de droit à titre provisoire.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 4 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 _Cité par_:
 
@@ -25303,14 +26456,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 255 (V)
+  - Code civil - art. 255
 
 
-#### Section II : Le divorce judiciaire et la séparation de corps<a id=323></a>
+#### Section II : Le divorce judiciaire et la séparation de corps<a id=328></a>
 
-##### Sous-section I : Dispositions générales<a id=324></a>
+##### Sous-section I : Dispositions générales<a id=329></a>
 
-##### Paragraphe 1 : Les demandes<a id=325></a>
+##### Paragraphe 1 : Les demandes<a id=330></a>
 
 ###### Article 1075
 
@@ -25450,7 +26603,7 @@ _Modifié par_:
   - Décret n°2012-1037 du 10 septembre 2012 - art. 1
 
 
-##### Paragraphe 2 : La prestation compensatoire<a id=326></a>
+##### Paragraphe 2 : La prestation compensatoire<a id=331></a>
 
 ###### Article 1079
 
@@ -25500,7 +26653,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 3 : La publicité et la preuve des jugements<a id=327></a>
+##### Paragraphe 3 : La publicité et la preuve des jugements<a id=332></a>
 
 ###### Article 1081
 
@@ -25569,7 +26722,7 @@ _Cite_:
   - Code de procédure civile - art. 506 (V)
 
 
-##### Paragraphe 4  : La modification des mesures accessoires<a id=328></a>
+##### Paragraphe 4  : La modification des mesures accessoires<a id=333></a>
 
 ###### Article 1083
 
@@ -25634,7 +26787,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 5 : Le pourvoi en cassation<a id=329></a>
+##### Paragraphe 5 : Le pourvoi en cassation<a id=334></a>
 
 ###### Article 1086
 
@@ -25671,7 +26824,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Sous-section II : Le divorce judiciaire par consentement mutuel<a id=330></a>
+##### Sous-section II : Le divorce judiciaire par consentement mutuel<a id=335></a>
 
 ###### Article 1088
 
@@ -25959,9 +27112,9 @@ _Modifié par_:
   - Décret n°2011-272 du 15 mars 2011 - art. 24
 
 
-##### Sous-section III : Les autres procédures de divorce judiciaire<a id=331></a>
+##### Sous-section III : Les autres procédures de divorce judiciaire<a id=336></a>
 
-##### Paragraphe 1 : La requête initiale<a id=332></a>
+##### Paragraphe 1 : La requête initiale<a id=337></a>
 
 ###### Article 1106
 
@@ -26012,7 +27165,7 @@ _Cite_:
   - Code civil - art. 257 (V)
 
 
-##### Paragraphe 2 : La tentative de conciliation<a id=333></a>
+##### Paragraphe 2 : La tentative de conciliation<a id=338></a>
 
 ###### Article 1108
 
@@ -26185,22 +27338,30 @@ _Cité par_:
   - Code de procédure civile - art. 1111 (VT)
 
 
-##### Paragraphe 3 : L'instance<a id=334></a>
+##### Paragraphe 3 : L'instance<a id=339></a>
 
 ###### Article 1114
 
 Sous réserve des règles édictées par les deux premières sections du présent chapitre, l'instance est formée, instruite et
-jugée selon la procédure en matière contentieuse applicable devant le tribunal de grande instance.
+jugée selon la procédure écrite ordinaire applicable devant le tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2013-1280 du 29 décembre 2013 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+
+_Abrogé par_:
+
+  - Décret n°2019-1380 du 17 décembre 2019 - art. 5
 
 
 ###### Article 1115
@@ -26260,7 +27421,7 @@ _Cite_:
   - Code civil - art. 267
 
 
-##### Paragraphe 4 : Les mesures provisoires<a id=335></a>
+##### Paragraphe 4 : Les mesures provisoires<a id=340></a>
 
 ###### Article 1117
 
@@ -26384,7 +27545,7 @@ _Cite_:
   - Code civil - art. 257
 
 
-##### Paragraphe 5 : Les voies de recours<a id=336></a>
+##### Paragraphe 5 : Les voies de recours<a id=341></a>
 
 ###### Article 1122
 
@@ -26402,7 +27563,7 @@ _Anciens textes_:
   - Code de procédure civile - art. 1120 (T)
 
 
-##### Paragraphe 6 : Dispositions particulières au divorce accepté<a id=337></a>
+##### Paragraphe 6 : Dispositions particulières au divorce accepté<a id=342></a>
 
 ###### Article 1123
 
@@ -26473,7 +27634,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal<a id=338></a>
+##### Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal<a id=343></a>
 
 ###### Article 1126
 
@@ -26513,7 +27674,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 8 : Dispositions particulières au divorce pour faute<a id=339></a>
+##### Paragraphe 8 : Dispositions particulières au divorce pour faute<a id=344></a>
 
 ###### Article 1128
 
@@ -26535,7 +27696,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Sous-section IV : La séparation de corps<a id=340></a>
+##### Sous-section IV : La séparation de corps<a id=345></a>
 
 ###### Article 1129
 
@@ -26586,26 +27747,28 @@ _Anciens textes_:
   - Nouveau code de procédure civile 1140
 
 
-##### Sous-section V : Le divorce sur conversion de la séparation de corps<a id=341></a>
+##### Sous-section V : Le divorce sur conversion de la séparation de corps<a id=346></a>
 
 ###### Article 1131
 
 Hors le cas où la séparation de corps a été prononcée par consentement mutuel, la demande en conversion est formée, instruite
-et jugée selon la procédure en matière contentieuse.
+et jugée selon la procédure écrite ordinaire. Aucune demande reconventionnelle n'est recevable, sauf sur les conséquences du
+divorce.
 
-Aucune demande reconventionnelle n'est recevable, sauf sur les conséquences du divorce.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 9 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1333 du 6 décembre 2004 - art. 2 () JORF 8 décembre 2004
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Anciens textes_:
 
@@ -26733,24 +27896,32 @@ _Anciens textes_:
   - Nouveau code de procédure civile 1147
 
 
-#### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins<a id=342></a>
+#### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins<a id=347></a>
 
 ###### Article 1136-1
 
 Les demandes relatives au fonctionnement des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil
 de solidarité ou entre concubins ainsi que celles relatives à la liquidation et au partage des intérêts patrimoniaux des
 époux, des personnes liées par un pacte civil de solidarité et des concubins relevant de la compétence du juge aux affaires
-familiales obéissent aux règles de la procédure en matière contentieuse applicable devant le tribunal de grande instance. Les
-débats sont publics, sous réserve de l'article 435 . La décision est rendue publiquement. 
+familiales obéissent aux règles de la procédure écrite ordinaire applicable devant le tribunal judiciaire. Les débats sont
+publics, sous réserve de l'article 435 . La décision est rendue publiquement.
 
 La demande de prorogation de l'attribution provisoire de la jouissance du logement de la famille prévue par l' alinéa 3 de
 l'article 373-2-9-1 du code civil  est formée, instruite et jugée dans le cadre de la procédure visée à l'alinéa précédent.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-756 du 22 juillet 2019 - art. 10
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Nouveaux textes_:
 
@@ -26790,14 +27961,14 @@ _Cite_:
   - Code civil - art. 267
 
 
-#### Section II ter : La procédure aux fins de mesures de protection des victimes de violences<a id=343></a>
+#### Section II ter : La procédure aux fins de mesures de protection des victimes de violences<a id=348></a>
 
 ###### Article 1136-3
 
 Dans les cas prévus aux articles 515-9 et 515-13 du code civil, le juge est saisi par une requête remise ou adressée au
 greffe. 
 
-Outre les mentions prescrites par l'article 58 du présent code, la requête contient un exposé sommaire des motifs de la
+Outre les mentions prescrites par l'article 57 du présent code, la requête contient un exposé sommaire des motifs de la
 demande et, en annexe, les pièces sur lesquelles celle-ci est fondée. Ces exigences sont prescrites à peine de nullité. 
 
 A moins qu'il ne soit l'auteur de la requête, le ministère public en est aussitôt avisé par le greffier. 
@@ -26815,51 +27986,68 @@ annexées.
 
 Le ministère public est avisé de la date de l'audience par le greffier.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-282 du 11 mars 2015 - art. 10
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
+  - Code de procédure civile - art. 57
   - Code civil - art. 515-9
 
 
 ###### Article 1136-4
 
-Le demandeur peut également former sa demande par assignation en la forme des référés. Dans ce cas, outre les mentions
-prescrites par l'article 56 et l'indication de la date d'audience en application de l'article 485, la demande contient en
-annexe, à peine de nullité, les pièces sur lesquelles la demande est fondée.
+Le demandeur peut également former sa demande par assignation à une date d'audience communiquée au demandeur selon les
+modalités définies à l'article 751.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cite_:
 
-  - Code de procédure civile - art. 485 (V)
-  - Code de procédure civile - art. 56 (V)
+  - Code de procédure civile - art. 751
 
 
 ###### Article 1136-5
 
 Le demandeur qui sollicite, en application du 6° de l'article 515-11 du code civil, l'autorisation de dissimuler son domicile
 ou sa résidence est dispensé d'en indiquer l'adresse dans son acte introductif d'instance, sous réserve de porter cette
-information à la connaissance de l'avocat qui l'assiste ou le représente ou du procureur de la République près du tribunal de
-grande instance, auprès duquel il élit domicile. L'acte mentionne cette élection de domicile. 
+information à la connaissance de l'avocat qui l'assiste ou le représente ou du procureur de la République près du tribunal
+judiciaire, auprès duquel il élit domicile. L'acte mentionne cette élection de domicile.
 
 L'avocat ou le procureur de la République auprès duquel il est élu domicile communique sans délai l'adresse du demandeur au
 juge. Le greffe ainsi que la personne à laquelle l'adresse est communiquée pour les besoins de la procédure ne peuvent la
 porter à la connaissance du défendeur ou de son représentant.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -27063,32 +28251,48 @@ _Cite_:
   - Code civil - art. 515-11
 
 
-#### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales<a id=344></a>
+#### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales<a id=349></a>
 
 ###### Article 1137
 
-Le juge est saisi dans les formes prévues pour les référés.
+Le juge est saisi par une assignation à une date d'audience communiquée au demandeur selon les modalités définies par
+l'article 751. 
 
-Il peut également être saisi par requête remise ou adressée au greffe, conjointement ou par une partie seulement. La requête
-doit indiquer les nom, prénom et adresse des parties ou, le cas échéant, la dernière adresse connue du défendeur. Pour les
-personnes morales, elle mentionne leur forme, leur dénomination, leur siège et l'organe qui les représente légalement. Elle
-contient l'objet de la demande et un exposé sommaire de ses motifs. Elle est datée et signée de celui qui la présente ou de
-son avocat.
+En cas d'urgence dûment justifiée, le juge aux affaires familiales, saisi par requête, peut permettre d'assigner à une date
+d'audience fixée à bref délai. 
+
+Dans ces deux cas, la remise au greffe de l'assignation ainsi que la constitution du défendeur doivent intervenir au plus
+tard la veille de l'audience. A défaut de remise de l'assignation dans le délai imparti, sa caducité est constatée d'office
+par ordonnance du juge aux affaires familiales ou, à défaut, à la requête d'une partie. 
+
+Le juge peut également être saisi par requête remise ou adressée au greffe, conjointement ou par une partie seulement. La
+requête doit indiquer les nom, prénom et adresse des parties ou, le cas échéant, la dernière adresse connue du défendeur.
+Pour les personnes morales, elle mentionne leur forme, leur dénomination, leur siège et l'organe qui les représente
+légalement. Elle contient l'objet de la demande et un exposé sommaire de ses motifs. Elle est datée et signée de celui qui la
+présente ou de son avocat.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cité par_:
 
   - Code de procédure civile - art. 1210-11 (V)
+
+_Cite_:
+
+  - Code de procédure civile - art. 751
 
 
 ###### Article 1138
@@ -27123,17 +28327,22 @@ _Cite_:
 
 Les parties se défendent elles-mêmes ; elles ont la faculté de se faire assister ou représenter par un avocat.
 
+En matière de demande de révision de prestation compensatoire, les parties sont tenues de constituer avocat.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1333 du 6 décembre 2004 - art. 1 () JORF 8 décembre 2004
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 8
 
 _Cité par_:
 
@@ -27148,17 +28357,23 @@ _Nouveaux textes_:
 
 La procédure est orale.
 
+En matière de demande de révision de prestation compensatoire, l'instance est formée, instruite et jugée selon la procédure
+écrite ordinaire applicable devant le tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 10 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 3 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
-  - Décret n°2004-1333 du 6 décembre 2004 - art. 1 () JORF 8 décembre 2004
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 8
 
 _Nouveaux textes_:
 
@@ -27246,7 +28461,7 @@ _Cite_:
   - Code civil - art. 373-2-7 (V)
 
 
-### Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire<a id=345></a>
+### Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire<a id=350></a>
 
 ###### Article 1144
 
@@ -27501,25 +28716,30 @@ _Créé par_:
   - Décret n°2019-1380 du 17 décembre 2019 - art. 8
 
 
-### Chapitre VI : La filiation et les subsides<a id=346></a>
+### Chapitre VI : La filiation et les subsides<a id=351></a>
 
-#### Section I : Dispositions générales<a id=347></a>
+#### Section I : Dispositions générales<a id=352></a>
 
 ###### Article 1149
 
 Les actions relatives à la filiation et aux subsides sont instruites et débattues en chambre du conseil.
 
-Le jugement est prononcé en audience publique.
+Le jugement est prononcé en audience publique. Il n'est pas de droit exécutoire à titre provisoire.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
 ###### Article 1149-1
@@ -27579,7 +28799,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 1153-1
 
 
-#### Section II : Les subsides<a id=348></a>
+#### Section II : Les subsides<a id=353></a>
 
 ###### Article 1156
 
@@ -27600,7 +28820,7 @@ _Modifié par_:
   - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
-#### Section IV : Le consentement à la procréation médicalement assistée<a id=349></a>
+#### Section IV : Le consentement à la procréation médicalement assistée<a id=354></a>
 
 ###### Article 1157-2
 
@@ -27680,9 +28900,9 @@ _Cite_:
   - Code de procédure civile - art. 1157-2 (V)
 
 
-### Chapitre VIII : L'adoption<a id=350></a>
+### Chapitre VIII : L'adoption<a id=355></a>
 
-#### Section I : Le consentement à l'adoption<a id=351></a>
+#### Section I : Le consentement à l'adoption<a id=356></a>
 
 ###### Article 1165
 
@@ -27706,11 +28926,11 @@ _Cite_:
   - Code civil - art. 348-3 (V)
 
 
-#### Section II : La procédure d'adoption<a id=352></a>
+#### Section II : La procédure d'adoption<a id=357></a>
 
 ###### Article 1166
 
-La demande aux fins d'adoption est portée devant le tribunal de grande instance.
+La demande aux fins d'adoption est portée devant le tribunal judiciaire.
 
 Le tribunal compétent est :
 
@@ -27721,15 +28941,16 @@ Le tribunal compétent est :
 - le tribunal choisi en France par le requérant lorsque celui-ci et la personne dont l'adoption est demandée demeurent à
 l'étranger.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1167
@@ -27907,25 +29128,27 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-#### Section III : La procédure relative à la révocation de l'adoption simple<a id=353></a>
+#### Section III : La procédure relative à la révocation de l'adoption simple<a id=358></a>
 
 ###### Article 1177
 
-L'instance obéit aux règles de la procédure en matière contentieuse.
+L'instance obéit aux règles de la procédure écrite ordinaire. L'affaire est instruite et débattue en chambre du conseil,
+après avis du ministère public. Le jugement est prononcé en audience publique.
 
-L'affaire est instruite et débattue en chambre du conseil, après avis du ministère public.
+**Nota:**
 
-Le jugement est prononcé en audience publique.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article 1178
@@ -27943,27 +29166,34 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-#### Section IV : Dispositions communes<a id=354></a>
+#### Section IV : Dispositions communes<a id=359></a>
 
 ###### Article 1178-1
 
+La décision relative à l'adoption n'est pas de droit exécutoire à titre provisoire.
+
 Le délai de pourvoi en cassation suspend l'exécution de la décision relative à l'adoption. Le pourvoi en cassation exercé
 dans ce délai est également suspensif.
+
+**Nota:**
+
+Conformément au II de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions s'appliquent aux instances
+introduites devant les juridictions du premier degré à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 20 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-### Chapitre IX : L'autorité parentale<a id=355></a>
+### Chapitre IX : L'autorité parentale<a id=360></a>
 
-#### Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant<a id=356></a>
+#### Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant<a id=361></a>
 
 ###### Article 1179
 
@@ -28007,29 +29237,32 @@ _Cite_:
 ###### Article 1180
 
 Les demandes formées en application de l'article 371-4 et de l'alinéa 2 de l'article 373-3 du code civil obéissent aux règles
-de la procédure en matière contentieuse applicable devant le tribunal de grande instance ; elles sont jugées après avis du
-ministère public.
+de la procédure écrite ordinaire applicable devant le tribunal judiciaire ; elles sont jugées après avis du ministère public.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 11 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code civil - art. 371-4 (V)
-  - Code civil - art. 373-3 (V)
+  - Code civil - art. 371-4
+  - Code civil - art. 373-3
 
 
 ###### Article 1180-1
 
 La déclaration conjointe prévue aux articles 365 et 372 du code civil est remise ou envoyée en trois exemplaires par lettre
-recommandée au directeur de greffe du tribunal de grande instance du lieu où demeure l'enfant.
+recommandée au directeur de greffe du tribunal judiciaire du lieu où demeure l'enfant.
 
 Elle est accompagnée des pièces suivantes :
 
@@ -28044,15 +29277,16 @@ Le directeur de greffe appose son visa et la date sur chacun des exemplaires de 
 lettre recommandée, un exemplaire à chacun des parents dans les conditions prévues aux articles 665 à 670-3 et en conserve un
 exemplaire au greffe.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -28175,9 +29409,9 @@ _Cite_:
   - Code civil - art. 373-2-9
 
 
-#### Section I bis : L'intervention du juge des tutelles en matière d'administration légale<a id=357></a>
+#### Section I bis : L'intervention du juge des tutelles en matière d'administration légale<a id=362></a>
 
-##### Sous-section 1 : La demande<a id=358></a>
+##### Sous-section 1 : La demande<a id=363></a>
 
 ###### Article 1180-6
 
@@ -28197,9 +29431,8 @@ _Créé par_:
 
 ###### Article 1180-7
 
-Le juge est saisi par requête remise ou adressée au greffe du tribunal de grande instance. La requête indique, à peine de
-nullité, les nom, prénoms et adresse du requérant, son lien avec le mineur, l'identité et l'adresse du mineur et de ses
-parents. 
+Le juge est saisi par requête remise ou adressée au greffe du tribunal judiciaire. La requête indique, à peine de nullité,
+les nom, prénoms et adresse du requérant, son lien avec le mineur, l'identité et l'adresse du mineur et de ses parents.
 
 Lorsque la requête est fondée sur les dispositions du deuxième alinéa de l'article 387-3 du code civil, elle comporte à peine
 d'irrecevabilité, les mentions prévues à l'alinéa précédent et l'énoncé précis des faits de nature à porter gravement
@@ -28208,21 +29441,21 @@ cas échéant, les pièces propres à justifier ces faits.
 
 **Nota:**
 
-Décret n° 2016-185 du 23 février 2016, art. 18 : Ces dispositions sont applicables aux administrations légales en cours au
-jour de son entrée en vigueur.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-185 du 23 février 2016 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code civil - art. 387-3
 
 
-##### Sous-section 2 : L'instruction de la demande<a id=359></a>
+##### Sous-section 2 : L'instruction de la demande<a id=364></a>
 
 ###### Article 1180-8
 
@@ -28306,7 +29539,7 @@ _Cité par_:
   - Code de procédure civile - art. 1187-1 (V)
 
 
-##### Sous-section 3 : La consultation du dossier et la délivrance de copies<a id=360></a>
+##### Sous-section 3 : La consultation du dossier et la délivrance de copies<a id=365></a>
 
 ###### Article 1180-12
 
@@ -28363,7 +29596,7 @@ _Créé par_:
   - Décret n°2016-185 du 23 février 2016 - art. 4
 
 
-##### Sous-section 4 : Les décisions du juge des tutelles<a id=361></a>
+##### Sous-section 4 : Les décisions du juge des tutelles<a id=366></a>
 
 ###### Article 1180-14
 
@@ -28409,7 +29642,7 @@ _Créé par_:
   - Décret n°2016-185 du 23 février 2016 - art. 4
 
 
-##### Sous-section 5 : Les notifications et les copies des décisions<a id=362></a>
+##### Sous-section 5 : Les notifications et les copies des décisions<a id=367></a>
 
 ###### Article 1180-16
 
@@ -28459,7 +29692,7 @@ _Créé par_:
   - Décret n°2016-185 du 23 février 2016 - art. 4
 
 
-##### Sous-section 6 : L'appel<a id=363></a>
+##### Sous-section 6 : L'appel<a id=368></a>
 
 ###### Article 1180-18
 
@@ -28483,7 +29716,7 @@ _Cite_:
   - Code de procédure civile - art. 1239
 
 
-##### Sous-section 7 : L'amende civile<a id=364></a>
+##### Sous-section 7 : L'amende civile<a id=369></a>
 
 ###### Article 1180-19
 
@@ -28504,7 +29737,7 @@ _Cite_:
   - Code civil - art. 387-6
 
 
-#### Section II : L'assistance éducative<a id=365></a>
+#### Section II : L'assistance éducative<a id=370></a>
 
 ###### Article 1181
 
@@ -28782,11 +30015,17 @@ _Cite_:
 
 ###### Article 1188
 
-L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
-la convocation indique. 
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'une chambre de proximité située dans le ressort,
+que la convocation indique.
 
-Les  parents, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
+Les parents, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
 l'audience huit jours au moins avant la date de celle-ci ; les conseils des parties sont également avisés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, lcs dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -28796,7 +30035,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-429 du 24 mai 2013 - art. 1
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cité par_:
 
@@ -29136,7 +30375,7 @@ _Cite_:
   - Code civil - art. 375
 
 
-#### Section II bis : La mesure judiciaire d'aide à la gestion du budget familial<a id=366></a>
+#### Section II bis : La mesure judiciaire d'aide à la gestion du budget familial<a id=371></a>
 
 ###### Article 1200-2
 
@@ -29296,20 +30535,26 @@ _Créé par_:
 
 ###### Article 1200-8
 
-L'affaire est instruite et jugée en chambre du conseil. 
+L'affaire est instruite et jugée en chambre du conseil.
 
-L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
-la convocation indique. 
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'une chambre de proximité située dans le ressort,
+que la convocation indique.
 
 A l'audience, le juge entend l'allocataire ou l'attributaire des prestations familiales et porte à sa connaissance les motifs
 de sa saisine. Il entend toute autre personne dont l'audition lui paraît utile. L'avocat de l'allocataire ou de
 l'attributaire des prestations est entendu en ses observations.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1486 du 30 décembre 2008 - art. 3
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 1200-9
@@ -29409,37 +30654,48 @@ _Cite_:
   - Code de procédure civile - art. 1200-10
 
 
-#### Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental<a id=367></a>
+#### Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental<a id=372></a>
 
 ###### Article 1202
 
-Les demandes en retrait total ou partiel de l'autorité parentale sont portées devant le tribunal de grande instance du lieu
-où demeure l'ascendant contre lequel l'action est exercée.
+Les demandes en retrait total ou partiel de l'autorité parentale sont portées devant le tribunal judiciaire du lieu où
+demeure l'ascendant contre lequel l'action est exercée.
 
 Les demandes en délégation de l'autorité parentale sont portées devant le juge aux affaires familiales du lieu où demeure le
 mineur.
 
-Les  demandes en déclaration judiciaire de délaissement parental sont  portées devant le tribunal de grande instance du lieu
-où demeure le  mineur.
+Les demandes en déclaration judiciaire de délaissement parental sont portées devant le tribunal judiciaire du lieu où demeure
+le mineur. Lorsqu'elles émanent du service de l'aide sociale à l'enfance, elles sont portées devant le tribunal judiciaire du
+chef-lieu du département dans lequel le mineur a été recueilli.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-148 du 7 février 2017 - art. 3
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article 1203
 
-Le tribunal ou le juge est saisi par requête remise ou adressée au greffe. Les parties sont dispensées du ministère d'avocat.
-La requête peut être adressée au procureur de la République qui doit la transmettre au tribunal ou au juge. 
+Le tribunal ou le juge est saisi par requête remise ou adressée au greffe. Sauf pour les demandes de délégation de l'autorité
+parentale, les parties sont tenues de constituer avocat. La requête peut être adressée au procureur de la République qui doit
+la transmettre au tribunal ou au juge. 
 
-Outre les mentions prévues à l'article 58, la requête indique, à peine d'irrecevabilité, le lieu où demeure le mineur et, le
+Outre les mentions prévues à l'article 57, la requête indique, à peine d'irrecevabilité, le lieu où demeure le mineur et, le
 cas échéant, le lieu où demeurent le ou les titulaires de l'autorité parentale ainsi que les motifs de la requête.
+
+**Nota:**
+
+<font color="black">Conformément au II de l’article 55 du décret n° 2019-1333, les présentes dispositions sont applicables
+aux instances introduites à compter du 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -29449,7 +30705,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-148 du 7 février 2017 - art. 3
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 8
 
 _Cité par_:
 
@@ -29457,7 +30714,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de procédure civile - art. 58 (V)
+  - Code de procédure civile - art. 57
 
 
 ###### Article 1204
@@ -29610,13 +30867,22 @@ _Cité par_:
 
 ###### Article 1208-2
 
-L'affaire est instruite et jugée en chambre du conseil après avis du ministère public.
+L'affaire est instruite et jugée en chambre du conseil après avis du ministère public. La procédure est orale.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-148 du 7 février 2017 - art. 3
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+
+_Cité par_:
+
+  - Code de procédure civile - art. 1261-1 (VD)
 
 
 ###### Article 1208-3
@@ -29689,26 +30955,51 @@ _Cite_:
 
 ###### Article 1209-1
 
-L'appel est formé selon les règles édictées aux articles 931 à 934. 
+Pour les demandes de délégation d'autorité parentale, l'appel est formé selon les règles édictées aux articles 931 à 934.
 
 Le greffier avise de l'appel, par lettre simple, les personnes et le service auxquels la décision a été notifiée et qui ne
-l'auraient pas eux-mêmes formé et les informe qu'ils seront ultérieurement convoqués devant la cour. 
+l'auraient pas eux-mêmes formé et les informe qu'ils seront ultérieurement convoqués devant la cour.
 
 L'appel est instruit et jugé en chambre du conseil par la cour d'appel chargée des affaires de mineurs suivant la procédure
-applicable en première instance. 
+applicable en première instance.
 
 Les décisions de la cour d'appel sont notifiées comme il est dit à l'article 1208-3.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-148 du 7 février 2017 - art. 3
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
   - Code de procédure civile - art. 1208-3 (V)
   - Code de procédure civile - art. 931 (V)
+
+
+###### Article 1209-1-1
+
+Pour les demandes de retrait total et partiel de l'autorité parentale et de déclaration judiciaire de délaissement de
+l'autorité parentale, l'appel est formé selon les règles de la représentation obligatoire.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+Conformément à l'article 22 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux instances introduites à compter du 1er janvier 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article 1209-2
@@ -29741,7 +31032,7 @@ _Modifié par_:
   - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
-#### Section IV : Dispositions relatives à l'administrateur ad hoc<a id=368></a>
+#### Section IV : Dispositions relatives à l'administrateur ad hoc<a id=373></a>
 
 ###### Article 1210-1
 
@@ -29833,49 +31124,50 @@ _Cite_:
   - Code de procédure pénale - art. R53-8
 
 
-#### Section V : Le déplacement illicite international d'enfants<a id=369></a>
+#### Section V : Le déplacement illicite international d'enfants<a id=374></a>
 
 ###### Article 1210-4
 
 L'autorité centrale désignée dans le cadre des instruments internationaux et européens relatifs au déplacement illicite
-international d'enfants transmet au procureur de la République près le tribunal de grande instance territorialement compétent
-en application de l'article L. 211-12 du code de l'organisation judiciaire la demande de retour dont elle a été saisie. 
+international d'enfants transmet au procureur de la République près le tribunal judiciaire territorialement compétent en
+application de l'article L. 211-12 du code de l'organisation judiciaire la demande de retour dont elle a été saisie.
 
 I. – Lorsque la demande concerne un enfant déplacé ou retenu en France, le procureur de la République ordonne dès réception
 tous les actes utiles pour localiser l'enfant ou confirmer sa localisation. Si une juridiction a été saisie au fond sur les
-modalités de l'exercice de l'autorité parentale, le procureur de la République l'informe de la demande de retour. 
+modalités de l'exercice de l'autorité parentale, le procureur de la République l'informe de la demande de retour.
 
-Le procureur de la République peut aussi : 
+Le procureur de la République peut aussi :
 
 1° Prendre toute mesure en vue d'assurer la remise volontaire de l'enfant, notamment en faisant procéder à l'audition de la
 personne dont il est allégué qu'elle a déplacé ou retenu l'enfant et en l'invitant à un retour volontaire de l'enfant, ou de
-faciliter une solution amiable ; 
+faciliter une solution amiable ;
 
-2° Ordonner toute mesure d'investigation, examen ou expertise qui lui semble nécessaire ; 
+2° Ordonner toute mesure d'investigation, examen ou expertise qui lui semble nécessaire ;
 
 3° Saisir le juge compétent pour qu'il ordonne les mesures provisoires prévues par la loi ou, le cas échéant, transmettre les
-informations nécessaires au procureur de la République près le tribunal de grande instance territorialement compétent aux
-mêmes fins ; 
+informations nécessaires au procureur de la République près le tribunal judiciaire territorialement compétent aux mêmes
+fins ;
 
-4° Introduire une procédure judiciaire afin d'obtenir le retour de l'enfant. 
+4° Introduire une procédure judiciaire afin d'obtenir le retour de l'enfant.
 
 II. – Lorsque la demande concerne un enfant déplacé ou retenu à l'étranger, le procureur de la République peut ordonner toute
 mesure d'investigation afin de recueillir les informations sur l'enfant et son environnement matériel, familial et social qui
-ont été sollicitées par l'autorité centrale étrangère. 
+ont été sollicitées par l'autorité centrale étrangère.
 
 Le procureur de la République peut également prendre les mesures qu'il estime utiles afin d'assurer la protection de l'enfant
-après son retour ou, le cas échéant, transmettre les éléments pertinents au procureur de la République près le tribunal de
-grande instance territorialement compétent aux mêmes fins.
+après son retour ou, le cas échéant, transmettre les éléments pertinents au procureur de la République près le tribunal
+judiciaire territorialement compétent aux mêmes fins.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 28
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Nouveaux textes_:
 
@@ -29893,12 +31185,17 @@ _Cite_:
 ###### Article 1210-5
 
 Les actions engagées sur le fondement des dispositions des instruments internationaux et européens relatives au déplacement
-illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal de grande instance
-territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
+illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal judiciaire territorialement
+compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
 
 Est également portée devant le juge mentionné au premier alinéa la demande tendant à l'interdiction de sortie de l'enfant du
 territoire français sans l'autorisation des deux parents lorsque ce juge est saisi d'une demande de retour de l'enfant ou
 lorsque la demande est formée par le procureur de la République en application de l'article 1210-4.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -29910,13 +31207,9 @@ _Cite_:
 
   - Convention 1980-10-25
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 28
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Nouveaux textes_:
 
@@ -29926,7 +31219,12 @@ _Nouveaux textes_:
 ###### Article 1210-6
 
 La demande aux fins d'obtenir le retour de l'enfant, en application de la convention du 25 octobre 1980 sur les aspects
-civils de l'enlèvement international d'enfants, est formée, instruite et jugée en la forme des référés.
+civils de l'enlèvement international d'enfants, est formée, instruite et jugée selon la procédure accélérée au fond.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -29941,7 +31239,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 28
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Anciens textes_:
 
@@ -29955,15 +31253,20 @@ _Nouveaux textes_:
 ###### Article 1210-7
 
 Dès qu'il est informé de la décision de retour, le procureur de la République chargé de son exécution, qui est celui près le
-tribunal de grande instance spécialement désigné en application de l'article L. 211-12 du code de l'organisation judiciaire,
-dans le ressort duquel se trouve l'enfant, peut procéder ou faire procéder à l'audition de la personne chez qui se trouve
-l'enfant qui fait l'objet de cette décision.
+tribunal judiciaire spécialement désigné en application de l'article L. 211-12 du code de l'organisation judiciaire, dans le
+ressort duquel se trouve l'enfant, peut procéder ou faire procéder à l'audition de la personne chez qui se trouve l'enfant
+qui fait l'objet de cette décision.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 28
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -29998,11 +31301,16 @@ _Cité par_:
 
 En l'absence d'exécution volontaire de la décision de retour, le procureur de la République compétent en application de
 l'article 34-1 de la loi n° 95-125 du 8 janvier 1995 pour requérir directement la force publique afin de faire exécuter la
-décision est celui près le tribunal de grande instance spécialement désigné en application de l'article L. 211-12 du code de
+décision est celui près le tribunal judiciaire spécialement désigné en application de l'article L. 211-12 du code de
 l'organisation judiciaire, dans le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de la
-République près le tribunal de grande instance dans le ressort duquel se trouve l'enfant de son intention de requérir la
-force publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles,
-notamment au regard des risques que l'exécution de la décision pourrait entraîner.
+République près le tribunal judiciaire dans le ressort duquel se trouve l'enfant de son intention de requérir la force
+publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles, notamment au
+regard des risques que l'exécution de la décision pourrait entraîner.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -30013,7 +31321,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 28
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -30090,11 +31398,11 @@ _Créé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 28
 
 
-### Chapitre X : La protection juridique des mineurs et des majeurs<a id=370></a>
+### Chapitre X : La protection juridique des mineurs et des majeurs<a id=375></a>
 
-#### Section I : Dispositions relatives aux mesures prononcées par le juge<a id=371></a>
+#### Section I : Dispositions relatives aux mesures prononcées par le juge<a id=376></a>
 
-##### Sous-section 1 : Dispositions générales<a id=372></a>
+##### Sous-section 1 : Dispositions générales<a id=377></a>
 
 ###### Article 1211
 
@@ -30237,9 +31545,69 @@ _Cite_:
   - Code civil - art. 417
 
 
-##### Sous-section 2 : La procédure devant le juge des tutelles<a id=373></a>
+##### Sous-section 1 bis : Les informations adressées au procureur de la République préalablement à la saisine du juge des tutelles<a id=378></a>
 
-##### Paragraphe 1 : La demande<a id=374></a>
+###### Article 1216-1
+
+Les demandes présentées au procureur de la République aux fins de saisine du juge des tutelles contiennent l'identité de la
+personne à protéger et la description des faits appelant la protection au sens de l'article 428 du code civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1464 du 26 décembre 2019 - art. 2
+
+_Cite_:
+
+  - Code civil - art. 428
+
+
+###### Article 1216-2
+
+La demande contient également, lorsqu'elles sont connues et utiles, les informations suivantes, en précisant comment elles
+ont été recueillies :
+
+- la composition de la famille de la personne à protéger, ses conditions de vie, son lieu de vie et son environnement
+social ;
+
+- la consistance de son patrimoine, les ressources, les charges et dettes ainsi que, le cas échéant, la liste des prestations
+mobilisables au bénéfice de la personne ;
+
+- l'autonomie de la personne, évaluée au regard de sa capacité à s'organiser seule dans la vie quotidienne, à accomplir ses
+démarches administratives et gérer son budget, seule.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1464 du 26 décembre 2019 - art. 2
+
+
+###### Article 1216-3
+
+Les services départementaux et communaux d'action sociale, les maisons départementales des personnes handicapées, les
+institutions mettant en œuvre la méthode mentionnée à l'article L. 113-3 du code de l'action sociale et des familles, les
+établissements et services sociaux et médico-sociaux et les établissements de santé sont tenus de transmettre au procureur de
+la République les informations mentionnées aux articles 1216-1 et 1216-2. 
+
+Le cas échéant, les responsables de ces établissements et services précisent quelles actions sont menées et envisagées dans
+l'intérêt de la personne qu'il y a lieu de protéger.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1464 du 26 décembre 2019 - art. 2
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L113-3 (V)
+
+
+##### Sous-section 2 : La procédure devant le juge des tutelles<a id=379></a>
+
+##### Paragraphe 1 : La demande<a id=380></a>
 
 ###### Article 1217
 
@@ -30341,7 +31709,19 @@ _Cite_:
   - Code civil - art. 431
 
 
-##### Paragraphe 2 : L'instruction de la demande<a id=375></a>
+###### Article 1219-1
+
+Les requêtes adressées par le procureur de la République aux juges des tutelles contiennent les informations mentionnées aux
+articles 1216-1 à 1216-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1464 du 26 décembre 2019 - art. 3
+
+
+##### Paragraphe 2 : L'instruction de la demande<a id=381></a>
 
 ###### Article 1220
 
@@ -30500,7 +31880,7 @@ _Cité par_:
   - Code de procédure civile - art. 1187-1 (V)
 
 
-##### Paragraphe 3 : La consultation du dossier et la délivrance de copies<a id=376></a>
+##### Paragraphe 3 : La consultation du dossier et la délivrance de copies<a id=382></a>
 
 ###### Article 1222
 
@@ -30655,7 +32035,7 @@ _Cite_:
   - Code de procédure civile - art. 1222
 
 
-##### Paragraphe 4 : Les convocations à l'audience<a id=377></a>
+##### Paragraphe 4 : Les convocations à l'audience<a id=383></a>
 
 ###### Article 1225
 
@@ -30690,7 +32070,7 @@ _Cite_:
   - Code civil - art. 494-4
 
 
-##### Paragraphe 5 : Les décisions du juge des tutelles<a id=378></a>
+##### Paragraphe 5 : Les décisions du juge des tutelles<a id=384></a>
 
 ###### Article 1226
 
@@ -30784,7 +32164,7 @@ _Cite_:
   - Code de procédure civile - art. 1213 (V)
 
 
-##### Paragraphe 6 : Les notifications<a id=379></a>
+##### Paragraphe 6 : Les notifications<a id=385></a>
 
 ###### Article 1230
 
@@ -30861,32 +32241,37 @@ _Cité par_:
   - Code de procédure civile - art. 1260-11 (Ab)
 
 
-##### Paragraphe 7 : L'exécution de la décision<a id=380></a>
+##### Paragraphe 7 : L'exécution de la décision<a id=386></a>
 
 ###### Article 1233
 
 Un extrait de toute décision portant ouverture, modification de régime ou de durée ou mainlevée d'une mesure de curatelle ou
 de tutelle concernant un majeur ou un extrait de toute décision accordant, modifiant, renouvelant ou mettant fin à une
-habilitation familiale générale est transmis par tout moyen au greffe du tribunal de grande instance dans le ressort duquel
-est née la personne protégée, à fin de conservation au répertoire civil et de publicité par mention en marge de l'acte de
-naissance selon les modalités prévues au chapitre III du présent titre. 
+habilitation familiale générale est transmis par tout moyen au greffe du tribunal judiciaire dans le ressort duquel est née
+la personne protégée, à fin de conservation au répertoire civil et de publicité par mention en marge de l'acte de naissance
+selon les modalités prévues au chapitre III du présent titre.
 
-Lorsque la décision est rendue par le juge des tutelles, la transmission est faite par le greffe du tribunal d'instance dans
-les quinze jours qui suivent l'expiration des délais de recours. 
+Lorsque la décision est rendue par le juge des tutelles, la transmission est faite par le greffe du tribunal judiciaire dans
+les quinze jours qui suivent l'expiration des délais de recours.
 
 Lorsque la décision est rendue par la cour d'appel, la transmission est faite par le greffe de cette cour dans les quinze
-jours de l'arrêt. 
+jours de l'arrêt.
 
 Lorsqu'une mesure de protection a pris fin par l'expiration du délai fixé ou pour une autre cause que celle visée au premier
 alinéa et à l'article 494-11 du code civil, avis en est donné par tout moyen et aux mêmes fins par le greffe du tribunal
-d'instance, d'office ou après avoir été saisi par tout intéressé, au greffe du tribunal de grande instance dans le ressort
-duquel est née la personne protégée.
+judiciaire, d'office ou après avoir été saisi par tout intéressé, au greffe du tribunal judiciaire dans le ressort duquel est
+née la personne protégée.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-756 du 22 juillet 2019 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -30897,9 +32282,9 @@ _Cite_:
   - Code civil - art. 494-11
 
 
-##### Sous-section 3 : Le conseil de famille<a id=381></a>
+##### Sous-section 3 : Le conseil de famille<a id=387></a>
 
-##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs<a id=382></a>
+##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs<a id=388></a>
 
 ###### Article 1234
 
@@ -31040,7 +32425,7 @@ _Modifié par_:
   - Décret n°2008-1276 du 5 décembre 2008 - art. 1
 
 
-##### Paragraphe 2 : Dispositions relatives aux mineurs<a id=383></a>
+##### Paragraphe 2 : Dispositions relatives aux mineurs<a id=389></a>
 
 ###### Article 1236
 
@@ -31058,7 +32443,7 @@ _Cite_:
   - Code civil - art. 388-1
 
 
-##### Paragraphe 3 : Dispositions relatives aux majeurs.<a id=384></a>
+##### Paragraphe 3 : Dispositions relatives aux majeurs.<a id=390></a>
 
 ###### Article 1237
 
@@ -31116,7 +32501,7 @@ _Cite_:
   - Code de procédure civile - art. 1239-3 (V)
 
 
-##### Sous-section 4 : L'appel.<a id=385></a>
+##### Sous-section 4 : L'appel.<a id=391></a>
 
 ###### Article 1239
 
@@ -31654,7 +33039,7 @@ _Modifié par_:
   - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
-##### Sous-section 5 : La sauvegarde de justice.<a id=386></a>
+##### Sous-section 5 : La sauvegarde de justice.<a id=392></a>
 
 ###### Article 1248
 
@@ -31811,9 +33196,9 @@ _Modifié par_:
   - Décret n°2011-1043 du 1er septembre 2011 - art. 2
 
 
-##### Sous-section 6 : La curatelle et la tutelle.<a id=387></a>
+##### Sous-section 6 : La curatelle et la tutelle.<a id=393></a>
 
-##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs.<a id=388></a>
+##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs.<a id=394></a>
 
 ###### Article 1253
 
@@ -31881,7 +33266,7 @@ _Cite_:
   - Code civil - art. 511
 
 
-##### Paragraphe 2 : Dispositions relatives aux majeurs.<a id=389></a>
+##### Paragraphe 2 : Dispositions relatives aux majeurs.<a id=395></a>
 
 ###### Article 1255
 
@@ -31940,31 +33325,36 @@ _Cite_:
   - Nouveau code de procédure civile 1255 et 1256
 
 
-#### Section II : Dispositions relatives au mandat de protection future.<a id=390></a>
+#### Section II : Dispositions relatives au mandat de protection future.<a id=396></a>
 
 ###### Article 1258
 
 Pour la mise en œuvre du mandat de protection future établi en application du premier alinéa de l'article 477 du code civil,
-le mandataire se présente en personne au greffe du tribunal d'instance dans le ressort duquel réside le mandant, accompagné
+le mandataire se présente en personne au greffe du tribunal judiciaire dans le ressort duquel réside le mandant, accompagné
 de ce dernier, sauf s'il est établi, par certificat médical, que sa présence au tribunal est incompatible avec son état de
-santé. 
+santé.
 
-Le mandataire présente au greffier : 
+Le mandataire présente au greffier :
 
-1° L'original du mandat ou sa copie authentique, signé du mandant et du mandataire ; 
+1° L'original du mandat ou sa copie authentique, signé du mandant et du mandataire ;
 
 2° Un certificat médical datant de deux mois au plus, émanant d'un médecin inscrit sur la liste mentionnée à l'article 431 du
-code civil et établissant que le mandant se trouve dans l'une des situations prévues à l'article 425 du même code ; 
+code civil et établissant que le mandant se trouve dans l'une des situations prévues à l'article 425 du même code ;
 
-3° Une pièce d'identité relative respectivement au mandataire et au mandant ; 
+3° Une pièce d'identité relative respectivement au mandataire et au mandant ;
 
 4° Un justificatif de la résidence habituelle du mandant.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -31976,31 +33366,36 @@ _Cite_:
 ###### Article 1258-1
 
 Pour la mise en œuvre du mandat de protection future établi en application du troisième alinéa de l'article 477 du code
-civil, le mandataire se présente en personne au greffe du tribunal d'instance dans le ressort duquel réside le bénéficiaire
+civil, le mandataire se présente en personne au greffe du tribunal judiciaire dans le ressort duquel réside le bénéficiaire
 du mandat, accompagné de ce dernier, sauf s'il est établi, par certificat médical, que sa présence au tribunal est
-incompatible avec son état de santé. 
+incompatible avec son état de santé.
 
-Le mandataire présente au greffier : 
+Le mandataire présente au greffier :
 
-1° La copie authentique du mandat, signé du mandant et du mandataire ; 
+1° La copie authentique du mandat, signé du mandant et du mandataire ;
 
 2° Un certificat de décès du mandant ou un certificat médical datant de deux mois au plus, émanant d'un médecin inscrit sur
 la liste mentionnée à l'article 431 du code civil et établissant que le mandant se trouve dans l'une des situations prévues à
-l'article 425 du même code ; 
+l'article 425 du même code ;
 
 3° Un certificat médical datant de deux mois au plus, émanant d'un médecin inscrit sur la liste mentionnée à l'article 431 du
 code civil et établissant que l'enfant majeur du mandant désigné comme le bénéficiaire du mandat se trouve dans l'une des
-situations prévues à l'article 425 du même code ; 
+situations prévues à l'article 425 du même code ;
 
-4° Une pièce d'identité relative respectivement au mandataire et au bénéficiaire du mandat ; 
+4° Une pièce d'identité relative respectivement au mandataire et au bénéficiaire du mandat ;
 
 5° Un justificatif de la résidence habituelle du bénéficiaire du mandat.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -32073,26 +33468,31 @@ _Créé par_:
 Le rétablissement des facultés personnelles de la personne protégée est constaté par un certificat médical datant de deux
 mois au plus, émanant d'un médecin choisi sur la liste mentionnée à l'article 431 du code civil, saisi par le bénéficiaire du
 mandat, le mandant ou son mandataire et établissant que la personne protégée ne se trouve plus dans l'une des situations
-prévues à l'article 425 du même code. 
+prévues à l'article 425 du même code.
 
-Le bénéficiaire du mandat, le mandant ou le mandataire peuvent se présenter à tout moment au greffe du tribunal d'instance
-pour faire constater la fin du mandat au vu de ce certificat. 
+Le bénéficiaire du mandat, le mandant ou le mandataire peuvent se présenter à tout moment au greffe du tribunal judiciaire
+pour faire constater la fin du mandat au vu de ce certificat.
 
 Si les conditions prévues au premier alinéa sont remplies, le greffier mentionne sur le mandat que celui-ci prend fin à
-compter de la date de sa présentation au greffe, y appose son visa et le restitue au comparant avec le certificat produit. 
+compter de la date de sa présentation au greffe, y appose son visa et le restitue au comparant avec le certificat produit.
 
 Si le greffier estime les conditions non remplies, il restitue le mandat sans le viser au comparant ainsi que le certificat
-produit. 
+produit.
 
 Dans ce cas, le bénéficiaire du mandat, le mandant ou le mandataire peut saisir le juge par requête. Celui-ci peut se
 prononcer sans débat et sa décision n'est pas susceptible d'appel. Si le juge estime les conditions requises remplies, le
 greffier procède, à la demande du bénéficiaire du mandat, du mandant ou du mandataire, conformément au troisième alinéa.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1628 du 23 décembre 2009 - art. 15
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -32217,7 +33617,7 @@ _Cite_:
   - Code de procédure civile - art. 1253 (V)
 
 
-#### Section III : Dispositions applicables aux pupilles de l'Etat.<a id=391></a>
+#### Section III : Dispositions applicables aux pupilles de l'Etat.<a id=397></a>
 
 ###### Article 1261
 
@@ -32248,33 +33648,42 @@ _Cite_:
 ###### Article 1261-1
 
 La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu aux articles L. 224-4 et L.
-224-8 du code de l'action sociale et des familles est portée devant le tribunal de grande instance dans le ressort duquel
-l'arrêté est pris.
+224-8 du code de l'action sociale et des familles est portée devant le tribunal judiciaire dans le ressort duquel l'arrêté
+est pris. 
 
-Les dispositions des articles 1159 et 1160, du premier alinéa de l'article 1161 et de l'article 1162 sont applicables à la
-demande et à l'instance.
+Le greffier convoque les intéressés à l'audience par lettre recommandée avec avis de réception. 
+
+Les dispositions du premier alinéa de l'article 1203 et des articles 1208-2 et 1208-4 sont applicables à la demande et à
+l'instance. 
 
 Le jugement est prononcé en audience publique. Il est notifié par le greffier au demandeur, au tuteur et au président du
-conseil départemental.
+conseil départemental. 
 
-Les voies de recours sont régies par les dispositions de l'article 1163.
+Les voies de recours sont régies par les dispositions des articles 1209 et 1209-1.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+<font color="black">Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en
+vigueur le 1er janvier 2020. Elles sont applicables aux instances en cours à cette date.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 69
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 1159
-  - Code de procédure civile - art. 1161
-  - Code de procédure civile - art. 1162
-  - Code de procédure civile - art. 1163
+  - Code de procédure civile - art. 1203
+  - Code de procédure civile - art. 1208-2 (VD)
+  - Code de procédure civile - art. 1209
   - Code de l'action sociale et des familles - art. L224-4
 
 
-### Chapitre XI : La mesure d'accompagnement judiciaire.<a id=392></a>
+### Chapitre XI : La mesure d'accompagnement judiciaire.<a id=398></a>
 
 ###### Article 1262
 
@@ -32440,7 +33849,7 @@ _Cite_:
   - Code de procédure civile - art. 1215
 
 
-### Chapitre XII : Les actions en matière de discriminations.<a id=393></a>
+### Chapitre XII : Les actions en matière de discriminations.<a id=399></a>
 
 ###### Article 1263-1
 
@@ -32468,9 +33877,9 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 1
 
 
-## Titre II : Les biens.<a id=394></a>
+## Titre II : Les biens.<a id=400></a>
 
-### Chapitre II : La reddition de compte et la liquidation des fruits.<a id=395></a>
+### Chapitre II : La reddition de compte et la liquidation des fruits.<a id=401></a>
 
 ###### Article 1268
 
@@ -32513,7 +33922,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L143-8 (VT)
 
 
-### Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice.<a id=396></a>
+### Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice.<a id=402></a>
 
 ###### Article 1270
 
@@ -32535,7 +33944,7 @@ _Cite_:
   - Code civil - art. 595
 
 
-### Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle.<a id=397></a>
+### Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle.<a id=403></a>
 
 ###### Article 1271
 
@@ -32564,22 +33973,23 @@ _Cité par_:
 ###### Article 1272
 
 Sur requête du tuteur ou du subrogé tuteur, les enchères sont reçues soit par un notaire commis à cet effet par le tribunal
-de grande instance, soit à l'audience des criées par un juge désigné par ce tribunal.
+judiciaire, soit à l'audience des criées par un juge désigné par ce tribunal.
 
 Le tribunal compétent est celui dans le ressort duquel demeure la personne en tutelle.
 
 Si les biens sont situés dans plusieurs arrondissements, le tribunal peut commettre un notaire dans chacun de ces
 arrondissements et donner commission rogatoire à chacun des tribunaux de la situation de ces biens.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -32737,28 +34147,34 @@ _Cite_:
 ###### Article 1280
 
 La surenchère prévue par le second alinéa de l'article 459 du code civil est faite, dans les dix jours qui suivent
-l'adjudication, par déclaration au greffe du tribunal dans le ressort duquel réside le notaire qui a procédé à la vente. 
+l'adjudication, par requête remise ou adressée au greffe du tribunal dans le ressort duquel réside le notaire qui a procédé à
+la vente.
 
-Cette déclaration est dénoncée à la personne ou au domicile de l'adjudicataire dans le délai de l'article 709 du code de
-procédure civile. 
+Cette requête est dénoncée à la personne ou au domicile de l'adjudicataire dans le délai de l'article 709 du code de
+procédure civile.
 
 Les règles de l'article 1279 lui sont, pour le surplus, applicables.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 1279 (V)
-  - Code de procédure civile - art. 709 (V)
-  - Code civil - art. 459 (V)
+  - Code de procédure civile - art. 1279
+  - Code de procédure civile - art. 709
+  - Code civil - art. 459
 
 
 ###### Article 1281
@@ -32776,26 +34192,27 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution.<a id=398></a>
+### Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution.<a id=404></a>
 
 ###### Article 1281-1
 
 S'il y a lieu, en dehors de toute procédure d'exécution, de répartir une somme d'argent entre créanciers et hors le cas où
 cette somme proviendrait de la vente d'un immeuble, la partie la plus diligente peut se pourvoir en référé devant le
-président du tribunal de grande instance dans le ressort duquel demeure le débiteur, lequel désigne une personne chargée de
-la distribution.
+président du tribunal judiciaire dans le ressort duquel demeure le débiteur, lequel désigne une personne chargée de la
+distribution.
 
 La personne chargée de la distribution est séquestre des fonds, à moins que la consignation ne soit ordonnée.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Modifié par_:
 
-  - Décret n°2006-936 du 27 juillet 2006 - art. 130 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1281-2
@@ -32848,31 +34265,32 @@ _Cité par_:
 ###### Article 1281-4
 
 La personne chargée de la distribution établit un projet de répartition dans les deux mois qui suivent le dernier avis prévu
-au deuxième alinéa de l'article 1281-3. 
+au deuxième alinéa de l'article 1281-3.
 
-Elle le notifie au débiteur et à chacun des créanciers par lettre recommandée avec demande d'avis de réception. 
+Elle le notifie au débiteur et à chacun des créanciers par lettre recommandée avec demande d'avis de réception.
 
-A peine de nullité, la notification indique au destinataire : 
+A peine de nullité, la notification indique au destinataire :
 
 1° Qu'il dispose d'un délai de quinze jours, à compter de la réception de la lettre, pour soulever par lettre recommandée
 avec demande d'avis de réception une contestation motivée, accompagnée des pièces justificatives nécessaires, auprès de la
-personne chargée de la distribution ; 
+personne chargée de la distribution ;
 
 2° Qu'à défaut de réponse dans le délai imparti il est réputé avoir accepté le projet et que celui-ci deviendra définitif si
-aucune contestation n'est soulevée. 
+aucune contestation n'est soulevée.
 
 En cas de difficulté, le délai mentionné au premier alinéa du présent article peut être prorogé par le président du tribunal
-de grande instance saisi par simple requête de la personne chargée de la distribution.
+judiciaire saisi par simple requête de la personne chargée de la distribution.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -32969,17 +34387,18 @@ A défaut de conciliation, la personne chargée de la distribution dresse acte d
 Les sommes mises en répartition sont immédiatement consignées, si elles ne le sont déjà en vertu de la décision de
 désignation de la personne chargée de la distribution.
 
-La partie la plus diligente peut saisir le tribunal de grande instance, qui procède à la répartition.
+La partie la plus diligente peut saisir le tribunal judiciaire, qui procède à la répartition.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -33027,36 +34446,38 @@ _Créé par_:
 La rétribution de la personne chargée de la distribution est prélevée sur les fonds à répartir et supportée par les
 créanciers, au prorata de la somme qui revient à chacun d'eux.
 
-En cas de contestation, elle est fixée par le président du tribunal de grande instance.
+En cas de contestation, elle est fixée par le président du tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1281-12
 
-En matière commerciale, les compétences dévolues au tribunal de grande instance et à son président sont exercées par le
-tribunal de commerce et par son président.
+En matière commerciale, les compétences dévolues au tribunal judiciaire et à son président sont exercées par le tribunal de
+commerce et par son président.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur.<a id=399></a>
+### Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur.<a id=405></a>
 
 ###### Article 1281-13
 
@@ -33104,7 +34525,7 @@ _Cite_:
 ###### Article 1281-15
 
 La réquisition aux fins de vente aux enchères de l'immeuble peut être contestée par assignation à comparaître devant le
-tribunal de grande instance dans le ressort duquel est situé l'immeuble.
+tribunal judiciaire dans le ressort duquel est situé l'immeuble.
 
 Cette assignation doit, à peine d'irrecevabilité, être formée dans un délai de quinze jours suivant la notification de l'acte
 de réquisition.
@@ -33112,15 +34533,16 @@ de réquisition.
 Si la contestation est admise, l'acte de réquisition est déclaré nul et le tiers détenteur maintenu dans ses droits, à moins
 qu'il n'ait été fait d'autres surenchères par d'autres créanciers.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1281-16
@@ -33198,11 +34620,11 @@ _Modifié par_:
   - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
-## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.<a id=400></a>
+## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.<a id=406></a>
 
-### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.<a id=401></a>
+### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.<a id=407></a>
 
-#### Section I : Les autorisations et les habilitations.<a id=402></a>
+#### Section I : Les autorisations et les habilitations.<a id=408></a>
 
 ###### Article 1286
 
@@ -33231,27 +34653,35 @@ _Cite_:
   - Code civil - art. 2405
 
 
-##### Sous-section I : La procédure devant le juge aux affaires familiales.<a id=403></a>
+##### Sous-section I : La procédure devant le juge aux affaires familiales.<a id=409></a>
 
 ###### Article 1287
 
 La demande mentionnée au premier alinéa de l'article 1286 est instruite et jugée comme en matière gracieuse et obéit aux
-règles applicables à cette procédure devant le tribunal de grande instance. 
+règles applicables à cette procédure devant le tribunal judiciaire. 
 
-Toutefois, lorsque la demande d'autorisation tend à passer outre au refus du conjoint, les dispositions des articles 788 à
-792 sont applicables. Le juge entend le conjoint à moins que celui-ci, régulièrement cité, ne se présente pas. L'affaire est
+Toutefois, lorsque la demande d'autorisation tend à passer outre au refus du conjoint, les dispositions des articles 840 à
+844 sont applicables. Le juge entend le conjoint à moins que celui-ci, régulièrement cité, ne se présente pas. L'affaire est
 instruite et jugée en chambre du conseil.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 5
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
   - Code de procédure civile - art. 1286
-  - Code de procédure civile - art. 788
+  - Code de procédure civile - art. 840
 
 
 ###### Article 1288
@@ -33270,7 +34700,7 @@ _Modifié par_:
   - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
 
 
-##### Sous-section II : La procédure devant le juge des tutelles.<a id=404></a>
+##### Sous-section II : La procédure devant le juge des tutelles.<a id=410></a>
 
 ###### Article 1289
 
@@ -33336,7 +34766,7 @@ _Cite_:
   - Code civil - art. 219 (V)
 
 
-#### Section II : Les mesures urgentes.<a id=405></a>
+#### Section II : Les mesures urgentes.<a id=411></a>
 
 ###### Article 1290
 
@@ -33354,7 +34784,7 @@ _Cite_:
   - Code civil - art. 220-1
 
 
-#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.<a id=406></a>
+#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.<a id=412></a>
 
 ###### Article 1291
 
@@ -33378,24 +34808,29 @@ _Cite_:
   - Code civil - art. 1580 (V)
 
 
-#### Section IV : La séparation judiciaire de biens.<a id=407></a>
+#### Section IV : La séparation judiciaire de biens.<a id=413></a>
 
 ###### Article 1292
 
 La demande en séparation de biens est portée devant le juge aux affaires familiales de la résidence de la famille. Elle obéit
-aux règles de l'article 1136-1. 
+aux règles de l'article 1136-1.
 
-Un extrait de la demande est transmis par l'avocat du demandeur aux greffes des tribunaux de grande instance dans le ressort
+Un extrait de la demande est transmis par l'avocat du demandeur aux greffes des tribunaux judiciaires dans le ressort
 desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par mention en marge
-de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre. 
+de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
 
 Un extrait de la demande peut, en outre, être publié dans un journal diffusé dans le ressort de la juridiction saisie.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 6
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -33550,9 +34985,9 @@ _Modifié par_:
   - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section V : Le changement de régime matrimonial.<a id=408></a>
+#### Section V : Le changement de régime matrimonial.<a id=414></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=409></a>
+##### Paragraphe 1 : Dispositions générales<a id=415></a>
 
 ###### Article 1300
 
@@ -33646,26 +35081,27 @@ _Cite_:
   - Code civil - art. 1397 (V)
 
 
-##### Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial<a id=410></a>
+##### Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial<a id=416></a>
 
 ###### Article 1300-4
 
 La demande d'homologation d'un changement de régime matrimonial est portée devant le juge aux affaires familiales de la
 résidence de la famille.
 
-Un extrait de la demande est transmis par l'avocat des demandeurs aux greffes des tribunaux de grande instance dans le
-ressort desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par mention en
-marge de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
+Un extrait de la demande est transmis par l'avocat des demandeurs aux greffes des tribunaux judiciaires dans le ressort
+desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par mention en marge
+de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2012-66 du 20 janvier 2012 - art. 42
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -33675,13 +35111,18 @@ _Cité par_:
 ###### Article 1301
 
 L'homologation d'un changement de régime matrimonial relève de la matière gracieuse et obéit aux règles applicables à cette
-procédure devant le tribunal de grande instance.
+procédure devant le tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 7
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1302
@@ -33715,9 +35156,9 @@ _Modifié par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Section VI : La publicité en matière internationale<a id=411></a>
+#### Section VI : La publicité en matière internationale<a id=417></a>
 
-##### Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage<a id=412></a>
+##### Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage<a id=418></a>
 
 ###### Article 1303-1
 
@@ -33772,7 +35213,7 @@ _Créé par_:
   - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-##### Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère<a id=413></a>
+##### Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère<a id=419></a>
 
 ###### Article 1303-3
 
@@ -33849,7 +35290,7 @@ _Créé par_:
   - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-##### Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française<a id=414></a>
+##### Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française<a id=420></a>
 
 ###### Article 1303-6
 
@@ -33867,9 +35308,9 @@ _Créé par_:
   - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-### Chapitre II : Les successions et les libéralités<a id=415></a>
+### Chapitre II : Les successions et les libéralités<a id=421></a>
 
-#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=416></a>
+#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=422></a>
 
 ###### Article 1304
 
@@ -33933,31 +35374,32 @@ _Modifié par_:
 
 ###### Article 1306
 
-La demande est portée devant le président du tribunal de grande instance dans le ressort duquel est ouverte la succession qui
-statue par ordonnance sur requête. Le ministère d'avocat n'est pas obligatoire. 
+La demande est portée devant le président du tribunal judiciaire dans le ressort duquel est ouverte la succession qui statue
+par ordonnance sur requête. Le ministère d'avocat n'est pas obligatoire.
 
 La décision qui fait droit à la demande désigne un huissier de justice pour accomplir les diligences prévues à la présente
 section. Sous réserve des dispositions particulières en matière de frais de justice, le coût de la mesure est avancé par le
 demandeur.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code de procédure pénale - art. R218 (V)
 
 
-##### Sous-section I : Les scellés<a id=417></a>
+##### Sous-section I : Les scellés<a id=423></a>
 
-##### Paragraphe 1 : L'apposition des scellés.<a id=418></a>
+##### Paragraphe 1 : L'apposition des scellés.<a id=424></a>
 
 ###### Article 1307
 
@@ -34169,7 +35611,7 @@ _Cite_:
   - Code de procédure civile - art. 1311
 
 
-##### Paragraphe 2 : La levée des scellés.<a id=419></a>
+##### Paragraphe 2 : La levée des scellés.<a id=425></a>
 
 ###### Article 1316
 
@@ -34343,39 +35785,40 @@ _Cité par_:
   - Code de procédure civile - art. 1324 (VD)
 
 
-##### Sous-section II :  L'état descriptif<a id=420></a>
+##### Sous-section II :  L'état descriptif<a id=426></a>
 
 ###### Article 1323
 
 Lorsqu'il apparaît que la consistance des biens laissés sur place après distraction des objets précieux en application des
 dispositions de l'article 1313 ne justifie pas une apposition des scellés, l'huissier de justice compétent pour celle-ci
 dresse un état descriptif du mobilier ; à défaut d'héritier présent, il assure la clôture des lieux si ceux-ci sont inoccupés
-et conserve les clés. Les dispositions des articles 1309, 1311, 1313 et 1314 sont applicables. 
+et conserve les clés. Les dispositions des articles 1309, 1311, 1313 et 1314 sont applicables.
 
 S'il y a des effets nécessaires à l'usage des personnes qui restent dans les lieux, ou sur lesquels les scellés ne peuvent
-être apposés, l'huissier de justice en dresse un état descriptif. 
+être apposés, l'huissier de justice en dresse un état descriptif.
 
 Tout héritier peut obtenir la remise des clés en donnant décharge des meubles sur l'état descriptif, après en avoir reconnu
 la consistance en présence de l'huissier de justice. Dans les mêmes conditions, les clés peuvent être remises, sur permission
-du président du tribunal de grande instance, à un légataire universel ayant la saisine et la possession de la succession. 
+du président du tribunal judiciaire, à un légataire universel ayant la saisine et la possession de la succession.
 
 L'administration chargée des domaines peut également demander la remise des clés, dans les cas où elle a été désignée pour
 administrer la succession.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 _Cité par_:
 
   - Décret n°2016-230 du 26 février 2016 - art.
   - Code de commerce - art. Annexe 4-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -34384,28 +35827,29 @@ _Cite_:
   - Code de procédure civile - art. 1313
 
 
-##### Sous-section III : Dispositions communes.<a id=421></a>
+##### Sous-section III : Dispositions communes.<a id=427></a>
 
 ###### Article 1324
 
-Lorsqu'il n'y a pas de successible connu et si le contrat de location a pris fin, le président du tribunal de grande instance
-ou son délégué peut autoriser, dans les conditions prévues au premier alinéa de l'article 1325, le propriétaire des locaux à
-faire enlever les meubles et à les faire soit déposer dans un autre lieu, soit cantonner dans une partie du local qui était
-occupé par le défunt. Les frais d'enlèvement et de conservation des meubles sont avancés par le propriétaire. 
+Lorsqu'il n'y a pas de successible connu et si le contrat de location a pris fin, le président du tribunal judiciaire ou son
+délégué peut autoriser, dans les conditions prévues au premier alinéa de l'article 1325, le propriétaire des locaux à faire
+enlever les meubles et à les faire soit déposer dans un autre lieu, soit cantonner dans une partie du local qui était occupé
+par le défunt. Les frais d'enlèvement et de conservation des meubles sont avancés par le propriétaire.
 
-L'huissier de justice assiste au déplacement des meubles et dresse procès-verbal des opérations. 
+L'huissier de justice assiste au déplacement des meubles et dresse procès-verbal des opérations.
 
 Si des scellés avaient été apposés, il les lève puis les réappose sur les lieux dans lesquels les meubles sont déposés ou
-cantonnés, dans les conditions prévues à l'article 1322. 
+cantonnés, dans les conditions prévues à l'article 1322.
 
 Lorsqu'il avait été dressé un état descriptif, l'huissier de justice assure la clôture des lieux où sont déposés ou cantonnés
 les meubles et il conserve les clés.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -34415,7 +35859,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-783 du 30 mai 2012 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -34426,21 +35870,24 @@ _Cite_:
 ###### Article 1325
 
 S'il survient des difficultés relatives aux mesures prévues à la présente section, les parties ou l'huissier de justice
-peuvent en saisir le président du tribunal de grande instance par simple requête. Le ministère d'avocat n'est pas
-obligatoire. 
+peuvent en saisir le président du tribunal judiciaire par simple requête. Le ministère d'avocat n'est pas obligatoire.
 
-Si une contestation oppose les parties entre elles, le président du tribunal de grande instance est saisi par la partie la
-plus diligente. La contestation est formée, instruite et jugée dans la forme des référés.
+Si une contestation oppose les parties entre elles, le président du tribunal judiciaire est saisi par la partie la plus
+diligente. La contestation est formée, instruite et jugée selon la procédure accélérée au fond.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 1
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cité par_:
 
@@ -34463,7 +35910,7 @@ _Modifié par_:
   - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
-#### Section II : L'inventaire.<a id=422></a>
+#### Section II : L'inventaire.<a id=428></a>
 
 ###### Article 1328
 
@@ -34531,17 +35978,18 @@ l'inventaire ou qui ont habité l'immeuble dans lequel sont lesdits biens, qu'il
 en ait été détourné aucun ;
 
 6° La mention de la remise des objets et documents, s'il y a lieu, entre les mains de la personne dont il aura été convenu ou
-qui, à défaut, aura été nommée par le président du tribunal de grande instance ou son délégué.
+qui, à défaut, aura été nommée par le président du tribunal judiciaire ou son délégué.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1331
@@ -34586,53 +36034,58 @@ _Créé par_:
 
 ###### Article 1333
 
-S'il survient une difficulté dans l'établissement de l'inventaire, le président du tribunal de grande instance ou son
-délégué, saisi par la partie la plus diligente, statue dans la forme des référés.
+S'il survient une difficulté dans l'établissement de l'inventaire, le président du tribunal judiciaire, saisi par la partie
+la plus diligente, statue selon la procédure accélérée au fond.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cité par_:
 
   - Code de procédure civile - art. 1319 (V)
 
 
-#### Section III : L'option successorale.<a id=423></a>
+#### Section III : L'option successorale.<a id=429></a>
 
-##### Sous-section I : L'acceptation à concurrence de l'actif net.<a id=424></a>
+##### Sous-section I : L'acceptation à concurrence de l'actif net.<a id=430></a>
 
 ###### Article 1334
 
-La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal de grande instance ou devant notaire
-indique les nom, prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il
-est appelé à la succession. 
+La déclaration d'acceptation à concurrence de l'actif net faite au greffe du tribunal judiciaire ou devant notaire indique
+les nom, prénoms et profession de l'héritier, son élection de domicile ainsi que la qualité en vertu de laquelle il est
+appelé à la succession.
 
 Le notaire auprès de qui la déclaration est faite informe l'héritier de l'obligation de publicité prévue au troisième alinéa
-de l'article 1335. Dans le mois de la déclaration, le notaire en adresse copie au tribunal de grande instance dans le ressort
-duquel la succession s'est ouverte. 
+de l'article 1335. Dans le mois de la déclaration, le notaire en adresse copie au tribunal judiciaire dans le ressort duquel
+la succession s'est ouverte.
 
 Le greffe inscrit la déclaration dans un registre tenu à cet effet et en donne récépissé au déclarant ou au notaire. Il
-informe l'héritier de l'obligation de publicité prévue au troisième alinéa de l'article 1335. 
+informe l'héritier de l'obligation de publicité prévue au troisième alinéa de l'article 1335.
 
 Les cohéritiers, les créanciers successoraux et les légataires peuvent, sur justification de leur titre, consulter la partie
 du registre relative à la succession en cause.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2016-1907 du 28 décembre 2016 - art. 35
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -34749,22 +36202,27 @@ _Cite_:
   - Code civil - art. 790 (M)
 
 
-##### Sous-section II : La renonciation.<a id=425></a>
+##### Sous-section II : La renonciation.<a id=431></a>
 
 ###### Article 1339
 
-La déclaration de renonciation à une succession adressée ou déposée par l'héritier ou le notaire  au greffe du tribunal de
-grande instance indique les nom, prénoms, profession et domicile du successible, ainsi que la qualité en vertu de laquelle il
-est appelé à la succession.
+La déclaration de renonciation à une succession adressée ou déposée par l'héritier ou le notaire au greffe du tribunal
+judiciaire indique les nom, prénoms, profession et domicile du successible, ainsi que la qualité en vertu de laquelle il est
+appelé à la succession.
 
 Le greffe inscrit la déclaration dans un registre tenu à cet effet et en adresse ou délivre récépissé au déclarant ou au
 notaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-1907 du 28 décembre 2016 - art. 38
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1340
@@ -34787,7 +36245,7 @@ _Cite_:
   - Nouveau code de procédure civile 1339
 
 
-##### Sous-section III : L'option du conjoint survivant.<a id=426></a>
+##### Sous-section III : L'option du conjoint survivant.<a id=432></a>
 
 ###### Article 1341
 
@@ -34810,11 +36268,11 @@ _Cite_:
   - Code civil - art. 758-3 (V)
 
 
-#### Section IV : Les successions vacantes et les successions en déshérence.<a id=427></a>
+#### Section IV : Les successions vacantes et les successions en déshérence.<a id=433></a>
 
-##### Sous-section I : Les successions vacantes.<a id=428></a>
+##### Sous-section I : Les successions vacantes.<a id=434></a>
 
-##### Paragraphe 1 : L'ouverture de la curatelle.<a id=429></a>
+##### Paragraphe 1 : L'ouverture de la curatelle.<a id=435></a>
 
 ###### Article 1342
 
@@ -34839,7 +36297,7 @@ _Cite_:
   - Code civil - art. 810-7 (V)
 
 
-##### Paragraphe 2 : La mission du curateur.<a id=430></a>
+##### Paragraphe 2 : La mission du curateur.<a id=436></a>
 
 ###### Article 1343
 
@@ -34991,7 +36449,7 @@ _Cite_:
   - Code civil - art. 810-3 (V)
 
 
-##### Paragraphe 3 : La reddition de compte et la fin de la curatelle.<a id=431></a>
+##### Paragraphe 3 : La reddition de compte et la fin de la curatelle.<a id=437></a>
 
 ###### Article 1350
 
@@ -35064,7 +36522,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. L77 (V)
 
 
-##### Sous-section II : Les successions en déshérence.<a id=432></a>
+##### Sous-section II : Les successions en déshérence.<a id=438></a>
 
 ###### Article 1354
 
@@ -35095,20 +36553,25 @@ _Cite_:
   - Code civil - art. 811 (M)
 
 
-#### Section V : Le mandataire successoral désigné en justice.<a id=433></a>
+#### Section V : Le mandataire successoral désigné en justice.<a id=439></a>
 
 ###### Article 1355
 
-L'enregistrement prévu à l'article 813-3 du code civil est fait au greffe du tribunal de grande instance dans le mois qui
-suit la nomination, sur le registre mentionné à l'article 1334. La décision de nomination est publiée à la requête du
-mandataire par voie électronique au Bulletin officiel des annonces civiles et commerciales, selon des modalités définies par
-arrêté du garde des sceaux, ministre de la justice.
+L'enregistrement prévu à l'article 813-3 du code civil est fait au greffe du tribunal judiciaire dans le mois qui suit la
+nomination, sur le registre mentionné à l'article 1334. La décision de nomination est publiée à la requête du mandataire par
+voie électronique au Bulletin officiel des annonces civiles et commerciales, selon des modalités définies par arrêté du garde
+des sceaux, ministre de la justice.
 
-S'il y a lieu, le président du tribunal de grande instance ou son délégué peut, par une ordonnance qui n'est pas susceptible
-de recours, ordonner que la publicité soit complétée par une insertion dans un journal d'annonces légales diffusé dans le
-ressort du tribunal. 
+S'il y a lieu, le président du tribunal judiciaire ou son délégué peut, par une ordonnance qui n'est pas susceptible de
+recours, ordonner que la publicité soit complétée par une insertion dans un journal d'annonces légales diffusé dans le
+ressort du tribunal.
 
 Les frais de publicité sont à la charge de la succession.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -35118,7 +36581,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1366 du 9 novembre 2009 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -35146,23 +36609,24 @@ _Créé par_:
 
 ###### Article 1357
 
-Le président du tribunal de grande instance ou son délégué peut, d'office ou sur demande des héritiers, convoquer le
-mandataire, solliciter de lui toutes les informations sur le déroulement de sa mission et lui adresser des injonctions.
+Le président du tribunal judiciaire ou son délégué peut, d'office ou sur demande des héritiers, convoquer le mandataire,
+solliciter de lui toutes les informations sur le déroulement de sa mission et lui adresser des injonctions.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Section VI : Le partage.<a id=434></a>
+#### Section VI : Le partage.<a id=440></a>
 
-##### Sous-section I : Le partage amiable.<a id=435></a>
+##### Sous-section I : Le partage amiable.<a id=441></a>
 
 ###### Article 1358
 
@@ -35191,24 +36655,25 @@ _Cite_:
   - Code civil - art. 837 (M)
 
 
-##### Sous-section II : Le partage judiciaire.<a id=436></a>
+##### Sous-section II : Le partage judiciaire.<a id=442></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=437></a>
+##### Paragraphe 1 : Dispositions générales.<a id=443></a>
 
 ###### Article 1359
 
 En cas de pluralité d'assignations, le demandeur au partage est celui qui a fait en premier enrôler son assignation au greffe
-du tribunal de grande instance.
+du tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1360
@@ -35273,28 +36738,28 @@ _Créé par_:
 ###### Article 1363
 
 S'il y a lieu au tirage au sort des lots, celui-ci est réalisé devant le notaire commis en application du second alinéa de
-l'article 1361 et, à défaut, devant le président du tribunal de grande instance ou son délégué.
+l'article 1361 et, à défaut, devant le président du tribunal judiciaire ou son délégué.
 
-Si un héritier est défaillant, le président du tribunal de grande instance ou son délégué peut, d'office, lorsque le tirage
-au sort a lieu devant lui ou sur transmission du procès-verbal dressé par le notaire, désigner un représentant à l'héritier
-défaillant.
+Si un héritier est défaillant, le président du tribunal judiciaire ou son délégué peut, d'office, lorsque le tirage au sort a
+lieu devant lui ou sur transmission du procès-verbal dressé par le notaire, désigner un représentant à l'héritier défaillant.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Nouveau code de procédure civile 1361
 
 
-##### Paragraphe 2 : Dispositions particulières.<a id=438></a>
+##### Paragraphe 2 : Dispositions particulières.<a id=444></a>
 
 ###### Article 1364
 
@@ -35551,24 +37016,25 @@ _Créé par_:
 ###### Article 1376
 
 Lorsque le tirage au sort des lots a été ordonné, si un héritier fait défaut, le juge commis dispose des pouvoirs reconnus au
-président du tribunal de grande instance au deuxième alinéa de l'article 1363.
+président du tribunal judiciaire au deuxième alinéa de l'article 1363.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Nouveau code de procédure civile 1363
 
 
-##### Paragraphe 3 : La licitation.<a id=439></a>
+##### Paragraphe 3 : La licitation.<a id=445></a>
 
 ###### Article 1377
 
@@ -35610,7 +37076,7 @@ _Créé par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Section VI bis : L'envoi en possession<a id=440></a>
+#### Section VI bis : L'envoi en possession<a id=446></a>
 
 ###### Article 1378-1
 
@@ -35649,82 +37115,97 @@ _Cite_:
   - Code civil - art. 1007 (VD)
 
 
-#### Section VII : Dispositions communes.<a id=441></a>
+#### Section VII : Dispositions communes.<a id=447></a>
 
 ###### Article 1379
 
-Les demandes formées en application des articles 784, 790, 809-1, 810-8, 812-1-1, 813, 813-4, 814-1, 837, 841-1 et 1031 du
-code civil sont portées devant le président du tribunal de grande instance ou son délégué qui statue dans les formes prévues
-aux articles 493 à 498 du présent code.
+Les demandes formées en application des articles 784,790,809-1,810-8,812-1-1,813,813-4,814-1,837,841-1 et 1031 du code civil
+sont portées devant le président du tribunal judiciaire qui statue dans les formes prévues aux articles 493 à 498 et 846 du
+présent code. 
 
 Il en va de même des demandes formées en application de l'article 829 du code civil dans le cadre d'un partage amiable.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cite_:
 
-  - Code civil - art. 1031 (M)
-  - Code civil - art. 784 (M)
-  - Code civil - art. 790 (M)
-  - Code civil - art. 809-1 (V)
-  - Code civil - art. 810-8 (V)
-  - Code civil - art. 812-1-1 (V)
-  - Code civil - art. 813 (M)
-  - Code civil - art. 813-4 (V)
-  - Code civil - art. 814-1 (V)
-  - Code civil - art. 829 (M)
-  - Code civil - art. 837 (M)
-  - Code civil - art. 841-1 (V)
+  - Code de procédure civile - art. 493
+  - Code de procédure civile - art. 846
+  - Code civil - art. 1031
+  - Code civil - art. 784
+  - Code civil - art. 790
+  - Code civil - art. 809-1
+  - Code civil - art. 810-8
+  - Code civil - art. 812-1-1
+  - Code civil - art. 813
+  - Code civil - art. 813-4
+  - Code civil - art. 814-1
+  - Code civil - art. 829
+  - Code civil - art. 837
+  - Code civil - art. 841-1
 
 
 ###### Article 1380
 
 Les demandes formées en application des articles 772, 794, 810-5, 812-3, 813-1, 813-7, 813-9 et du deuxième alinéa de
-l'article 814 du code civil sont portées devant le président du tribunal de grande instance ou son délégué qui statue en la
-forme des référés.
+l'article 814, des articles 815-6, 815-7, 815-9 et 815-11 du code civil sont portées devant le président du tribunal
+judiciaire qui statue selon la procédure accélérée au fond.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cite_:
 
-  - Code civil - art. 772 (M)
-  - Code civil - art. 794 (M)
-  - Code civil - art. 810-5 (V)
-  - Code civil - art. 812-3 (V)
-  - Code civil - art. 813-1 (V)
-  - Code civil - art. 813-7 (V)
-  - Code civil - art. 813-9 (V)
-  - Code civil - art. 814 (M)
+  - Code civil - art. 772
+  - Code civil - art. 794
+  - Code civil - art. 810-5
+  - Code civil - art. 812-3
+  - Code civil - art. 813-1
+  - Code civil - art. 813-7
+  - Code civil - art. 813-9
+  - Code civil - art. 814
 
 
 ###### Article 1381
 
 Les demandes formées en application des articles 811, 820, 821, 821-1, 824, 832-1, 832-2, 832-3, 
 887, 
-1026 du même code sont portées devant le tribunal de grande instance, sous réserve de la compétence dévolue au juge aux
-affaires familiales par le 1° de l'article L. 213-3 du code de l'organisation judiciaire.
+1026 du même code sont portées devant le tribunal judiciaire, sous réserve de la compétence dévolue au juge aux affaires
+familiales par le 1° de l'article L. 213-3 du code de l'organisation judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 8
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -35737,7 +37218,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-#### Section VIII : Le certificat successoral européen<a id=442></a>
+#### Section VIII : Le certificat successoral européen<a id=448></a>
 
 ###### Article 1381-1
 
@@ -35805,32 +37286,37 @@ _Cité par_:
 ###### Article 1381-4
 
 La décision de délivrance ou de refus de délivrance d'un certificat successoral européen peut être déférée au président du
-tribunal de grande instance dans le ressort duquel est situé l'office de cet officier public par tout héritier, légataire,
-exécuteur testamentaire ou administrateur de la succession et ce, dans un délai de quinze jours à compter de la remise ou
-notification de la copie certifiée conforme ou de la réception de la décision de refus de délivrance. 
+tribunal judiciaire dans le ressort duquel est situé l'office de cet officier public par tout héritier, légataire, exécuteur
+testamentaire ou administrateur de la succession et ce, dans un délai de quinze jours à compter de la remise ou notification
+de la copie certifiée conforme ou de la réception de la décision de refus de délivrance.
 
-Les autres décisions mentionnées à l'article 1381-3 peuvent être déférées au président du tribunal de grande instance dans le
-ressort duquel est situé l'office de cet officier public par toute personne justifiant d'un intérêt légitime et ce, dans un
-délai de quinze jours à compter de la remise ou notification de la copie certifiée conforme du nouveau certificat ou de la
-réception de la décision. 
+Les autres décisions mentionnées à l'article 1381-3 peuvent être déférées au président du tribunal judiciaire dans le ressort
+duquel est situé l'office de cet officier public par toute personne justifiant d'un intérêt légitime et ce, dans un délai de
+quinze jours à compter de la remise ou notification de la copie certifiée conforme du nouveau certificat ou de la réception
+de la décision.
 
 Le président du tribunal statue en dernier ressort sur requête, le requérant, le notaire à l'origine de l'acte, et, le cas
 échéant, le demandeur d'un certificat successoral européen s'il n'est requérant, entendus ou appelés. Le notaire est avisé de
-la décision. 
+la décision.
 
 Lorsque le président du tribunal ordonne la délivrance, la rectification ou la modification du certificat, il peut, soit y
 procéder lui-même, soit inviter le notaire à le faire. Le greffe adresse alors le document par lettre recommandée avec avis
-de réception au notaire qui assurera sa conservation et en délivrera copie dans les conditions prévues par l'article 1381-2. 
+de réception au notaire qui assurera sa conservation et en délivrera copie dans les conditions prévues par l'article 1381-2 .
 
 Si le retrait ou la suspension des effets du certificat successoral européen est ordonné par le président du tribunal, le
 notaire en informe sans délai toutes les personnes qui se sont vues délivrer des copies certifiées conformes. Aucune copie du
 certificat ne peut être délivrée pendant la période de suspension de ses effets.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-1395 du 2 novembre 2015 - art. 5
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -35838,9 +37324,9 @@ _Cite_:
   - Code de procédure civile - art. 1381-3
 
 
-## Titre IV : Les obligations et les contrats.<a id=443></a>
+## Titre IV : Les obligations et les contrats.<a id=449></a>
 
-### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=444></a>
+### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=450></a>
 
 ###### Article 1382
 
@@ -36006,9 +37492,9 @@ _Créé par_:
   - Décret n°2010-433 du 29 avril 2010 - art. 4
 
 
-### Chapitre II : Les procédures d'injonction.<a id=445></a>
+### Chapitre II : Les procédures d'injonction.<a id=451></a>
 
-#### Section I : L'injonction de payer.<a id=446></a>
+#### Section I : L'injonction de payer.<a id=452></a>
 
 ###### Article 1405
 
@@ -36051,8 +37537,8 @@ _Cité par_:
 
 ###### Article 1406
 
-La demande est portée, selon le cas, devant le tribunal d'instance ou devant le président du tribunal de grande instance ou
-du tribunal de commerce, dans la limite de la compétence d'attribution de ces juridictions.
+La demande est portée, selon le cas, devant le juge des contentieux de la protection ou devant le président du tribunal
+judiciaire ou du tribunal de commerce, dans la limite de la compétence d'attribution de ces juridictions.
 
 Le juge territorialement compétent est celui du lieu où demeure le ou l'un des débiteurs poursuivis.
 
@@ -36061,37 +37547,36 @@ relever d'office son incompétence, l'article 847-5 étant alors applicable.
 
 **Nota:**
 
-L'article 847-5 a été abrogé par l'article 2 du décret n° 2017-683 du 28 avril 2017.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+
+
+###### Article 1407
+
+La demande est formée par requête remise ou adressée, selon le cas, au greffe par le créancier ou par tout mandataire. Outre
+les mentions prescrites par l'article 57, la requête contient l'indication précise du montant de la somme réclamée avec le
+décompte des différents éléments de la créance ainsi que le fondement de celle-ci. Elle est accompagnée des documents
+justificatifs.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2017-683 du 28 avril 2017 - art. 2
-
-
-###### Article 1407
-
-La demande est formée par requête remise ou adressée, selon le cas, au greffe par le créancier ou par tout mandataire.
-
-Outre les mentions prescrites par l'article 58, la requête contient l'indication précise du montant de la somme réclamée avec
-le décompte des différents éléments de la créance ainsi que le fondement de celle-ci.
-
-Elle est accompagnée des documents justificatifs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 11 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 _Cité par_:
 
@@ -36100,9 +37585,13 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R142-10-8 (V)
   - Code de la sécurité sociale. - art. R142-27-1 (VT)
 
+_Modifié par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+
 _Cite_:
 
-  - Nouveau code de procédure civile 58
+  - Code de procédure civile - art. 57
 
 
 ###### Article 1408
@@ -36306,8 +37795,8 @@ _Cite_:
 
 ###### Article 1418
 
-Devant le tribunal d'instance et le tribunal de commerce, le greffier convoque les parties à l'audience par lettre
-recommandée avec demande d'avis de réception.
+Devant le tribunal judiciaire dans les matières visées à l'article 817, le juge des contentieux de la protection et le
+tribunal de commerce, le greffier convoque les parties à l'audience par lettre recommandée avec demande d'avis de réception.
 
 La convocation est adressée à toutes les parties, même à celles qui n'ont pas formé opposition.
 
@@ -36326,8 +37815,8 @@ contre lui sur les seuls éléments fournis par son adversaire.
 
 Ces mentions sont prescrites à peine de nullité.
 
-Devant le tribunal de grande instance, l'affaire est instruite et jugée selon la procédure contentieuse applicable devant
-cette juridiction, sous réserve des dispositions suivantes.
+Devant le tribunal judiciaire dans les autres matières, l'affaire est instruite et jugée selon la procédure écrite ordinaire,
+sous réserve des dispositions suivantes.
 
 Le greffe adresse au créancier, par lettre recommandée avec demande d'avis de réception, une copie de la déclaration
 d'opposition. Cette notification est régulièrement faite à l'adresse indiquée par le créancier lors du dépôt de la requête en
@@ -36341,15 +37830,19 @@ réception, lui indiquant qu'il est tenu de constituer avocat dans un délai de 
 
 Une copie des actes de constitution est remise au greffe.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2017-683 du 28 avril 2017 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cité par_:
 
@@ -36358,27 +37851,31 @@ _Cité par_:
 
 ###### Article 1419
 
-Devant le tribunal d'instance et le tribunal de commerce, la juridiction constate l'extinction de l'instance si aucune des
-parties ne comparaît.
+Devant le tribunal judiciaire dans les matières visées à l'article 817, le juge des contentieux de la protection et le
+tribunal de commerce, la juridiction constate l'extinction de l'instance si aucune des parties ne comparaît.
 
-Devant le tribunal de grande instance, le président constate l'extinction de l'instance si le créancier ne constitue pas
-avocat dans le délai prévu à l'article 1418.
+Devant le tribunal judiciaire dans les autres matières, le président constate l'extinction de l'instance si le créancier ne
+constitue pas avocat dans le délai prévu à l'article 1418.
 
 L'extinction de l'instance rend non avenue l'ordonnance portant injonction de payer.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2017-683 du 28 avril 2017 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 1418 (VD)
+  - Code de procédure civile - art. 1418
 
 
 ###### Article 1420
@@ -36438,21 +37935,24 @@ _Cite_:
 
 ###### Article 1423
 
-La demande tendant à l'apposition de la formule exécutoire est formée au greffe, soit par déclaration, soit par lettre
-simple.
-
+La demande tendant à l'apposition de la formule exécutoire est formée au greffe, soit par requête, soit par lettre simple.
 L'ordonnance est non avenue si la demande du créancier n'a pas été présentée dans le délai d'un mois suivant l'expiration du
 délai d'opposition ou le désistement du débiteur.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article 1424
@@ -36471,7 +37971,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Section II : L'injonction de payer européenne.<a id=447></a>
+#### Section II : L'injonction de payer européenne.<a id=453></a>
 
 ###### Article 1424-1
 
@@ -36723,7 +38223,7 @@ _Cite_:
   - Code de procédure civile - art. 1424-8
 
 
-#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=448></a>
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=454></a>
 
 ###### Article 1425
 
@@ -36743,19 +38243,23 @@ _Modifié par_:
   - Décret n°2008-1346 du 17 décembre 2008 - art. 7
 
 
-#### Section IV : L'injonction de faire.<a id=449></a>
+#### Section IV : L'injonction de faire.<a id=455></a>
 
 ###### Article 1425-1
 
 L'exécution en nature d'une obligation née d'un contrat conclu entre des personnes n'ayant pas toutes la qualité de
-commerçant peut être demandée au tribunal d'instance lorsque la valeur de la prestation dont l'exécution est réclamée
-n'excède pas le taux de compétence de cette juridiction.
+commerçant peut être demandée au juge des contentieux de la protection ou au tribunal judiciaire dans les matières visées à
+l'article 817.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Cité par_:
 
@@ -36766,7 +38270,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-683 du 28 avril 2017 - art. 2
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 **Liens**:
 
@@ -36774,7 +38278,7 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code de procédure civile - art. 847-5 (M)
+  - Code de procédure civile - art. 847-5
 
 
 ###### Article 1425-2
@@ -36800,9 +38304,9 @@ _Modifié par_:
 ###### Article 1425-3
 
 La demande est formée par requête déposée ou adressée au greffe par le bénéficiaire de l'obligation ou par les personnes
-mentionnées à l'article 828. 
+mentionnées à l'article 764. 
 
-Outre les mentions prescrites par l'article 58, la requête contient : 
+Outre les mentions prescrites par l'article 57, la requête contient : 
 
 1° L'indication précise de la nature de l'obligation dont l'exécution est poursuivie ainsi que le fondement de celle-ci ; 
 
@@ -36812,15 +38316,20 @@ Elle est accompagnée des documents justificatifs.
 
 La prescription et les délais pour agir sont interrompus par l'enregistrement au greffe de la requête.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2005-1678 du 28 décembre 2005 - art. 12 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 **Liens**:
 
@@ -36828,7 +38337,8 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code de procédure civile - art. 58 (V)
+  - Code de procédure civile - art. 57
+  - Code de procédure civile - art. 764
 
 
 ###### Article 1425-4
@@ -36986,38 +38496,40 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre IV : La reconstitution d'actes détruits.<a id=450></a>
+### Chapitre IV : La reconstitution d'actes détruits.<a id=456></a>
 
 ###### Article 1430
 
 La demande en reconstitution de l'original d'un acte authentique ou sous seing privé détruit, en tous lieux, par suite de
-faits de guerre ou de sinistres est portée devant le tribunal de grande instance.
+faits de guerre ou de sinistres est portée devant le tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1431
 
 Le tribunal compétent est celui du lieu où l'acte a été établi ou, si l'acte a été établi à l'étranger, celui du lieu où
-demeure le demandeur ; si celui-ci demeure à l'étranger, le tribunal de grande instance de Paris.
+demeure le demandeur ; si celui-ci demeure à l'étranger, le tribunal judiciaire de Paris.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1432
@@ -37066,7 +38578,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : La délivrance de copies d'actes et de registres.<a id=451></a>
+### Chapitre V : La délivrance de copies d'actes et de registres.<a id=457></a>
 
 ###### Article 1435
 
@@ -37086,18 +38598,19 @@ _Créé par_:
 
 ###### Article 1436
 
-En cas de refus ou de silence du dépositaire, le président du tribunal de grande instance, saisi par requête, statue, le
-demandeur et le dépositaire entendus ou appelés.
+En cas de refus ou de silence du dépositaire, le président du tribunal judiciaire, saisi par requête, statue, le demandeur et
+le dépositaire entendus ou appelés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1437
@@ -37120,37 +38633,39 @@ _Créé par_:
 ###### Article 1438
 
 La partie peut obtenir copie d'un acte non enregistré ou imparfait ; elle doit en faire la demande au président du tribunal
-de grande instance. La demande est présentée par requête.
+judiciaire. La demande est présentée par requête.
 
-En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal de grande instance.
+En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1439
 
 La partie qui veut obtenir la délivrance d'une seconde copie exécutoire d'un acte authentique doit en faire la demande au
-président du tribunal de grande instance. La demande est présentée par requête.
+président du tribunal judiciaire. La demande est présentée par requête.
 
-En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal de grande instance.
+En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1440
@@ -37171,38 +38686,45 @@ _Créé par_:
 
 ###### Article 1441
 
-En cas de refus ou de silence, le président du tribunal de grande instance ou, si le refus émane d'un greffier, le président
-de la juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par requête, statue, le demandeur et le greffier ou
-le dépositaire entendus ou appelés.
+En cas de refus ou de silence, le président du tribunal judiciaire ou, si le refus émane d'un greffier, le président de la
+juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par requête, statue, le demandeur et le greffier ou le
+dépositaire entendus ou appelés.
 
 L'appel est formé, instruit et jugé comme en matière gracieuse.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=452></a>
+### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=458></a>
 
 ###### Article 1441-1
 
 Les demandes présentées en vertu des articles 2 à 20 de l'ordonnance n° 2009-515 du 7 mai 2009 relative aux procédures de
-recours applicables aux contrats de la commande publique sont formées, instruites et jugées comme en matière de référés. 
+recours applicables aux contrats de la commande publique sont formées, instruites et jugées selon la procédure accélérée au
+fond.
 
 Le juge qui envisage de prendre d'office une des mesures prévues aux articles 3, 6 et 15 à 18 de cette ordonnance doit, au
-préalable, inviter les parties à présenter leurs observations. 
+préalable, inviter les parties à présenter leurs observations.
 
 Les décisions prises en application des articles 2 à 20 de cette ordonnance sont rendues en dernier ressort. Elles sont
-susceptibles de pourvoi en cassation dans les quinze jours de leur notification. 
+susceptibles de pourvoi en cassation dans les quinze jours de leur notification.
 
 Toutefois, la décision qui liquide une astreinte est susceptible d'un appel dans les quinze jours de sa notification. L'appel
 est formé, instruit et jugé selon les règles applicables à la procédure ordinaire avec représentation obligatoire.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37212,7 +38734,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-1456 du 27 novembre 2009 - art. 3
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 1441-2
@@ -37311,34 +38833,35 @@ _Créé par_:
   - Décret n°2016-360 du 25 mars 2016 - art. 181
 
 
-## Titre V : La sécurité sociale et l'aide sociale<a id=453></a>
+## Titre V : La sécurité sociale et l'aide sociale<a id=459></a>
 
 ###### Article 1441-4
 
-Les dispositions particulières aux demandes dont connaissent les tribunaux de grande instance et les cours d'appel
-spécialement désignés en application des articles  L. 211-16 , L. 311-15 et L. 311-16 du code de l'organisation judiciaire
-sont prévues au chapitre 2 du titre IV du livre Ier (partie réglementaire) du code de la sécurité sociale.
+Les dispositions particulières aux demandes dont connaissent les tribunaux judiciaires et les cours d'appel spécialement
+désignés en application des articles  L. 211-16 , L. 311-15 et L. 311-16 du code de l'organisation judiciaire sont prévues au
+chapitre 2 du titre IV du livre Ier (partie réglementaire) du code de la sécurité sociale.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2018-928 du 29 octobre 2018 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de l'organisation judiciaire - art. L211-16
 
 
-# Livre IV : L'arbitrage.<a id=454></a>
+# Livre IV : L'arbitrage.<a id=460></a>
 
-## Titre Ier : L'arbitrage interne.<a id=455></a>
+## Titre Ier : L'arbitrage interne.<a id=461></a>
 
-### Chapitre Ier : La convention d'arbitrage.<a id=456></a>
+### Chapitre Ier : La convention d'arbitrage.<a id=462></a>
 
 ###### Article 1442
 
@@ -37488,18 +39011,19 @@ _Modifié par_:
 
 L'existence d'une convention d'arbitrage ne fait pas obstacle, tant que le tribunal arbitral n'est pas constitué, à ce qu'une
 partie saisisse une juridiction de l'Etat aux fins d'obtenir une mesure d'instruction ou une mesure provisoire ou
-conservatoire. 
+conservatoire.
 
 Sous réserve des dispositions régissant les saisies conservatoires et les sûretés judiciaires, la demande est portée devant
-le président du tribunal de grande instance ou de commerce, qui statue sur les mesures d'instruction dans les conditions
-prévues à l'article 145 et, en cas d'urgence, sur les mesures provisoires ou conservatoires sollicitées par les parties à la
-convention d'arbitrage.
+le président du tribunal judiciaire ou de commerce, qui statue sur les mesures d'instruction dans les conditions prévues à
+l'article 145 et, en cas d'urgence, sur les mesures provisoires ou conservatoires sollicitées par les parties à la convention
+d'arbitrage.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Anciens textes_:
 
@@ -37507,10 +39031,10 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre II : Le tribunal arbitral<a id=457></a>
+### Chapitre II : Le tribunal arbitral<a id=463></a>
 
 ###### Article 1450
 
@@ -37710,22 +39234,23 @@ _Modifié par_:
 
 ###### Article 1459
 
-Le juge d'appui compétent est le président du tribunal de grande instance. 
+Le juge d'appui compétent est le président du tribunal judiciaire.
 
 Toutefois, si la convention d'arbitrage le prévoit expressément, le président du tribunal de commerce est compétent pour
 connaître des demandes formées en application des articles 1451 à 1454. Dans ce cas, il peut faire application de l'article
-1455. 
+1455.
 
 Le juge territorialement compétent est celui désigné par la convention d'arbitrage ou, à défaut, celui dans le ressort duquel
 le siège du tribunal arbitral a été fixé. En l'absence de toute stipulation de la convention d'arbitrage, le juge
 territorialement compétent est celui du lieu où demeure le ou l'un des défendeurs à l'incident ou, si le défendeur ne demeure
 pas en France, du lieu où demeure le demandeur.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Anciens textes_:
 
@@ -37733,17 +39258,22 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1460
 
-Le juge d'appui est saisi soit par une partie, soit par le tribunal arbitral ou l'un de ses membres. 
+Le juge d'appui est saisi soit par une partie, soit par le tribunal arbitral ou l'un de ses membres.
 
-La demande est formée, instruite et jugée comme en matière de référé. 
+Le juge statue selon la procédure accélérée au fond.
 
-Le juge d'appui statue par ordonnance non susceptible de recours. Toutefois, cette ordonnance peut être frappée d'appel
-lorsque le juge déclare n'y avoir lieu à désignation pour une des causes prévues à l'article 1455.
+Le juge d'appui statue par jugement non susceptible de recours. Toutefois, ce jugement peut être frappé d'appel lorsque le
+juge déclare n'y avoir lieu à désignation pour une des causes prévues à l'article 1455.
+
+**Nota:**
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37757,7 +39287,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 _Cite_:
 
@@ -37780,7 +39310,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : L'instance arbitrale<a id=458></a>
+### Chapitre III : L'instance arbitrale<a id=464></a>
 
 ###### Article 1462
 
@@ -37922,25 +39452,28 @@ _Modifié par_:
 
 Si une partie à l'instance arbitrale entend faire état d'un acte authentique ou sous seing privé auquel elle n'a pas été
 partie ou d'une pièce détenue par un tiers, elle peut, sur invitation du tribunal arbitral, faire assigner ce tiers devant le
-président du tribunal de grande instance aux fins d'obtenir la délivrance d'une expédition ou la production de l'acte ou de
-la pièce. 
+président du tribunal judiciaire aux fins d'obtenir la délivrance d'une expédition ou la production de l'acte ou de la pièce.
 
-La compétence territoriale du président du tribunal de grande instance est déterminée conformément aux articles 42 à 48. 
+La compétence territoriale du président du tribunal judiciaire est déterminée conformément aux articles 42 à 48.
 
-La demande est formée, instruite et jugée comme en matière de référé. 
+La demande est formée, instruite et jugée selon la procédure accélérée au fond.
 
 Le président, s'il estime la demande fondée, ordonne la délivrance ou la production de l'acte ou de la pièce, en original, en
-copie ou en extrait, selon le cas, dans les conditions et sous les garanties qu'il fixe, au besoin à peine d'astreinte. 
+copie ou en extrait, selon le cas, dans les conditions et sous les garanties qu'il fixe, au besoin à peine d'astreinte.
 
-Cette décision n'est pas exécutoire de plein droit. 
+Cette décision n'est pas exécutoire de plein droit.
 
 Elle est susceptible d'appel dans un délai de quinze jours suivant la signification de la décision.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
+Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
+s'appliquent aux demandes introduites à compter du 1er janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Anciens textes_:
 
@@ -37948,7 +39481,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
 ###### Article 1470
@@ -38100,7 +39633,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : La sentence arbitrale<a id=459></a>
+### Chapitre IV : La sentence arbitrale<a id=465></a>
 
 ###### Article 1478
 
@@ -38303,27 +39836,27 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre V : L'exequatur<a id=460></a>
+### Chapitre V : L'exequatur<a id=466></a>
 
 ###### Article 1487
 
-La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel cette sentence a été rendue. 
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal
+judiciaire dans le ressort duquel cette sentence a été rendue.
 
-La procédure relative à la demande d'exequatur n'est pas contradictoire. 
+La procédure relative à la demande d'exequatur n'est pas contradictoire.
 
 La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
-et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur
-authenticité. 
+et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur authenticité.
 
 L'exequatur est apposé sur l'original ou, si celui-ci n'est pas produit, sur la copie de la sentence arbitrale répondant aux
 conditions prévues à l'alinéa précédent.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Anciens textes_:
 
@@ -38331,7 +39864,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1488
@@ -38351,9 +39884,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre VI : Les voies de recours<a id=461></a>
+### Chapitre VI : Les voies de recours<a id=467></a>
 
-#### Section 1 : L'appel<a id=462></a>
+#### Section 1 : L'appel<a id=468></a>
 
 ###### Article 1489
 
@@ -38392,7 +39925,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Le recours en annulation<a id=463></a>
+#### Section 2 : Le recours en annulation<a id=469></a>
 
 ###### Article 1491
 
@@ -38460,7 +39993,7 @@ _Cite_:
   - Nouveau code de procédure civile 1457
 
 
-#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=464></a>
+#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=470></a>
 
 ###### Article 1494
 
@@ -38556,7 +40089,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=465></a>
+#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=471></a>
 
 ###### Article 1499
 
@@ -38598,7 +40131,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-#### Section 5 : Autres voies de recours<a id=466></a>
+#### Section 5 : Autres voies de recours<a id=472></a>
 
 ###### Article 1501
 
@@ -38661,7 +40194,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501 et 1502
 
 
-## Titre II : L'arbitrage international<a id=467></a>
+## Titre II : L'arbitrage international<a id=473></a>
 
 ###### Article 1504
 
@@ -38685,31 +40218,27 @@ _Cite_:
 ###### Article 1505
 
 En matière d'arbitrage international, le juge d'appui de la procédure arbitrale est, sauf clause contraire, le président du
-tribunal de grande instance de Paris lorsque : 
+tribunal judiciaire de Paris lorsque :
 
-1° L'arbitrage se déroule en France ; ou 
+1° L'arbitrage se déroule en France ; ou
 
-2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou 
+2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou
 
 3° Les parties ont expressément donné compétence aux juridictions étatiques françaises pour connaître des différends relatifs
-à la procédure arbitrale ; ou 
+à la procédure arbitrale ; ou
 
 4° L'une des parties est exposée à un risque de déni de justice.
 
 **Nota:**
 
-Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Les dispositions du 2° et du 3° s'appliquent lorsque la convention
-d'arbitrage a été conclue après le 1er mai 2011.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -38747,7 +40276,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501, 1502 et 1504
 
 
-### Chapitre Ier : La convention d'arbitrage international<a id=468></a>
+### Chapitre Ier : La convention d'arbitrage international<a id=474></a>
 
 ###### Article 1507
 
@@ -38784,7 +40313,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : L'instance et la sentence arbitrales<a id=469></a>
+### Chapitre II : L'instance et la sentence arbitrales<a id=475></a>
 
 ###### Article 1509
 
@@ -38879,7 +40408,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=470></a>
+### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=476></a>
 
 ###### Article 1514
 
@@ -38920,24 +40449,24 @@ _Modifié par_:
 
 ###### Article 1516
 
-La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel elle été rendue ou du tribunal de grande instance de Paris lorsqu'elle a été rendue à
-l'étranger. 
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal
+judiciaire dans le ressort duquel elle été rendue ou du tribunal judiciaire de Paris lorsqu'elle a été rendue à l'étranger.
 
-La procédure relative à la demande d'exequatur n'est pas contradictoire. 
+La procédure relative à la demande d'exequatur n'est pas contradictoire.
 
 La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
 et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur authenticité.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1517
@@ -38961,9 +40490,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : Les voies de recours<a id=471></a>
+### Chapitre IV : Les voies de recours<a id=477></a>
 
-#### Section 1 : Sentences rendues en France<a id=472></a>
+#### Section 1 : Sentences rendues en France<a id=478></a>
 
 ###### Article 1518
 
@@ -39081,7 +40610,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Sentences rendues à l'étranger<a id=473></a>
+#### Section 2 : Sentences rendues à l'étranger<a id=479></a>
 
 ###### Article 1525
 
@@ -39103,7 +40632,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=474></a>
+#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=480></a>
 
 ###### Article 1526
 
@@ -39140,7 +40669,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-# Livre V : La résolution amiable des différends<a id=475></a>
+# Livre V : La résolution amiable des différends<a id=481></a>
 
 ###### Article 1528
 
@@ -39179,7 +40708,7 @@ _Cite_:
   - Code civil - art. 2066
 
 
-## Titre Ier : La médiation et la conciliation conventionnelles<a id=476></a>
+## Titre Ier : La médiation et la conciliation conventionnelles<a id=482></a>
 
 ###### Article 1530
 
@@ -39215,7 +40744,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-### Chapitre Ier : La médiation conventionnelle<a id=477></a>
+### Chapitre Ier : La médiation conventionnelle<a id=483></a>
 
 ###### Article 1532
 
@@ -39287,7 +40816,7 @@ _Cite_:
   - Code de procédure civile - art. 509-2
 
 
-### Chapitre II : La conciliation menée par un conciliateur de justice<a id=478></a>
+### Chapitre II : La conciliation menée par un conciliateur de justice<a id=484></a>
 
 ###### Article 1536
 
@@ -39354,18 +40883,23 @@ En cas de conciliation, même partielle, il peut être établi un constat d'acco
 justice. La conciliation peut également être consignée dans un constat signé par le conciliateur et une ou plusieurs des
 parties lorsque l'une ou plusieurs d'entre elles ont formalisé les termes de l'accord auquel elles consentent dans un acte
 signé par elles et établi hors la présence du conciliateur de justice ; il incombe alors à ce dernier de viser l'acte dans le
-constat et de l'annexer à celui-ci. 
+constat et de l'annexer à celui-ci.
 
-La rédaction d'un constat est requise lorsque la conciliation a pour effet la renonciation à un droit. 
+La rédaction d'un constat est requise lorsque la conciliation a pour effet la renonciation à un droit.
 
 Un exemplaire du constat est remis à chaque intéressé. Le conciliateur de justice procède également, sans délai, au dépôt
-d'un exemplaire au greffe du tribunal d'instance.
+d'un exemplaire au greffe du tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-66 du 20 janvier 2012 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 1541
@@ -39380,7 +40914,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 25
 
 
-## Titre II : La procédure participative<a id=479></a>
+## Titre II : La procédure participative<a id=485></a>
 
 ###### Article 1542
 
@@ -39402,20 +40936,26 @@ _Cite_:
 Elle se déroule selon une procédure conventionnelle de recherche d'un accord, suivie, le cas échéant, par une procédure aux
 fins de jugement.
 
-Elle peut aussi se dérouler dans le cadre de l'instance, aux fins de mise en état.
+Elle peut aussi se dérouler dans le cadre de l'instance, aux fins de mise en état devant toute juridiction de l'ordre
+judiciaire, quelle que soit la procédure suivie.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 
-### Chapitre Ier  : La procédure conventionnelle<a id=480></a>
+### Chapitre Ier  : La procédure conventionnelle<a id=486></a>
 
-#### Section 1 : La convention<a id=481></a>
+#### Section 1 : La convention<a id=487></a>
 
-##### Sous-section 1 : Dispositions générales<a id=482></a>
+##### Sous-section 1 : Dispositions générales<a id=488></a>
 
 ###### Article 1544
 
@@ -39432,31 +40972,31 @@ _Modifié par_:
 ###### Article 1545
 
 Outre les mentions prévues à l'article 2063 du code civil, la convention de procédure participative mentionne les noms,
-prénoms et adresses des parties et de leurs avocats. 
+prénoms et adresses des parties et de leurs avocats.
 
-La communication des pièces et informations entre les parties se fait par l'intermédiaire de leurs avocats selon les
-modalités prévues par la convention ; ceux-ci les portent à la connaissance des intéressés par tous moyens appropriés. Un
-bordereau est établi lorsqu'une pièce est communiquée. 
+La communication des prétentions et des moyens en fait et en droit, des pièces et informations entre les parties se fait par
+l'intermédiaire de leurs avocats selon les modalités prévues par la convention ; ceux-ci les portent à la connaissance des
+intéressés par tous moyens appropriés. Un bordereau est établi lorsqu'une pièce est communiquée.
 
 La convention fixe également la répartition des frais entre les parties sous réserve des dispositions de l'article 123-2 du
 décret n° 91-1266 du 19 décembre 1991 lorsque l'une des parties bénéficie de l'aide juridictionnelle. A défaut de précision
-dans la convention, les frais de la procédure participative sont partagés par moitié.
+dans la convention, les frais de la procédure participative sont partagés entre les parties à parts égales.
 
 **Nota:**
 
-Conformément aux dispositions du VIII de l'article 70 du décret n° 2017-892 du 6 mai 2017, ces dispositions sont applicables
-aux procédures participatives conclues à compter de l'entrée en vigueur dudit décret.
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2 (V)
+  - Décret n°91-1266 du 19 décembre 1991 - art. 123-2
   - Code civil - art. 2063
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 
 ###### Article 1546
@@ -39470,18 +41010,32 @@ La convention de procédure participative est modifiée dans les mêmes formes q
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
-##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état<a id=483></a>
+##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état<a id=489></a>
 
 ###### Article 1546-1
 
-Le juge ordonne le retrait du rôle lorsque les parties l'informent de la conclusion d'une convention de procédure
+Les parties peuvent conclure une convention de procédure participative aux fins de mise en état à tout moment de l'instance.
+
+Lorsque les parties et leurs avocats justifient avoir conclu une convention de procédure participative aux fins de mise en
+état, le juge peut, à leur demande, fixer la date de l'audience de clôture de l'instruction et la date de l'audience de
+plaidoiries. Il renvoie l'examen de l'affaire à la première audience précitée. A défaut de demande en ce sens, le juge
+ordonne le retrait du rôle.
+
+La signature d'une convention de procédure participative aux fins de mise en état vaut renonciation de chaque partie à se
+prévaloir d'une fin de non-recevoir, de toute exception de procédure et des dispositions de l'article 47 du présent code, à
+l'exception de celles qui surviennent ou sont révélées postérieurement à la signature de la convention de procédure
 participative.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cité par_:
 
@@ -39516,31 +41070,52 @@ _Cite_:
   - Code de procédure civile - art. 908 (VT)
 
 
-#### Section 1 bis : Les actes contresignés par avocats<a id=484></a>
+#### Section 1 bis : Les actes contresignés par avocats<a id=490></a>
 
 ###### Article 1546-3
 
+L'acte de procédure contresigné par avocat est établi conjointement par les avocats des parties à un litige ayant ou non
+donné lieu à la saisine d'une juridiction, en dehors ou dans le cadre d'une procédure participative.
+
 Par actes contresignés par avocats précisés dans la convention de procédure participative, les parties peuvent notamment :
 
-1° Constater les faits qui ne l'auraient pas été dans la convention ;
+1° Enumérer les faits ou les pièces qui ne l'auraient pas été dans la convention, sur l'existence, le contenu ou
+l'interprétation desquels les parties s'accordent ;
 
 2° Déterminer les points de droit auxquels elles entendent limiter le débat, dès lors qu'ils portent sur des droits dont
 elles ont la libre disposition ;
 
 3° Convenir des modalités de communication de leurs écritures ;
 
-4° Recourir à un technicien ;
+4° Recourir à un technicien selon les modalités des articles 1547 à 1554 ;
 
-5° Désigner un conciliateur de justice ou un médiateur.
+5° Désigner un conciliateur de justice ou un médiateur ayant pour mission de concourir à la résolution du litige. L'acte fixe
+la mission de la personne désignée, le cas échéant, le montant de sa rémunération et ses modalités de paiement ;
+
+6° Consigner les auditions des parties, entendues successivement en présence de leurs conseils, comportant leur présentation
+du litige, leurs prétentions, les questions de leurs avocats ainsi que leurs réponses et les observations qu'elles souhaitent
+présenter ;
+
+7° Consigner les déclarations de toute personne acceptant de fournir son témoignage sur les faits auxquels il a assisté ou
+qu'il a personnellement constatés, recueillies ensemble par les avocats, spontanément ou sur leur interrogation. L'acte
+contient les mentions prévues au deuxième alinéa de l'article 202. Le témoin fait précéder sa signature de la mention prévue
+au troisième alinéa du même article ;
+
+8° Consigner les constatations ou avis donnés par un technicien recueillies ensemble par les avocats.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 
-#### Section 2 : Le recours à un technicien<a id=485></a>
+#### Section 2 : Le recours à un technicien<a id=491></a>
 
 ###### Article 1547
 
@@ -39649,35 +41224,70 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-#### Section 3 : L'issue de la procédure<a id=486></a>
+#### Section 3 : L'issue de la procédure<a id=492></a>
 
 ###### Article 1555
 
-La procédure conventionnelle s'éteint par :
+La procédure participative s'éteint par :
 
 1° L'arrivée du terme de la convention de procédure participative ;
 
 2° La résiliation anticipée et par écrit de cette convention par les parties assistées de leurs avocats ;
 
 3° La conclusion d'un accord mettant fin en totalité au différend ou au litige ou l'établissement d'un acte constatant la
-persistance de tout ou partie de celui-ci.
+persistance de tout ou partie de celui-ci ;
 
-Lorsqu'un accord au moins partiel a pu être conclu, il est constaté dans un écrit établi par les parties, assistées de leurs
-avocats. Il énonce de manière détaillée les éléments ayant permis la conclusion de cet accord.
+4° L'inexécution par l'une des parties, de la convention ;
+
+5° La saisine du juge, dans le cadre d'une procédure participative aux fins de mise en état, aux fins de statuer sur un
+incident, sauf si la saisine émane de l'ensemble des parties.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cité par_:
 
-  - Code de procédure civile - art. 1557 (V)
-  - Code de procédure civile - art. 1564-2 (V)
+  - Code de procédure civile - art. 1557 (M)
+  - Code de procédure civile - art. 1564-2 (VD)
 
 
-### Chapitre II : La procédure aux fins de jugement<a id=487></a>
+###### Article 1555-1
+
+Lorsqu'un accord au moins partiel a pu être conclu, il est constaté dans un acte sous signature privée établi dans les
+conditions prévues à l'article 1374 du code civil. Il énonce de manière détaillée les éléments ayant permis la conclusion de
+cet accord.
+
+Lorsque la convention de procédure participative a été conclue aux fins de mise en état, l'accord mentionné au premier alinéa
+est adressé à la juridiction au plus tard à la date de l'audience à laquelle l'instruction sera clôturée.
+
+Lorsque la convention de procédure participative est conclue dans le cadre d'une procédure sans mise en état, l'accord
+mentionné au premier alinéa est adressé à la juridiction au plus tard le jour de l'audience.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
+
+_Cite_:
+
+  - Code civil - art. 1374
+
+
+### Chapitre II : La procédure aux fins de jugement<a id=493></a>
 
 ###### Article 1556
 
@@ -39702,9 +41312,9 @@ _Cite_:
   - Code civil - art. 2065
 
 
-#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable<a id=488></a>
+#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable<a id=494></a>
 
-##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend<a id=489></a>
+##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend<a id=495></a>
 
 ###### Article 1557
 
@@ -39732,9 +41342,9 @@ _Cité par_:
   - Code de procédure civile - art. 1560 (VD)
 
 
-##### Sous-section 2 : La procédure de jugement du différend persistant<a id=490></a>
+##### Sous-section 2 : La procédure de jugement du différend persistant<a id=496></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=491></a>
+##### Paragraphe 1 : Dispositions communes<a id=497></a>
 
 ###### Article 1558
 
@@ -39756,59 +41366,69 @@ _Cite_:
 
 ###### Article 1559
 
-Devant le tribunal de grande instance et à moins que l'entier différend n'ait été soumis à la procédure de droit commun,
-l'affaire est directement appelée à une audience de jugement de la formation à laquelle elle a été distribuée. L'affaire ne
-peut être renvoyée devant le juge de la mise en état que dans les cas prévus au deuxième et au troisième alinéa de l'article
-1561.
+Devant le tribunal judiciaire et à moins que l'entier différend n'ait été soumis à la procédure de droit commun, l'affaire
+est directement appelée à une audience de jugement de la formation à laquelle elle a été distribuée. L'affaire ne peut être
+renvoyée devant le juge de la mise en état que dans les cas prévus au deuxième et au troisième alinéa de l'article 1561.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
-  - Code de procédure civile - art. 1561 (V)
+  - Code de procédure civile - art. 1561 (M)
 
 
-##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=492></a>
+##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=498></a>
 
 ###### Article 1560
 
 Lorsque les parties ne sont parvenues qu'à un accord partiel et à moins qu'elles ne demandent que son homologation
 conformément à l'article 1557, elles peuvent saisir le juge à l'effet qu'il statue sur le différend résiduel soit
 conformément aux règles régissant la procédure applicable devant lui, soit par une requête conjointe signée par les avocats
-les ayant assistées au cours de la procédure participative dans les conditions prévues par le présent paragraphe. 
+les ayant assistées au cours de la procédure participative dans les conditions prévues par le présent paragraphe.
 
-Cette requête contient, à peine d'irrecevabilité, outre les mentions prévues par l'article 57 : 
+Cette requête contient, à peine d'irrecevabilité que le juge peut soulever d'office, outre les mentions prévues par l'article
+57 :
 
 ― les points faisant l'objet d'un accord entre les parties, dont elles peuvent demander au juge l'homologation dans la même
-requête ; 
+requête ;
 
 ― les prétentions respectives des parties relativement aux points sur lesquels elles restent en litige, accompagnées des
 moyens de fait et de droit sur lesquels chacune de ces prétentions est fondée, avec l'indication pour chaque prétention des
-pièces invoquées. 
+pièces invoquées.
 
 Sous la même sanction, cette requête est accompagnée de la convention de procédure participative, des pièces prévues à
 l'article 2063 du code civil, le cas échéant, du rapport du technicien, ainsi que des pièces communiquées au cours de la
 procédure conventionnelle.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cite_:
 
-  - Code de procédure civile - art. 1557 (V)
+  - Code de procédure civile - art. 1557
   - Code de procédure civile - art. 57
   - Code civil - art. 2063
 
 _Cité par_:
 
-  - Code de procédure civile - art. 1563 (VD)
+  - Code de procédure civile - art. 1563 (M)
 
 
 ###### Article 1561
@@ -39834,7 +41454,7 @@ _Cité par_:
   - Code de procédure civile - art. 1559 (VD)
 
 
-##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=493></a>
+##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=499></a>
 
 ###### Article 1562
 
@@ -39857,21 +41477,26 @@ du présent paragraphe.
 ###### Article 1563
 
 La requête est déposée au greffe par l'avocat de la partie la plus diligente. A peine d'irrecevabilité, elle est présentée
-dans un délai de trois mois suivant le terme de la convention de procédure participative. 
+dans un délai de trois mois suivant le terme de la convention de procédure participative.
 
 Outre les mentions prescrites, à peine de nullité, par l'article 58, la requête contient un exposé des moyens de fait et de
-droit et est accompagnée de la liste des pièces mentionnées au troisième alinéa de l'article 1560. 
+droit et est accompagnée de la liste des pièces mentionnées au troisième alinéa de l'article 1560.
 
 L'avocat qui procède au dépôt en informe la partie adverse elle-même ainsi que l'avocat l'ayant assisté au cours de la
-procédure conventionnelle, selon le cas, par notification ou par lettre recommandée avec demande d'avis de réception. 
+procédure conventionnelle, selon le cas, par notification ou par lettre recommandée avec demande d'avis de réception.
 
-Devant le tribunal de grande instance, le dépôt de cet acte au greffe contient constitution de l'avocat.
+Devant le tribunal judiciaire, le dépôt de cet acte au greffe contient constitution de l'avocat.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -39885,41 +41510,50 @@ _Cité par_:
 
 ###### Article 1564
 
-Lorsque la requête a été déposée au greffe du tribunal de grande instance, la notification mentionnée au troisième alinéa de
-l'article 1563 indique que la partie adverse doit constituer avocat dans un délai de quinze jours suivant cette
-notification. 
+Lorsque la requête a été déposée au greffe du tribunal judiciaire, la notification mentionnée au troisième alinéa de
+l'article 1563 indique que la partie adverse doit constituer avocat dans un délai de quinze jours suivant cette notification.
 
 Dans les autres cas, l'avocat du requérant est informé par le greffe, dès remise de la requête, de la date de la première
 audience utile à laquelle l'affaire sera appelée. Cette date est portée à la connaissance de la partie adverse dans la
 notification prévue au troisième alinéa de l'article 1563.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de procédure civile - art. 1563
 
 
-#### Section 2 : La procédure de jugement après mise en état du litige<a id=494></a>
+#### Section 2 : La procédure de jugement après mise en état conventionnelle du litige<a id=500></a>
 
 ###### Article 1564-1
 
-L'affaire est rétablie à la demande de l'une des parties afin que le juge, selon le cas, homologue l'accord et statue sur la
-partie du litige persistant ou statue sur l'entier litige.
+L'affaire est rétablie à la demande de l'une des parties afin que le juge, selon le cas homologue l'accord et statue sur la
+partie du litige persistant ou statue sur l'entier litige après avoir, le cas échéant, mis l'affaire en état d'être jugée.
 
 La demande de rétablissement est accompagnée de la convention de procédure participative conclue entre les parties, des
-pièces prévues à l' article 2063 du code civil , le cas échéant, du rapport du technicien, ainsi que des pièces communiquées
-au cours de la procédure conventionnelle.
+pièces prévues à l'article 2063 du code civil, le cas échéant, du rapport du technicien, ainsi que des pièces communiquées au
+cours de la procédure conventionnelle.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cité par_:
 
@@ -39932,36 +41566,48 @@ _Cite_:
 
 ###### Article 1564-2
 
-Lorsque la mise en état a permis de parvenir à un accord total, la demande tendant à l'homologation de l'accord des parties
-établi conformément à l'article 1555 est présentée au juge par la partie la plus diligente ou l'ensemble des parties. 
+Sous réserve des dispositions de l'article 2067 du code civil, lorsque la mise en état a permis de parvenir à un accord total
+sur le fond du litige, la demande tendant à l'homologation de l'accord des parties établi conformément aux dispositions de
+l'article 1555-1, est présentée au juge par la partie la plus diligente ou l'ensemble des parties.
 
 Lorsque l'accord concerne un mineur capable de discernement, notamment lorsqu'il porte sur les modalités de l'exercice de
 l'autorité parentale, la demande mentionne les conditions dans lesquelles le mineur a été informé de son droit à être entendu
 par le juge ou la personne désignée par lui et à être assisté par un avocat.
 
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cite_:
 
-  - Code de procédure civile - art. 1555 (V)
+  - Code de procédure civile - art. 1555 (VD)
 
 
 ###### Article 1564-3
 
-Lorsque la mise en état a permis de parvenir à un accord partiel, la demande de rétablissement indique les points faisant
-l'objet d'un accord entre les parties, ainsi que les prétentions respectives des parties relativement aux points sur lesquels
-elles restent en litige, accompagnées des moyens de fait et de droit sur lesquels chacune de ces prétentions est fondée, avec
-l'indication pour chaque prétention des pièces invoquées.
+Lorsque la phase conventionnelle a permis de mettre l'affaire en état d'être jugée et de conclure un accord partiel sur le
+fond du litige, la demande de rétablissement est accompagnée d'un acte d'avocats établi dans les conditions prévues à
+l'article 1374 du code civil, formalisant les points faisant l'objet d'un accord entre les parties, ainsi que les prétentions
+respectives des parties relativement aux points sur lesquels elles restent en litige, accompagnées des moyens en fait et en
+droit sur lesquels chacune de ces prétentions est fondée, avec l'indication pour chaque prétention des pièces invoquées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cité par_:
 
@@ -39970,20 +41616,87 @@ _Cité par_:
 
 ###### Article 1564-4
 
-Lorsque le litige persiste en totalité, le juge en connaît selon les modalités prévues à l'article 1564-1.
+Lorsque la phase conventionnelle a permis de mettre l'affaire en état d'être jugée mais que le litige persiste en totalité
+sur le fond, la demande de rétablissement est accompagnée d'un acte d'avocats établi dans les conditions prévues à l'article
+1374 du code civil, formalisant les prétentions respectives des parties, accompagnées des moyens en fait et en droit, avec
+l'indication pour chaque prétention des pièces invoquées.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 26
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 _Cité par_:
 
   - Code de procédure civile - art. 1564-7 (V)
 
 
-## Titre III : Dispositions communes<a id=495></a>
+###### Article 1564-5
+
+Lorsque la phase conventionnelle n'a pas permis de mettre l'affaire en état d'être jugée, en tout ou partie, l'affaire est
+rétablie à la demande de la partie la plus diligente, pour être mise en état, conformément aux règles de procédure
+applicables devant le juge de la mise en état.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
+
+
+###### Article 1564-6
+
+Lorsque le juge est saisi sur le fondement des dispositions des articles 1564-3 et 1564-4, l'affaire est fixée à bref délai.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
+
+
+###### Article 1564-7
+
+Lorsque l'examen de l'affaire a été renvoyé à l'audience de clôture de l'instruction en application des dispositions du
+deuxième alinéa de l'article 1546-1, les actes et pièces mentionnés aux articles 1564-1,1564-3 et 1564-4 sont communiqués au
+juge de la mise en état au plus tard à la date de cette audience.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 13
+
+_Cite_:
+
+  - Code de procédure civile - art. 1546-1 (V)
+  - Code de procédure civile - art. 1564-1 (V)
+  - Code de procédure civile - art. 1564-3 (V)
+  - Code de procédure civile - art. 1564-4 (V)
+
+
+## Titre III : Dispositions communes<a id=501></a>
 
 ###### Article 1565
 
@@ -40039,17 +41752,28 @@ _Anciens textes_:
   - Code de procédure civile - art. 1568 (T)
 
 
-# Livre VI : Dispositions relatives à l'outre-mer.<a id=496></a>
+# Livre VI : Dispositions relatives à l'outre-mer.<a id=502></a>
 
-## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=497></a>
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=503></a>
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-1380 du 17 décembre
-2019 relatif à la procédure applicable aux divorces contentieux et à la séparation de corps ou au divorce sans intervention
-judiciaire réalisé selon les modalités de l'article 229-1 du code civil. , à l'exception des dispositions des titres IV et V
-du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du
-livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-1333 du 11 décembre
+2019 réformant la procédure civile, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II
+du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au
+présent livre.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
+Les dispositions de l'article 4 du décret n° 2019-1464 du 26 décembre 2019 prévoient : A l'article 1575 du code de procédure
+civile, les mots : dans sa rédaction résultant du 
+  <font color="#000080">décret n° 2019-756 du 22 juillet 2019 </font>portant diverses dispositions sont remplacés par les
+mots : dans sa rédaction résultant du 
+  <font color="#000080">décret n° 2019-1464 du 26 décembre 2019 </font>relatif à l'évaluation de la situation du majeur à
+protéger transmise au procureur de la République.
 
 **Liens relatifs à cet article**
 
@@ -40063,7 +41787,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-1380 du 17 décembre 2019 - art. 16 (V)
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 56
 
 _Anciens textes_:
 
@@ -40074,11 +41798,11 @@ _Anciens textes_:
 
 Pour l'application du présent code à Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de première instance" ;
+1° “ tribunal judiciaire ” par : "tribunal de première instance" ;
 
 2° "tribunal de commerce" ou "justice consulaire" par : "tribunal de première instance statuant en matière commerciale" ;
 
-3° "juge d'instance" par : "président du tribunal de première instance" ;
+3° “ juge des contentieux de la protection ” par : "président du tribunal de première instance" ;
 
 4° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
 
@@ -40094,11 +41818,15 @@ Pour l'application du présent code à Wallis et Futuna, les termes énumérés 
 
 10° " président du conseil départemental " ou " maire " par : " chef du territoire ".
 
+**Nota:**
+
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 69
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Anciens textes_:
 
@@ -40219,9 +41947,9 @@ _Anciens textes_:
   - Code de procédure civile - art. 1519 (M)
 
 
-# Annexes<a id=498></a>
+# Annexes<a id=504></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=499></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=505></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -40235,9 +41963,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=500></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=506></a>
 
-#### Section I : Dispositions communes.<a id=501></a>
+#### Section I : Dispositions communes.<a id=507></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -40268,25 +41996,26 @@ _Cite_:
 
 ###### Article ANNEXE, art. 3
 
-Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal d'instance.
+Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal judiciaire. Les parties sont
+dispensées de l'obligation de constituer avocat. La procédure est orale.
 
-Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
-tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
-successorale.
+**Nota:**
+
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 21 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R911-2
+  - Code de l'organisation judiciaire
   - Nouveau code de procédure civile Annexe, 2
 
 
@@ -40311,22 +42040,25 @@ _Cite_:
 
 ###### Article ANNEXE, art. 5
 
-Les décisions du tribunal d'instance sont notifiées par lettre recommandée avec demande d'avis de réception.
+Les décisions du tribunal judiciaire sont notifiées par lettre recommandée avec demande d'avis de réception.
 
 Les décisions produisent effet du jour de leur notification lorsque le délai de recours est ouvert sans limitation de durée.
 
-Lorsque le recours est enfermé dans un délai, l'exécution est suspendue jusqu'à l'expiration du délai ou par le recours
-exercé dans le délai.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
 ###### Article ANNEXE, art. 6
@@ -40349,17 +42081,23 @@ _Modifié par_:
 Le recours est ouvert à tout intéressé.
 
 Il est formé, instruit et jugé selon les règles applicables en matière gracieuse devant la cour d'appel. Il peut également
-être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction d'instance.
+être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article ANNEXE, art. 8
@@ -40403,28 +42141,33 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=502></a>
+#### Section II : Dispositions propres à certaines matières.<a id=508></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=503></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=509></a>
 
 ###### Article ANNEXE, art. 11
 
-Le tribunal d'instance se saisit d'office pour organiser la tutelle dans les cas prévus par la loi ainsi que pour prendre
+Le tribunal judiciaire se saisit d'office pour organiser la tutelle dans les cas prévus par la loi ainsi que pour prendre
 toute mesure conservatoire en matière d'administration légale, de succession et de curatelle des non-présents.
 
 La compétence territoriale du juge des tutelles est déterminée par les articles 393 et 394 du code civil.
 
-Pour l'application des articles 1271 à 1281 du code de procédure civile, le tribunal compétent est le tribunal d'instance.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 37 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 12
@@ -40435,15 +42178,16 @@ Les officiers de l'état civil sont tenus d'aviser le tribunal d'instance :
 
 - du décès d'une personne laissant parmi ses héritiers, des majeurs protégés ou des absents.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2019-756 du 22 juillet 2019 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 13
@@ -40489,21 +42233,13 @@ _Cite_:
 
 ###### Article ANNEXE, art. 15
 
-Le tribunal d'instance peut également désigner un notaire pour apposer et lever des scellés ; il peut le charger de faire un
-inventaire. 
+Le tribunal judiciaire peut également désigner un notaire pour apposer et lever des scellés ; il peut le charger de faire un
+inventaire.
 
 Les héritiers intéressés doivent être appelés à ces opérations s'il n'en résulte aucun retard. Lorsque ces mesures ont été
-prises en l'absence d'un intéressé, le tribunal d'instance doit l'en aviser dès que possible.
+prises en l'absence d'un intéressé, le tribunal judiciaire doit l'en aviser dès que possible.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2011-1043 du 1er septembre 2011 - art. 8
 
 _Cité par_:
 
@@ -40513,25 +42249,30 @@ _Cité par_:
 ###### Article ANNEXE, art. 16
 
 Lorsqu'il y a urgence à sauvegarder la masse successorale, le maire est tenu d'apposer provisoirement les scellés sauf à en
-rendre compte sans retard au tribunal d'instance.
+rendre compte sans retard au tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 17
 
-Le tribunal d'instance territorialement compétent en matière de curatelle des non-présents ou pour prendre des mesures
+Le tribunal judiciaire territorialement compétent en matière de curatelle des non-présents ou pour prendre des mesures
 conservatoires après l'ouverture d'une succession est celui du lieu où se manifeste le besoin d'une intervention.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 18
@@ -40583,7 +42324,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=504></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=510></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -40619,36 +42360,42 @@ _Cité par_:
 
 ###### Article ANNEXE, art. 23
 
-Les décisions du tribunal d'instance peuvent être attaquées par la voie du pourvoi immédiat.
+Les décisions du tribunal judiciaire peuvent être attaquées par la voie du pourvoi immédiat.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
   - Code des transports - art. R4123-26 (VD)
 
 
-##### Sous-section III : Affaires de registres.<a id=505></a>
+##### Sous-section III : Affaires de registres.<a id=511></a>
 
 ###### Article ANNEXE, art. 24
 
-Les dispositions de la présente sous-section s'appliquent à la tenue des registres par le tribunal d'instance dans les cas
+Les dispositions de la présente sous-section s'appliquent à la tenue des registres par le tribunal judiciaire dans les cas
 prévus par la législation locale, sous réserve des dispositions particulières au registre des associations prévues dans la
 sous-section IV.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Modifié par_:
 
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -40674,14 +42421,19 @@ _Modifié par_:
 
 ###### Article ANNEXE, art. 26
 
-Lorsqu'une inscription est subordonnée à la solution préalable d'un différend, le tribunal d'instance peut surseoir à statuer
+Lorsqu'une inscription est subordonnée à la solution préalable d'un différend, le tribunal judiciaire peut surseoir à statuer
 sur la demande d'inscription.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 27
@@ -40733,9 +42485,14 @@ _Modifié par_:
 ###### Article ANNEXE, art. 30
 
 Dans le cas prévu à l'article 37 du code civil local, la direction de l'association est entendue ou appelée avant que le
-tribunal d'instance n'ordonne la convocation de l'assemblée générale.
+tribunal judiciaire n'ordonne la convocation de l'assemblée générale.
 
 L'ordonnance ne peut être frappée que d'un pourvoi immédiat.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40743,19 +42500,15 @@ _Cite_:
 
   - Code civil local 37
 
-_Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+##### Sous-section IV : Dispositions particulières au registre des associations<a id=512></a>
 
-
-##### Sous-section IV : Dispositions particulières au registre des associations<a id=506></a>
-
-##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=507></a>
+##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=513></a>
 
 ###### Article ANNEXE, art. 30-1
 
 La déclaration en vue de l'inscription de l'association ou de l'inscription de toute modification des statuts est faite au
-greffe du tribunal d'instance par un membre de la direction de l'association.
+greffe du tribunal judiciaire par un membre de la direction de l'association.
 
 La déclaration précise l'objet, la dénomination et l'adresse du siège ou la domiciliation de l'association et, le cas
 échéant, son sigle.
@@ -40769,24 +42522,25 @@ application de l'article 59 du même code y apposent leurs nom et prénoms.
 Le greffier donne récépissé de la déclaration au déclarant dans un délai de cinq jours. Le récépissé contient l'énumération
 des pièces annexées. Il est daté et signé.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code civil local 66, 59
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 30-2
 
-Dans le cas prévu à l'article 60 du code civil local, le tribunal d'instance recueille les observations de la direction de
+Dans le cas prévu à l'article 60 du code civil local, le tribunal judiciaire recueille les observations de la direction de
 l'association ou les lui demande avant de prendre une ordonnance de rejet de la déclaration.
 
 Il peut aussi renvoyer la déclaration, en l'état, à une audience dont il fixe la date. Les membres de la direction y sont
@@ -40796,25 +42550,31 @@ dans le délai d'un mois à compter de la délivrance du récépissé de déclar
 Dans les autres cas, il communique dans le même délai la déclaration au représentant de l'Etat dans le département, qui en
 accuse réception.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code civil local 60
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 30-4
 
 Les déclarations prévues au premier alinéa de l'article 67 et aux articles 74 et 76 du code civil local sont faites au greffe
-du tribunal d'instance par un membre de la direction de l'association et, le cas échéant, par les liquidateurs.
+du tribunal judiciaire par un membre de la direction de l'association et, le cas échéant, par les liquidateurs.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40822,56 +42582,59 @@ _Cite_:
 
   - Code civil local 74, 76
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 2 : La tenue du registre<a id=508></a>
+##### Paragraphe 2 : La tenue du registre<a id=514></a>
 
 ###### Article ANNEXE, art. 30-5
 
-Le registre des associations inscrites est tenu sous le contrôle du juge par le greffe du tribunal d'instance, selon un
+Le registre des associations inscrites est tenu sous le contrôle du juge par le greffe du tribunal judiciaire, selon un
 modèle fixé par arrêté du garde des sceaux, ministre de la justice. Un arrêté du même ministre fixe la date à compter de
 laquelle le registre est tenu sur support électronique.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 30-6
 
-Les pièces jointes aux déclarations de l'association sont conservées au greffe du tribunal d'instance dans un dossier annexe
+Les pièces jointes aux déclarations de l'association sont conservées au greffe du tribunal judiciaire dans un dossier annexe
 organisé selon des modalités fixées par arrêté du garde des sceaux, ministre de la justice.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 30-7
 
-L'attestation prévue à l'article 69 du code civil local est établie par le directeur de greffe du tribunal d'instance, ou son
+L'attestation prévue à l'article 69 du code civil local est établie par le directeur de greffe du tribunal judiciaire, ou son
 délégué, selon un modèle fixé par arrêté du garde des sceaux, ministre de la justice. Elle précise les nom, prénoms,
 domicile, nationalité, date et lieu de naissance de chacun des membres de la direction ainsi que la date d'inscription de
 l'association.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40879,21 +42642,22 @@ _Cite_:
 
   - Code civil local 69
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 30-8
 
-Le directeur de greffe du tribunal d'instance avise le ministère public de l'omission des déclarations à fin d'inscription
+Le directeur de greffe du tribunal judiciaire avise le ministère public de l'omission des déclarations à fin d'inscription
 prévues par le premier alinéa de l'article 67, le premier alinéa de l'article 71, le deuxième alinéa de l'article 74 et
 l'article 76 du code civil local dont il a connaissance. Il en est de même lorsque l'attestation prévue par l'article 72 du
 même code n'est pas fournie.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40901,16 +42665,12 @@ _Cite_:
 
   - Code civil local 76, 74, 72
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 68
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 3 : La publication de l'inscription<a id=509></a>
+##### Paragraphe 3 : La publication de l'inscription<a id=515></a>
 
 ###### Article ANNEXE, art. 30-9
 
@@ -40929,30 +42689,35 @@ _Créé par_:
 
 ###### Article ANNEXE, art. 30-10
 
-Le tribunal d'instance détermine le montant à verser par l'association pour la publication de l'inscription en fonction des
-frais de publication. 
+Le tribunal judiciaire détermine le montant à verser par l'association pour la publication de l'inscription en fonction des
+frais de publication.
 
-Ce montant est versé au  comptable de la direction générale des finances publiques, agissant en qualité de préposé de la
+Ce montant est versé au comptable de la direction générale des finances publiques, agissant en qualité de préposé de la
 Caisse des dépôts et consignations. Le tribunal peut toutefois autoriser l'association à verser directement ce montant au
-journal d'annonces légales. 
+journal d'annonces légales.
 
-Dans les quinze jours de la justification du versement au  comptable de la direction générale des finances publiques ou au
+Dans les quinze jours de la justification du versement au comptable de la direction générale des finances publiques ou au
 journal d'annonces légales, le greffe adresse à ce dernier, par lettre recommandée avec demande d'avis de réception, l'avis
-aux fins de publication. 
+aux fins de publication.
 
-L'avis contient : 
+L'avis contient :
 
-1° Les références et la date de l'inscription ; 
+1° Les références et la date de l'inscription ;
 
-2° La dénomination suivie, le cas échéant, du sigle ; 
+2° La dénomination suivie, le cas échéant, du sigle ;
 
-3° L'adresse du siège ou la domiciliation ; 
+3° L'adresse du siège ou la domiciliation ;
 
-4° L'extrait des statuts prévu au troisième alinéa de l'article 30-1 ; 
+4° L'extrait des statuts prévu au troisième alinéa de l'article 30-1 ;
 
-5° La date d'adoption des statuts ; 
+5° La date d'adoption des statuts ;
 
 6° Les nom et prénoms des membres de la direction.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40960,21 +42725,17 @@ _Cite_:
 
   - Code civil local 30-1
 
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
 _Modifié par_:
 
-  - Décret n°2014-551 du 27 mai 2014 - art. 23
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=510></a>
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=516></a>
 
 ###### Article ANNEXE, art. 30-11
 
 Pour l'application de l'article 73 du code civil local, avant de prendre une ordonnance de retrait de la capacité juridique
-de l'association, le tribunal d'instance recueille les observations de la direction ou les lui demande par lettre recommandée
+de l'association, le tribunal judiciaire recueille les observations de la direction ou les lui demande par lettre recommandée
 avec demande d'avis de réception et sollicite l'avis du ministère public sur le dossier ainsi complété.
 
 Le tribunal inscrit l'affaire à une audience dont il fixe la date et dont il informe le ministère public. Les membres de la
@@ -40982,15 +42743,16 @@ direction y sont convoqués quinze jours au moins à l'avance par le greffier du
 
 L'affaire est instruite et jugée en chambre du conseil.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -41021,11 +42783,11 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 5 : Les sanctions<a id=511></a>
+##### Paragraphe 5 : Les sanctions<a id=517></a>
 
 ###### Article ANNEXE, art. 30-13
 
-A la demande du ministère public, le tribunal d'instance peut enjoindre par ordonnance aux membres de la direction de
+A la demande du ministère public, le tribunal judiciaire peut enjoindre par ordonnance aux membres de la direction de
 l'association ou aux liquidateurs selon le cas d'avoir à justifier dans un délai qu'il fixe du respect de l'alinéa premier de
 l'article 67, de l'alinéa premier de l'article 71, de l'article 72, du deuxième alinéa de l'article 74 et de l'article 76 du
 code civil local.
@@ -41039,19 +42801,20 @@ l'article 670-1 du code de procédure civile.
 
 L'affaire est instruite et jugée en chambre du conseil.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code civil local 67, 71, 72, 74, 76, 78
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article ANNEXE, art. 30-14
@@ -41090,7 +42853,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=512></a>
+##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=518></a>
 
 ###### Article 30-16
 
@@ -41109,28 +42872,28 @@ _Créé par_:
 
 Le projet de fusion, de scission ou d'apport partiel d'actif est arrêté par la direction de chaque association participant à
 l'opération au moins deux mois avant la date des délibérations prévues aux trois premiers alinéas de l'article 79-IV du code
-civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle. 
+civil local applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 
-Il contient les éléments suivants : 
+Il contient les éléments suivants :
 
 1° Le titre, l'objet, le siège social, le numéro de volume et de folio d'inscription de l'association au registre des
-associations du tribunal d'instance, une copie des statuts en vigueur et, le cas échéant, le dernier rapport annuel
-d'activités, de l'ensemble des associations participantes ; 
+associations du tribunal judiciaire, une copie des statuts en vigueur et, le cas échéant, le dernier rapport annuel
+d'activités, de l'ensemble des associations participantes ;
 
 2° Le cas échéant, un extrait de la décision de reconnaissance de la mission d'utilité publique des associations
-participantes ; 
+participantes ;
 
-3° Les motifs, buts et conditions de la fusion, de la scission ou de l'apport partiel d'actif ; 
+3° Les motifs, buts et conditions de la fusion, de la scission ou de l'apport partiel d'actif ;
 
 4° Le cas échéant, le titre, l'objet, le siège social, les statuts envisagés de la nouvelle association résultant de
-l'opération de fusion, de scission ou d'apport partiel d'actif ou les statuts modifiés des personnes morales participantes ; 
+l'opération de fusion, de scission ou d'apport partiel d'actif ou les statuts modifiés des personnes morales participantes ;
 
 5° Le cas échéant, une copie des demandes tendant à la poursuite d'une autorisation administrative, d'un agrément, d'un
 conventionnement ou d'une habilitation, dans les conditions mentionnées au IV de l'article 79-IV du code civil local
-applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle ; 
+applicable aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle ;
 
 6° La désignation et l'évaluation de l'actif et du passif ainsi que des engagements souscrits, dont la transmission aux
-associations bénéficiaires ou nouvelles est prévue, et les méthodes d'évaluation retenues. 
+associations bénéficiaires ou nouvelles est prévue, et les méthodes d'évaluation retenues.
 
 Le projet de fusion, de scission, d'apport partiel d'actif ainsi que, le cas échéant, le rapport du commissaire à l'opération
 mentionné au cinquième alinéa de l'article 79-IV du code civil local susvisé sont joints à la convocation statutaire en vue
@@ -41138,11 +42901,16 @@ des délibérations des assemblées des membres des associations participantes a
 trois premiers alinéas du même article. Cette convocation mentionne les documents mis à disposition au siège social ou sur le
 site internet des associations dans les conditions de l'article annexe 30-19.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 30-18
@@ -41257,57 +43025,74 @@ Pour l'application du troisième alinéa du II de l'article 79-IV du code civil 
 du Haut-Rhin et de la Moselle, l'opposition d'un créancier à la fusion ou à la scission est formée dans le délai de trente
 jours à compter de la dernière insertion prescrite par l'article 30-18. Le tribunal compétent pour recevoir les oppositions
 formées en application de ces articles, dans le cadre d'opérations de fusion, scission ou apport partiel d'actif qui
-concernent une ou plusieurs associations des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, est le tribunal de
-grande instance.
+concernent une ou plusieurs associations des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, est le tribunal
+judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-832 du 7 juillet 2015 - art. 3
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 30-21
 
 Les commissaires aux apports sont choisis par les associations participant à l'opération parmi les commissaires aux comptes
 inscrits sur la liste prévue au I de l'article L. 822-1 du code de commerce ou parmi les experts inscrits sur une des listes
-établies par les cours et tribunaux. 
+établies par les cours et tribunaux.
 
-Ils sont désignés, le cas échéant, par le président du tribunal de grande instance, statuant sur requête. 
+Ils sont désignés, le cas échéant, par le président du tribunal judiciaire, statuant sur requête.
 
 Ils peuvent se faire assister, dans l'accomplissement de leur mission, par un ou plusieurs experts de leur choix. Les
 honoraires de ces experts sont à la charge des associations.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-315 du 17 mars 2016 - art. 46 (VD)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de commerce - art. L822-1
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=513></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=519></a>
 
 ###### Article ANNEXE, art. 31
 
-Devant le tribunal de grande instance, la demande en justice peut être formée soit selon les dispositions du code de
-procédure civile, soit par la remise au greffe d'un acte introductif d'instance en double exemplaire signé par l'avocat du
-demandeur et comportant l'ensemble des mentions visées aux articles 56 et 752 du code de procédure civile. 
+Devant le tribunal judiciaire, la demande en justice est formée selon les dispositions du code de procédure civile. Lorsque
+la procédure est écrite, la demande en justice peut également être formée par la remise au greffe d'un acte introductif
+d'instance en double exemplaire signé par l'avocat du demandeur et comportant l'ensemble des mentions visées aux articles 56
+et 752 du code de procédure civile.
 
-Dans le second cas, il est procédé conformément aux articles suivants.
+Dans ce cas, il est procédé conformément aux articles suivants.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cité par_:
 
@@ -41336,85 +43121,102 @@ L'acte introductif d'instance et l'ordonnance du président sont signifiés quin
 signification indique, à peine de nullité, le délai dans lequel le défendeur est tenu de constituer avocat. L'acte signifié
 vaut conclusions. 
 
-L'affaire est instruite selon les dispositions des articles 755,756 et 759 à 787 du code de procédure civile.
+L'affaire est instruite selon les dispositions des articles 762,763 et 776 à 808 du code de procédure civile.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 755 (V)
-  - Code de procédure civile - art. 759 (V)
+  - Code de procédure civile - art. 762
+  - Code de procédure civile - art. 776
 
 
 ###### Article ANNEXE, art. 34
 
 Si l'acte introductif d'instance est assorti d'une requête exposant des motifs d'urgence et si le président en reconnaît le
 bien-fondé dans son ordonnance de fixation, la notification prévue ci-dessus doit en outre comporter les énonciations visées
-au deuxième alinéa de l'article 789 du code de procédure civile. 
+au deuxième alinéa de l'article 841 du code de procédure civile. 
 
-Il est procédé devant le tribunal suivant les dispositions des articles 790 et 792 dudit code.
+Il est procédé devant le tribunal suivant les dispositions des articles 842 et 844 dudit code.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de procédure civile - art. 789 (V)
+  - Code de procédure civile - art. 34
+  - Code de procédure civile - art. 841
 
 
 ###### Article ANNEXE, art. 35
 
-Dans les cas prévus au présent chapitre, les articles 751 et 753 du code de procédure civile sont également applicables.
+Dans les cas prévus au présent chapitre, les articles 760 et 768 du code de procédure civile sont également applicables.
+
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
+_Cite_:
 
-### Chapitre III : Dispositions particulières au tribunal d'instance<a id=514></a>
+  - Code de procédure civile - art. 760
+
 
 ###### Article ANNEXE, art. 36
 
-Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier et II du sous-titre Ier du titre II du
-livre II du code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite, remise ou
-adressée au greffe, où elle est enregistrée. 
+Dans les matières énumérées à l'article 2, la demande est formée par requête remise ou adressée au greffe selon les
+dispositions de la section 2 du chapitre Ier du sous-titre I du titre I du livre II du code de procédure civile.
 
-Dans le second cas, les dispositions du second alinéa de l'article 843 et de l'article 844 du code de procédure civile sont
-applicables.
+**Nota:**
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
-
-_Cite_:
-
-  - Code de procédure civile - art. 843
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=515></a>
+### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=520></a>
+
+### Chapitre III : Dispositions particulières à la matière commerciale.<a id=521></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -41478,7 +43280,9 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=516></a>
+### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=522></a>
+
+### Chapitre IV : Dispositions particulières à la déclaration d'appel.<a id=523></a>
 
 ###### Article ANNEXE, art. 42
 
@@ -41503,7 +43307,9 @@ _Cite_:
   - Code de procédure civile - art. 901
 
 
-### Chapitre VII : Dispositions diverses.<a id=517></a>
+### Chapitre VII : Dispositions diverses.<a id=524></a>
+
+### Chapitre V : Dispositions diverses.<a id=525></a>
 
 ###### Article ANNEXE, art. 43
 

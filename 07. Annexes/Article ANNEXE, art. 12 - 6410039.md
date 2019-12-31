@@ -6,12 +6,13 @@ Les officiers de l'état civil sont tenus d'aviser le tribunal d'instance :
 
 - du décès d'une personne laissant parmi ses héritiers, des majeurs protégés ou des absents.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2019-756 du 22 juillet 2019 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8

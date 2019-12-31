@@ -1,22 +1,23 @@
 # Article ANNEXE, art. 3
 
-Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal d'instance.
+Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal judiciaire. Les parties sont
+dispensées de l'obligation de constituer avocat. La procédure est orale.
 
-Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
-tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
-successorale.
+**Nota:**
+
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le 1er janvier 2020.
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
 _Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 21 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R911-2
+  - Code de l'organisation judiciaire
   - Nouveau code de procédure civile Annexe, 2

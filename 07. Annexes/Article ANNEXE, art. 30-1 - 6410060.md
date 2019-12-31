@@ -1,7 +1,7 @@
 # Article ANNEXE, art. 30-1
 
 La déclaration en vue de l'inscription de l'association ou de l'inscription de toute modification des statuts est faite au
-greffe du tribunal d'instance par un membre de la direction de l'association.
+greffe du tribunal judiciaire par un membre de la direction de l'association.
 
 La déclaration précise l'objet, la dénomination et l'adresse du siège ou la domiciliation de l'association et, le cas
 échéant, son sigle.
@@ -15,16 +15,17 @@ application de l'article 59 du même code y apposent leurs nom et prénoms.
 Le greffier donne récépissé de la déclaration au déclarant dans un délai de cinq jours. Le récépissé contient l'énumération
 des pièces annexées. Il est daté et signé.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code civil local 66, 59
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
