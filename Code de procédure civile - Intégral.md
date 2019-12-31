@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -1373,17 +1373,17 @@ _Codifié par_:
 
 ###### Article 51
 
-Le tribunal de grande instance connaît de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une
-autre juridiction.
+Le tribunal judiciaire connaît de toutes les demandes incidentes qui ne relèvent pas de la compétence exclusive d'une autre
+juridiction.
 
 Sauf disposition particulière, les autres juridictions ne connaissent que des demandes incidentes qui entrent dans leur
 compétence d'attribution.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Modifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°2008-522 du 2 juin 2008 - art. 9
 
 
 ###### Article 52
@@ -1391,20 +1391,25 @@ _Modifié par_:
 Les demandes relatives aux frais, émoluments et débours qui, afférents à une instance, ont été exposés devant une juridiction
 par les auxiliaires de justice et les officiers publics ou ministériels sont portées devant cette juridiction.
 
-Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées, selon
-le montant des frais, devant le tribunal d'instance ou le tribunal de grande instance dans le ressort duquel l'officier
-public ou ministériel ou l'auxiliaire de justice exerce ses fonctions.
+Les demandes relatives aux frais, émoluments et débours qui n'ont pas été exposés devant une juridiction sont portées devant
+le tribunal judiciaire dans le ressort duquel l'officier public ou ministériel ou l'auxiliaire de justice exerce ses
+fonctions.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°78-62 1978-01-20 art. 15 JORF 24 janvier 1978
-  - Décret n°81-500 1981-05-12 art. 9 JORF 14 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cité par_:
 
@@ -5953,29 +5958,36 @@ _Créé par_:
 ###### Article 285
 
 La vérification des écritures sous seing privé relève de la compétence du juge saisi du principal lorsqu'elle est demandée
-incidemment.
+incidemment. Elle relève de la compétence du tribunal judiciaire lorsqu'elle est demandée à titre principal.
 
-Elle relève de la compétence du tribunal de grande instance lorsqu'elle est demandée à titre principal.
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 286
 
 L'inscription de faux contre un acte authentique relève de la compétence du juge saisi du principal lorsqu'elle est formée
-incidemment devant un tribunal de grande instance ou devant une cour d'appel.
+incidemment devant un tribunal judiciaire ou devant une cour d'appel. Dans les autres cas, l'inscription de faux relève de la
+compétence du tribunal judiciaire.
 
-Dans les autres cas, l'inscription de faux relève de la compétence du tribunal de grande instance.
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 #### Chapitre Ier : Les contestations relatives aux actes sous seing privé.<a id=81></a>
@@ -6428,19 +6440,20 @@ _Codifié par_:
 
 ###### Article 313
 
-Si l'incident est soulevé devant une juridiction autre que le tribunal de grande instance ou la cour d'appel, il est sursis à
-statuer jusqu'au jugement sur le faux à moins que la pièce litigieuse ne soit écartée du débat lorsqu'il peut être statué au
-principal sans en tenir compte. 
+Si l'incident est soulevé devant une juridiction autre que le tribunal judiciaire ou la cour d'appel, il est sursis à statuer
+jusqu'au jugement sur le faux à moins que la pièce litigieuse ne soit écartée du débat lorsqu'il peut être statué au
+principal sans en tenir compte.
 
 Il est procédé à l'inscription de faux comme il est dit aux articles 314 à 316. L'acte d'inscription de faux doit être remis
-au greffe du tribunal de grande instance dans le mois de la décision de sursis à statuer, faute de quoi il est passé outre à
+au greffe du tribunal judiciaire dans le mois de la décision de sursis à statuer, faute de quoi il est passé outre à
 l'incident et l'acte litigieux est réputé reconnu entre les parties.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Cité par_:
 
@@ -6449,7 +6462,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -7018,18 +7031,23 @@ _Créé par_:
 ###### Article 339
 
 Le juge qui suppose en sa personne une cause de récusation ou estime en conscience devoir s'abstenir se fait remplacer par un
-autre juge que désigne le président de la juridiction à laquelle il appartient. Le remplaçant d'un juge d'instance est
-désigné par le président du tribunal de grande instance à défaut de juge directeur.
+autre juge que désigne le président de la juridiction à laquelle il appartient.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 340
@@ -10414,18 +10432,19 @@ _Modifié par_:
 
 ###### Article 509-7
 
-S'il n'émane du juge, le refus de délivrance du certificat peut être déféré au président du tribunal de grande instance. Ce
-dernier statue en dernier ressort sur requête, le requérant et l'autorité requise entendus ou appelés.
+S'il n'émane du juge, le refus de délivrance du certificat peut être déféré au président du tribunal judiciaire. Ce dernier
+statue en dernier ressort sur requête, le requérant et l'autorité requise entendus ou appelés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 17 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
 ###### Article 509-8
@@ -10488,19 +10507,25 @@ l'exécution.
 En cas d'urgence, la même faculté appartient au juge des référés.
 
 Après signification d'un commandement ou d'un acte de saisie, selon le cas, le juge de l'exécution a compétence pour accorder
-un délai de grâce. Cette compétence appartient au tribunal d'instance en matière de saisie des rémunérations.
+un délai de grâce.
 
 L'octroi du délai doit être motivé.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 511
@@ -11595,18 +11620,18 @@ _Codifié par_:
 ###### Article 570
 
 L'exécution de l'arrêt d'appel appartient à la juridiction qui a statué en premier ressort ou, si cette dernière ne peut
-connaître de l'exécution de ses décisions, au tribunal de grande instance.
+connaître de l'exécution de ses décisions, au tribunal judiciaire.
 
 Toutefois, la juridiction d'appel peut, même d'office, décider dans son arrêt d'en retenir l'exécution à moins que celle-ci
 ne soit attribuée par la loi à une autre juridiction ; sous la même réserve, elle peut aussi désigner la juridiction qui
 connaîtra de l'exécution de son arrêt, à la condition que cette juridiction soit compétente pour connaître de l'exécution des
 décisions de justice.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
 #### Chapitre II : L'opposition.<a id=162></a>
@@ -14427,14 +14452,15 @@ Les notifications destinées au ministère public et celles qui doivent être fa
 parquet de la juridiction devant laquelle la demande est portée, à celui de la juridiction qui a statué ou à celui du dernier
 domicile connu.
 
-S'il n'existe pas de parquet près la juridiction, la notification est faite au parquet du tribunal de grande instance dans le
-ressort duquel cette juridiction a son siège.
+S'il n'existe pas de parquet près la juridiction, la notification est faite au parquet du tribunal judiciaire dans le ressort
+duquel cette juridiction a son siège.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Cité par_:
 
@@ -15186,19 +15212,16 @@ _Cite_:
 ###### Article 725-1
 
 Par dérogation aux articles 704 à 708, les demandes ou contestations relatives aux frais, émoluments et débours, compris ou
-non dans les dépens des greffiers des tribunaux de commerce, sont portées directement devant le président du tribunal de
-grande instance dans le ressort duquel le greffier du tribunal de commerce exerce ses fonctions, sans qu'il y ait lieu
-d'établir préalablement un certificat de vérification.
+non dans les dépens des greffiers des tribunaux de commerce, sont portées directement devant le président du tribunal
+judiciaire dans le ressort duquel le greffier du tribunal de commerce exerce ses fonctions, sans qu'il y ait lieu d'établir
+préalablement un certificat de vérification.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°85-1330 1985-12-17 art. 7 JORF 18 décembre 1985 en vigueur le 1 janvier 1986
 
 _Cite_:
 
@@ -17256,14 +17279,15 @@ _Cite_:
 
 ###### Article 808
 
-Dans tous les cas d'urgence, le président du tribunal de grande instance peut ordonner en référé toutes les mesures qui ne se
+Dans tous les cas d'urgence, le président du tribunal judiciaire peut ordonner en référé toutes les mesures qui ne se
 heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Cité par_:
 
@@ -17296,11 +17320,12 @@ _Modifié par_:
 Les pouvoirs du président du tribunal de grande instance prévus aux deux articles précédents s'étendent à toutes les matières
 où il n'existe pas de procédure particulière de référé.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 _Cite_:
 
@@ -17463,17 +17488,17 @@ _Cite_:
 
 ###### Article 820
 
-Le président du tribunal de grande instance peut déléguer à un ou plusieurs magistrats tout ou partie des pouvoirs qui lui
-sont dévolus par les sous-titres Ier et II.
+Le président du tribunal judiciaire peut déléguer à un ou plusieurs magistrats tout ou partie des pouvoirs qui lui sont
+dévolus par les sous-titres Ier et II.
 
 Les présidents de chambre peuvent de même déléguer aux magistrats de leur chambre tout ou partie des fonctions qui leur sont
 attribuées par le sous-titre Ier.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
 #### Chapitre III : Le greffe.<a id=222></a>
@@ -18647,8 +18672,13 @@ _Modifié par_:
 
 ###### Article 848
 
-Dans tous les cas d'urgence, le juge du tribunal d'instance peut, dans les limites de sa compétence, ordonner en référé
+Dans tous les cas d'urgence, le juge du tribunal judiciaire peut, dans les limites de sa compétence, ordonner en référé
 toutes les mesures qui ne se heurtent à aucune contestation sérieuse ou que justifie l'existence d'un différend.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -18656,35 +18686,22 @@ _Cité par_:
 
   - Décret n°55-1350 du 14 octobre 1955 - art. 74 (VD)
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-
 
 ###### Article 849
 
-Le juge du tribunal d'instance peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures
+Le juge du tribunal judiciaire peut toujours, même en présence d'une contestation sérieuse, prescrire en référé les mesures
 conservatoires ou de remise en état qui s'imposent, soit pour prévenir un dommage imminent, soit pour faire cesser un trouble
 manifestement illicite.
 
 Dans les cas où l'existence de l'obligation n'est pas sérieusement contestable, il peut accorder une provision au créancier,
 ou ordonner l'exécution de l'obligation même s'il s'agit d'une obligation de faire.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 _Cité par_:
 
@@ -18710,40 +18727,30 @@ _Créé par_:
 
 ###### Article 850
 
-Le juge du tribunal d'instance dispose des mêmes pouvoirs dans les contestations nées à l'occasion du contrat de travail
+Le juge du tribunal judiciaire dispose des mêmes pouvoirs dans les contestations nées à l'occasion du contrat de travail
 lorsqu'elles relèvent de sa compétence.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ### Sous-titre III : Les ordonnances sur requête devant le juge d'instance.<a id=249></a>
 
 ###### Article 851
 
-Le juge du tribunal d'instance est saisi par requête dans les cas spécifiés par la loi.
+Le juge du tribunal judiciaire est saisi par requête dans les cas spécifiés par la loi.
 
 Il peut également ordonner sur requête, dans les limites de sa compétence, toutes mesures urgentes lorsque les circonstances
 exigent qu'elles ne soient pas prises contradictoirement.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
-  - Décret n°2003-542 du 23 juin 2003 - art. 25 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 
 ###### Article 852
@@ -19362,14 +19369,15 @@ _Codifié par_:
 
 ###### Article 878-1
 
-Lorsque le tribunal de grande instance statue en matière commerciale en application de l'article L. 722-4 du code de
-commerce, les demandes sont formées, instruites et jugées conformément aux règles établies par le présent titre.
+Lorsque le tribunal judiciaire statue en matière commerciale en application de l'article L. 722-4 du code de commerce, les
+demandes sont formées, instruites et jugées conformément aux règles établies par le présent titre.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-522 du 2 juin 2008 - art. 9
 
 _Cite_:
 
@@ -19422,14 +19430,14 @@ _Codifié par_:
 
 ###### Article 882
 
-La procédure applicable devant le tribunal paritaire est celle qui est suivie devant le tribunal d'instance sous réserve des
+La procédure applicable devant le tribunal paritaire est celle qui est suivie devant le tribunal judiciaire sous réserve des
 dispositions ci-dessous.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
 ###### Article 883
@@ -21088,13 +21096,14 @@ _Modifié par_:
 
 ###### Article 953
 
-L'appel est instruit et jugé selon les règles applicables en matière gracieuse devant le tribunal de grande instance.
+L'appel est instruit et jugé selon les règles applicables en matière gracieuse devant le tribunal judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 _Cité par_:
 
@@ -23799,38 +23808,30 @@ _Cite_:
 
 ###### Article 1038
 
-Le tribunal de grande instance est seul compétent pour connaître en premier ressort des contestations sur la nationalité
-française ou étrangère des personnes physiques, sous réserve des dispositions figurant au code de la nationalité pour les
-juridictions répressives comportant un jury criminel.
+Le tribunal judiciaire est seul compétent pour connaître en premier ressort des contestations sur la nationalité française ou
+étrangère des personnes physiques, sous réserve des dispositions figurant au code de la nationalité pour les juridictions
+répressives comportant un jury criminel.
 
 Les exceptions de nationalité et d'extranéité ainsi que celle d'incompétence pour en connaître sont d'ordre public. Elles
 peuvent être soulevées en tout état de cause et doivent être relevées d'office par le juge.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1039
 
-Le tribunal de grande instance territorialement compétent est celui du lieu où demeure la personne dont la nationalité est en
-cause ou, si cette personne ne demeure pas en France, le tribunal de grande instance de Paris.
+Le tribunal judiciaire territorialement compétent est celui du lieu où demeure la personne dont la nationalité est en cause
+ou, si cette personne ne demeure pas en France, le tribunal judiciaire de Paris.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1040
@@ -23875,24 +23876,21 @@ _Créé par_:
 ###### Article 1042
 
 Si une question de nationalité est soulevée par une partie devant une juridiction qui estime qu'il y a question
-préjudicielle, la juridiction renvoie cette partie à se pourvoir devant le tribunal de grande instance compétent dans le
-délai d'un mois ou, dans le même délai, à présenter requête au procureur de la République. Lorsque la personne dont la
-nationalité est contestée se prévaut d'un certificat de nationalité française, ou lorsque la question de nationalité a été
-relevée d'office, la juridiction saisie au fond impartit le même délai d'un mois au procureur de la République pour saisir le
-tribunal de grande instance compétent.
+préjudicielle, la juridiction renvoie cette partie à se pourvoir devant le tribunal judiciaire compétent dans le délai d'un
+mois ou, dans le même délai, à présenter requête au procureur de la République. Lorsque la personne dont la nationalité est
+contestée se prévaut d'un certificat de nationalité française, ou lorsque la question de nationalité a été relevée d'office,
+la juridiction saisie au fond impartit le même délai d'un mois au procureur de la République pour saisir le tribunal
+judiciaire compétent.
 
 Si le délai d'un mois n'est pas respecté, l'instance poursuit son cours. Dans le cas contraire, la juridiction saisie au fond
 surseoit à statuer jusqu'à ce que la question de nationalité ait été jugée.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 _Cité par_:
 
@@ -24510,19 +24508,16 @@ _Anciens textes_:
 ###### Article 1057
 
 Le répertoire civil est constitué par l'ensemble des extraits des demandes, actes et jugements qui, en vertu des textes
-particuliers se référant à ce répertoire, doivent être classés et conservés aux greffes des tribunaux de grande instance.
+particuliers se référant à ce répertoire, doivent être classés et conservés aux greffes des tribunaux judiciaires.
 
 Les extraits sont inscrits sur un registre, jour par jour et par ordre numérique.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 _Cité par_:
 
@@ -24531,18 +24526,14 @@ _Cité par_:
 
 ###### Article 1058
 
-Le classement et la conservation des extraits sont assurés par le greffe du tribunal de grande instance dans le ressort
-duquel est née la personne concernée et par le service central d'état civil pour les personnes nées à l'étranger.
+Le classement et la conservation des extraits sont assurés par le greffe du tribunal judiciaire dans le ressort duquel est
+née la personne concernée et par le service central d'état civil pour les personnes nées à l'étranger.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 1059
@@ -24647,20 +24638,16 @@ _Cite_:
 ###### Article 1062
 
 Les demandes relatives à la présomption d'absence sont présentées au juge des tutelles qui exerce ses fonctions au tribunal
-d'instance dans le ressort duquel la personne dont il s'agit de constater la présomption d'absence demeure ou a eu sa
+judiciaire dans le ressort duquel la personne dont il s'agit de constater la présomption d'absence demeure ou a eu sa
 dernière résidence.
 
-A défaut, le juge compétent est celui du tribunal d'instance du lieu où demeure le demandeur.
+A défaut, le juge compétent est celui du tribunal judiciaire du lieu où demeure le demandeur.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1063
@@ -24687,19 +24674,16 @@ _Modifié par_:
 
 Un extrait de toute décision constatant une présomption d'absence ou désignant une personne pour représenter un présumé
 absent et administrer ses biens ainsi que de toute décision portant modification ou suppression des mesures prises est
-transmis au greffe du tribunal de grande instance dans le ressort duquel est née la personne présumée absente, à fin de
-conservation au répertoire civil et de publicité par mention en marge de l'acte de naissance, selon les modalités prévues aux
-articles 1057 à 1061. La transmission est faite au service central d'état civil pour les personnes nées à l'étranger.
+transmis au greffe du tribunal judiciaire dans le ressort duquel est née la personne présumée absente, à fin de conservation
+au répertoire civil et de publicité par mention en marge de l'acte de naissance, selon les modalités prévues aux articles
+1057 à 1061. La transmission est faite au service central d'état civil pour les personnes nées à l'étranger.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
@@ -24729,20 +24713,15 @@ _Modifié par_:
 
 ###### Article 1066
 
-Les demandes relatives à la déclaration d'absence d'une personne sont portées devant le tribunal de grande instance dans le
-ressort duquel celle-ci demeure ou a eu sa dernière résidence.
+Les demandes relatives à la déclaration d'absence d'une personne sont portées devant le tribunal judiciaire dans le ressort
+duquel celle-ci demeure ou a eu sa dernière résidence. A défaut, le tribunal compétent est celui du lieu où demeure le
+demandeur.
 
-A défaut, le tribunal compétent est celui du lieu où demeure le demandeur.
+**Nota:**
 
-**Liens relatifs à cet article**
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1067
@@ -26518,18 +26497,19 @@ _Cite_:
 
 Le demandeur qui sollicite, en application du 6° de l'article 515-11 du code civil, l'autorisation de dissimuler son domicile
 ou sa résidence est dispensé d'en indiquer l'adresse dans son acte introductif d'instance, sous réserve de porter cette
-information à la connaissance de l'avocat qui l'assiste ou le représente ou du procureur de la République près du tribunal de
-grande instance, auprès duquel il élit domicile. L'acte mentionne cette élection de domicile. 
+information à la connaissance de l'avocat qui l'assiste ou le représente ou du procureur de la République près du tribunal
+judiciaire, auprès duquel il élit domicile. L'acte mentionne cette élection de domicile.
 
 L'avocat ou le procureur de la République auprès duquel il est élu domicile communique sans délai l'adresse du demandeur au
 juge. Le greffe ainsi que la personne à laquelle l'adresse est communiquée pour les besoins de la procédure ne peuvent la
 porter à la connaissance du défendeur ou de son représentant.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
 
 _Cité par_:
 
@@ -27355,7 +27335,7 @@ _Cite_:
 
 ###### Article 1166
 
-La demande aux fins d'adoption est portée devant le tribunal de grande instance.
+La demande aux fins d'adoption est portée devant le tribunal judiciaire.
 
 Le tribunal compétent est :
 
@@ -27366,15 +27346,11 @@ Le tribunal compétent est :
 - le tribunal choisi en France par le requérant lorsque celui-ci et la personne dont l'adoption est demandée demeurent à
 l'étranger.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1167
@@ -27652,18 +27628,15 @@ _Cite_:
 ###### Article 1180
 
 Les demandes formées en application de l'article 371-4 et de l'alinéa 2 de l'article 373-3 du code civil obéissent aux règles
-de la procédure en matière contentieuse applicable devant le tribunal de grande instance ; elles sont jugées après avis du
-ministère public.
+de la procédure en matière contentieuse applicable devant le tribunal judiciaire ; elles sont jugées après avis du ministère
+public.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2004-1158 du 29 octobre 2004 - art. 11 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
@@ -28420,11 +28393,17 @@ _Cite_:
 
 ###### Article 1188
 
-L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
-la convocation indique. 
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'une chambre de proximité située dans le ressort,
+que la convocation indique.
 
-Les  parents, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
+Les parents, tuteur ou personne ou service à qui l'enfant a été confié et, le cas échéant, le mineur, sont convoqués à
 l'audience huit jours au moins avant la date de celle-ci ; les conseils des parties sont également avisés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, lcs dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -28434,7 +28413,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-429 du 24 mai 2013 - art. 1
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cité par_:
 
@@ -28934,20 +28913,26 @@ _Créé par_:
 
 ###### Article 1200-8
 
-L'affaire est instruite et jugée en chambre du conseil. 
+L'affaire est instruite et jugée en chambre du conseil.
 
-L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'un tribunal d'instance situé dans le ressort, que
-la convocation indique. 
+L'audience peut être tenue au siège du tribunal pour enfants ou au siège d'une chambre de proximité située dans le ressort,
+que la convocation indique.
 
 A l'audience, le juge entend l'allocataire ou l'attributaire des prestations familiales et porte à sa connaissance les motifs
 de sa saisine. Il entend toute autre personne dont l'audition lui paraît utile. L'avocat de l'allocataire ou de
 l'attributaire des prestations est entendu en ses observations.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1486 du 30 décembre 2008 - art. 3
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article 1200-9
@@ -31566,26 +31551,27 @@ _Cite_:
 ###### Article 1258
 
 Pour la mise en œuvre du mandat de protection future établi en application du premier alinéa de l'article 477 du code civil,
-le mandataire se présente en personne au greffe du tribunal d'instance dans le ressort duquel réside le mandant, accompagné
+le mandataire se présente en personne au greffe du tribunal judiciaire dans le ressort duquel réside le mandant, accompagné
 de ce dernier, sauf s'il est établi, par certificat médical, que sa présence au tribunal est incompatible avec son état de
-santé. 
+santé.
 
-Le mandataire présente au greffier : 
+Le mandataire présente au greffier :
 
-1° L'original du mandat ou sa copie authentique, signé du mandant et du mandataire ; 
+1° L'original du mandat ou sa copie authentique, signé du mandant et du mandataire ;
 
 2° Un certificat médical datant de deux mois au plus, émanant d'un médecin inscrit sur la liste mentionnée à l'article 431 du
-code civil et établissant que le mandant se trouve dans l'une des situations prévues à l'article 425 du même code ; 
+code civil et établissant que le mandant se trouve dans l'une des situations prévues à l'article 425 du même code ;
 
-3° Une pièce d'identité relative respectivement au mandataire et au mandant ; 
+3° Une pièce d'identité relative respectivement au mandataire et au mandant ;
 
 4° Un justificatif de la résidence habituelle du mandant.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
 
 _Cite_:
 
@@ -31597,31 +31583,32 @@ _Cite_:
 ###### Article 1258-1
 
 Pour la mise en œuvre du mandat de protection future établi en application du troisième alinéa de l'article 477 du code
-civil, le mandataire se présente en personne au greffe du tribunal d'instance dans le ressort duquel réside le bénéficiaire
+civil, le mandataire se présente en personne au greffe du tribunal judiciaire dans le ressort duquel réside le bénéficiaire
 du mandat, accompagné de ce dernier, sauf s'il est établi, par certificat médical, que sa présence au tribunal est
-incompatible avec son état de santé. 
+incompatible avec son état de santé.
 
-Le mandataire présente au greffier : 
+Le mandataire présente au greffier :
 
-1° La copie authentique du mandat, signé du mandant et du mandataire ; 
+1° La copie authentique du mandat, signé du mandant et du mandataire ;
 
 2° Un certificat de décès du mandant ou un certificat médical datant de deux mois au plus, émanant d'un médecin inscrit sur
 la liste mentionnée à l'article 431 du code civil et établissant que le mandant se trouve dans l'une des situations prévues à
-l'article 425 du même code ; 
+l'article 425 du même code ;
 
 3° Un certificat médical datant de deux mois au plus, émanant d'un médecin inscrit sur la liste mentionnée à l'article 431 du
 code civil et établissant que l'enfant majeur du mandant désigné comme le bénéficiaire du mandat se trouve dans l'une des
-situations prévues à l'article 425 du même code ; 
+situations prévues à l'article 425 du même code ;
 
-4° Une pièce d'identité relative respectivement au mandataire et au bénéficiaire du mandat ; 
+4° Une pièce d'identité relative respectivement au mandataire et au bénéficiaire du mandat ;
 
 5° Un justificatif de la résidence habituelle du bénéficiaire du mandat.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1276 du 5 décembre 2008 - art. 1
 
 _Cite_:
 
@@ -31694,26 +31681,27 @@ _Créé par_:
 Le rétablissement des facultés personnelles de la personne protégée est constaté par un certificat médical datant de deux
 mois au plus, émanant d'un médecin choisi sur la liste mentionnée à l'article 431 du code civil, saisi par le bénéficiaire du
 mandat, le mandant ou son mandataire et établissant que la personne protégée ne se trouve plus dans l'une des situations
-prévues à l'article 425 du même code. 
+prévues à l'article 425 du même code.
 
-Le bénéficiaire du mandat, le mandant ou le mandataire peuvent se présenter à tout moment au greffe du tribunal d'instance
-pour faire constater la fin du mandat au vu de ce certificat. 
+Le bénéficiaire du mandat, le mandant ou le mandataire peuvent se présenter à tout moment au greffe du tribunal judiciaire
+pour faire constater la fin du mandat au vu de ce certificat.
 
 Si les conditions prévues au premier alinéa sont remplies, le greffier mentionne sur le mandat que celui-ci prend fin à
-compter de la date de sa présentation au greffe, y appose son visa et le restitue au comparant avec le certificat produit. 
+compter de la date de sa présentation au greffe, y appose son visa et le restitue au comparant avec le certificat produit.
 
 Si le greffier estime les conditions non remplies, il restitue le mandat sans le viser au comparant ainsi que le certificat
-produit. 
+produit.
 
 Dans ce cas, le bénéficiaire du mandat, le mandant ou le mandataire peut saisir le juge par requête. Celui-ci peut se
 prononcer sans débat et sa décision n'est pas susceptible d'appel. Si le juge estime les conditions requises remplies, le
 greffier procède, à la demande du bénéficiaire du mandat, du mandant ou du mandataire, conformément au troisième alinéa.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1628 du 23 décembre 2009 - art. 15
 
 _Cite_:
 
@@ -32185,22 +32173,19 @@ _Cité par_:
 ###### Article 1272
 
 Sur requête du tuteur ou du subrogé tuteur, les enchères sont reçues soit par un notaire commis à cet effet par le tribunal
-de grande instance, soit à l'audience des criées par un juge désigné par ce tribunal.
+judiciaire, soit à l'audience des criées par un juge désigné par ce tribunal.
 
 Le tribunal compétent est celui dans le ressort duquel demeure la personne en tutelle.
 
 Si les biens sont situés dans plusieurs arrondissements, le tribunal peut commettre un notaire dans chacun de ces
 arrondissements et donner commission rogatoire à chacun des tribunaux de la situation de ces biens.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 _Cité par_:
 
@@ -32403,20 +32388,16 @@ _Créé par_:
 
 S'il y a lieu, en dehors de toute procédure d'exécution, de répartir une somme d'argent entre créanciers et hors le cas où
 cette somme proviendrait de la vente d'un immeuble, la partie la plus diligente peut se pourvoir en référé devant le
-président du tribunal de grande instance dans le ressort duquel demeure le débiteur, lequel désigne une personne chargée de
-la distribution.
+président du tribunal judiciaire dans le ressort duquel demeure le débiteur, lequel désigne une personne chargée de la
+distribution.
 
 La personne chargée de la distribution est séquestre des fonds, à moins que la consignation ne soit ordonnée.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Modifié par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 130 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1281-2
@@ -32469,31 +32450,28 @@ _Cité par_:
 ###### Article 1281-4
 
 La personne chargée de la distribution établit un projet de répartition dans les deux mois qui suivent le dernier avis prévu
-au deuxième alinéa de l'article 1281-3. 
+au deuxième alinéa de l'article 1281-3.
 
-Elle le notifie au débiteur et à chacun des créanciers par lettre recommandée avec demande d'avis de réception. 
+Elle le notifie au débiteur et à chacun des créanciers par lettre recommandée avec demande d'avis de réception.
 
-A peine de nullité, la notification indique au destinataire : 
+A peine de nullité, la notification indique au destinataire :
 
 1° Qu'il dispose d'un délai de quinze jours, à compter de la réception de la lettre, pour soulever par lettre recommandée
 avec demande d'avis de réception une contestation motivée, accompagnée des pièces justificatives nécessaires, auprès de la
-personne chargée de la distribution ; 
+personne chargée de la distribution ;
 
 2° Qu'à défaut de réponse dans le délai imparti il est réputé avoir accepté le projet et que celui-ci deviendra définitif si
-aucune contestation n'est soulevée. 
+aucune contestation n'est soulevée.
 
 En cas de difficulté, le délai mentionné au premier alinéa du présent article peut être prorogé par le président du tribunal
-de grande instance saisi par simple requête de la personne chargée de la distribution.
+judiciaire saisi par simple requête de la personne chargée de la distribution.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
 
 _Cite_:
 
@@ -32590,17 +32568,14 @@ A défaut de conciliation, la personne chargée de la distribution dresse acte d
 Les sommes mises en répartition sont immédiatement consignées, si elles ne le sont déjà en vertu de la décision de
 désignation de la personne chargée de la distribution.
 
-La partie la plus diligente peut saisir le tribunal de grande instance, qui procède à la répartition.
+La partie la plus diligente peut saisir le tribunal judiciaire, qui procède à la répartition.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
 
 _Cité par_:
 
@@ -32648,33 +32623,25 @@ _Créé par_:
 La rétribution de la personne chargée de la distribution est prélevée sur les fonds à répartir et supportée par les
 créanciers, au prorata de la somme qui revient à chacun d'eux.
 
-En cas de contestation, elle est fixée par le président du tribunal de grande instance.
+En cas de contestation, elle est fixée par le président du tribunal judiciaire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
 
 
 ###### Article 1281-12
 
-En matière commerciale, les compétences dévolues au tribunal de grande instance et à son président sont exercées par le
-tribunal de commerce et par son président.
+En matière commerciale, les compétences dévolues au tribunal judiciaire et à son président sont exercées par le tribunal de
+commerce et par son président.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°96-740 du 14 août 1996 - art. 1 () JORF 23 août 1996
 
 
 ### Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur.<a id=398></a>
@@ -32725,7 +32692,7 @@ _Cite_:
 ###### Article 1281-15
 
 La réquisition aux fins de vente aux enchères de l'immeuble peut être contestée par assignation à comparaître devant le
-tribunal de grande instance dans le ressort duquel est situé l'immeuble.
+tribunal judiciaire dans le ressort duquel est situé l'immeuble.
 
 Cette assignation doit, à peine d'irrecevabilité, être formée dans un délai de quinze jours suivant la notification de l'acte
 de réquisition.
@@ -32733,15 +32700,11 @@ de réquisition.
 Si la contestation est admise, l'acte de réquisition est déclaré nul et le tiers détenteur maintenu dans ses droits, à moins
 qu'il n'ait été fait d'autres surenchères par d'autres créanciers.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-936 du 27 juillet 2006 - art. 131 () JORF 29 juillet 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1281-16
@@ -32857,17 +32820,18 @@ _Cite_:
 ###### Article 1287
 
 La demande mentionnée au premier alinéa de l'article 1286 est instruite et jugée comme en matière gracieuse et obéit aux
-règles applicables à cette procédure devant le tribunal de grande instance. 
+règles applicables à cette procédure devant le tribunal judiciaire.
 
 Toutefois, lorsque la demande d'autorisation tend à passer outre au refus du conjoint, les dispositions des articles 788 à
 792 sont applicables. Le juge entend le conjoint à moins que celui-ci, régulièrement cité, ne se présente pas. L'affaire est
 instruite et jugée en chambre du conseil.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 5
 
 _Cite_:
 
@@ -33004,19 +32968,20 @@ _Cite_:
 ###### Article 1292
 
 La demande en séparation de biens est portée devant le juge aux affaires familiales de la résidence de la famille. Elle obéit
-aux règles de l'article 1136-1. 
+aux règles de l'article 1136-1.
 
-Un extrait de la demande est transmis par l'avocat du demandeur aux greffes des tribunaux de grande instance dans le ressort
+Un extrait de la demande est transmis par l'avocat du demandeur aux greffes des tribunaux judiciaires dans le ressort
 desquels sont nés l'un et l'autre des époux, à fin de conservation au répertoire civil et de publicité par mention en marge
-de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre. 
+de l'acte de naissance selon les modalités prévues au chapitre III du titre Ier du présent livre.
 
 Un extrait de la demande peut, en outre, être publié dans un journal diffusé dans le ressort de la juridiction saisie.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 6
 
 _Cité par_:
 
@@ -33296,13 +33261,13 @@ _Cité par_:
 ###### Article 1301
 
 L'homologation d'un changement de régime matrimonial relève de la matière gracieuse et obéit aux règles applicables à cette
-procédure devant le tribunal de grande instance.
+procédure devant le tribunal judiciaire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Modifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 7
 
 
 ###### Article 1302
@@ -34151,17 +34116,13 @@ l'inventaire ou qui ont habité l'immeuble dans lequel sont lesdits biens, qu'il
 en ait été détourné aucun ;
 
 6° La mention de la remise des objets et documents, s'il y a lieu, entre les mains de la personne dont il aura été convenu ou
-qui, à défaut, aura été nommée par le président du tribunal de grande instance ou son délégué.
+qui, à défaut, aura été nommée par le président du tribunal judiciaire ou son délégué.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1331
@@ -34206,18 +34167,15 @@ _Créé par_:
 
 ###### Article 1333
 
-S'il survient une difficulté dans l'établissement de l'inventaire, le président du tribunal de grande instance ou son
-délégué, saisi par la partie la plus diligente, statue dans la forme des référés.
+S'il survient une difficulté dans l'établissement de l'inventaire, le président du tribunal judiciaire ou son délégué, saisi
+par la partie la plus diligente, statue dans la forme des référés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 _Cité par_:
 
@@ -34719,26 +34677,27 @@ _Cite_:
 
 ###### Article 1355
 
-L'enregistrement prévu à l'article 813-3 du code civil est fait au greffe du tribunal de grande instance dans le mois qui
-suit la nomination, sur le registre mentionné à l'article 1334. La décision de nomination est publiée à la requête du
-mandataire par voie électronique au Bulletin officiel des annonces civiles et commerciales, selon des modalités définies par
-arrêté du garde des sceaux, ministre de la justice.
+L'enregistrement prévu à l'article 813-3 du code civil est fait au greffe du tribunal judiciaire dans le mois qui suit la
+nomination, sur le registre mentionné à l'article 1334. La décision de nomination est publiée à la requête du mandataire par
+voie électronique au Bulletin officiel des annonces civiles et commerciales, selon des modalités définies par arrêté du garde
+des sceaux, ministre de la justice.
 
-S'il y a lieu, le président du tribunal de grande instance ou son délégué peut, par une ordonnance qui n'est pas susceptible
-de recours, ordonner que la publicité soit complétée par une insertion dans un journal d'annonces légales diffusé dans le
-ressort du tribunal. 
+S'il y a lieu, le président du tribunal judiciaire ou son délégué peut, par une ordonnance qui n'est pas susceptible de
+recours, ordonner que la publicité soit complétée par une insertion dans un journal d'annonces légales diffusé dans le
+ressort du tribunal.
 
 Les frais de publicité sont à la charge de la succession.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 9 novembre 2009 - art. 1 (V)
-
-_Modifié par_:
-
-  - Décret n°2009-1366 du 9 novembre 2009 - art. 2
 
 _Cite_:
 
@@ -34766,18 +34725,14 @@ _Créé par_:
 
 ###### Article 1357
 
-Le président du tribunal de grande instance ou son délégué peut, d'office ou sur demande des héritiers, convoquer le
-mandataire, solliciter de lui toutes les informations sur le déroulement de sa mission et lui adresser des injonctions.
+Le président du tribunal judiciaire ou son délégué peut, d'office ou sur demande des héritiers, convoquer le mandataire,
+solliciter de lui toutes les informations sur le déroulement de sa mission et lui adresser des injonctions.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 #### Section VI : Le partage.<a id=433></a>
@@ -34818,17 +34773,13 @@ _Cite_:
 ###### Article 1359
 
 En cas de pluralité d'assignations, le demandeur au partage est celui qui a fait en premier enrôler son assignation au greffe
-du tribunal de grande instance.
+du tribunal judiciaire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
 ###### Article 1360
@@ -34893,21 +34844,17 @@ _Créé par_:
 ###### Article 1363
 
 S'il y a lieu au tirage au sort des lots, celui-ci est réalisé devant le notaire commis en application du second alinéa de
-l'article 1361 et, à défaut, devant le président du tribunal de grande instance ou son délégué.
+l'article 1361 et, à défaut, devant le président du tribunal judiciaire ou son délégué.
 
-Si un héritier est défaillant, le président du tribunal de grande instance ou son délégué peut, d'office, lorsque le tirage
-au sort a lieu devant lui ou sur transmission du procès-verbal dressé par le notaire, désigner un représentant à l'héritier
-défaillant.
+Si un héritier est défaillant, le président du tribunal judiciaire ou son délégué peut, d'office, lorsque le tirage au sort a
+lieu devant lui ou sur transmission du procès-verbal dressé par le notaire, désigner un représentant à l'héritier défaillant.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -35171,17 +35118,14 @@ _Créé par_:
 ###### Article 1376
 
 Lorsque le tirage au sort des lots a été ordonné, si un héritier fait défaut, le juge commis dispose des pouvoirs reconnus au
-président du tribunal de grande instance au deuxième alinéa de l'article 1363.
+président du tribunal judiciaire au deuxième alinéa de l'article 1363.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -35274,20 +35218,17 @@ _Cite_:
 ###### Article 1379
 
 Les demandes formées en application des articles 784, 790, 809-1, 810-8, 812-1-1, 813, 813-4, 814-1, 837, 841-1 et 1031 du
-code civil sont portées devant le président du tribunal de grande instance ou son délégué qui statue dans les formes prévues
-aux articles 493 à 498 du présent code.
+code civil sont portées devant le président du tribunal judiciaire ou son délégué qui statue dans les formes prévues aux
+articles 493 à 498 du présent code.
 
 Il en va de même des demandes formées en application de l'article 829 du code civil dans le cadre d'un partage amiable.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -35308,18 +35249,15 @@ _Cite_:
 ###### Article 1380
 
 Les demandes formées en application des articles 772, 794, 810-5, 812-3, 813-1, 813-7, 813-9 et du deuxième alinéa de
-l'article 814 du code civil sont portées devant le président du tribunal de grande instance ou son délégué qui statue en la
-forme des référés.
+l'article 814 du code civil sont portées devant le président du tribunal judiciaire ou son délégué qui statue en la forme des
+référés.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 _Cite_:
 
@@ -35337,14 +35275,15 @@ _Cite_:
 
 Les demandes formées en application des articles 811, 820, 821, 821-1, 824, 832-1, 832-2, 832-3, 
 887, 
-1026 du même code sont portées devant le tribunal de grande instance, sous réserve de la compétence dévolue au juge aux
-affaires familiales par le 1° de l'article L. 213-3 du code de l'organisation judiciaire.
+1026 du même code sont portées devant le tribunal judiciaire, sous réserve de la compétence dévolue au juge aux affaires
+familiales par le 1° de l'article L. 213-3 du code de l'organisation judiciaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1591 du 17 décembre 2009 - art. 8
 
 _Cite_:
 
@@ -36610,33 +36549,25 @@ _Modifié par_:
 ###### Article 1430
 
 La demande en reconstitution de l'original d'un acte authentique ou sous seing privé détruit, en tous lieux, par suite de
-faits de guerre ou de sinistres est portée devant le tribunal de grande instance.
+faits de guerre ou de sinistres est portée devant le tribunal judiciaire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1431
 
 Le tribunal compétent est celui du lieu où l'acte a été établi ou, si l'acte a été établi à l'étranger, celui du lieu où
-demeure le demandeur ; si celui-ci demeure à l'étranger, le tribunal de grande instance de Paris.
+demeure le demandeur ; si celui-ci demeure à l'étranger, le tribunal judiciaire de Paris.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1432
@@ -36705,18 +36636,14 @@ _Créé par_:
 
 ###### Article 1436
 
-En cas de refus ou de silence du dépositaire, le président du tribunal de grande instance, saisi par requête, statue, le
-demandeur et le dépositaire entendus ou appelés.
+En cas de refus ou de silence du dépositaire, le président du tribunal judiciaire, saisi par requête, statue, le demandeur et
+le dépositaire entendus ou appelés.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1437
@@ -36739,37 +36666,29 @@ _Créé par_:
 ###### Article 1438
 
 La partie peut obtenir copie d'un acte non enregistré ou imparfait ; elle doit en faire la demande au président du tribunal
-de grande instance. La demande est présentée par requête.
+judiciaire. La demande est présentée par requête.
 
-En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal de grande instance.
+En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal judiciaire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1439
 
 La partie qui veut obtenir la délivrance d'une seconde copie exécutoire d'un acte authentique doit en faire la demande au
-président du tribunal de grande instance. La demande est présentée par requête.
+président du tribunal judiciaire. La demande est présentée par requête.
 
-En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal de grande instance.
+En cas de refus ou de silence du dépositaire de l'acte, il en est référé au président du tribunal judiciaire.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ###### Article 1440
@@ -36790,21 +36709,17 @@ _Créé par_:
 
 ###### Article 1441
 
-En cas de refus ou de silence, le président du tribunal de grande instance ou, si le refus émane d'un greffier, le président
-de la juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par requête, statue, le demandeur et le greffier ou
-le dépositaire entendus ou appelés.
+En cas de refus ou de silence, le président du tribunal judiciaire ou, si le refus émane d'un greffier, le président de la
+juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par requête, statue, le demandeur et le greffier ou le
+dépositaire entendus ou appelés.
 
 L'appel est formé, instruit et jugé comme en matière gracieuse.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
-
-_Créé par_:
-
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
 ### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=451></a>
@@ -38284,31 +38199,23 @@ _Cite_:
 ###### Article 1505
 
 En matière d'arbitrage international, le juge d'appui de la procédure arbitrale est, sauf clause contraire, le président du
-tribunal de grande instance de Paris lorsque : 
+tribunal judiciaire de Paris lorsque :
 
-1° L'arbitrage se déroule en France ; ou 
+1° L'arbitrage se déroule en France ; ou
 
-2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou 
+2° Les parties sont convenues de soumettre l'arbitrage à la loi de procédure française ; ou
 
 3° Les parties ont expressément donné compétence aux juridictions étatiques françaises pour connaître des différends relatifs
-à la procédure arbitrale ; ou 
+à la procédure arbitrale ; ou
 
 4° L'une des parties est exposée à un risque de déni de justice.
 
 **Nota:**
 
-Décret n° 2011-48 du 13 janvier 2011 article 3 1° : Les dispositions du 2° et du 3° s'appliquent lorsque la convention
-d'arbitrage a été conclue après le 1er mai 2011.
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 _Cite_:
 
@@ -38519,24 +38426,19 @@ _Modifié par_:
 
 ###### Article 1516
 
-La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal de
-grande instance dans le ressort duquel elle été rendue ou du tribunal de grande instance de Paris lorsqu'elle a été rendue à
-l'étranger. 
+La sentence arbitrale n'est susceptible d'exécution forcée qu'en vertu d'une ordonnance d'exequatur émanant du tribunal
+judiciaire dans le ressort duquel elle été rendue ou du tribunal judiciaire de Paris lorsqu'elle a été rendue à l'étranger.
 
-La procédure relative à la demande d'exequatur n'est pas contradictoire. 
+La procédure relative à la demande d'exequatur n'est pas contradictoire.
 
 La requête est déposée par la partie la plus diligente au greffe de la juridiction accompagnée de l'original de la sentence
 et d'un exemplaire de la convention d'arbitrage ou de leurs copies réunissant les conditions requises pour leur authenticité.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
 
-  - Décret n°75-1123 du 5 décembre 1975
-
-_Modifié par_:
-
-  - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
 ###### Article 1517
@@ -39660,11 +39562,11 @@ _Anciens textes_:
 
 Pour l'application du présent code à Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° "tribunal de grande instance" ou "tribunal d'instance" par : "tribunal de première instance" ;
+1° “ tribunal judiciaire ” par : "tribunal de première instance" ;
 
 2° "tribunal de commerce" ou "justice consulaire" par : "tribunal de première instance statuant en matière commerciale" ;
 
-3° "juge d'instance" par : "président du tribunal de première instance" ;
+3° “ juge des contentieux de la protection ” par : "président du tribunal de première instance" ;
 
 4° "procureur de la République" par : "procureur de la République près le tribunal de première instance" ;
 
@@ -39680,11 +39582,17 @@ Pour l'application du présent code à Wallis et Futuna, les termes énumérés 
 
 10° " président du conseil départemental " ou " maire " par : " chef du territoire ".
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2017-892 du 6 mai 2017 - art. 69
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Anciens textes_:
 
@@ -39852,23 +39760,25 @@ _Cite_:
 
 Les matières énumérées à l'article 2 relèvent en premier ressort de la compétence du tribunal d'instance.
 
-Comme il est dit à l'article R. 911-2 du code de l'organisation judiciaire, le tribunal d'instance statue à la place du
-tribunal de grande instance et du président de cette juridiction dans les cas où la loi leur donne compétence en matière
-successorale.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°2006-640 du 1 juin 2006 - art. 21 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 _Cite_:
 
-  - Code de l'organisation judiciaire R911-2
+  - Code de l'organisation judiciaire
   - Nouveau code de procédure civile Annexe, 2
 
 
@@ -39931,17 +39841,23 @@ _Modifié par_:
 Le recours est ouvert à tout intéressé.
 
 Il est formé, instruit et jugé selon les règles applicables en matière gracieuse devant la cour d'appel. Il peut également
-être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction d'instance.
+être formé par la partie elle-même, ou par un notaire lorsque celui-ci avait déjà saisi la juridiction.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°76-899 1976-09-29 art. 2 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article ANNEXE, art. 8
@@ -39996,17 +39912,21 @@ toute mesure conservatoire en matière d'administration légale, de succession e
 
 La compétence territoriale du juge des tutelles est déterminée par les articles 393 et 394 du code civil.
 
-Pour l'application des articles 1271 à 1281 du code de procédure civile, le tribunal compétent est le tribunal d'instance.
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
 
 _Modifié par_:
 
-  - Décret n°81-500 1981-05-12 art. 37 JORF 14 mai 1981 rectificatif JORF 21 mai 1981
+  - Décret n°2019-913 du 30 août 2019 - art. 19
 
 
 ###### Article ANNEXE, art. 12
@@ -40978,18 +40898,19 @@ _Modifié par_:
 
 ###### Article ANNEXE, art. 36
 
-Le tribunal d'instance peut être saisi soit selon les dispositions des chapitres Ier et II du sous-titre Ier du titre II du
+Le tribunal judiciaire peut être saisi soit selon les dispositions des chapitres Ier et II du sous-titre Ier du titre II du
 livre II du code de procédure civile, soit, tant en matière contentieuse que gracieuse, par déclaration faite, remise ou
-adressée au greffe, où elle est enregistrée. 
+adressée au greffe, où elle est enregistrée.
 
 Dans le second cas, les dispositions du second alinéa de l'article 843 et de l'article 844 du code de procédure civile sont
 applicables.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent
+en vigueur le 1er janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-1165 du 1er octobre 2010 - art. 15
 
 _Cite_:
 
