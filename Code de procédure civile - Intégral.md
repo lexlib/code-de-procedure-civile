@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-05-29
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -89,440 +89,432 @@ Version Consolidée au 2020-01-01
             - [Sous-section I : L'incident de faux. (art. 299)](#86)
             - [Sous-section II : Le faux demandé à titre principal. (art. 300 à 302)](#87)
         - [Chapitre II : L'inscription de faux contre les actes authentiques. (art. 303 à 316)](#88)
-          - [Section I : L'inscription de faux incidente. (art.  à 313)](#89)
-            - [Sous-section I : Incident soulevé devant le tribunal de grande instance ou la cour d'appel. (art.  à 305)](#90)
-            - [Sous-section I : Incident soulevé devant le tribunal judiciaire ou la cour d'appel. (art. 306 à 312)](#91)
-            - [Sous-section II : Incident soulevé devant les autres juridictions. (art. 313)](#92)
-          - [Section II : L'inscription de faux principale. (art. 314 à 316)](#93)
-      - [Sous-titre IV : Le serment judiciaire. (art. 317 à 322)](#94)
-    - [Titre VIII : La pluralité des parties. (art. 323 à 324)](#95)
-    - [Titre IX : L'intervention. (art. 325 à 338)](#96)
-      - [Chapitre Ier : L'intervention volontaire. (art. 328 à 330)](#97)
-      - [Chapitre II : L'intervention forcée. (art. 331 à 338)](#98)
-        - [Section I : Dispositions communes à toutes les mises en cause. (art. 331 à 333)](#99)
-        - [Section II : Dispositions spéciales aux appels en garantie. (art. 334 à 338)](#100)
-    - [Titre IX bis : L'audition de l'enfant en justice. (art. 338-1 à 338-12)](#101)
-    - [Titre X : L'abstention, la récusation, le renvoi et la prise à partie. (art. 339 à 366-9)](#102)
-      - [Chapitre Ier : L'abstention. (art. 339 à 340)](#103)
-      - [Chapitre II : La récusation et le renvoi pour cause de suspicion légitime (art. 341 à 350)](#104)
-        - [Section I : Dispositions générales (art. 341 à 348)](#105)
-        - [Section II : Dispositions particulières (art. 349 à 350)](#106)
-      - [Chapitre III : Le renvoi pour cause de sûreté publique (art. 351 à 354)](#107)
-      - [Chapitre IV : La prise à partie. (art. 366-1 à 366-9)](#108)
-        - [Section I : Dispositions générales. (art. 366-1 à 366-8)](#109)
-        - [Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice. (art. 366-9)](#110)
-    - [Titre XI : Les incidents d'instance. (art. 367 à 410)](#111)
-      - [Chapitre Ier : Les jonction et disjonction d'instances. (art. 367 à 368)](#112)
-      - [Chapitre II : L'interruption de l'instance. (art. 369 à 376)](#113)
-      - [Chapitre III : La suspension de l'instance. (art. 377 à 383)](#114)
-        - [Section I : Le sursis à statuer. (art. 378 à 380-1)](#115)
-        - [Section II : La radiation et le retrait du rôle. (art. 381 à 383)](#116)
-      - [Chapitre IV : L'extinction de l'instance. (art. 384 à 410)](#117)
-        - [Section I : La péremption d'instance. (art. 386 à 393)](#118)
-        - [Section II : Le désistement d'instance. (art. 394 à 405)](#119)
-          - [Sous-section I : Le désistement de la demande en première instance. (art. 394 à 399)](#120)
-          - [Sous-section II : Le désistement de l'appel ou de l'opposition. (art. 400 à 405)](#121)
-        - [Section III : La caducité de la citation. (art. 406 à 407)](#122)
-        - [Section IV : L'acquiescement. (art. 408 à 410)](#123)
-    - [Titre XII : Représentation et assistance en justice. (art. 411 à 420)](#124)
-    - [Titre XIII : Le ministère public. (art. 421 à 429)](#125)
-      - [Chapitre Ier : Le ministère public partie principale. (art. 422 à 423)](#126)
-      - [Chapitre II : Le ministère public partie jointe. (art. 424 à 429)](#127)
-    - [Titre XIV : Le jugement. (art. 430 à 499)](#128)
-      - [Chapitre Ier : Dispositions générales. (art. 430 à 479)](#129)
-        - [Section I : Les débats, le délibéré et le jugement. (art. 430 à 466)](#130)
-          - [Sous-section I : Les débats. (art. 430 à 446-4)](#131)
-            - [Paragraphe 1 : Dispositions générales (art. 430 à 446)](#132)
-            - [Paragraphe 2 : Dispositions propres à la procédure orale (art. 446-1 à 446-4)](#133)
-          - [Sous-section II : Le délibéré. (art. 447 à 449)](#134)
-          - [Sous-section III : Le jugement. (art. 450 à 466)](#135)
-        - [Section II : Le défaut de comparution. (art. 467 à 479)](#136)
-          - [Sous-section I : Le jugement contradictoire. (art. 467 à 470)](#137)
-          - [Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire. (art. 471 à 479)](#138)
-      - [Chapitre II : Dispositions spéciales. (art. 480 à 498)](#139)
-        - [Section I : Les jugements sur le fond. (art. 480 à 481-1)](#140)
-          - [Sous-section 1 : Dispositions communes (art. 480 à 481)](#141)
-          - [Sous-section 2 : Les jugements en procédure accélérée au fond (art. 481-1)](#142)
-        - [Section II : Les autres jugements. (art. 482 à 498)](#143)
-          - [Sous-section I : Les jugements avant dire droit. (art. 482 à 483)](#144)
-          - [Sous-section II : Les ordonnances de référé. (art. 484 à 492)](#145)
-          - [Sous-section III : Les ordonnances sur requête. (art. 493 à 498)](#146)
-      - [Chapitre III : Disposition finale. (art. 499)](#147)
-    - [Titre XV : L'exécution du jugement. (art. 500 à 524)](#148)
-      - [Chapitre Ier : Conditions générales de l'exécution. (art. 502 à 508)](#149)
-      - [Chapitre II : La reconnaissance transfrontalière. (art. 509 à 509-9)](#150)
-      - [Chapitre III : Le délai de grâce. (art. 510 à 513)](#151)
-      - [Chapitre IV : L'exécution provisoire. (art. 514 à 524)](#152)
-        - [Section I : L'exécution provisoire de droit (art. 514-1 à 514-6)](#153)
-        - [Section II :  L'exécution provisoire facultative (art. 515 à 517-4)](#154)
-        - [Section III :  Dispositions communes (art. 518 à 524)](#155)
-    - [Titre XVI : Les voies de recours. (art. 527 à 639-4)](#156)
-      - [Sous-titre Ier : Dispositions communes. (art. 528 à 537)](#157)
-      - [Sous-titre II : Les voies ordinaires de recours. (art. 538 à 578)](#158)
-        - [Chapitre Ier : L'appel. (art. 542 à 570)](#159)
-          - [Section I : Le droit d'appel. (art. 543 à 560)](#160)
-            - [Sous-section I : Les jugements susceptibles d'appel. (art. 543 à 545)](#161)
-            - [Sous-section II : Les parties. (art. 546 à 558)](#162)
-            - [Sous-section III : Dispositions diverses. (art. 559 à 560)](#163)
-          - [Section II : Les effets de l'appel. (art. 561 à 568)](#164)
-            - [Sous-section I : L'effet dévolutif. (art. 561 à 567)](#165)
-            - [Sous-section II : L'évocation. (art. 568)](#166)
-          - [Section III : Dispositions finales. (art. 569 à 570)](#167)
-        - [Chapitre II : L'opposition. (art. 571 à 578)](#168)
-      - [Sous-titre III : Les voies extraordinaires de recours. (art. 579 à 639-4)](#169)
-        - [Chapitre Ier : La tierce opposition. (art. 582 à 592)](#170)
-        - [Chapitre II : Le recours en révision. (art. 593 à 603)](#171)
-        - [Chapitre III : Le pourvoi en cassation. (art. 604 à 639-4)](#172)
-          - [Section I : L'ouverture du pourvoi en cassation. (art. 605 à 618)](#173)
-          - [Section II : Les effets du pourvoi en cassation. (art. 619 à 639)](#174)
-          - [Section III : Le pourvoi du procureur général près la Cour de cassation (art. 639-1 à 639-4)](#175)
-    - [Titre XVII : Délais, actes d'huissier de justice et notifications. (art. 640 à 694)](#176)
-      - [Chapitre Ier : La computation des délais. (art. 640 à 647-1)](#177)
-      - [Chapitre II : La forme des actes d'huissier de justice. (art. 648 à 650)](#178)
-      - [Chapitre III : La forme des notifications. (art. 651 à 694)](#179)
-        - [Section I : La signification. (art. 653 à 664-1)](#180)
-        - [Section II : La notification des actes en la forme ordinaire. (art. 665 à 670-3)](#181)
-        - [Section III : Les notifications entre avocats. (art. 671 à 673)](#182)
-        - [Section IV : Règles particulières à la notification des jugements. (art. 675 à 682)](#183)
-        - [Section V : Règles particulières aux notifications internationales. (art. 683 à 688-8)](#184)
-          - [Sous-section I : Notification des actes à l'étranger. (art. 684 à 688)](#185)
-          - [Sous-section II : Notification des actes en provenance de l'étranger. (art. 688-1 à 688-8)](#186)
-        - [Section VI : Le lieu des notifications. (art. 689 à 691)](#187)
-        - [Section VII : Dispositions diverses. (art. 692 à 694)](#188)
-    - [Titre XVIII : Les frais et les dépens. (art. 695 à 725-1)](#189)
-      - [Chapitre Ier : La charge des dépens. (art. 695 à 700)](#190)
-      - [Chapitre II : La liquidation des dépens à recouvrer par le greffe (art. 701 à 703)](#191)
-      - [Chapitre III : La vérification et le recouvrement des dépens. (art. 704 à 718)](#192)
-      - [Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens. (art. 719 à 721)](#193)
-      - [Chapitre V : Les contestations relatives à la rémunération des techniciens. (art. 724 à 725)](#194)
-      - [Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce. (art. 725-1)](#195)
-    - [Titre XIX : Le greffe de la juridiction (art. 726 à 729-1)](#196)
-    - [Titre XX : Les commissions rogatoires. (art. 730 à 748)](#197)
-      - [Chapitre Ier : Les commissions rogatoires internes. (art. 730 à 732)](#198)
-      - [Chapitre II : Les commissions rogatoires internationales. (art. 734 à 748)](#199)
-        - [Section I : Commissions rogatoires à destination de l'étranger (art. 734 à 734-2)](#200)
-        - [Section II : Commissions rogatoires en provenance de l'Etat étranger (art.  à 748)](#201)
-          - [Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance (art.  à 734-2)](#202)
-          - [Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal judiciaire (art. 735 à 747)](#203)
-          - [Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale (art. 747-1 à 747-2)](#204)
-          - [Paragraphe 3 : Dispositions communes (art. 748)](#205)
-    - [Titre XXI : La communication par voie électronique. (art. 748-1 à 748-9)](#206)
-    - [Titre XXII : Disposition finale. (art. 749)](#207)
-  - [Livre II : Dispositions particulières à chaque juridiction. (art.  à 1037-1)](#208)
-    - [Titre Ier : Dispositions particulières au tribunal de grande instance. (art.  à 749)](#209)
-      - [Sous-titre Ier : La procédure devant le tribunal. (art.  à 749)](#210)
-        - [Chapitre II : Procédure en matière gracieuse. (art.  à 749)](#211)
-    - [Titre Ier : Dispositions particulières au tribunal judiciaire (art. 750 à 852)](#212)
-      - [Sous-titre Ier : Dispositions communes (art. 750 à 774)](#213)
-        - [Chapitre Ier : L'introduction de l'instance (art. 750 à 759)](#214)
-          - [Section I : L'introduction de l'instance par assignation (art. 751 à 755)](#215)
-          - [Section II : L'introduction de l'instance par requête (art. 756 à 759)](#216)
-        - [Chapitre II : Constitution d'avocat et conclusions (art. 760 à 768)](#217)
-        - [Chapitre III : Le greffe (art. 769 à 774)](#218)
-      - [Sous-titre II : La procédure écrite (art. 775 à 816)](#219)
-        - [Chapitre Ier : La procédure ordinaire (art. 775 à 807)](#220)
-          - [Section 1 : L'orientation de l'affaire (art. 776 à 779)](#221)
-          - [Section 2 : L'instruction devant le juge de la mise en état (art. 780 à 797)](#222)
-          - [Section 3 : La clôture de l'instruction et renvoi à l'audience de plaidoirie (art. 798 à 807)](#223)
-        - [Chapitre II : La procédure en matière gracieuse (art. 808 à 811)](#224)
-        - [Chapitre III : Le juge unique (art. 812 à 816)](#225)
-      - [Sous-titre III : La procédure orale (art. 817 à 839)](#226)
-        - [Chapitre Ier : La procédure ordinaire (art. 817 à 833)](#227)
-          - [Section 1 : La tentative préalable de conciliation (art. 820 à 826)](#228)
-            - [Sous-section 1 : La conciliation déléguée à un conciliateur de justice (art. 821 à 824)](#229)
-            - [Sous-section 2 : La conciliation menée par le juge (art. 825)](#230)
-            - [Sous-section 3 : La demande aux fins de jugement en cas d'échec de la conciliation (art. 826)](#231)
-          - [Section 2 : La procédure aux fins de jugement (art. 827 à 833)](#232)
-            - [Sous-section 1 : La conciliation (art. 827)](#233)
-            - [Sous-section 2 : Les débats (art. 828 à 833)](#234)
-        - [Chapitre II : Les ordonnances de référé (art. 834 à 838)](#235)
-        - [Chapitre III : La procédure accélérée au fond (art. 839)](#236)
-      - [Sous-titre IV : Les autres procédures (art. 840 à 849-21)](#237)
-        - [Chapitre Ier : La procédure à jour fixe (art. 840 à 844)](#238)
-        - [Chapitre II : Les ordonnances sur requête (art. 845 à 846)](#239)
-        - [Chapitre III : La procédure sur décision de renvoi de la juridiction pénale (art. 847)](#240)
-        - [Chapitre IV : L'action de groupe (art. 848 à 849-21)](#241)
-          - [Section 1 :  Dispositions préliminaires (art. 849 à 849-2)](#242)
-          - [Section 2 : Cessation du manquement (art. 849-3 à 849-10)](#243)
-          - [Section 3 : Réparation des préjudices (art. 849-11 à 849-20)](#244)
-            - [Sous-section 1 : Jugement sur la responsabilité (art. 849-11 à 849-13)](#245)
-            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. 849-14 à 849-19)](#246)
-              - [Paragraphe 1 : Adhésion au groupe (art. 849-14 à 849-17)](#247)
-              - [Paragraphe 2 : Réparation des préjudices par le juge et exécution forcée du jugement (art. 849-18 à 849-19)](#248)
-            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. 849-20)](#249)
-          - [Section 4 : Dispositions diverses (art. 849-21)](#250)
-      - [Sous-titre V : Dispositions diverses (art. 850 à 852)](#251)
-        - [Chapitre Ier : La communication électronique (art. 850)](#252)
-        - [Chapitre II : Mesures d'administration judiciaire (art. 851 à 852)](#253)
-    - [Titre III : Dispositions particulières au tribunal de commerce. (art. 853 à 878-1)](#254)
-      - [Chapitre Ier : La procédure devant le tribunal de commerce. (art. 854 à 871)](#255)
-        - [Section I : L'introduction de l'instance. (art. 854 à 860)](#256)
-          - [Sous-section I : L'assignation. (art. 855 à 858)](#257)
-          - [Sous-section II : La requête conjointe (art. 859 à 860)](#258)
-        - [Section II : L'instance. (art. 860-1 à 871)](#259)
-          - [Sous-section I : Dispositions générales (art. 860-1 à 861-2)](#260)
-          - [Sous-section II : Le juge chargé d'instruire l'affaire. (art. 861-3 à 871)](#261)
-      - [Chapitre II : Les pouvoirs du président. (art. 872 à 876-1)](#262)
-        - [Section I : Les ordonnances de référé. (art. 872 à 873-1)](#263)
-        - [Section II : Les ordonnances sur requête. (art. 874 à 876-1)](#264)
-      - [Chapitre III : Dispositions diverses. (art. 877 à 878-1)](#265)
-    - [Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale. (art. 879)](#266)
-    - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898-1)](#267)
-      - [Chapitre Ier : La procédure ordinaire. (art. 880 à 892)](#268)
-      - [Chapitre II : Les ordonnances de référé. (art. 893 à 896)](#269)
-      - [Chapitre III : Les ordonnances sur requête. (art. 897 à 898-1)](#270)
-    - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 972-1)](#271)
-      - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-1)](#272)
-        - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#273)
-          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930-3)](#274)
-            - [Sous-section I : La procédure ordinaire. (art. 901 à 916)](#275)
-            - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#276)
-            - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#277)
-            - [Sous-section IV : Dispositions communes. (art. 930-1 à 930-3)](#278)
-          - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#279)
-        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#280)
-        - [Chapitre III : Dispositions communes. (art. 954 à 955-1)](#281)
-      - [Sous-titre II : Les pouvoirs du premier président. (art. 956 à 959)](#282)
-        - [Chapitre Ier : Les ordonnances de référé. (art. 956 à 957)](#283)
-        - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#284)
-      - [Sous-titre III : Dispositions diverses. (art. 960 à 972-1)](#285)
-        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 960 à 962)](#286)
-        - [Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel (art. 963 à 964-1)](#287)
-        - [Chapitre II : Mesures d'administration judiciaire. (art. 964-2 à 965)](#288)
-        - [Chapitre III : Le greffe. (art. 966 à 972)](#289)
-        - [Chapitre IV : Le ministère public (art. 972-1)](#290)
-    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031-23)](#291)
-      - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#292)
-      - [Chapitre II : La procédure sans représentation obligatoire. (art. 983 à 995)](#293)
-      - [Chapitre III : La procédure en matière électorale. (art. 996 à 1008)](#294)
-        - [Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques. (art. 996)](#295)
-        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#296)
-      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022-1)](#297)
-      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#298)
-        - [Section I : Augmentation des délais. (art. 1023)](#299)
-        - [Section II : Le désistement. (art. 1024 à 1026)](#300)
-        - [Section III : La récusation. (art. 1027)](#301)
-        - [Section IV : La demande en faux. (art. 1028 à 1031)](#302)
-      - [Chapitre VI : La saisine pour avis de la Cour de cassation. (art. 1031-1 à 1031-7)](#303)
-      - [Chapitre VII : Le réexamen en matière civile (art. 1031-8 à 1031-23)](#304)
-        - [Section 1 : Procédure devant la cour de réexamen (art. 1031-8 à 1031-21)](#305)
-        - [Section 2 :  Dispositions particulières aux juridictions de renvoi (art. 1031-22 à 1031-23)](#306)
-    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037-1)](#307)
-  - [Livre III : Dispositions particulières à certaines matières (art. 1038 à 1441-4)](#308)
-    - [Titre Ier : Les personnes (art. 1038 à 1263-1)](#309)
-      - [Chapitre Ier : La nationalité des personnes physiques (art. 1038 à 1045)](#310)
-      - [Chapitre II : Les actes de l'état civil (art. 1046 à 1056-2)](#311)
-        - [Section I : L'annulation et la rectification des actes de l'état civil (art. 1046 à 1055)](#312)
-          - [Sous-section I : La rectification et l'annulation administratives (art. 1046 à 1047)](#313)
-          - [Sous-section II : La rectification et l'annulation judiciaire (art. 1048 à 1055)](#314)
-        - [Section II : Les procédures relatives au prénom (art. 1055-1 à 1055-4)](#315)
-        - [Section II bis : La modification de la mention du sexe dans les actes de l'état civil (art. 1055-5 à 1055-10)](#316)
-        - [Section III : La transcription et la mention des décisions sur les registres de l'état civil (art. 1056 à 1056-2)](#317)
-      - [Chapitre III : Le répertoire civil (art. 1057 à 1061)](#318)
-      - [Chapitre III bis : Les funérailles (art. 1061-1)](#319)
-      - [Chapitre IV : Les absents (art. 1062 à 1069)](#320)
-        - [Section I : La présomption d'absence (art. 1062 à 1065)](#321)
-        - [Section II : La déclaration d'absence (art. 1066 à 1069)](#322)
-      - [Chapitre V : La procédure en matière familiale (art. 1070 à 1143)](#323)
-        - [Section I : Dispositions générales (art. 1070 à 1074-1)](#324)
-        - [Section II : Le divorce judiciaire et la séparation de corps (art. 1075 à 1136)](#325)
-          - [Sous-section I : Dispositions générales (art. 1075 à 1087)](#326)
-            - [Paragraphe 1 : Les demandes (art. 1075 à 1078)](#327)
-            - [Paragraphe 2 : La prestation compensatoire (art. 1079 à 1080)](#328)
-            - [Paragraphe 3 : La publicité et la preuve des jugements (art. 1081 à 1082-1)](#329)
-            - [Paragraphe 4  : La modification des mesures accessoires (art. 1083 à 1085)](#330)
-            - [Paragraphe 5 : Le pourvoi en cassation (art. 1086 à 1087)](#331)
-          - [Sous-section II : Le divorce judiciaire par consentement mutuel (art. 1088 à 1105)](#332)
-          - [Sous-section III : Les autres procédures de divorce judiciaire (art. 1106 à 1128)](#333)
-            - [Paragraphe 1 : La requête initiale (art. 1106 à 1107)](#334)
-            - [Paragraphe 2 : La tentative de conciliation (art. 1108 à 1113)](#335)
-            - [Paragraphe 3 : L'instance (art. 1114 à 1116)](#336)
-            - [Paragraphe 4 : Les mesures provisoires (art. 1117 à 1121-1)](#337)
-            - [Paragraphe 5 : Les voies de recours (art. 1122)](#338)
-            - [Paragraphe 6 : Dispositions particulières au divorce accepté (art. 1123 à 1125)](#339)
-            - [Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal (art. 1126 à 1127)](#340)
-            - [Paragraphe 8 : Dispositions particulières au divorce pour faute (art. 1128)](#341)
-          - [Sous-section IV : La séparation de corps (art. 1129 à 1130)](#342)
-          - [Sous-section V : Le divorce sur conversion de la séparation de corps (art. 1131 à 1136)](#343)
-        - [Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins (art. 1136-1 à 1136-2)](#344)
-        - [Section II ter : La procédure aux fins de mesures de protection des victimes de violences (art. 1136-3 à 1136-14)](#345)
-        - [Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales (art. 1137 à 1143)](#346)
-      - [Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire (art. 1144 à 1148-3)](#347)
-      - [Chapitre VI : La filiation et les subsides (art. 1149 à 1157-3)](#348)
-        - [Section I : Dispositions générales (art. 1149 à 1151)](#349)
-        - [Section II : Les subsides (art. 1156)](#350)
-        - [Section IV : Le consentement à la procréation médicalement assistée (art. 1157-2 à 1157-3)](#351)
-      - [Chapitre VIII : L'adoption (art. 1165 à 1178-1)](#352)
-        - [Section I : Le consentement à l'adoption (art. 1165)](#353)
-        - [Section II : La procédure d'adoption (art. 1166 à 1176)](#354)
-        - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#355)
-        - [Section IV : Dispositions communes (art. 1178-1)](#356)
-      - [Chapitre IX : L'autorité parentale (art. 1179 à 1210-12)](#357)
-        - [Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant (art. 1179 à 1180-5)](#358)
-        - [Section I bis : L'intervention du juge des tutelles en matière d'administration légale (art. 1180-6 à 1180-19)](#359)
-          - [Sous-section 1 : La demande (art. 1180-6 à 1180-7)](#360)
-          - [Sous-section 2 : L'instruction de la demande (art. 1180-8 à 1180-11)](#361)
-          - [Sous-section 3 : La consultation du dossier et la délivrance de copies (art. 1180-12 à 1180-13)](#362)
-          - [Sous-section 4 : Les décisions du juge des tutelles (art. 1180-14 à 1180-15)](#363)
-          - [Sous-section 5 : Les notifications et les copies des décisions (art. 1180-16 à 1180-17)](#364)
-          - [Sous-section 6 : L'appel (art. 1180-18)](#365)
-          - [Sous-section 7 : L'amende civile (art. 1180-19)](#366)
-        - [Section II : L'assistance éducative (art. 1181 à 1200-1)](#367)
-        - [Section II bis : La mesure judiciaire d'aide à la gestion du budget familial (art. 1200-2 à 1200-13)](#368)
-        - [Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental (art. 1202 à 1210)](#369)
-        - [Section IV : Dispositions relatives à l'administrateur ad hoc (art. 1210-1 à 1210-3)](#370)
-        - [Section V : Le déplacement illicite international d'enfants (art. 1210-4 à 1210-12)](#371)
-      - [Chapitre X : La protection juridique des mineurs et des majeurs (art. 1211 à 1261-1)](#372)
-        - [Section I : Dispositions relatives aux mesures prononcées par le juge (art. 1211 à 1257)](#373)
-          - [Sous-section 1 : Dispositions générales (art. 1211 à 1216)](#374)
-          - [Sous-section 1 bis : Les informations adressées au procureur de la République préalablement à la saisine du juge des tutelles (art. 1216-1 à 1216-3)](#375)
-          - [Sous-section 2 : La procédure devant le juge des tutelles (art. 1217 à 1233)](#376)
-            - [Paragraphe 1 : La demande (art. 1217 à 1219-1)](#377)
-            - [Paragraphe 2 : L'instruction de la demande (art. 1220 à 1221-2)](#378)
-            - [Paragraphe 3 : La consultation du dossier et la délivrance de copies (art. 1222 à 1224)](#379)
-            - [Paragraphe 4 : Les convocations à l'audience (art. 1225)](#380)
-            - [Paragraphe 5 : Les décisions du juge des tutelles (art. 1226 à 1229)](#381)
-            - [Paragraphe 6 : Les notifications (art. 1230 à 1231)](#382)
-            - [Paragraphe 7 : L'exécution de la décision (art. 1233)](#383)
-          - [Sous-section 3 : Le conseil de famille (art. 1234 à 1238)](#384)
-            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs (art. 1234 à 1235)](#385)
-            - [Paragraphe 2 : Dispositions relatives aux mineurs (art. 1236)](#386)
-            - [Paragraphe 3 : Dispositions relatives aux majeurs. (art. 1237 à 1238)](#387)
-          - [Sous-section 4 : L'appel. (art. 1239 à 1247)](#388)
-          - [Sous-section 5 : La sauvegarde de justice. (art. 1248 à 1252-1)](#389)
-          - [Sous-section 6 : La curatelle et la tutelle. (art. 1253 à 1257)](#390)
-            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs. (art. 1253 à 1254-1)](#391)
-            - [Paragraphe 2 : Dispositions relatives aux majeurs. (art. 1255 à 1257)](#392)
-        - [Section II : Dispositions relatives au mandat de protection future. (art. 1258 à 1260)](#393)
-        - [Section III : Dispositions applicables aux pupilles de l'Etat. (art. 1261 à 1261-1)](#394)
-      - [Chapitre XI : La mesure d'accompagnement judiciaire. (art. 1262 à 1263)](#395)
-      - [Chapitre XII : Les actions en matière de discriminations. (art. 1263-1)](#396)
-    - [Titre II : Les biens. (art. 1268 à 1281-19)](#397)
-      - [Chapitre II : La reddition de compte et la liquidation des fruits. (art. 1268 à 1269)](#398)
-      - [Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice. (art. 1270)](#399)
-      - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#400)
-      - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#401)
-      - [Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur. (art. 1281-13 à 1281-19)](#402)
-    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1381-4)](#403)
-      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303-6)](#404)
-        - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289-2)](#405)
-          - [Sous-section I : La procédure devant le juge aux affaires familiales. (art. 1287 à 1288)](#406)
-          - [Sous-section II : La procédure devant le juge des tutelles. (art. 1289 à 1289-2)](#407)
-        - [Section II : Les mesures urgentes. (art. 1290)](#408)
-        - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#409)
-        - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#410)
-        - [Section V : Le changement de régime matrimonial. (art. 1300 à 1303)](#411)
-          - [Paragraphe 1 : Dispositions générales (art. 1300 à 1300-3)](#412)
-          - [Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial (art. 1300-4 à 1303)](#413)
-        - [Section VI : La publicité en matière internationale (art. 1303-1 à 1303-6)](#414)
-          - [Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage (art. 1303-1 à 1303-2)](#415)
-          - [Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère (art. 1303-3 à 1303-5)](#416)
-          - [Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française (art. 1303-6)](#417)
-      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1381-4)](#418)
-        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1326)](#419)
-          - [Sous-section I : Les scellés (art. 1307 à 1322)](#420)
-            - [Paragraphe 1 : L'apposition des scellés. (art. 1307 à 1315)](#421)
-            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#422)
-          - [Sous-section II :  L'état descriptif (art. 1323)](#423)
-          - [Sous-section III : Dispositions communes. (art. 1324 à 1326)](#424)
-        - [Section II : L'inventaire. (art. 1328 à 1333)](#425)
-        - [Section III : L'option successorale. (art. 1334 à 1341)](#426)
-          - [Sous-section I : L'acceptation à concurrence de l'actif net. (art. 1334 à 1338)](#427)
-          - [Sous-section II : La renonciation. (art. 1339 à 1340)](#428)
-          - [Sous-section III : L'option du conjoint survivant. (art. 1341)](#429)
-        - [Section IV : Les successions vacantes et les successions en déshérence. (art. 1342 à 1354)](#430)
-          - [Sous-section I : Les successions vacantes. (art. 1342 à 1353)](#431)
-            - [Paragraphe 1 : L'ouverture de la curatelle. (art. 1342)](#432)
-            - [Paragraphe 2 : La mission du curateur. (art. 1343 à 1349)](#433)
-            - [Paragraphe 3 : La reddition de compte et la fin de la curatelle. (art. 1350 à 1353)](#434)
-          - [Sous-section II : Les successions en déshérence. (art. 1354)](#435)
-        - [Section V : Le mandataire successoral désigné en justice. (art. 1355 à 1357)](#436)
-        - [Section VI : Le partage. (art. 1358 à 1378)](#437)
-          - [Sous-section I : Le partage amiable. (art. 1358)](#438)
-          - [Sous-section II : Le partage judiciaire. (art. 1359 à 1378)](#439)
-            - [Paragraphe 1 : Dispositions générales. (art. 1359 à 1363)](#440)
-            - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#441)
-            - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#442)
-        - [Section VI bis : L'envoi en possession (art. 1378-1 à 1378-2)](#443)
-        - [Section VII : Dispositions communes. (art. 1379 à 1381)](#444)
-        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#445)
-    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-3-1)](#446)
-      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#447)
-      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#448)
-        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#449)
-        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#450)
-        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#451)
-        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#452)
-      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#453)
-      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#454)
-      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#455)
-    - [Titre V : La sécurité sociale et l'aide sociale (art. 1441-4)](#456)
-  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#457)
-    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#458)
-      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#459)
-      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#460)
-      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#461)
-      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#462)
-      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#463)
-      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#464)
-        - [Section 1 : L'appel (art. 1489 à 1490)](#465)
-        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#466)
-        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#467)
-        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#468)
-        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#469)
-    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#470)
-      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#471)
-      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#472)
-      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#473)
-      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#474)
-        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#475)
-        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#476)
-        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#477)
-  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#478)
-    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#479)
-      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#480)
-      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#481)
-    - [Titre II : La procédure participative (art. 1542 à 1564-7)](#482)
-      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555-1)](#483)
-        - [Section 1 : La convention (art. 1544 à 1546-2)](#484)
-          - [Sous-section 1 : Dispositions générales (art. 1544 à 1546)](#485)
-          - [Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état (art. 1546-1 à 1546-2)](#486)
-        - [Section 1 bis : Les actes contresignés par avocats (art. 1546-3)](#487)
-        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#488)
-        - [Section 3 : L'issue de la procédure (art. 1555 à 1555-1)](#489)
-      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564-7)](#490)
-        - [Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable (art. 1557 à 1564)](#491)
-          - [Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend (art. 1557)](#492)
-          - [Sous-section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#493)
-            - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#494)
-            - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#495)
-            - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#496)
-        - [Section 2 : La procédure de jugement après mise en état conventionnelle du litige (art. 1564-1 à 1564-7)](#497)
-    - [Titre III : Dispositions communes (art. 1565 à 1567)](#498)
-  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#499)
-    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#500)
-  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#501)
-    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#502)
-      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#503)
-        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#504)
-        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#505)
-          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#506)
-          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#507)
-          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#508)
-          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#509)
-            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#510)
-            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#511)
-            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#512)
-            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#513)
-            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#514)
-            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#515)
-      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 36)](#516)
-      - [Chapitre IV : Dispositions particulières à la matière commerciale. (art.  à ANNEXE, art. 36)](#517)
-      - [Chapitre III : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#518)
-      - [Chapitre VI : Dispositions particulières à la déclaration d'appel. (art.  à ANNEXE, art. 39)](#519)
-      - [Chapitre IV : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#520)
-      - [Chapitre VII : Dispositions diverses. (art.  à ANNEXE, art. 42)](#521)
-      - [Chapitre V : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#522)
+          - [Section I : L'inscription de faux incidente. (art. 306 à 313)](#89)
+            - [Sous-section I : Incident soulevé devant le tribunal judiciaire ou la cour d'appel. (art. 306 à 312)](#90)
+            - [Sous-section II : Incident soulevé devant les autres juridictions. (art. 313)](#91)
+          - [Section II : L'inscription de faux principale. (art. 314 à 316)](#92)
+      - [Sous-titre IV : Le serment judiciaire. (art. 317 à 322)](#93)
+    - [Titre VIII : La pluralité des parties. (art. 323 à 324)](#94)
+    - [Titre IX : L'intervention. (art. 325 à 338)](#95)
+      - [Chapitre Ier : L'intervention volontaire. (art. 328 à 330)](#96)
+      - [Chapitre II : L'intervention forcée. (art. 331 à 338)](#97)
+        - [Section I : Dispositions communes à toutes les mises en cause. (art. 331 à 333)](#98)
+        - [Section II : Dispositions spéciales aux appels en garantie. (art. 334 à 338)](#99)
+    - [Titre IX bis : L'audition de l'enfant en justice. (art. 338-1 à 338-12)](#100)
+    - [Titre X : L'abstention, la récusation, le renvoi et la prise à partie. (art. 339 à 366-9)](#101)
+      - [Chapitre Ier : L'abstention. (art. 339 à 340)](#102)
+      - [Chapitre II : La récusation et le renvoi pour cause de suspicion légitime (art. 341 à 350)](#103)
+        - [Section I : Dispositions générales (art. 341 à 348)](#104)
+        - [Section II : Dispositions particulières (art. 349 à 350)](#105)
+      - [Chapitre III : Le renvoi pour cause de sûreté publique (art. 351 à 354)](#106)
+      - [Chapitre IV : La prise à partie. (art. 366-1 à 366-9)](#107)
+        - [Section I : Dispositions générales. (art. 366-1 à 366-8)](#108)
+        - [Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice. (art. 366-9)](#109)
+    - [Titre XI : Les incidents d'instance. (art. 367 à 410)](#110)
+      - [Chapitre Ier : Les jonction et disjonction d'instances. (art. 367 à 368)](#111)
+      - [Chapitre II : L'interruption de l'instance. (art. 369 à 376)](#112)
+      - [Chapitre III : La suspension de l'instance. (art. 377 à 383)](#113)
+        - [Section I : Le sursis à statuer. (art. 378 à 380-1)](#114)
+        - [Section II : La radiation et le retrait du rôle. (art. 381 à 383)](#115)
+      - [Chapitre IV : L'extinction de l'instance. (art. 384 à 410)](#116)
+        - [Section I : La péremption d'instance. (art. 386 à 393)](#117)
+        - [Section II : Le désistement d'instance. (art. 394 à 405)](#118)
+          - [Sous-section I : Le désistement de la demande en première instance. (art. 394 à 399)](#119)
+          - [Sous-section II : Le désistement de l'appel ou de l'opposition. (art. 400 à 405)](#120)
+        - [Section III : La caducité de la citation. (art. 406 à 407)](#121)
+        - [Section IV : L'acquiescement. (art. 408 à 410)](#122)
+    - [Titre XII : Représentation et assistance en justice. (art. 411 à 420)](#123)
+    - [Titre XIII : Le ministère public. (art. 421 à 429)](#124)
+      - [Chapitre Ier : Le ministère public partie principale. (art. 422 à 423)](#125)
+      - [Chapitre II : Le ministère public partie jointe. (art. 424 à 429)](#126)
+    - [Titre XIV : Le jugement. (art. 430 à 499)](#127)
+      - [Chapitre Ier : Dispositions générales. (art. 430 à 479)](#128)
+        - [Section I : Les débats, le délibéré et le jugement. (art. 430 à 466)](#129)
+          - [Sous-section I : Les débats. (art. 430 à 446-4)](#130)
+            - [Paragraphe 1 : Dispositions générales (art. 430 à 446)](#131)
+            - [Paragraphe 2 : Dispositions propres à la procédure orale (art. 446-1 à 446-4)](#132)
+          - [Sous-section II : Le délibéré. (art. 447 à 449)](#133)
+          - [Sous-section III : Le jugement. (art. 450 à 466)](#134)
+        - [Section II : Le défaut de comparution. (art. 467 à 479)](#135)
+          - [Sous-section I : Le jugement contradictoire. (art. 467 à 470)](#136)
+          - [Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire. (art. 471 à 479)](#137)
+      - [Chapitre II : Dispositions spéciales. (art. 480 à 498)](#138)
+        - [Section I : Les jugements sur le fond. (art. 480 à 481-1)](#139)
+          - [Sous-section 1 : Dispositions communes (art. 480 à 481)](#140)
+          - [Sous-section 2 : Les jugements en procédure accélérée au fond (art. 481-1)](#141)
+        - [Section II : Les autres jugements. (art. 482 à 498)](#142)
+          - [Sous-section I : Les jugements avant dire droit. (art. 482 à 483)](#143)
+          - [Sous-section II : Les ordonnances de référé. (art. 484 à 492)](#144)
+          - [Sous-section III : Les ordonnances sur requête. (art. 493 à 498)](#145)
+      - [Chapitre III : Disposition finale. (art. 499)](#146)
+    - [Titre XV : L'exécution du jugement. (art. 500 à 524)](#147)
+      - [Chapitre Ier : Conditions générales de l'exécution. (art. 502 à 508)](#148)
+      - [Chapitre II : La reconnaissance transfrontalière. (art. 509 à 509-9)](#149)
+      - [Chapitre III : Le délai de grâce. (art. 510 à 513)](#150)
+      - [Chapitre IV : L'exécution provisoire. (art. 514 à 524)](#151)
+        - [Section I : L'exécution provisoire de droit (art. 514-1 à 514-6)](#152)
+        - [Section II :  L'exécution provisoire facultative (art. 515 à 517-4)](#153)
+        - [Section III :  Dispositions communes (art. 518 à 524)](#154)
+    - [Titre XVI : Les voies de recours. (art. 527 à 639-4)](#155)
+      - [Sous-titre Ier : Dispositions communes. (art. 528 à 537)](#156)
+      - [Sous-titre II : Les voies ordinaires de recours. (art. 538 à 578)](#157)
+        - [Chapitre Ier : L'appel. (art. 542 à 570)](#158)
+          - [Section I : Le droit d'appel. (art. 543 à 560)](#159)
+            - [Sous-section I : Les jugements susceptibles d'appel. (art. 543 à 545)](#160)
+            - [Sous-section II : Les parties. (art. 546 à 558)](#161)
+            - [Sous-section III : Dispositions diverses. (art. 559 à 560)](#162)
+          - [Section II : Les effets de l'appel. (art. 561 à 568)](#163)
+            - [Sous-section I : L'effet dévolutif. (art. 561 à 567)](#164)
+            - [Sous-section II : L'évocation. (art. 568)](#165)
+          - [Section III : Dispositions finales. (art. 569 à 570)](#166)
+        - [Chapitre II : L'opposition. (art. 571 à 578)](#167)
+      - [Sous-titre III : Les voies extraordinaires de recours. (art. 579 à 639-4)](#168)
+        - [Chapitre Ier : La tierce opposition. (art. 582 à 592)](#169)
+        - [Chapitre II : Le recours en révision. (art. 593 à 603)](#170)
+        - [Chapitre III : Le pourvoi en cassation. (art. 604 à 639-4)](#171)
+          - [Section I : L'ouverture du pourvoi en cassation. (art. 605 à 618)](#172)
+          - [Section II : Les effets du pourvoi en cassation. (art. 619 à 639)](#173)
+          - [Section III : Le pourvoi du procureur général près la Cour de cassation (art. 639-1 à 639-4)](#174)
+    - [Titre XVII : Délais, actes d'huissier de justice et notifications. (art. 640 à 694)](#175)
+      - [Chapitre Ier : La computation des délais. (art. 640 à 647-1)](#176)
+      - [Chapitre II : La forme des actes d'huissier de justice. (art. 648 à 650)](#177)
+      - [Chapitre III : La forme des notifications. (art. 651 à 694)](#178)
+        - [Section I : La signification. (art. 653 à 664-1)](#179)
+        - [Section II : La notification des actes en la forme ordinaire. (art. 665 à 670-3)](#180)
+        - [Section III : Les notifications entre avocats. (art. 671 à 673)](#181)
+        - [Section IV : Règles particulières à la notification des jugements. (art. 675 à 682)](#182)
+        - [Section V : Règles particulières aux notifications internationales. (art. 683 à 688-8)](#183)
+          - [Sous-section I : Notification des actes à l'étranger. (art. 684 à 688)](#184)
+          - [Sous-section II : Notification des actes en provenance de l'étranger. (art. 688-1 à 688-8)](#185)
+        - [Section VI : Le lieu des notifications. (art. 689 à 691)](#186)
+        - [Section VII : Dispositions diverses. (art. 692 à 694)](#187)
+    - [Titre XVIII : Les frais et les dépens. (art. 695 à 725-1)](#188)
+      - [Chapitre Ier : La charge des dépens. (art. 695 à 700)](#189)
+      - [Chapitre II : La liquidation des dépens à recouvrer par le greffe (art. 701 à 703)](#190)
+      - [Chapitre III : La vérification et le recouvrement des dépens. (art. 704 à 718)](#191)
+      - [Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens. (art. 719 à 721)](#192)
+      - [Chapitre V : Les contestations relatives à la rémunération des techniciens. (art. 724 à 725)](#193)
+      - [Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce. (art. 725-1)](#194)
+    - [Titre XIX : Le greffe de la juridiction (art. 726 à 729-1)](#195)
+    - [Titre XX : Les commissions rogatoires. (art. 730 à 748)](#196)
+      - [Chapitre Ier : Les commissions rogatoires internes. (art. 730 à 732)](#197)
+      - [Chapitre II : Les commissions rogatoires internationales. (art. 734 à 748)](#198)
+        - [Section I : Commissions rogatoires à destination de l'étranger (art. 734 à 734-2)](#199)
+        - [Section II : Commissions rogatoires en provenance de l'Etat étranger (art. 735 à 748)](#200)
+          - [Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal judiciaire (art. 735 à 747)](#201)
+          - [Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale (art. 747-1 à 747-2)](#202)
+          - [Paragraphe 3 : Dispositions communes (art. 748)](#203)
+    - [Titre XXI : La communication par voie électronique. (art. 748-1 à 748-9)](#204)
+    - [Titre XXII : Disposition finale. (art. 749)](#205)
+  - [Livre II : Dispositions particulières à chaque juridiction. (art. 750 à 1037-1)](#206)
+    - [Titre Ier : Dispositions particulières au tribunal judiciaire (art. 750 à 852)](#207)
+      - [Sous-titre Ier : Dispositions communes (art. 750 à 774)](#208)
+        - [Chapitre Ier : L'introduction de l'instance (art. 750 à 759)](#209)
+          - [Section I : L'introduction de l'instance par assignation (art. 751 à 755)](#210)
+          - [Section II : L'introduction de l'instance par requête (art. 756 à 759)](#211)
+        - [Chapitre II : Constitution d'avocat et conclusions (art. 760 à 768)](#212)
+        - [Chapitre III : Le greffe (art. 769 à 774)](#213)
+      - [Sous-titre II : La procédure écrite (art. 775 à 816)](#214)
+        - [Chapitre Ier : La procédure ordinaire (art. 775 à 807)](#215)
+          - [Section 1 : L'orientation de l'affaire (art. 776 à 779)](#216)
+          - [Section 2 : L'instruction devant le juge de la mise en état (art. 780 à 797)](#217)
+          - [Section 3 : La clôture de l'instruction et renvoi à l'audience de plaidoirie (art. 798 à 807)](#218)
+        - [Chapitre II : La procédure en matière gracieuse (art. 808 à 811)](#219)
+        - [Chapitre III : Le juge unique (art. 812 à 816)](#220)
+      - [Sous-titre III : La procédure orale (art. 817 à 839)](#221)
+        - [Chapitre Ier : La procédure ordinaire (art. 817 à 833)](#222)
+          - [Section 1 : La tentative préalable de conciliation (art. 820 à 826)](#223)
+            - [Sous-section 1 : La conciliation déléguée à un conciliateur de justice (art. 821 à 824)](#224)
+            - [Sous-section 2 : La conciliation menée par le juge (art. 825)](#225)
+            - [Sous-section 3 : La demande aux fins de jugement en cas d'échec de la conciliation (art. 826)](#226)
+          - [Section 2 : La procédure aux fins de jugement (art. 827 à 833)](#227)
+            - [Sous-section 1 : La conciliation (art. 827)](#228)
+            - [Sous-section 2 : Les débats (art. 828 à 833)](#229)
+        - [Chapitre II : Les ordonnances de référé (art. 834 à 838)](#230)
+        - [Chapitre III : La procédure accélérée au fond (art. 839)](#231)
+      - [Sous-titre IV : Les autres procédures (art. 840 à 849-21)](#232)
+        - [Chapitre Ier : La procédure à jour fixe (art. 840 à 844)](#233)
+        - [Chapitre II : Les ordonnances sur requête (art. 845 à 846)](#234)
+        - [Chapitre III : La procédure sur décision de renvoi de la juridiction pénale (art. 847)](#235)
+        - [Chapitre IV : L'action de groupe (art. 848 à 849-21)](#236)
+          - [Section 1 :  Dispositions préliminaires (art. 849 à 849-2)](#237)
+          - [Section 2 : Cessation du manquement (art. 849-3 à 849-10)](#238)
+          - [Section 3 : Réparation des préjudices (art. 849-11 à 849-20)](#239)
+            - [Sous-section 1 : Jugement sur la responsabilité (art. 849-11 à 849-13)](#240)
+            - [Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices (art. 849-14 à 849-19)](#241)
+              - [Paragraphe 1 : Adhésion au groupe (art. 849-14 à 849-17)](#242)
+              - [Paragraphe 2 : Réparation des préjudices par le juge et exécution forcée du jugement (art. 849-18 à 849-19)](#243)
+            - [Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe (art. 849-20)](#244)
+          - [Section 4 : Dispositions diverses (art. 849-21)](#245)
+      - [Sous-titre V : Dispositions diverses (art. 850 à 852)](#246)
+        - [Chapitre Ier : La communication électronique (art. 850)](#247)
+        - [Chapitre II : Mesures d'administration judiciaire (art. 851 à 852)](#248)
+    - [Titre III : Dispositions particulières au tribunal de commerce. (art. 853 à 878-1)](#249)
+      - [Chapitre Ier : La procédure devant le tribunal de commerce. (art. 854 à 871)](#250)
+        - [Section I : L'introduction de l'instance. (art. 854 à 860)](#251)
+          - [Sous-section I : L'assignation. (art. 855 à 858)](#252)
+          - [Sous-section II : La requête conjointe (art. 859 à 860)](#253)
+        - [Section II : L'instance. (art. 860-1 à 871)](#254)
+          - [Sous-section I : Dispositions générales (art. 860-1 à 861-2)](#255)
+          - [Sous-section II : Le juge chargé d'instruire l'affaire. (art. 861-3 à 871)](#256)
+      - [Chapitre II : Les pouvoirs du président. (art. 872 à 876-1)](#257)
+        - [Section I : Les ordonnances de référé. (art. 872 à 873-1)](#258)
+        - [Section II : Les ordonnances sur requête. (art. 874 à 876-1)](#259)
+      - [Chapitre III : Dispositions diverses. (art. 877 à 878-1)](#260)
+    - [Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale. (art. 879)](#261)
+    - [Titre V : Dispositions particulières au tribunal paritaire de baux ruraux. (art. 880 à 898-1)](#262)
+      - [Chapitre Ier : La procédure ordinaire. (art. 880 à 892)](#263)
+      - [Chapitre II : Les ordonnances de référé. (art. 893 à 896)](#264)
+      - [Chapitre III : Les ordonnances sur requête. (art. 897 à 898-1)](#265)
+    - [Titre VI : Dispositions particulières à la cour d'appel. (art. 899 à 972-1)](#266)
+      - [Sous-titre Ier : La procédure devant la formation collégiale. (art. 899 à 955-1)](#267)
+        - [Chapitre Ier : La procédure en matière contentieuse. (art. 899 à 949)](#268)
+          - [Section I : La procédure avec représentation obligatoire. (art. 900 à 930-3)](#269)
+            - [Sous-section I : La procédure ordinaire. (art. 901 à 916)](#270)
+            - [Sous-section II : La procédure à jour fixe. (art. 917 à 925)](#271)
+            - [Sous-section III : L'appel par requête conjointe. (art. 926 à 930)](#272)
+            - [Sous-section IV : Dispositions communes. (art. 930-1 à 930-3)](#273)
+          - [Section II : La procédure sans représentation obligatoire. (art. 931 à 949)](#274)
+        - [Chapitre II : La procédure en matière gracieuse. (art. 950 à 953)](#275)
+        - [Chapitre III : Dispositions communes. (art. 954 à 955-1)](#276)
+      - [Sous-titre II : Les pouvoirs du premier président. (art. 956 à 959)](#277)
+        - [Chapitre Ier : Les ordonnances de référé. (art. 956 à 957)](#278)
+        - [Chapitre II : Les ordonnances sur requête. (art. 958 à 959)](#279)
+      - [Sous-titre III : Dispositions diverses. (art. 960 à 972-1)](#280)
+        - [Chapitre Ier : Constitution d'avocat et conclusions. (art. 960 à 962)](#281)
+        - [Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel (art. 963 à 964-1)](#282)
+        - [Chapitre II : Mesures d'administration judiciaire. (art. 964-2 à 965)](#283)
+        - [Chapitre III : Le greffe. (art. 966 à 972)](#284)
+        - [Chapitre IV : Le ministère public (art. 972-1)](#285)
+    - [Titre VII : Dispositions particulières à la Cour de cassation. (art. 973 à 1031-23)](#286)
+      - [Chapitre Ier : La procédure avec représentation obligatoire. (art. 974 à 982)](#287)
+      - [Chapitre II : La procédure sans représentation obligatoire. (art. 983 à 995)](#288)
+      - [Chapitre III : La procédure en matière électorale. (art. 996 à 1008)](#289)
+        - [Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques. (art. 996)](#290)
+        - [Section II : Les élections professionnelles. (art. 999 à 1008)](#291)
+      - [Chapitre IV : Dispositions communes. (art. 1009 à 1022-1)](#292)
+      - [Chapitre V : Dispositions diverses (art. 1023 à 1031)](#293)
+        - [Section I : Augmentation des délais. (art. 1023)](#294)
+        - [Section II : Le désistement. (art. 1024 à 1026)](#295)
+        - [Section III : La récusation. (art. 1027)](#296)
+        - [Section IV : La demande en faux. (art. 1028 à 1031)](#297)
+      - [Chapitre VI : La saisine pour avis de la Cour de cassation. (art. 1031-1 à 1031-7)](#298)
+      - [Chapitre VII : Le réexamen en matière civile (art. 1031-8 à 1031-23)](#299)
+        - [Section 1 : Procédure devant la cour de réexamen (art. 1031-8 à 1031-21)](#300)
+        - [Section 2 :  Dispositions particulières aux juridictions de renvoi (art. 1031-22 à 1031-23)](#301)
+    - [Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation. (art. 1032 à 1037-1)](#302)
+  - [Livre III : Dispositions particulières à certaines matières (art. 1038 à 1441-4)](#303)
+    - [Titre Ier : Les personnes (art. 1038 à 1263-1)](#304)
+      - [Chapitre Ier : La nationalité des personnes physiques (art. 1038 à 1045)](#305)
+      - [Chapitre II : Les actes de l'état civil (art. 1046 à 1056-2)](#306)
+        - [Section I : L'annulation et la rectification des actes de l'état civil (art. 1046 à 1055)](#307)
+          - [Sous-section I : La rectification et l'annulation administratives (art. 1046 à 1047)](#308)
+          - [Sous-section II : La rectification et l'annulation judiciaire (art. 1048 à 1055)](#309)
+        - [Section II : Les procédures relatives au prénom (art. 1055-1 à 1055-4)](#310)
+        - [Section II bis : La modification de la mention du sexe dans les actes de l'état civil (art. 1055-5 à 1055-10)](#311)
+        - [Section III : La transcription et la mention des décisions sur les registres de l'état civil (art. 1056 à 1056-2)](#312)
+      - [Chapitre III : Le répertoire civil (art. 1057 à 1061)](#313)
+      - [Chapitre III bis : Les funérailles (art. 1061-1)](#314)
+      - [Chapitre IV : Les absents (art. 1062 à 1069)](#315)
+        - [Section I : La présomption d'absence (art. 1062 à 1065)](#316)
+        - [Section II : La déclaration d'absence (art. 1066 à 1069)](#317)
+      - [Chapitre V : La procédure en matière familiale (art. 1070 à 1143)](#318)
+        - [Section I : Dispositions générales (art. 1070 à 1074-1)](#319)
+        - [Section II : Le divorce judiciaire et la séparation de corps (art. 1075 à 1136)](#320)
+          - [Sous-section I : Dispositions générales (art. 1075 à 1087)](#321)
+            - [Paragraphe 1 : Les demandes (art. 1075 à 1078)](#322)
+            - [Paragraphe 2 : La prestation compensatoire (art. 1079 à 1080)](#323)
+            - [Paragraphe 3 : La publicité et la preuve des jugements (art. 1081 à 1082-1)](#324)
+            - [Paragraphe 4  : La modification des mesures accessoires (art. 1083 à 1085)](#325)
+            - [Paragraphe 5 : Le pourvoi en cassation (art. 1086 à 1087)](#326)
+          - [Sous-section II : Le divorce judiciaire par consentement mutuel (art. 1088 à 1105)](#327)
+          - [Sous-section III : Les autres procédures de divorce judiciaire (art. 1106 à 1128)](#328)
+            - [Paragraphe 1 : La requête initiale (art. 1106 à 1107)](#329)
+            - [Paragraphe 2 : La tentative de conciliation (art. 1108 à 1113)](#330)
+            - [Paragraphe 3 : L'instance (art. 1114 à 1116)](#331)
+            - [Paragraphe 4 : Les mesures provisoires (art. 1117 à 1121-1)](#332)
+            - [Paragraphe 5 : Les voies de recours (art. 1122)](#333)
+            - [Paragraphe 6 : Dispositions particulières au divorce accepté (art. 1123 à 1125)](#334)
+            - [Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal (art. 1126 à 1127)](#335)
+            - [Paragraphe 8 : Dispositions particulières au divorce pour faute (art. 1128)](#336)
+          - [Sous-section IV : La séparation de corps (art. 1129 à 1130)](#337)
+          - [Sous-section V : Le divorce sur conversion de la séparation de corps (art. 1131 à 1136)](#338)
+        - [Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins (art. 1136-1 à 1136-2)](#339)
+        - [Section II ter : La procédure aux fins de mesures de protection des victimes de violences (art. 1136-3 à 1136-15)](#340)
+        - [Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales (art. 1137 à 1143)](#341)
+      - [Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire (art. 1144 à 1148-3)](#342)
+      - [Chapitre VI : La filiation et les subsides (art. 1149 à 1157-3)](#343)
+        - [Section I : Dispositions générales (art. 1149 à 1151)](#344)
+        - [Section II : Les subsides (art. 1156)](#345)
+        - [Section IV : Le consentement à la procréation médicalement assistée (art. 1157-2 à 1157-3)](#346)
+      - [Chapitre VIII : L'adoption (art. 1165 à 1178-1)](#347)
+        - [Section I : Le consentement à l'adoption (art. 1165)](#348)
+        - [Section II : La procédure d'adoption (art. 1166 à 1176)](#349)
+        - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#350)
+        - [Section IV : Dispositions communes (art. 1178-1)](#351)
+      - [Chapitre IX : L'autorité parentale (art. 1179 à 1210-12)](#352)
+        - [Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant (art. 1179 à 1180-5)](#353)
+        - [Section I bis : L'intervention du juge des tutelles en matière d'administration légale (art. 1180-6 à 1180-19)](#354)
+          - [Sous-section 1 : La demande (art. 1180-6 à 1180-7)](#355)
+          - [Sous-section 2 : L'instruction de la demande (art. 1180-8 à 1180-11)](#356)
+          - [Sous-section 3 : La consultation du dossier et la délivrance de copies (art. 1180-12 à 1180-13)](#357)
+          - [Sous-section 4 : Les décisions du juge des tutelles (art. 1180-14 à 1180-15)](#358)
+          - [Sous-section 5 : Les notifications et les copies des décisions (art. 1180-16 à 1180-17)](#359)
+          - [Sous-section 6 : L'appel (art. 1180-18)](#360)
+          - [Sous-section 7 : L'amende civile (art. 1180-19)](#361)
+        - [Section II : L'assistance éducative (art. 1181 à 1200-1)](#362)
+        - [Section II bis : La mesure judiciaire d'aide à la gestion du budget familial (art. 1200-2 à 1200-13)](#363)
+        - [Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental (art. 1202 à 1210)](#364)
+        - [Section IV : Dispositions relatives à l'administrateur ad hoc (art. 1210-1 à 1210-3)](#365)
+        - [Section V : Le déplacement illicite international d'enfants (art. 1210-4 à 1210-12)](#366)
+      - [Chapitre X : La protection juridique des mineurs et des majeurs (art. 1211 à 1261-1)](#367)
+        - [Section I : Dispositions relatives aux mesures prononcées par le juge (art. 1211 à 1257)](#368)
+          - [Sous-section 1 : Dispositions générales (art. 1211 à 1216)](#369)
+          - [Sous-section 1 bis : Les informations adressées au procureur de la République préalablement à la saisine du juge des tutelles (art. 1216-1 à 1216-3)](#370)
+          - [Sous-section 2 : La procédure devant le juge des tutelles (art. 1217 à 1233)](#371)
+            - [Paragraphe 1 : La demande (art. 1217 à 1219-1)](#372)
+            - [Paragraphe 2 : L'instruction de la demande (art. 1220 à 1221-2)](#373)
+            - [Paragraphe 3 : La consultation du dossier et la délivrance de copies (art. 1222 à 1224)](#374)
+            - [Paragraphe 4 : Les convocations à l'audience (art. 1225)](#375)
+            - [Paragraphe 5 : Les décisions du juge des tutelles (art. 1226 à 1229)](#376)
+            - [Paragraphe 6 : Les notifications (art. 1230 à 1231)](#377)
+            - [Paragraphe 7 : L'exécution de la décision (art. 1233)](#378)
+          - [Sous-section 3 : Le conseil de famille (art. 1234 à 1238)](#379)
+            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs (art. 1234 à 1235)](#380)
+            - [Paragraphe 2 : Dispositions relatives aux mineurs (art. 1236)](#381)
+            - [Paragraphe 3 : Dispositions relatives aux majeurs. (art. 1237 à 1238)](#382)
+          - [Sous-section 4 : L'appel. (art. 1239 à 1247)](#383)
+          - [Sous-section 5 : La sauvegarde de justice. (art. 1248 à 1252-1)](#384)
+          - [Sous-section 6 : La curatelle et la tutelle. (art. 1253 à 1257)](#385)
+            - [Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs. (art. 1253 à 1254-1)](#386)
+            - [Paragraphe 2 : Dispositions relatives aux majeurs. (art. 1255 à 1257)](#387)
+        - [Section II : Dispositions relatives au mandat de protection future. (art. 1258 à 1260)](#388)
+        - [Section III : Dispositions applicables aux pupilles de l'Etat. (art. 1261 à 1261-1)](#389)
+      - [Chapitre XI : La mesure d'accompagnement judiciaire. (art. 1262 à 1263)](#390)
+      - [Chapitre XII : Les actions en matière de discriminations. (art. 1263-1)](#391)
+    - [Titre II : Les biens. (art. 1268 à 1281-19)](#392)
+      - [Chapitre II : La reddition de compte et la liquidation des fruits. (art. 1268 à 1269)](#393)
+      - [Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice. (art. 1270)](#394)
+      - [Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle. (art. 1271 à 1281)](#395)
+      - [Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution. (art. 1281-1 à 1281-12)](#396)
+      - [Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur. (art. 1281-13 à 1281-19)](#397)
+    - [Titre III : Les régimes matrimoniaux - Les successions et les libéralités. (art. 1286 à 1381-4)](#398)
+      - [Chapitre Ier : Les droits des époux et les régimes matrimoniaux. (art. 1286 à 1303-6)](#399)
+        - [Section I : Les autorisations et les habilitations. (art. 1286 à 1289-2)](#400)
+          - [Sous-section I : La procédure devant le juge aux affaires familiales. (art. 1287 à 1288)](#401)
+          - [Sous-section II : La procédure devant le juge des tutelles. (art. 1289 à 1289-2)](#402)
+        - [Section II : Les mesures urgentes. (art. 1290)](#403)
+        - [Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation. (art. 1291)](#404)
+        - [Section IV : La séparation judiciaire de biens. (art. 1292 à 1299)](#405)
+        - [Section V : Le changement de régime matrimonial. (art. 1300 à 1303)](#406)
+          - [Paragraphe 1 : Dispositions générales (art. 1300 à 1300-3)](#407)
+          - [Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial (art. 1300-4 à 1303)](#408)
+        - [Section VI : La publicité en matière internationale (art. 1303-1 à 1303-6)](#409)
+          - [Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage (art. 1303-1 à 1303-2)](#410)
+          - [Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère (art. 1303-3 à 1303-5)](#411)
+          - [Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française (art. 1303-6)](#412)
+      - [Chapitre II : Les successions et les libéralités (art. 1304 à 1381-4)](#413)
+        - [Section I : Les mesures conservatoires prises après l'ouverture d'une succession (art. 1304 à 1326)](#414)
+          - [Sous-section I : Les scellés (art. 1307 à 1322)](#415)
+            - [Paragraphe 1 : L'apposition des scellés. (art. 1307 à 1315)](#416)
+            - [Paragraphe 2 : La levée des scellés. (art. 1316 à 1322)](#417)
+          - [Sous-section II :  L'état descriptif (art. 1323)](#418)
+          - [Sous-section III : Dispositions communes. (art. 1324 à 1326)](#419)
+        - [Section II : L'inventaire. (art. 1328 à 1333)](#420)
+        - [Section III : L'option successorale. (art. 1334 à 1341)](#421)
+          - [Sous-section I : L'acceptation à concurrence de l'actif net. (art. 1334 à 1338)](#422)
+          - [Sous-section II : La renonciation. (art. 1339 à 1340)](#423)
+          - [Sous-section III : L'option du conjoint survivant. (art. 1341)](#424)
+        - [Section IV : Les successions vacantes et les successions en déshérence. (art. 1342 à 1354)](#425)
+          - [Sous-section I : Les successions vacantes. (art. 1342 à 1353)](#426)
+            - [Paragraphe 1 : L'ouverture de la curatelle. (art. 1342)](#427)
+            - [Paragraphe 2 : La mission du curateur. (art. 1343 à 1349)](#428)
+            - [Paragraphe 3 : La reddition de compte et la fin de la curatelle. (art. 1350 à 1353)](#429)
+          - [Sous-section II : Les successions en déshérence. (art. 1354)](#430)
+        - [Section V : Le mandataire successoral désigné en justice. (art. 1355 à 1357)](#431)
+        - [Section VI : Le partage. (art. 1358 à 1378)](#432)
+          - [Sous-section I : Le partage amiable. (art. 1358)](#433)
+          - [Sous-section II : Le partage judiciaire. (art. 1359 à 1378)](#434)
+            - [Paragraphe 1 : Dispositions générales. (art. 1359 à 1363)](#435)
+            - [Paragraphe 2 : Dispositions particulières. (art. 1364 à 1376)](#436)
+            - [Paragraphe 3 : La licitation. (art. 1377 à 1378)](#437)
+        - [Section VI bis : L'envoi en possession (art. 1378-1 à 1378-2)](#438)
+        - [Section VII : Dispositions communes. (art. 1379 à 1381)](#439)
+        - [Section VIII : Le certificat successoral européen (art. 1381-1 à 1381-4)](#440)
+    - [Titre IV : Les obligations et les contrats. (art. 1382 à 1441-3-1)](#441)
+      - [Chapitre Ier : La procédure européenne de règlement des petits litiges. (art. 1382 à 1391)](#442)
+      - [Chapitre II : Les procédures d'injonction. (art. 1405 à 1425-9)](#443)
+        - [Section I : L'injonction de payer. (art. 1405 à 1424)](#444)
+        - [Section II : L'injonction de payer européenne. (art. 1424-1 à 1424-15)](#445)
+        - [Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce. (art. 1425)](#446)
+        - [Section IV : L'injonction de faire. (art. 1425-1 à 1425-9)](#447)
+      - [Chapitre IV : La reconstitution d'actes détruits. (art. 1430 à 1434)](#448)
+      - [Chapitre V : La délivrance de copies d'actes et de registres. (art. 1435 à 1441)](#449)
+      - [Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique (art. 1441-1 à 1441-3-1)](#450)
+    - [Titre V : La sécurité sociale et l'aide sociale (art. 1441-4)](#451)
+  - [Livre IV : L'arbitrage. (art. 1442 à 1527)](#452)
+    - [Titre Ier : L'arbitrage interne. (art. 1442 à 1503)](#453)
+      - [Chapitre Ier : La convention d'arbitrage. (art. 1442 à 1449)](#454)
+      - [Chapitre II : Le tribunal arbitral (art. 1450 à 1461)](#455)
+      - [Chapitre III : L'instance arbitrale (art. 1462 à 1477)](#456)
+      - [Chapitre IV : La sentence arbitrale (art. 1478 à 1486)](#457)
+      - [Chapitre V : L'exequatur (art. 1487 à 1488)](#458)
+      - [Chapitre VI : Les voies de recours (art. 1489 à 1503)](#459)
+        - [Section 1 : L'appel (art. 1489 à 1490)](#460)
+        - [Section 2 : Le recours en annulation (art. 1491 à 1493)](#461)
+        - [Section 3 : Dispositions communes à l'appel   et au recours en annulation (art. 1494 à 1498)](#462)
+        - [Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur (art. 1499 à 1500)](#463)
+        - [Section 5 : Autres voies de recours (art. 1501 à 1503)](#464)
+    - [Titre II : L'arbitrage international (art. 1504 à 1527)](#465)
+      - [Chapitre Ier : La convention d'arbitrage international (art. 1507 à 1508)](#466)
+      - [Chapitre II : L'instance et la sentence arbitrales (art. 1509 à 1513)](#467)
+      - [Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international (art. 1514 à 1517)](#468)
+      - [Chapitre IV : Les voies de recours (art. 1518 à 1527)](#469)
+        - [Section 1 : Sentences rendues en France (art. 1518 à 1524)](#470)
+        - [Section 2 : Sentences rendues à l'étranger (art. 1525)](#471)
+        - [Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger (art. 1526 à 1527)](#472)
+  - [Livre V : La résolution amiable des différends (art. 1528 à 1567)](#473)
+    - [Titre Ier : La médiation et la conciliation conventionnelles (art. 1530 à 1541)](#474)
+      - [Chapitre Ier : La médiation conventionnelle (art. 1532 à 1535)](#475)
+      - [Chapitre II : La conciliation menée par un conciliateur de justice (art. 1536 à 1541)](#476)
+    - [Titre II : La procédure participative (art. 1542 à 1564-7)](#477)
+      - [Chapitre Ier  : La procédure conventionnelle (art. 1544 à 1555-1)](#478)
+        - [Section 1 : La convention (art. 1544 à 1546-2)](#479)
+          - [Sous-section 1 : Dispositions générales (art. 1544 à 1546)](#480)
+          - [Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état (art. 1546-1 à 1546-2)](#481)
+        - [Section 1 bis : Les actes contresignés par avocats (art. 1546-3)](#482)
+        - [Section 2 : Le recours à un technicien (art. 1547 à 1554)](#483)
+        - [Section 3 : L'issue de la procédure (art. 1555 à 1555-1)](#484)
+      - [Chapitre II : La procédure aux fins de jugement (art. 1556 à 1564-7)](#485)
+        - [Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable (art. 1557 à 1564)](#486)
+          - [Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend (art. 1557)](#487)
+          - [Sous-section 2 : La procédure de jugement du différend persistant (art. 1558 à 1564)](#488)
+            - [Paragraphe 1 : Dispositions communes (art. 1558 à 1559)](#489)
+            - [Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel (art. 1560 à 1561)](#490)
+            - [Paragraphe 3 : La procédure de jugement de l'entier différend (art. 1562 à 1564)](#491)
+        - [Section 2 : La procédure de jugement après mise en état conventionnelle du litige (art. 1564-1 à 1564-7)](#492)
+    - [Titre III : Dispositions communes (art. 1565 à 1567)](#493)
+  - [Livre VI : Dispositions relatives à l'outre-mer. (art. 1575 à 1582)](#494)
+    - [Titre II : Dispositions applicables aux îles Wallis et Futuna. (art. 1575 à 1582)](#495)
+  - [Annexes (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#496)
+    - [Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. (art. ANNEXE, art. 1 à ANNEXE, art. 46)](#497)
+      - [Chapitre Ier : Dispositions particulières à la matière gracieuse. (art. ANNEXE, art. 2 à 30-21)](#498)
+        - [Section I : Dispositions communes. (art. ANNEXE, art. 2 à ANNEXE, art. 10)](#499)
+        - [Section II : Dispositions propres à certaines matières. (art. ANNEXE, art. 11 à 30-21)](#500)
+          - [Sous-section I : Affaires de tutelle et de succession. (art. ANNEXE, art. 11 à ANNEXE, art. 20)](#501)
+          - [Sous-section II : Affaires de partage judiciaire et de vente judiciaire. (art. ANNEXE, art. 21 à ANNEXE, art. 23)](#502)
+          - [Sous-section III : Affaires de registres. (art. ANNEXE, art. 24 à ANNEXE, art. 30)](#503)
+          - [Sous-section IV : Dispositions particulières au registre des associations (art. ANNEXE, art. 30-1 à 30-21)](#504)
+            - [Paragraphe 1 : L'instruction des demandes d'inscription (art. ANNEXE, art. 30-1 à ANNEXE, art. 30-4)](#505)
+            - [Paragraphe 2 : La tenue du registre (art. ANNEXE, art. 30-5 à ANNEXE, art. 30-8)](#506)
+            - [Paragraphe 3 : La publication de l'inscription (art. ANNEXE, art. 30-9 à ANNEXE, art. 30-10)](#507)
+            - [Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre (art. ANNEXE, art. 30-11 à ANNEXE, art. 30-12)](#508)
+            - [Paragraphe 5 : Les sanctions (art. ANNEXE, art. 30-13 à ANNEXE, art. 30-15)](#509)
+            - [Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations (art. 30-16 à 30-21)](#510)
+      - [Chapitre II : Dispositions particulières au tribunal de grande instance. (art. ANNEXE, art. 31 à ANNEXE, art. 36)](#511)
+      - [Chapitre III : Dispositions particulières à la matière commerciale. (art. ANNEXE, art. 37 à ANNEXE, art. 39)](#512)
+      - [Chapitre IV : Dispositions particulières à la déclaration d'appel. (art. ANNEXE, art. 42)](#513)
+      - [Chapitre V : Dispositions diverses. (art. ANNEXE, art. 43 à ANNEXE, art. 46)](#514)
 # Livre Ier : Dispositions communes à toutes les juridictions<a id=1></a>
 
 ## Titre Ier : Dispositions liminaires.<a id=2></a>
@@ -6451,9 +6443,7 @@ _Modifié par_:
 
 ##### Section I : L'inscription de faux incidente.<a id=89></a>
 
-##### Sous-section I : Incident soulevé devant le tribunal de grande instance ou la cour d'appel.<a id=90></a>
-
-##### Sous-section I : Incident soulevé devant le tribunal judiciaire ou la cour d'appel.<a id=91></a>
+##### Sous-section I : Incident soulevé devant le tribunal judiciaire ou la cour d'appel.<a id=90></a>
 
 ###### Article 306
 
@@ -6563,7 +6553,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Incident soulevé devant les autres juridictions.<a id=92></a>
+##### Sous-section II : Incident soulevé devant les autres juridictions.<a id=91></a>
 
 ###### Article 313
 
@@ -6596,7 +6586,7 @@ _Cite_:
   - Nouveau code de procédure civile 314, 315, 316
 
 
-##### Section II : L'inscription de faux principale.<a id=93></a>
+##### Section II : L'inscription de faux principale.<a id=92></a>
 
 ###### Article 314
 
@@ -6645,7 +6635,7 @@ _Cite_:
   - Nouveau code de procédure civile 287, 288, 289, 290, 291, 292, 293, 294, 309, 310, 311 et 312
 
 
-### Sous-titre IV : Le serment judiciaire.<a id=94></a>
+### Sous-titre IV : Le serment judiciaire.<a id=93></a>
 
 ###### Article 317
 
@@ -6733,7 +6723,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre VIII : La pluralité des parties.<a id=95></a>
+## Titre VIII : La pluralité des parties.<a id=94></a>
 
 ###### Article 323
 
@@ -6770,7 +6760,7 @@ _Cite_:
   - Code de procédure civile - art. 615 (V)
 
 
-## Titre IX : L'intervention.<a id=96></a>
+## Titre IX : L'intervention.<a id=95></a>
 
 ###### Article 325
 
@@ -6808,7 +6798,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : L'intervention volontaire.<a id=97></a>
+### Chapitre Ier : L'intervention volontaire.<a id=96></a>
 
 ###### Article 328
 
@@ -6849,9 +6839,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : L'intervention forcée.<a id=98></a>
+### Chapitre II : L'intervention forcée.<a id=97></a>
 
-#### Section I : Dispositions communes à toutes les mises en cause.<a id=99></a>
+#### Section I : Dispositions communes à toutes les mises en cause.<a id=98></a>
 
 ###### Article 331
 
@@ -6904,7 +6894,7 @@ _Cité par_:
   - Code de commerce. - art. R229-8 (V)
 
 
-#### Section II : Dispositions spéciales aux appels en garantie.<a id=100></a>
+#### Section II : Dispositions spéciales aux appels en garantie.<a id=99></a>
 
 ###### Article 334
 
@@ -6968,7 +6958,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre IX bis : L'audition de l'enfant en justice.<a id=101></a>
+## Titre IX bis : L'audition de l'enfant en justice.<a id=100></a>
 
 ###### Article 338-1
 
@@ -7151,9 +7141,9 @@ _Créé par_:
   - Décret n°2009-572 du 20 mai 2009 - art. 1
 
 
-## Titre X : L'abstention, la récusation, le renvoi et la prise à partie.<a id=102></a>
+## Titre X : L'abstention, la récusation, le renvoi et la prise à partie.<a id=101></a>
 
-### Chapitre Ier : L'abstention.<a id=103></a>
+### Chapitre Ier : L'abstention.<a id=102></a>
 
 ###### Article 339
 
@@ -7193,9 +7183,9 @@ _Modifié par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 5 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-### Chapitre II : La récusation et le renvoi pour cause de suspicion légitime<a id=104></a>
+### Chapitre II : La récusation et le renvoi pour cause de suspicion légitime<a id=103></a>
 
-#### Section I : Dispositions générales<a id=105></a>
+#### Section I : Dispositions générales<a id=104></a>
 
 ###### Article 341
 
@@ -7391,7 +7381,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 2
 
 
-#### Section II : Dispositions particulières<a id=106></a>
+#### Section II : Dispositions particulières<a id=105></a>
 
 ###### Article 349
 
@@ -7438,7 +7428,7 @@ _Cite_:
   - Code de procédure civile - art. 344 (V)
 
 
-### Chapitre III : Le renvoi pour cause de sûreté publique<a id=107></a>
+### Chapitre III : Le renvoi pour cause de sûreté publique<a id=106></a>
 
 ###### Article 351
 
@@ -7511,9 +7501,9 @@ _Cite_:
   - Code de procédure civile - art. 82 (V)
 
 
-### Chapitre IV : La prise à partie.<a id=108></a>
+### Chapitre IV : La prise à partie.<a id=107></a>
 
-#### Section I : Dispositions générales.<a id=109></a>
+#### Section I : Dispositions générales.<a id=108></a>
 
 ###### Article 366-1
 
@@ -7657,7 +7647,7 @@ _Cite_:
   - Nouveau code de procédure civile 931
 
 
-#### Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice.<a id=110></a>
+#### Section II : Dispositions particulières à la prise à partie fondée sur le déni de justice.<a id=109></a>
 
 ###### Article 366-9
 
@@ -7680,9 +7670,9 @@ _Cite_:
   - Nouveau code de procédure civile 366-1
 
 
-## Titre XI : Les incidents d'instance.<a id=111></a>
+## Titre XI : Les incidents d'instance.<a id=110></a>
 
-### Chapitre Ier : Les jonction et disjonction d'instances.<a id=112></a>
+### Chapitre Ier : Les jonction et disjonction d'instances.<a id=111></a>
 
 ###### Article 367
 
@@ -7709,7 +7699,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : L'interruption de l'instance.<a id=113></a>
+### Chapitre II : L'interruption de l'instance.<a id=112></a>
 
 ###### Article 369
 
@@ -7841,7 +7831,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : La suspension de l'instance.<a id=114></a>
+### Chapitre III : La suspension de l'instance.<a id=113></a>
 
 ###### Article 377
 
@@ -7859,7 +7849,7 @@ _Modifié par_:
   - Décret n°98-1231 du 28 décembre 1998 - art. 9 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
-#### Section I : Le sursis à statuer.<a id=115></a>
+#### Section I : Le sursis à statuer.<a id=114></a>
 
 ###### Article 378
 
@@ -7930,7 +7920,7 @@ _Créé par_:
   - Décret n°79-941 1979-11-07 art. 7 et 16 JORF 9 décembre 1979 en vigueur le 1 janvier 1980
 
 
-#### Section II : La radiation et le retrait du rôle.<a id=116></a>
+#### Section II : La radiation et le retrait du rôle.<a id=115></a>
 
 ###### Article 381
 
@@ -7986,7 +7976,7 @@ _Modifié par_:
   - Décret n°98-1231 du 28 décembre 1998 - art. 10 () JORF 30 décembre 1998 en vigueur le 1er mars 1999
 
 
-### Chapitre IV : L'extinction de l'instance.<a id=117></a>
+### Chapitre IV : L'extinction de l'instance.<a id=116></a>
 
 ###### Article 384
 
@@ -8020,7 +8010,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section I : La péremption d'instance.<a id=118></a>
+#### Section I : La péremption d'instance.<a id=117></a>
 
 ###### Article 386
 
@@ -8147,9 +8137,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Le désistement d'instance.<a id=119></a>
+#### Section II : Le désistement d'instance.<a id=118></a>
 
-##### Sous-section I : Le désistement de la demande en première instance.<a id=120></a>
+##### Sous-section I : Le désistement de la demande en première instance.<a id=119></a>
 
 ###### Article 394
 
@@ -8228,7 +8218,7 @@ _Cité par_:
   - Code de procédure civile - art. 1025 (V)
 
 
-##### Sous-section II : Le désistement de l'appel ou de l'opposition.<a id=121></a>
+##### Sous-section II : Le désistement de l'appel ou de l'opposition.<a id=120></a>
 
 ###### Article 400
 
@@ -8311,7 +8301,7 @@ _Cite_:
   - Nouveau code de procédure civile 396, 397 et 399
 
 
-#### Section III : La caducité de la citation.<a id=122></a>
+#### Section III : La caducité de la citation.<a id=121></a>
 
 ###### Article 406
 
@@ -8335,7 +8325,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section IV : L'acquiescement.<a id=123></a>
+#### Section IV : L'acquiescement.<a id=122></a>
 
 ###### Article 408
 
@@ -8381,7 +8371,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XII : Représentation et assistance en justice.<a id=124></a>
+## Titre XII : Représentation et assistance en justice.<a id=123></a>
 
 ###### Article 411
 
@@ -8530,7 +8520,7 @@ _Cité par_:
   - Arrêté du 31 janvier 2018 - art. (V)
 
 
-## Titre XIII : Le ministère public.<a id=125></a>
+## Titre XIII : Le ministère public.<a id=124></a>
 
 ###### Article 421
 
@@ -8544,7 +8534,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Le ministère public partie principale.<a id=126></a>
+### Chapitre Ier : Le ministère public partie principale.<a id=125></a>
 
 ###### Article 422
 
@@ -8568,7 +8558,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Le ministère public partie jointe.<a id=127></a>
+### Chapitre II : Le ministère public partie jointe.<a id=126></a>
 
 ###### Article 424
 
@@ -8674,15 +8664,15 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XIV : Le jugement.<a id=128></a>
+## Titre XIV : Le jugement.<a id=127></a>
 
-### Chapitre Ier : Dispositions générales.<a id=129></a>
+### Chapitre Ier : Dispositions générales.<a id=128></a>
 
-#### Section I : Les débats, le délibéré et le jugement.<a id=130></a>
+#### Section I : Les débats, le délibéré et le jugement.<a id=129></a>
 
-##### Sous-section I : Les débats.<a id=131></a>
+##### Sous-section I : Les débats.<a id=130></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=132></a>
+##### Paragraphe 1 : Dispositions générales<a id=131></a>
 
 ###### Article 430
 
@@ -8946,7 +8936,7 @@ _Cite_:
   - Nouveau code de procédure civile 432, 433, 434, 435 et 444
 
 
-##### Paragraphe 2 : Dispositions propres à la procédure orale<a id=133></a>
+##### Paragraphe 2 : Dispositions propres à la procédure orale<a id=132></a>
 
 ###### Article 446-1
 
@@ -9069,7 +9059,7 @@ _Créé par_:
   - Décret n°2010-1165 du 1er octobre 2010 - art. 5
 
 
-##### Sous-section II : Le délibéré.<a id=134></a>
+##### Sous-section II : Le délibéré.<a id=133></a>
 
 ###### Article 447
 
@@ -9105,7 +9095,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section III : Le jugement.<a id=135></a>
+##### Sous-section III : Le jugement.<a id=134></a>
 
 ###### Article 450
 
@@ -9483,9 +9473,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Le défaut de comparution.<a id=136></a>
+#### Section II : Le défaut de comparution.<a id=135></a>
 
-##### Sous-section I : Le jugement contradictoire.<a id=137></a>
+##### Sous-section I : Le jugement contradictoire.<a id=136></a>
 
 ###### Article 467
 
@@ -9552,7 +9542,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire.<a id=138></a>
+##### Sous-section II : Le jugement rendu par défaut et le jugement réputé contradictoire.<a id=137></a>
 
 ###### Article 471
 
@@ -9705,11 +9695,11 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : Dispositions spéciales.<a id=139></a>
+### Chapitre II : Dispositions spéciales.<a id=138></a>
 
-#### Section I : Les jugements sur le fond.<a id=140></a>
+#### Section I : Les jugements sur le fond.<a id=139></a>
 
-##### Sous-section 1 : Dispositions communes<a id=141></a>
+##### Sous-section 1 : Dispositions communes<a id=140></a>
 
 ###### Article 480
 
@@ -9757,7 +9747,7 @@ _Cite_:
   - Nouveau code de procédure civile 461, 462, 463, 464
 
 
-##### Sous-section 2 : Les jugements en procédure accélérée au fond<a id=142></a>
+##### Sous-section 2 : Les jugements en procédure accélérée au fond<a id=141></a>
 
 ###### Article 481-1
 
@@ -9805,9 +9795,9 @@ _Créé par_:
   - Décret n°2019-1419 du 20 décembre 2019 - art. 1
 
 
-#### Section II : Les autres jugements.<a id=143></a>
+#### Section II : Les autres jugements.<a id=142></a>
 
-##### Sous-section I : Les jugements avant dire droit.<a id=144></a>
+##### Sous-section I : Les jugements avant dire droit.<a id=143></a>
 
 ###### Article 482
 
@@ -9832,7 +9822,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Les ordonnances de référé.<a id=145></a>
+##### Sous-section II : Les ordonnances de référé.<a id=144></a>
 
 ###### Article 484
 
@@ -10032,7 +10022,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-##### Sous-section III : Les ordonnances sur requête.<a id=146></a>
+##### Sous-section III : Les ordonnances sur requête.<a id=145></a>
 
 ###### Article 493
 
@@ -10155,7 +10145,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-### Chapitre III : Disposition finale.<a id=147></a>
+### Chapitre III : Disposition finale.<a id=146></a>
 
 ###### Article 499
 
@@ -10168,7 +10158,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XV : L'exécution du jugement.<a id=148></a>
+## Titre XV : L'exécution du jugement.<a id=147></a>
 
 ###### Article 500
 
@@ -10200,7 +10190,7 @@ _Cité par_:
   - Arrêté du 31 janvier 2018 - art. (V)
 
 
-### Chapitre Ier : Conditions générales de l'exécution.<a id=149></a>
+### Chapitre Ier : Conditions générales de l'exécution.<a id=148></a>
 
 ###### Article 502
 
@@ -10318,7 +10308,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre II : La reconnaissance transfrontalière.<a id=150></a>
+### Chapitre II : La reconnaissance transfrontalière.<a id=149></a>
 
 ###### Article 509
 
@@ -10667,7 +10657,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre III : Le délai de grâce.<a id=151></a>
+### Chapitre III : Le délai de grâce.<a id=150></a>
 
 ###### Article 510
 
@@ -10747,7 +10737,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 16 () JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-### Chapitre IV : L'exécution provisoire.<a id=152></a>
+### Chapitre IV : L'exécution provisoire.<a id=151></a>
 
 ###### Article 514
 
@@ -10774,7 +10764,7 @@ _Cité par_:
   - Code des assurances - art. R421-9 (VD)
 
 
-#### Section I : L'exécution provisoire de droit<a id=153></a>
+#### Section I : L'exécution provisoire de droit<a id=152></a>
 
 ###### Article 514-1
 
@@ -10904,7 +10894,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-#### Section II :  L'exécution provisoire facultative<a id=154></a>
+#### Section II :  L'exécution provisoire facultative<a id=153></a>
 
 ###### Article 515
 
@@ -11066,7 +11056,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-#### Section III :  Dispositions communes<a id=155></a>
+#### Section III :  Dispositions communes<a id=154></a>
 
 ###### Article 518
 
@@ -11276,7 +11266,7 @@ _Cite_:
   - Code de procédure civile - art. 911 (V)
 
 
-## Titre XVI : Les voies de recours.<a id=156></a>
+## Titre XVI : Les voies de recours.<a id=155></a>
 
 ###### Article 527
 
@@ -11290,7 +11280,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre Ier : Dispositions communes.<a id=157></a>
+### Sous-titre Ier : Dispositions communes.<a id=156></a>
 
 ###### Article 528
 
@@ -11465,7 +11455,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre II : Les voies ordinaires de recours.<a id=158></a>
+### Sous-titre II : Les voies ordinaires de recours.<a id=157></a>
 
 ###### Article 538
 
@@ -11550,7 +11540,7 @@ _Cite_:
   - Nouveau code de procédure civile 540
 
 
-#### Chapitre Ier : L'appel.<a id=159></a>
+#### Chapitre Ier : L'appel.<a id=158></a>
 
 ###### Article 542
 
@@ -11568,9 +11558,9 @@ _Modifié par_:
   - Décret n°2017-891 du 6 mai 2017 - art. 7
 
 
-##### Section I : Le droit d'appel.<a id=160></a>
+##### Section I : Le droit d'appel.<a id=159></a>
 
-##### Sous-section I : Les jugements susceptibles d'appel.<a id=161></a>
+##### Sous-section I : Les jugements susceptibles d'appel.<a id=160></a>
 
 ###### Article 543
 
@@ -11611,7 +11601,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Les parties.<a id=162></a>
+##### Sous-section II : Les parties.<a id=161></a>
 
 ###### Article 546
 
@@ -11788,7 +11778,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section III : Dispositions diverses.<a id=163></a>
+##### Sous-section III : Dispositions diverses.<a id=162></a>
 
 ###### Article 559
 
@@ -11825,9 +11815,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Section II : Les effets de l'appel.<a id=164></a>
+##### Section II : Les effets de l'appel.<a id=163></a>
 
-##### Sous-section I : L'effet dévolutif.<a id=165></a>
+##### Sous-section I : L'effet dévolutif.<a id=164></a>
 
 ###### Article 561
 
@@ -11929,7 +11919,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : L'évocation.<a id=166></a>
+##### Sous-section II : L'évocation.<a id=165></a>
 
 ###### Article 568
 
@@ -11954,7 +11944,7 @@ _Cite_:
   - Nouveau code de procédure civile 554, 555, 563, 564, 565, 566, 567
 
 
-##### Section III : Dispositions finales.<a id=167></a>
+##### Section III : Dispositions finales.<a id=166></a>
 
 ###### Article 569
 
@@ -11990,7 +11980,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Chapitre II : L'opposition.<a id=168></a>
+#### Chapitre II : L'opposition.<a id=167></a>
 
 ###### Article 571
 
@@ -12109,7 +12099,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Sous-titre III : Les voies extraordinaires de recours.<a id=169></a>
+### Sous-titre III : Les voies extraordinaires de recours.<a id=168></a>
 
 ###### Article 579
 
@@ -12154,7 +12144,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 67
 
 
-#### Chapitre Ier : La tierce opposition.<a id=170></a>
+#### Chapitre Ier : La tierce opposition.<a id=169></a>
 
 ###### Article 582
 
@@ -12328,7 +12318,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre II : Le recours en révision.<a id=171></a>
+#### Chapitre II : Le recours en révision.<a id=170></a>
 
 ###### Article 593
 
@@ -12485,7 +12475,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Chapitre III : Le pourvoi en cassation.<a id=172></a>
+#### Chapitre III : Le pourvoi en cassation.<a id=171></a>
 
 ###### Article 604
 
@@ -12503,7 +12493,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
-##### Section I : L'ouverture du pourvoi en cassation.<a id=173></a>
+##### Section I : L'ouverture du pourvoi en cassation.<a id=172></a>
 
 ###### Article 605
 
@@ -12775,7 +12765,7 @@ _Cite_:
   - Nouveau code de procédure civile 605, 612
 
 
-##### Section II : Les effets du pourvoi en cassation.<a id=174></a>
+##### Section II : Les effets du pourvoi en cassation.<a id=173></a>
 
 ###### Article 619
 
@@ -13156,7 +13146,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 2 JORF 9 novembre 1979 en vigueur le 1 janvier 1980
 
 
-##### Section III : Le pourvoi du procureur général près la Cour de cassation<a id=175></a>
+##### Section III : Le pourvoi du procureur général près la Cour de cassation<a id=174></a>
 
 ###### Article 639-1
 
@@ -13241,9 +13231,9 @@ _Créé par_:
   - Décret n°2014-1338 du 6 novembre 2014 - art. 13
 
 
-## Titre XVII : Délais, actes d'huissier de justice et notifications.<a id=176></a>
+## Titre XVII : Délais, actes d'huissier de justice et notifications.<a id=175></a>
 
-### Chapitre Ier : La computation des délais.<a id=177></a>
+### Chapitre Ier : La computation des délais.<a id=176></a>
 
 ###### Article 640
 
@@ -13533,7 +13523,7 @@ _Cité par_:
   - Code de procédure civile - art. 664-1 (VD)
 
 
-### Chapitre II : La forme des actes d'huissier de justice.<a id=178></a>
+### Chapitre II : La forme des actes d'huissier de justice.<a id=177></a>
 
 ###### Article 648
 
@@ -13588,7 +13578,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre III : La forme des notifications.<a id=179></a>
+### Chapitre III : La forme des notifications.<a id=178></a>
 
 ###### Article 651
 
@@ -13624,7 +13614,7 @@ _Cité par_:
   - Code de procédure civile - art. 1138 (V)
 
 
-#### Section I : La signification.<a id=180></a>
+#### Section I : La signification.<a id=179></a>
 
 ###### Article 653
 
@@ -13964,7 +13954,7 @@ _Cite_:
   - Code de procédure civile - art. 659
 
 
-#### Section II : La notification des actes en la forme ordinaire.<a id=181></a>
+#### Section II : La notification des actes en la forme ordinaire.<a id=180></a>
 
 ###### Article 665
 
@@ -14180,7 +14170,7 @@ _Cite_:
   - Code de procédure pénale - art. R93
 
 
-#### Section III : Les notifications entre avocats.<a id=182></a>
+#### Section III : Les notifications entre avocats.<a id=181></a>
 
 ###### Article 671
 
@@ -14234,7 +14224,7 @@ _Cité par_:
   - Arrêté du 20 mai 2020 - art. 6 (V)
 
 
-#### Section IV : Règles particulières à la notification des jugements.<a id=183></a>
+#### Section IV : Règles particulières à la notification des jugements.<a id=182></a>
 
 ###### Article 675
 
@@ -14365,7 +14355,7 @@ _Cité par_:
   - Code de procédure civile - art. 689-1 (V)
 
 
-#### Section V : Règles particulières aux notifications internationales.<a id=184></a>
+#### Section V : Règles particulières aux notifications internationales.<a id=183></a>
 
 ###### Article 683
 
@@ -14388,7 +14378,7 @@ _Cité par_:
   - Code des transports - art. R4123-5 (V)
 
 
-##### Sous-section I : Notification des actes à l'étranger.<a id=185></a>
+##### Sous-section I : Notification des actes à l'étranger.<a id=184></a>
 
 ###### Article 684
 
@@ -14593,7 +14583,7 @@ _Cite_:
   - Code de procédure civile - art. 687-1 (V)
 
 
-##### Sous-section II : Notification des actes en provenance de l'étranger.<a id=186></a>
+##### Sous-section II : Notification des actes en provenance de l'étranger.<a id=185></a>
 
 ###### Article 688-1
 
@@ -14749,7 +14739,7 @@ _Créé par_:
   - Décret n°76-1236 1976-12-28 art. 16 JORF 30 décembre 1976
 
 
-#### Section VI : Le lieu des notifications.<a id=187></a>
+#### Section VI : Le lieu des notifications.<a id=186></a>
 
 ###### Article 689
 
@@ -14840,7 +14830,7 @@ _Cité par_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 415 (V)
 
 
-#### Section VII : Dispositions diverses.<a id=188></a>
+#### Section VII : Dispositions diverses.<a id=187></a>
 
 ###### Article 692
 
@@ -14935,9 +14925,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-## Titre XVIII : Les frais et les dépens.<a id=189></a>
+## Titre XVIII : Les frais et les dépens.<a id=188></a>
 
-### Chapitre Ier : La charge des dépens.<a id=190></a>
+### Chapitre Ier : La charge des dépens.<a id=189></a>
 
 ###### Article 695
 
@@ -15121,7 +15111,7 @@ _Modifié par_:
   - Décret n°2013-1280 du 29 décembre 2013 - art. 22
 
 
-### Chapitre II : La liquidation des dépens à recouvrer par le greffe<a id=191></a>
+### Chapitre II : La liquidation des dépens à recouvrer par le greffe<a id=190></a>
 
 ###### Article 701
 
@@ -15179,7 +15169,7 @@ _Cite_:
   - Nouveau code de procédure civile 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718
 
 
-### Chapitre III : La vérification et le recouvrement des dépens.<a id=192></a>
+### Chapitre III : La vérification et le recouvrement des dépens.<a id=191></a>
 
 ###### Article 704
 
@@ -15469,7 +15459,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.<a id=193></a>
+### Chapitre IV : Les demandes ou contestations relatives aux frais, émoluments et débours non compris dans les dépens.<a id=192></a>
 
 ###### Article 719
 
@@ -15529,7 +15519,7 @@ _Cite_:
   - Nouveau code de procédure civile 720
 
 
-### Chapitre V : Les contestations relatives à la rémunération des techniciens.<a id=194></a>
+### Chapitre V : Les contestations relatives à la rémunération des techniciens.<a id=193></a>
 
 ###### Article 724
 
@@ -15580,7 +15570,7 @@ _Cite_:
   - Nouveau code de procédure civile 714, 715, 724
 
 
-### Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce.<a id=195></a>
+### Chapitre VI : Les contestations relatives aux frais, émoluments et débours des greffiers des tribunaux de commerce.<a id=194></a>
 
 ###### Article 725-1
 
@@ -15605,7 +15595,7 @@ _Cite_:
   - Nouveau code de procédure civile 704, 705, 706, 707, 708
 
 
-## Titre XIX : Le greffe de la juridiction<a id=196></a>
+## Titre XIX : Le greffe de la juridiction<a id=195></a>
 
 ###### Article 726
 
@@ -15716,9 +15706,9 @@ _Créé par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 71 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-## Titre XX : Les commissions rogatoires.<a id=197></a>
+## Titre XX : Les commissions rogatoires.<a id=196></a>
 
-### Chapitre Ier : Les commissions rogatoires internes.<a id=198></a>
+### Chapitre Ier : Les commissions rogatoires internes.<a id=197></a>
 
 ###### Article 730
 
@@ -15774,9 +15764,9 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-### Chapitre II : Les commissions rogatoires internationales.<a id=199></a>
+### Chapitre II : Les commissions rogatoires internationales.<a id=198></a>
 
-#### Section I : Commissions rogatoires à destination de l'étranger<a id=200></a>
+#### Section I : Commissions rogatoires à destination de l'étranger<a id=199></a>
 
 ###### Article 734
 
@@ -15831,11 +15821,9 @@ _Anciens textes_:
   - Code de procédure civile - art. 735 (T)
 
 
-#### Section II : Commissions rogatoires en provenance de l'Etat étranger<a id=201></a>
+#### Section II : Commissions rogatoires en provenance de l'Etat étranger<a id=200></a>
 
-##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal de grande instance<a id=202></a>
-
-##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal judiciaire<a id=203></a>
+##### Paragraphe 1 : Exécution de la commission rogatoire internationale par le tribunal judiciaire<a id=201></a>
 
 ###### Article 735
 
@@ -16070,7 +16058,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
-##### Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale<a id=204></a>
+##### Paragraphe 2 : Exécution directe des commissions rogatoires transmises en vertu du chapitre I de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile et commerciale<a id=202></a>
 
 ###### Article 747-1
 
@@ -16103,7 +16091,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 3 : Dispositions communes<a id=205></a>
+##### Paragraphe 3 : Dispositions communes<a id=203></a>
 
 ###### Article 748
 
@@ -16124,7 +16112,7 @@ _Codifié par_:
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 16
 
 
-## Titre XXI : La communication par voie électronique.<a id=206></a>
+## Titre XXI : La communication par voie électronique.<a id=204></a>
 
 ###### Article 748-1
 
@@ -16389,7 +16377,7 @@ _Cite_:
   - Code de procédure civile - art. 692-1 (V)
 
 
-## Titre XXII : Disposition finale.<a id=207></a>
+## Titre XXII : Disposition finale.<a id=205></a>
 
 ###### Article 749
 
@@ -16408,19 +16396,13 @@ _Modifié par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 72 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-# Livre II : Dispositions particulières à chaque juridiction.<a id=208></a>
+# Livre II : Dispositions particulières à chaque juridiction.<a id=206></a>
 
-## Titre Ier : Dispositions particulières au tribunal de grande instance.<a id=209></a>
+## Titre Ier : Dispositions particulières au tribunal judiciaire<a id=207></a>
 
-### Sous-titre Ier : La procédure devant le tribunal.<a id=210></a>
+### Sous-titre Ier : Dispositions communes<a id=208></a>
 
-#### Chapitre II : Procédure en matière gracieuse.<a id=211></a>
-
-## Titre Ier : Dispositions particulières au tribunal judiciaire<a id=212></a>
-
-### Sous-titre Ier : Dispositions communes<a id=213></a>
-
-#### Chapitre Ier : L'introduction de l'instance<a id=214></a>
+#### Chapitre Ier : L'introduction de l'instance<a id=209></a>
 
 ###### Article 750
 
@@ -16488,7 +16470,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section I : L'introduction de l'instance par assignation<a id=215></a>
+##### Section I : L'introduction de l'instance par assignation<a id=210></a>
 
 ###### Article 751
 
@@ -16650,7 +16632,7 @@ _Cité par_:
   - Code de procédure civile - art. ANNEXE, art. 33 (V)
 
 
-##### Section II : L'introduction de l'instance par requête<a id=216></a>
+##### Section II : L'introduction de l'instance par requête<a id=211></a>
 
 ###### Article 756
 
@@ -16791,7 +16773,7 @@ _Cité par_:
   - Code de procédure civile - art. ANNEXE, art. 33 (V)
 
 
-#### Chapitre II : Constitution d'avocat et conclusions<a id=217></a>
+#### Chapitre II : Constitution d'avocat et conclusions<a id=212></a>
 
 ###### Article 760
 
@@ -17082,7 +17064,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-#### Chapitre III : Le greffe<a id=218></a>
+#### Chapitre III : Le greffe<a id=213></a>
 
 ###### Article 769
 
@@ -17265,9 +17247,9 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R142-10-5 (M)
 
 
-### Sous-titre II : La procédure écrite<a id=219></a>
+### Sous-titre II : La procédure écrite<a id=214></a>
 
-#### Chapitre Ier : La procédure ordinaire<a id=220></a>
+#### Chapitre Ier : La procédure ordinaire<a id=215></a>
 
 ###### Article 775
 
@@ -17289,7 +17271,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 1 : L'orientation de l'affaire<a id=221></a>
+##### Section 1 : L'orientation de l'affaire<a id=216></a>
 
 ###### Article 776
 
@@ -17430,7 +17412,7 @@ _Cite_:
   - Nouveau code de procédure civile 764
 
 
-##### Section 2 : L'instruction devant le juge de la mise en état<a id=222></a>
+##### Section 2 : L'instruction devant le juge de la mise en état<a id=217></a>
 
 ###### Article 780
 
@@ -17936,7 +17918,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 3 : La clôture de l'instruction et renvoi à l'audience de plaidoirie<a id=223></a>
+##### Section 3 : La clôture de l'instruction et renvoi à l'audience de plaidoirie<a id=218></a>
 
 ###### Article 798
 
@@ -18216,7 +18198,7 @@ _Cite_:
   - Nouveau code de procédure civile 803 et 804
 
 
-#### Chapitre II : La procédure en matière gracieuse<a id=224></a>
+#### Chapitre II : La procédure en matière gracieuse<a id=219></a>
 
 ###### Article 808
 
@@ -18309,7 +18291,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-#### Chapitre III : Le juge unique<a id=225></a>
+#### Chapitre III : Le juge unique<a id=220></a>
 
 ###### Article 812
 
@@ -18441,9 +18423,9 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-### Sous-titre III : La procédure orale<a id=226></a>
+### Sous-titre III : La procédure orale<a id=221></a>
 
-#### Chapitre Ier : La procédure ordinaire<a id=227></a>
+#### Chapitre Ier : La procédure ordinaire<a id=222></a>
 
 ###### Article 817
 
@@ -18499,7 +18481,7 @@ _Cite_:
   - Code de procédure civile - art. 700
 
 
-##### Section 1 : La tentative préalable de conciliation<a id=228></a>
+##### Section 1 : La tentative préalable de conciliation<a id=223></a>
 
 ###### Article 820
 
@@ -18523,7 +18505,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Sous-section 1 : La conciliation déléguée à un conciliateur de justice<a id=229></a>
+##### Sous-section 1 : La conciliation déléguée à un conciliateur de justice<a id=224></a>
 
 ###### Article 821
 
@@ -18633,7 +18615,7 @@ _Cite_:
   - Nouveau code de procédure civile 788
 
 
-##### Sous-section 2 : La conciliation menée par le juge<a id=230></a>
+##### Sous-section 2 : La conciliation menée par le juge<a id=225></a>
 
 ###### Article 825
 
@@ -18661,7 +18643,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Sous-section 3 : La demande aux fins de jugement en cas d'échec de la conciliation<a id=231></a>
+##### Sous-section 3 : La demande aux fins de jugement en cas d'échec de la conciliation<a id=226></a>
 
 ###### Article 826
 
@@ -18686,9 +18668,9 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 2 : La procédure aux fins de jugement<a id=232></a>
+##### Section 2 : La procédure aux fins de jugement<a id=227></a>
 
-##### Sous-section 1 : La conciliation<a id=233></a>
+##### Sous-section 1 : La conciliation<a id=228></a>
 
 ###### Article 827
 
@@ -18721,7 +18703,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Sous-section 2 : Les débats<a id=234></a>
+##### Sous-section 2 : Les débats<a id=229></a>
 
 ###### Article 828
 
@@ -18890,7 +18872,7 @@ _Cité par_:
   - Code de procédure civile - art. 832-1 (VT)
 
 
-#### Chapitre II : Les ordonnances de référé<a id=235></a>
+#### Chapitre II : Les ordonnances de référé<a id=230></a>
 
 ###### Article 834
 
@@ -19011,7 +18993,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-#### Chapitre III : La procédure accélérée au fond<a id=236></a>
+#### Chapitre III : La procédure accélérée au fond<a id=231></a>
 
 ###### Article 839
 
@@ -19034,9 +19016,9 @@ _Modifié par_:
   - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
-### Sous-titre IV : Les autres procédures<a id=237></a>
+### Sous-titre IV : Les autres procédures<a id=232></a>
 
-#### Chapitre Ier : La procédure à jour fixe<a id=238></a>
+#### Chapitre Ier : La procédure à jour fixe<a id=233></a>
 
 ###### Article 840
 
@@ -19180,7 +19162,7 @@ _Cite_:
   - Code de procédure civile - art. 847-2 (VT)
 
 
-#### Chapitre II : Les ordonnances sur requête<a id=239></a>
+#### Chapitre II : Les ordonnances sur requête<a id=234></a>
 
 ###### Article 845
 
@@ -19236,7 +19218,7 @@ _Cité par_:
   - Code monétaire et financier - art. R561-36 (V)
 
 
-#### Chapitre III : La procédure sur décision de renvoi de la juridiction pénale<a id=240></a>
+#### Chapitre III : La procédure sur décision de renvoi de la juridiction pénale<a id=235></a>
 
 ###### Article 847
 
@@ -19275,7 +19257,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-#### Chapitre IV : L'action de groupe<a id=241></a>
+#### Chapitre IV : L'action de groupe<a id=236></a>
 
 ###### Article 848
 
@@ -19316,7 +19298,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 1 :  Dispositions préliminaires<a id=242></a>
+##### Section 1 :  Dispositions préliminaires<a id=237></a>
 
 ###### Article 849
 
@@ -19382,7 +19364,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 2 : Cessation du manquement<a id=243></a>
+##### Section 2 : Cessation du manquement<a id=238></a>
 
 ###### Article 849-3
 
@@ -19540,9 +19522,9 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 3 : Réparation des préjudices<a id=244></a>
+##### Section 3 : Réparation des préjudices<a id=239></a>
 
-##### Sous-section 1 : Jugement sur la responsabilité<a id=245></a>
+##### Sous-section 1 : Jugement sur la responsabilité<a id=240></a>
 
 ###### Article 849-11
 
@@ -19621,9 +19603,9 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=246></a>
+##### Sous-section 2 : Mise en œuvre du jugement et réparation des préjudices<a id=241></a>
 
-##### Paragraphe 1 : Adhésion au groupe<a id=247></a>
+##### Paragraphe 1 : Adhésion au groupe<a id=242></a>
 
 ###### Article 849-14
 
@@ -19714,7 +19696,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Paragraphe 2 : Réparation des préjudices par le juge et exécution forcée du jugement<a id=248></a>
+##### Paragraphe 2 : Réparation des préjudices par le juge et exécution forcée du jugement<a id=243></a>
 
 ###### Article 849-18
 
@@ -19752,7 +19734,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=249></a>
+##### Sous-section 3 : Gestion des fonds reçus au titre de l'indemnisation des membres du groupe<a id=244></a>
 
 ###### Article 849-20
 
@@ -19781,7 +19763,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-##### Section 4 : Dispositions diverses<a id=250></a>
+##### Section 4 : Dispositions diverses<a id=245></a>
 
 ###### Article 849-21
 
@@ -19809,9 +19791,9 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-### Sous-titre V : Dispositions diverses<a id=251></a>
+### Sous-titre V : Dispositions diverses<a id=246></a>
 
-#### Chapitre Ier : La communication électronique<a id=252></a>
+#### Chapitre Ier : La communication électronique<a id=247></a>
 
 ###### Article 850
 
@@ -19847,7 +19829,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-#### Chapitre II : Mesures d'administration judiciaire<a id=253></a>
+#### Chapitre II : Mesures d'administration judiciaire<a id=248></a>
 
 ###### Article 851
 
@@ -19898,7 +19880,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 4
 
 
-## Titre III : Dispositions particulières au tribunal de commerce.<a id=254></a>
+## Titre III : Dispositions particulières au tribunal de commerce.<a id=249></a>
 
 ###### Article 853
 
@@ -19934,9 +19916,9 @@ _Cité par_:
   - Code de commerce - art. R662-2 (VD)
 
 
-### Chapitre Ier : La procédure devant le tribunal de commerce.<a id=255></a>
+### Chapitre Ier : La procédure devant le tribunal de commerce.<a id=250></a>
 
-#### Section I : L'introduction de l'instance.<a id=256></a>
+#### Section I : L'introduction de l'instance.<a id=251></a>
 
 ###### Article 854
 
@@ -19958,7 +19940,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 5
 
 
-##### Sous-section I : L'assignation.<a id=257></a>
+##### Sous-section I : L'assignation.<a id=252></a>
 
 ###### Article 855
 
@@ -20045,7 +20027,7 @@ _Cité par_:
   - Code électoral - art. R14 (V)
 
 
-##### Sous-section II : La requête conjointe<a id=258></a>
+##### Sous-section II : La requête conjointe<a id=253></a>
 
 ###### Article 859
 
@@ -20091,9 +20073,9 @@ _Cite_:
   - Nouveau code de procédure civile 57
 
 
-#### Section II : L'instance.<a id=259></a>
+#### Section II : L'instance.<a id=254></a>
 
-##### Sous-section I : Dispositions générales<a id=260></a>
+##### Sous-section I : Dispositions générales<a id=255></a>
 
 ###### Article 860-1
 
@@ -20191,7 +20173,7 @@ _Cité par_:
   - Code de procédure civile - art. 855 (VD)
 
 
-##### Sous-section II : Le juge chargé d'instruire l'affaire.<a id=261></a>
+##### Sous-section II : Le juge chargé d'instruire l'affaire.<a id=256></a>
 
 ###### Article 861-3
 
@@ -20385,9 +20367,9 @@ _Modifié par_:
   - Décret n°2012-1451 du 24 décembre 2012 - art. 12
 
 
-### Chapitre II : Les pouvoirs du président.<a id=262></a>
+### Chapitre II : Les pouvoirs du président.<a id=257></a>
 
-#### Section I : Les ordonnances de référé.<a id=263></a>
+#### Section I : Les ordonnances de référé.<a id=258></a>
 
 ###### Article 872
 
@@ -20440,7 +20422,7 @@ _Créé par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 74 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-#### Section II : Les ordonnances sur requête.<a id=264></a>
+#### Section II : Les ordonnances sur requête.<a id=259></a>
 
 ###### Article 874
 
@@ -20511,7 +20493,7 @@ _Créé par_:
   - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
-### Chapitre III : Dispositions diverses.<a id=265></a>
+### Chapitre III : Dispositions diverses.<a id=260></a>
 
 ###### Article 877
 
@@ -20557,7 +20539,7 @@ _Cite_:
   - Code de commerce - art. L722-4
 
 
-## Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale.<a id=266></a>
+## Titre IV : Dispositions particulières aux juridictions statuant en matière prud'homale.<a id=261></a>
 
 ###### Article 879
 
@@ -20571,9 +20553,9 @@ _Modifié par_:
   - Décret n°2016-660 du 20 mai 2016 - art. 7
 
 
-## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.<a id=267></a>
+## Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.<a id=262></a>
 
-### Chapitre Ier : La procédure ordinaire.<a id=268></a>
+### Chapitre Ier : La procédure ordinaire.<a id=263></a>
 
 ###### Article 880
 
@@ -20785,7 +20767,7 @@ _Modifié par_:
   - Décret n°2010-1165 du 1er octobre 2010 - art. 8
 
 
-### Chapitre II : Les ordonnances de référé.<a id=269></a>
+### Chapitre II : Les ordonnances de référé.<a id=264></a>
 
 ###### Article 893
 
@@ -20862,7 +20844,7 @@ _Modifié par_:
   - Décret n°2005-1678 du 28 décembre 2005 - art. 75 () JORF 29 décembre 2005 en vigueur le 1er mars 2006
 
 
-### Chapitre III : Les ordonnances sur requête.<a id=270></a>
+### Chapitre III : Les ordonnances sur requête.<a id=265></a>
 
 ###### Article 897
 
@@ -20912,11 +20894,11 @@ _Créé par_:
   - Décret n°2019-1419 du 20 décembre 2019 - art. 5
 
 
-## Titre VI : Dispositions particulières à la cour d'appel.<a id=271></a>
+## Titre VI : Dispositions particulières à la cour d'appel.<a id=266></a>
 
-### Sous-titre Ier : La procédure devant la formation collégiale.<a id=272></a>
+### Sous-titre Ier : La procédure devant la formation collégiale.<a id=267></a>
 
-#### Chapitre Ier : La procédure en matière contentieuse.<a id=273></a>
+#### Chapitre Ier : La procédure en matière contentieuse.<a id=268></a>
 
 ###### Article 899
 
@@ -20935,7 +20917,7 @@ _Modifié par_:
   - Décret n°2012-634 du 3 mai 2012 - art. 19
 
 
-##### Section I : La procédure avec représentation obligatoire.<a id=274></a>
+##### Section I : La procédure avec représentation obligatoire.<a id=269></a>
 
 ###### Article 900
 
@@ -20948,7 +20930,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section I : La procédure ordinaire.<a id=275></a>
+##### Sous-section I : La procédure ordinaire.<a id=270></a>
 
 ###### Article 901
 
@@ -21566,7 +21548,7 @@ _Cite_:
   - Code de procédure civile - art. 930-1 (VD)
 
 
-##### Sous-section II : La procédure à jour fixe.<a id=276></a>
+##### Sous-section II : La procédure à jour fixe.<a id=271></a>
 
 ###### Article 917
 
@@ -21742,7 +21724,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section III : L'appel par requête conjointe.<a id=277></a>
+##### Sous-section III : L'appel par requête conjointe.<a id=272></a>
 
 ###### Article 926
 
@@ -21827,7 +21809,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-##### Sous-section IV : Dispositions communes.<a id=278></a>
+##### Sous-section IV : Dispositions communes.<a id=273></a>
 
 ###### Article 930-1
 
@@ -21895,7 +21877,7 @@ _Créé par_:
   - Décret n°2017-1008 du 10 mai 2017 - art. 7
 
 
-##### Section II : La procédure sans représentation obligatoire.<a id=279></a>
+##### Section II : La procédure sans représentation obligatoire.<a id=274></a>
 
 ###### Article 931
 
@@ -22268,7 +22250,7 @@ _Cite_:
   - Code de procédure civile - art. 947 (V)
 
 
-#### Chapitre II : La procédure en matière gracieuse.<a id=280></a>
+#### Chapitre II : La procédure en matière gracieuse.<a id=275></a>
 
 ###### Article 950
 
@@ -22341,7 +22323,7 @@ _Cité par_:
   - Code civil - art. 459 (VT)
 
 
-#### Chapitre III : Dispositions communes.<a id=281></a>
+#### Chapitre III : Dispositions communes.<a id=276></a>
 
 ###### Article 954
 
@@ -22426,9 +22408,9 @@ _Cite_:
   - Code de procédure civile - art. 930-1
 
 
-### Sous-titre II : Les pouvoirs du premier président.<a id=282></a>
+### Sous-titre II : Les pouvoirs du premier président.<a id=277></a>
 
-#### Chapitre Ier : Les ordonnances de référé.<a id=283></a>
+#### Chapitre Ier : Les ordonnances de référé.<a id=278></a>
 
 ###### Article 956
 
@@ -22462,7 +22444,7 @@ _Modifié par_:
   - Décret n°76-1236 1976-12-28 art. 21 JORF 30 décembre 1976
 
 
-#### Chapitre II : Les ordonnances sur requête.<a id=284></a>
+#### Chapitre II : Les ordonnances sur requête.<a id=279></a>
 
 ###### Article 958
 
@@ -22513,9 +22495,9 @@ _Cite_:
   - Code de procédure civile - art. 930-1
 
 
-### Sous-titre III : Dispositions diverses.<a id=285></a>
+### Sous-titre III : Dispositions diverses.<a id=280></a>
 
-#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=286></a>
+#### Chapitre Ier : Constitution d'avocat et conclusions.<a id=281></a>
 
 ###### Article 960
 
@@ -22586,7 +22568,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel<a id=287></a>
+#### Chapitre Ier bis : Dispositions relatives au droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel<a id=282></a>
 
 ###### Article 963
 
@@ -22700,7 +22682,7 @@ _Cite_:
   - Code de procédure civile - art. 963 (VT)
 
 
-#### Chapitre II : Mesures d'administration judiciaire.<a id=288></a>
+#### Chapitre II : Mesures d'administration judiciaire.<a id=283></a>
 
 ###### Article 964-2
 
@@ -22730,7 +22712,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 Janvier 1976
 
 
-#### Chapitre III : Le greffe.<a id=289></a>
+#### Chapitre III : Le greffe.<a id=284></a>
 
 ###### Article 966
 
@@ -22869,7 +22851,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 68
 
 
-#### Chapitre IV : Le ministère public<a id=290></a>
+#### Chapitre IV : Le ministère public<a id=285></a>
 
 ###### Article 972-1
 
@@ -22892,7 +22874,7 @@ _Créé par_:
   - Décret n°2018-1219 du 24 décembre 2018 - art. 7
 
 
-## Titre VII : Dispositions particulières à la Cour de cassation.<a id=291></a>
+## Titre VII : Dispositions particulières à la Cour de cassation.<a id=286></a>
 
 ###### Article 973
 
@@ -22916,7 +22898,7 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R221-8 (V)
 
 
-### Chapitre Ier : La procédure avec représentation obligatoire.<a id=292></a>
+### Chapitre Ier : La procédure avec représentation obligatoire.<a id=287></a>
 
 ###### Article 974
 
@@ -23150,7 +23132,7 @@ _Cité par_:
   - Code électoral - art. R19-6 (VD)
 
 
-### Chapitre II : La procédure sans représentation obligatoire.<a id=293></a>
+### Chapitre II : La procédure sans représentation obligatoire.<a id=288></a>
 
 ###### Article 983
 
@@ -23447,9 +23429,9 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979
 
 
-### Chapitre III : La procédure en matière électorale.<a id=294></a>
+### Chapitre III : La procédure en matière électorale.<a id=289></a>
 
-#### Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques.<a id=295></a>
+#### Section I : Contentieux des inscriptions sur les listes électorales en matière d'élections politiques.<a id=290></a>
 
 ###### Article 996
 
@@ -23534,7 +23516,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code électoral - art. R15-6
 
 
-#### Section II : Les élections professionnelles.<a id=296></a>
+#### Section II : Les élections professionnelles.<a id=291></a>
 
 ###### Article 999
 
@@ -23806,7 +23788,7 @@ _Cite_:
   - Code de procédure civile - art. 1004 (V)
 
 
-### Chapitre IV : Dispositions communes.<a id=297></a>
+### Chapitre IV : Dispositions communes.<a id=292></a>
 
 ###### Article 1009
 
@@ -24204,9 +24186,9 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-### Chapitre V : Dispositions diverses<a id=298></a>
+### Chapitre V : Dispositions diverses<a id=293></a>
 
-#### Section I : Augmentation des délais.<a id=299></a>
+#### Section I : Augmentation des délais.<a id=294></a>
 
 ###### Article 1023
 
@@ -24240,7 +24222,7 @@ _Cité par_:
   - Code de procédure civile - art. 1031-21 (VD)
 
 
-#### Section II : Le désistement.<a id=300></a>
+#### Section II : Le désistement.<a id=295></a>
 
 ###### Article 1024
 
@@ -24301,7 +24283,7 @@ _Cite_:
   - Code de procédure civile - art. 700
 
 
-#### Section III : La récusation.<a id=301></a>
+#### Section III : La récusation.<a id=296></a>
 
 ###### Article 1027
 
@@ -24317,7 +24299,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017, art. 2 (V)
 
 
-#### Section IV : La demande en faux.<a id=302></a>
+#### Section IV : La demande en faux.<a id=297></a>
 
 ###### Article 1028
 
@@ -24397,7 +24379,7 @@ _Modifié par_:
   - Décret n°79-941 1979-11-07 art. 3 JORF 9 novembre 1979 en vigueur le 1er janvier 1980
 
 
-### Chapitre VI : La saisine pour avis de la Cour de cassation.<a id=303></a>
+### Chapitre VI : La saisine pour avis de la Cour de cassation.<a id=298></a>
 
 ###### Article 1031-1
 
@@ -24523,9 +24505,9 @@ _Créé par_:
   - Décret n°92-228 du 12 mars 1992 - art. 1 () JORF 14 mars 1992
 
 
-### Chapitre VII : Le réexamen en matière civile<a id=304></a>
+### Chapitre VII : Le réexamen en matière civile<a id=299></a>
 
-#### Section 1 : Procédure devant la cour de réexamen<a id=305></a>
+#### Section 1 : Procédure devant la cour de réexamen<a id=300></a>
 
 ###### Article 1031-8
 
@@ -24855,7 +24837,7 @@ _Cite_:
   - Code de procédure civile - art. 1031-12
 
 
-#### Section 2 :  Dispositions particulières aux juridictions de renvoi<a id=306></a>
+#### Section 2 :  Dispositions particulières aux juridictions de renvoi<a id=301></a>
 
 ###### Article 1031-22
 
@@ -24891,7 +24873,7 @@ _Créé par_:
   - Décret n°2017-396 du 24 mars 2017 - art. 4
 
 
-## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=307></a>
+## Titre VIII : Dispositions particulières aux juridictions de renvoi après cassation.<a id=302></a>
 
 ###### Article 1032
 
@@ -25058,11 +25040,11 @@ _Cite_:
   - Code de procédure civile - art. 916 (VD)
 
 
-# Livre III : Dispositions particulières à certaines matières<a id=308></a>
+# Livre III : Dispositions particulières à certaines matières<a id=303></a>
 
-## Titre Ier : Les personnes<a id=309></a>
+## Titre Ier : Les personnes<a id=304></a>
 
-### Chapitre Ier : La nationalité des personnes physiques<a id=310></a>
+### Chapitre Ier : La nationalité des personnes physiques<a id=305></a>
 
 ###### Article 1038
 
@@ -25247,11 +25229,11 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-### Chapitre II : Les actes de l'état civil<a id=311></a>
+### Chapitre II : Les actes de l'état civil<a id=306></a>
 
-#### Section I : L'annulation et la rectification des actes de l'état civil<a id=312></a>
+#### Section I : L'annulation et la rectification des actes de l'état civil<a id=307></a>
 
-##### Sous-section I : La rectification et l'annulation administratives<a id=313></a>
+##### Sous-section I : La rectification et l'annulation administratives<a id=308></a>
 
 ###### Article 1046
 
@@ -25378,7 +25360,7 @@ _Cite_:
   - Code civil - art. 99-1 (V)
 
 
-##### Sous-section II : La rectification et l'annulation judiciaire<a id=314></a>
+##### Sous-section II : La rectification et l'annulation judiciaire<a id=309></a>
 
 ###### Article 1048
 
@@ -25556,7 +25538,7 @@ _Modifié par_:
   - Décret n°2017-890 du 6 mai 2017 - art. 47
 
 
-#### Section II : Les procédures relatives au prénom<a id=315></a>
+#### Section II : Les procédures relatives au prénom<a id=310></a>
 
 ###### Article 1055-1
 
@@ -25651,7 +25633,7 @@ _Cite_:
   - Code civil - art. 57
 
 
-#### Section II bis : La modification de la mention du sexe dans les actes de l'état civil<a id=316></a>
+#### Section II bis : La modification de la mention du sexe dans les actes de l'état civil<a id=311></a>
 
 ###### Article 1055-5
 
@@ -25764,7 +25746,7 @@ _Créé par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-#### Section III : La transcription et la mention des décisions sur les registres de l'état civil<a id=317></a>
+#### Section III : La transcription et la mention des décisions sur les registres de l'état civil<a id=312></a>
 
 ###### Article 1056
 
@@ -25835,7 +25817,7 @@ _Anciens textes_:
   - Code de procédure civile - art. 1056-1 (T)
 
 
-### Chapitre III : Le répertoire civil<a id=318></a>
+### Chapitre III : Le répertoire civil<a id=313></a>
 
 ###### Article 1057
 
@@ -25944,7 +25926,7 @@ _Cite_:
   - Nouveau code de procédure civile 1060
 
 
-### Chapitre III bis : Les funérailles<a id=319></a>
+### Chapitre III bis : Les funérailles<a id=314></a>
 
 ###### Article 1061-1
 
@@ -25978,9 +25960,9 @@ _Cite_:
   - Code de procédure civile - art. 750
 
 
-### Chapitre IV : Les absents<a id=320></a>
+### Chapitre IV : Les absents<a id=315></a>
 
-#### Section I : La présomption d'absence<a id=321></a>
+#### Section I : La présomption d'absence<a id=316></a>
 
 ###### Article 1062
 
@@ -26066,7 +26048,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Section II : La déclaration d'absence<a id=322></a>
+#### Section II : La déclaration d'absence<a id=317></a>
 
 ###### Article 1066
 
@@ -26158,9 +26140,9 @@ _Cite_:
   - Code civil - art. 127 (V)
 
 
-### Chapitre V : La procédure en matière familiale<a id=323></a>
+### Chapitre V : La procédure en matière familiale<a id=318></a>
 
-#### Section I : Dispositions générales<a id=324></a>
+#### Section I : Dispositions générales<a id=319></a>
 
 ###### Article 1070
 
@@ -26366,11 +26348,11 @@ _Cite_:
   - Code civil - art. 255
 
 
-#### Section II : Le divorce judiciaire et la séparation de corps<a id=325></a>
+#### Section II : Le divorce judiciaire et la séparation de corps<a id=320></a>
 
-##### Sous-section I : Dispositions générales<a id=326></a>
+##### Sous-section I : Dispositions générales<a id=321></a>
 
-##### Paragraphe 1 : Les demandes<a id=327></a>
+##### Paragraphe 1 : Les demandes<a id=322></a>
 
 ###### Article 1075
 
@@ -26510,7 +26492,7 @@ _Modifié par_:
   - Décret n°2012-1037 du 10 septembre 2012 - art. 1
 
 
-##### Paragraphe 2 : La prestation compensatoire<a id=328></a>
+##### Paragraphe 2 : La prestation compensatoire<a id=323></a>
 
 ###### Article 1079
 
@@ -26560,7 +26542,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 3 : La publicité et la preuve des jugements<a id=329></a>
+##### Paragraphe 3 : La publicité et la preuve des jugements<a id=324></a>
 
 ###### Article 1081
 
@@ -26629,7 +26611,7 @@ _Cite_:
   - Code de procédure civile - art. 506 (V)
 
 
-##### Paragraphe 4  : La modification des mesures accessoires<a id=330></a>
+##### Paragraphe 4  : La modification des mesures accessoires<a id=325></a>
 
 ###### Article 1083
 
@@ -26694,7 +26676,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 5 : Le pourvoi en cassation<a id=331></a>
+##### Paragraphe 5 : Le pourvoi en cassation<a id=326></a>
 
 ###### Article 1086
 
@@ -26731,7 +26713,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 5 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Sous-section II : Le divorce judiciaire par consentement mutuel<a id=332></a>
+##### Sous-section II : Le divorce judiciaire par consentement mutuel<a id=327></a>
 
 ###### Article 1088
 
@@ -27019,9 +27001,9 @@ _Modifié par_:
   - Décret n°2011-272 du 15 mars 2011 - art. 24
 
 
-##### Sous-section III : Les autres procédures de divorce judiciaire<a id=333></a>
+##### Sous-section III : Les autres procédures de divorce judiciaire<a id=328></a>
 
-##### Paragraphe 1 : La requête initiale<a id=334></a>
+##### Paragraphe 1 : La requête initiale<a id=329></a>
 
 ###### Article 1106
 
@@ -27072,7 +27054,7 @@ _Cite_:
   - Code civil - art. 257 (V)
 
 
-##### Paragraphe 2 : La tentative de conciliation<a id=335></a>
+##### Paragraphe 2 : La tentative de conciliation<a id=330></a>
 
 ###### Article 1108
 
@@ -27245,7 +27227,7 @@ _Cité par_:
   - Code de procédure civile - art. 1111 (VT)
 
 
-##### Paragraphe 3 : L'instance<a id=336></a>
+##### Paragraphe 3 : L'instance<a id=331></a>
 
 ###### Article 1114
 
@@ -27329,7 +27311,7 @@ _Cite_:
   - Code civil - art. 267
 
 
-##### Paragraphe 4 : Les mesures provisoires<a id=337></a>
+##### Paragraphe 4 : Les mesures provisoires<a id=332></a>
 
 ###### Article 1117
 
@@ -27453,7 +27435,7 @@ _Cite_:
   - Code civil - art. 257
 
 
-##### Paragraphe 5 : Les voies de recours<a id=338></a>
+##### Paragraphe 5 : Les voies de recours<a id=333></a>
 
 ###### Article 1122
 
@@ -27471,7 +27453,7 @@ _Anciens textes_:
   - Code de procédure civile - art. 1120 (T)
 
 
-##### Paragraphe 6 : Dispositions particulières au divorce accepté<a id=339></a>
+##### Paragraphe 6 : Dispositions particulières au divorce accepté<a id=334></a>
 
 ###### Article 1123
 
@@ -27542,7 +27524,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal<a id=340></a>
+##### Paragraphe 7 : Dispositions particulières au divorce pour altération définitive du lien conjugal<a id=335></a>
 
 ###### Article 1126
 
@@ -27582,7 +27564,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Paragraphe 8 : Dispositions particulières au divorce pour faute<a id=341></a>
+##### Paragraphe 8 : Dispositions particulières au divorce pour faute<a id=336></a>
 
 ###### Article 1128
 
@@ -27604,7 +27586,7 @@ _Modifié par_:
   - Décret n°2004-1158 du 29 octobre 2004 - art. 7 () JORF 31 octobre 2004 en vigueur le 1er janvier 2005
 
 
-##### Sous-section IV : La séparation de corps<a id=342></a>
+##### Sous-section IV : La séparation de corps<a id=337></a>
 
 ###### Article 1129
 
@@ -27655,7 +27637,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 1140
 
 
-##### Sous-section V : Le divorce sur conversion de la séparation de corps<a id=343></a>
+##### Sous-section V : Le divorce sur conversion de la séparation de corps<a id=338></a>
 
 ###### Article 1131
 
@@ -27804,7 +27786,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 1147
 
 
-#### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins<a id=344></a>
+#### Section II bis : Le fonctionnement, la liquidation et le partage des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins<a id=339></a>
 
 ###### Article 1136-1
 
@@ -27870,75 +27852,58 @@ _Cite_:
   - Code civil - art. 267
 
 
-#### Section II ter : La procédure aux fins de mesures de protection des victimes de violences<a id=345></a>
+#### Section II ter : La procédure aux fins de mesures de protection des victimes de violences<a id=340></a>
 
 ###### Article 1136-3
 
 Dans les cas prévus aux articles 515-9 et 515-13 du code civil, le juge est saisi par une requête remise ou adressée au
-greffe. 
+greffe.
 
 Outre les mentions prescrites par l'article 57 du présent code, la requête contient un exposé sommaire des motifs de la
-demande et, en annexe, les pièces sur lesquelles celle-ci est fondée. Ces exigences sont prescrites à peine de nullité. 
+demande et, en annexe, les pièces sur lesquelles celle-ci est fondée. Ces exigences sont prescrites à peine de nullité.
 
-A moins qu'il ne soit l'auteur de la requête, le ministère public en est aussitôt avisé par le greffier. 
+Le juge rend sans délai une ordonnance fixant la date de l'audience.
 
-Chaque partie est convoquée par le greffier à l'audience. 
+A moins qu'il ne soit l'auteur de la requête, le ministère public est aussitôt avisé par le greffier du dépôt de la requête
+et de la date de l'audience fixée par le juge aux affaires familiales.
 
-La convocation des parties, à l'exception du ministère public, est faite par lettre recommandée avec demande d'avis de
-réception ou par la voie administrative, en cas de danger grave et imminent pour la sécurité d'une personne concernée par une
-ordonnance de protection ou lorsqu'il n'existe pas d'autre moyen de notification. 
+Cette ordonnance précise les modalités de sa notification.
 
-Le demandeur peut également être convoqué verbalement contre émargement. 
+L'ordonnance est notifiée :
 
-La convocation adressée au défendeur vaut citation. Elle comprend en annexe une copie de la requête et des pièces qui y sont
-annexées. 
+1° Au demandeur, par le greffe, par tout moyen donnant date certaine ou par remise en mains propres contre émargement ou
+récépissé ;
 
-Le ministère public est avisé de la date de l'audience par le greffier.
+2° Au défendeur, par voie de signification à l'initiative du demandeur ou du ministère public lorsqu'il est l'auteur de la
+requête ; dans ce cas, ce dernier fait également signifier l'ordonnance à la personne en danger ;
+
+3° Par voie administrative en cas de danger grave et imminent pour la sécurité d'une personne concernée par une ordonnance de
+protection ou lorsqu'il n'existe pas d'autre moyen de notification.
+
+L'acte de signification doit être remis au greffe dans un délai de vingt-quatre heures à compter de l'ordonnance fixant la
+date de l'audience, à peine de caducité de la requête.
+
+La notification de l'ordonnance vaut convocation des parties.
+
+Dans tous les cas, sont annexées à l'ordonnance une copie de la requête et des pièces qui y sont jointes.
+
+Cette ordonnance est une mesure d'administration judiciaire.
 
 **Nota:**
 
-Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
-janvier 2020. Elles sont applicables aux instances en cours à cette date.
+Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
+introduites à compter du 29 mai 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
+  - Décret n°2020-636 du 27 mai 2020 - art. 2
 
 _Cite_:
 
   - Code de procédure civile - art. 57
   - Code civil - art. 515-9
-
-
-###### Article 1136-4
-
-Le demandeur peut également former sa demande par assignation à une date d'audience communiquée au demandeur selon les
-modalités définies à l'article 751.
-
-**Nota:**
-
-Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
-janvier 2020. Elles sont applicables aux instances en cours à cette date.
-
-Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité
-s'appliquent aux demandes introduites à compter du 1er janvier 2020.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 29
-  - Décret n°2019-1419 du 20 décembre 2019 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2020-636 du 27 mai 2020 - art. 3
-
-_Cite_:
-
-  - Code de procédure civile - art. 751
 
 
 ###### Article 1136-5
@@ -27974,21 +27939,31 @@ _Cite_:
 
 ###### Article 1136-6
 
-Les parties se défendent elles-mêmes. Elles ont la faculté de se faire assister ou représenter par un avocat. 
+Les parties se défendent elles-mêmes. Elles ont la faculté de se faire assister ou représenter par un avocat.
 
-La procédure est orale. 
+L'affaire est instruite et débattue en chambre du conseil, après avis du ministère public.
+
+La procédure est orale.
 
 Le juge s'assure qu'il s'est écoulé un temps suffisant entre la convocation et l'audience pour que le défendeur ait pu
-préparer sa défense. 
+préparer sa défense.
 
 Le juge peut, à tout moment de la procédure, par simple mention au dossier, ordonner la comparution personnelle d'une partie,
 pour l'entendre séparément ou en présence de l'autre partie.
 
+Lors de l'audience, le juge procède à l'audition des parties. Il les entend séparément s'il le décide ou si l'une des parties
+le sollicite. Cette décision fait l'objet d'une simple mention au dossier.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
+introduites à compter du 29 mai 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+  - Décret n°2020-636 du 27 mai 2020 - art. 4
 
 
 ###### Article 1136-7
@@ -28059,27 +28034,37 @@ _Cite_:
 
 ###### Article 1136-10
 
-L'autorité administrative, requise par le greffier pour notifier par la voie administrative les convocation et ordonnance, y
-procède par remise contre récépissé. 
+L'autorité administrative, requise par le greffier pour notifier par la voie administrative l'ordonnance fixant la date de
+l'audience ou l'ordonnance de protection, y procède par remise contre récépissé.
 
 Elle informe, dans les meilleurs délais, le greffier des diligences faites et lui adresse le récépissé.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
+introduites à compter du 29 mai 2020.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+  - Décret n°2020-636 du 27 mai 2020 - art. 5
 
 
 ###### Article 1136-11
 
-L'ordonnance est susceptible d'appel dans un délai de quinze jours suivant sa notification.
+L'ordonnance de protection est susceptible d'appel dans un délai de quinze jours suivant sa notification.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
+introduites à compter du 29 mai 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1134 du 29 septembre 2010 - art. 2
+  - Décret n°2020-636 du 27 mai 2020 - art. 6
 
 
 ###### Article 1136-12
@@ -28165,7 +28150,27 @@ _Cite_:
   - Code civil - art. 515-11
 
 
-#### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales<a id=346></a>
+###### Article 1136-15
+
+Lorsque le juge rejette la demande d'ordonnance de protection, il peut néanmoins, si l'urgence le justifie et si l'une ou
+l'autre des parties en a fait la demande, renvoyer celles-ci à une audience dont il fixe la date pour qu'il soit statué au
+fond sur les modalités de l'exercice de l'autorité parentale et la contribution à l'entretien et l'éducation de l'enfant. Il
+veille à ce que le défendeur dispose d'un temps suffisant pour préparer sa défense. Cette ordonnance emporte saisine du juge
+et il est ensuite procédé comme il est dit aux articles 1179 et suivants.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
+introduites à compter du 29 mai 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-636 du 27 mai 2020 - art. 7
+
+
+#### Section III : Les autres procédures relevant de la compétence du juge aux affaires familiales<a id=341></a>
 
 ###### Article 1137
 
@@ -28375,7 +28380,7 @@ _Cite_:
   - Code civil - art. 373-2-7 (V)
 
 
-### Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire<a id=347></a>
+### Chapitre V bis : Le divorce et la séparation de corps par consentement mutuel par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire<a id=342></a>
 
 ###### Article 1144
 
@@ -28630,9 +28635,9 @@ _Créé par_:
   - Décret n°2019-1380 du 17 décembre 2019 - art. 8
 
 
-### Chapitre VI : La filiation et les subsides<a id=348></a>
+### Chapitre VI : La filiation et les subsides<a id=343></a>
 
-#### Section I : Dispositions générales<a id=349></a>
+#### Section I : Dispositions générales<a id=344></a>
 
 ###### Article 1149
 
@@ -28713,7 +28718,7 @@ _Anciens textes_:
   - Nouveau code de procédure civile 1153-1
 
 
-#### Section II : Les subsides<a id=350></a>
+#### Section II : Les subsides<a id=345></a>
 
 ###### Article 1156
 
@@ -28734,7 +28739,7 @@ _Modifié par_:
   - Décret n°2006-640 du 1 juin 2006 - art. 19 () JORF 2 juin 2006 en vigueur le 1er juillet 2006
 
 
-#### Section IV : Le consentement à la procréation médicalement assistée<a id=351></a>
+#### Section IV : Le consentement à la procréation médicalement assistée<a id=346></a>
 
 ###### Article 1157-2
 
@@ -28814,9 +28819,9 @@ _Cite_:
   - Code de procédure civile - art. 1157-2 (V)
 
 
-### Chapitre VIII : L'adoption<a id=352></a>
+### Chapitre VIII : L'adoption<a id=347></a>
 
-#### Section I : Le consentement à l'adoption<a id=353></a>
+#### Section I : Le consentement à l'adoption<a id=348></a>
 
 ###### Article 1165
 
@@ -28840,7 +28845,7 @@ _Cite_:
   - Code civil - art. 348-3 (V)
 
 
-#### Section II : La procédure d'adoption<a id=354></a>
+#### Section II : La procédure d'adoption<a id=349></a>
 
 ###### Article 1166
 
@@ -29042,7 +29047,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-#### Section III : La procédure relative à la révocation de l'adoption simple<a id=355></a>
+#### Section III : La procédure relative à la révocation de l'adoption simple<a id=350></a>
 
 ###### Article 1177
 
@@ -29080,7 +29085,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 et 52 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-#### Section IV : Dispositions communes<a id=356></a>
+#### Section IV : Dispositions communes<a id=351></a>
 
 ###### Article 1178-1
 
@@ -29105,9 +29110,9 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 3
 
 
-### Chapitre IX : L'autorité parentale<a id=357></a>
+### Chapitre IX : L'autorité parentale<a id=352></a>
 
-#### Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant<a id=358></a>
+#### Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant<a id=353></a>
 
 ###### Article 1179
 
@@ -29324,9 +29329,9 @@ _Cite_:
   - Code civil - art. 373-2-9
 
 
-#### Section I bis : L'intervention du juge des tutelles en matière d'administration légale<a id=359></a>
+#### Section I bis : L'intervention du juge des tutelles en matière d'administration légale<a id=354></a>
 
-##### Sous-section 1 : La demande<a id=360></a>
+##### Sous-section 1 : La demande<a id=355></a>
 
 ###### Article 1180-6
 
@@ -29370,7 +29375,7 @@ _Cite_:
   - Code civil - art. 387-3
 
 
-##### Sous-section 2 : L'instruction de la demande<a id=361></a>
+##### Sous-section 2 : L'instruction de la demande<a id=356></a>
 
 ###### Article 1180-8
 
@@ -29454,7 +29459,7 @@ _Cité par_:
   - Code de procédure civile - art. 1187-1 (V)
 
 
-##### Sous-section 3 : La consultation du dossier et la délivrance de copies<a id=362></a>
+##### Sous-section 3 : La consultation du dossier et la délivrance de copies<a id=357></a>
 
 ###### Article 1180-12
 
@@ -29511,7 +29516,7 @@ _Créé par_:
   - Décret n°2016-185 du 23 février 2016 - art. 4
 
 
-##### Sous-section 4 : Les décisions du juge des tutelles<a id=363></a>
+##### Sous-section 4 : Les décisions du juge des tutelles<a id=358></a>
 
 ###### Article 1180-14
 
@@ -29557,7 +29562,7 @@ _Créé par_:
   - Décret n°2016-185 du 23 février 2016 - art. 4
 
 
-##### Sous-section 5 : Les notifications et les copies des décisions<a id=364></a>
+##### Sous-section 5 : Les notifications et les copies des décisions<a id=359></a>
 
 ###### Article 1180-16
 
@@ -29607,7 +29612,7 @@ _Créé par_:
   - Décret n°2016-185 du 23 février 2016 - art. 4
 
 
-##### Sous-section 6 : L'appel<a id=365></a>
+##### Sous-section 6 : L'appel<a id=360></a>
 
 ###### Article 1180-18
 
@@ -29631,7 +29636,7 @@ _Cite_:
   - Code de procédure civile - art. 1239
 
 
-##### Sous-section 7 : L'amende civile<a id=366></a>
+##### Sous-section 7 : L'amende civile<a id=361></a>
 
 ###### Article 1180-19
 
@@ -29652,7 +29657,7 @@ _Cite_:
   - Code civil - art. 387-6
 
 
-#### Section II : L'assistance éducative<a id=367></a>
+#### Section II : L'assistance éducative<a id=362></a>
 
 ###### Article 1181
 
@@ -30290,7 +30295,7 @@ _Cite_:
   - Code civil - art. 375
 
 
-#### Section II bis : La mesure judiciaire d'aide à la gestion du budget familial<a id=368></a>
+#### Section II bis : La mesure judiciaire d'aide à la gestion du budget familial<a id=363></a>
 
 ###### Article 1200-2
 
@@ -30569,7 +30574,7 @@ _Cite_:
   - Code de procédure civile - art. 1200-10
 
 
-#### Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental<a id=369></a>
+#### Section III : Délégation, retrait total et partiel de l'autorité parentale, déclaration judiciaire de délaissement parental<a id=364></a>
 
 ###### Article 1202
 
@@ -30945,7 +30950,7 @@ _Modifié par_:
   - Décret n°2017-148 du 7 février 2017 - art. 3
 
 
-#### Section IV : Dispositions relatives à l'administrateur ad hoc<a id=370></a>
+#### Section IV : Dispositions relatives à l'administrateur ad hoc<a id=365></a>
 
 ###### Article 1210-1
 
@@ -31037,7 +31042,7 @@ _Cite_:
   - Code de procédure pénale - art. R53-8
 
 
-#### Section V : Le déplacement illicite international d'enfants<a id=371></a>
+#### Section V : Le déplacement illicite international d'enfants<a id=366></a>
 
 ###### Article 1210-4
 
@@ -31311,11 +31316,11 @@ _Créé par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 28
 
 
-### Chapitre X : La protection juridique des mineurs et des majeurs<a id=372></a>
+### Chapitre X : La protection juridique des mineurs et des majeurs<a id=367></a>
 
-#### Section I : Dispositions relatives aux mesures prononcées par le juge<a id=373></a>
+#### Section I : Dispositions relatives aux mesures prononcées par le juge<a id=368></a>
 
-##### Sous-section 1 : Dispositions générales<a id=374></a>
+##### Sous-section 1 : Dispositions générales<a id=369></a>
 
 ###### Article 1211
 
@@ -31458,7 +31463,7 @@ _Cite_:
   - Code civil - art. 417
 
 
-##### Sous-section 1 bis : Les informations adressées au procureur de la République préalablement à la saisine du juge des tutelles<a id=375></a>
+##### Sous-section 1 bis : Les informations adressées au procureur de la République préalablement à la saisine du juge des tutelles<a id=370></a>
 
 ###### Article 1216-1
 
@@ -31518,9 +31523,9 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L113-3 (V)
 
 
-##### Sous-section 2 : La procédure devant le juge des tutelles<a id=376></a>
+##### Sous-section 2 : La procédure devant le juge des tutelles<a id=371></a>
 
-##### Paragraphe 1 : La demande<a id=377></a>
+##### Paragraphe 1 : La demande<a id=372></a>
 
 ###### Article 1217
 
@@ -31634,7 +31639,7 @@ _Créé par_:
   - Décret n°2019-1464 du 26 décembre 2019 - art. 3
 
 
-##### Paragraphe 2 : L'instruction de la demande<a id=378></a>
+##### Paragraphe 2 : L'instruction de la demande<a id=373></a>
 
 ###### Article 1220
 
@@ -31793,7 +31798,7 @@ _Cité par_:
   - Code de procédure civile - art. 1187-1 (V)
 
 
-##### Paragraphe 3 : La consultation du dossier et la délivrance de copies<a id=379></a>
+##### Paragraphe 3 : La consultation du dossier et la délivrance de copies<a id=374></a>
 
 ###### Article 1222
 
@@ -31948,7 +31953,7 @@ _Cite_:
   - Code de procédure civile - art. 1222
 
 
-##### Paragraphe 4 : Les convocations à l'audience<a id=380></a>
+##### Paragraphe 4 : Les convocations à l'audience<a id=375></a>
 
 ###### Article 1225
 
@@ -31983,7 +31988,7 @@ _Cite_:
   - Code civil - art. 494-4
 
 
-##### Paragraphe 5 : Les décisions du juge des tutelles<a id=381></a>
+##### Paragraphe 5 : Les décisions du juge des tutelles<a id=376></a>
 
 ###### Article 1226
 
@@ -32077,7 +32082,7 @@ _Cite_:
   - Code de procédure civile - art. 1213 (V)
 
 
-##### Paragraphe 6 : Les notifications<a id=382></a>
+##### Paragraphe 6 : Les notifications<a id=377></a>
 
 ###### Article 1230
 
@@ -32154,7 +32159,7 @@ _Cité par_:
   - Code de procédure civile - art. 1260-11 (Ab)
 
 
-##### Paragraphe 7 : L'exécution de la décision<a id=383></a>
+##### Paragraphe 7 : L'exécution de la décision<a id=378></a>
 
 ###### Article 1233
 
@@ -32195,9 +32200,9 @@ _Cite_:
   - Code civil - art. 494-11
 
 
-##### Sous-section 3 : Le conseil de famille<a id=384></a>
+##### Sous-section 3 : Le conseil de famille<a id=379></a>
 
-##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs<a id=385></a>
+##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs<a id=380></a>
 
 ###### Article 1234
 
@@ -32338,7 +32343,7 @@ _Modifié par_:
   - Décret n°2008-1276 du 5 décembre 2008 - art. 1
 
 
-##### Paragraphe 2 : Dispositions relatives aux mineurs<a id=386></a>
+##### Paragraphe 2 : Dispositions relatives aux mineurs<a id=381></a>
 
 ###### Article 1236
 
@@ -32356,7 +32361,7 @@ _Cite_:
   - Code civil - art. 388-1
 
 
-##### Paragraphe 3 : Dispositions relatives aux majeurs.<a id=387></a>
+##### Paragraphe 3 : Dispositions relatives aux majeurs.<a id=382></a>
 
 ###### Article 1237
 
@@ -32414,7 +32419,7 @@ _Cite_:
   - Code de procédure civile - art. 1239-3 (V)
 
 
-##### Sous-section 4 : L'appel.<a id=388></a>
+##### Sous-section 4 : L'appel.<a id=383></a>
 
 ###### Article 1239
 
@@ -32952,7 +32957,7 @@ _Modifié par_:
   - Décret n°2009-1628 du 23 décembre 2009 - art. 2
 
 
-##### Sous-section 5 : La sauvegarde de justice.<a id=389></a>
+##### Sous-section 5 : La sauvegarde de justice.<a id=384></a>
 
 ###### Article 1248
 
@@ -33109,9 +33114,9 @@ _Modifié par_:
   - Décret n°2011-1043 du 1er septembre 2011 - art. 2
 
 
-##### Sous-section 6 : La curatelle et la tutelle.<a id=390></a>
+##### Sous-section 6 : La curatelle et la tutelle.<a id=385></a>
 
-##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs.<a id=391></a>
+##### Paragraphe 1 : Dispositions communes aux mineurs et aux majeurs.<a id=386></a>
 
 ###### Article 1253
 
@@ -33179,7 +33184,7 @@ _Cite_:
   - Code civil - art. 511
 
 
-##### Paragraphe 2 : Dispositions relatives aux majeurs.<a id=392></a>
+##### Paragraphe 2 : Dispositions relatives aux majeurs.<a id=387></a>
 
 ###### Article 1255
 
@@ -33238,7 +33243,7 @@ _Cite_:
   - Nouveau code de procédure civile 1255 et 1256
 
 
-#### Section II : Dispositions relatives au mandat de protection future.<a id=393></a>
+#### Section II : Dispositions relatives au mandat de protection future.<a id=388></a>
 
 ###### Article 1258
 
@@ -33530,7 +33535,7 @@ _Cite_:
   - Code de procédure civile - art. 1253 (V)
 
 
-#### Section III : Dispositions applicables aux pupilles de l'Etat.<a id=394></a>
+#### Section III : Dispositions applicables aux pupilles de l'Etat.<a id=389></a>
 
 ###### Article 1261
 
@@ -33597,7 +33602,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L224-4
 
 
-### Chapitre XI : La mesure d'accompagnement judiciaire.<a id=395></a>
+### Chapitre XI : La mesure d'accompagnement judiciaire.<a id=390></a>
 
 ###### Article 1262
 
@@ -33763,7 +33768,7 @@ _Cite_:
   - Code de procédure civile - art. 1215
 
 
-### Chapitre XII : Les actions en matière de discriminations.<a id=396></a>
+### Chapitre XII : Les actions en matière de discriminations.<a id=391></a>
 
 ###### Article 1263-1
 
@@ -33791,9 +33796,9 @@ _Créé par_:
   - Décret n°2008-799 du 20 août 2008 - art. 1
 
 
-## Titre II : Les biens.<a id=397></a>
+## Titre II : Les biens.<a id=392></a>
 
-### Chapitre II : La reddition de compte et la liquidation des fruits.<a id=398></a>
+### Chapitre II : La reddition de compte et la liquidation des fruits.<a id=393></a>
 
 ###### Article 1268
 
@@ -33836,7 +33841,7 @@ _Cité par_:
   - Code du travail applicable à Mayotte. - art. L143-8 (VT)
 
 
-### Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice.<a id=399></a>
+### Chapitre III : Les baux passés par les usufruitiers avec autorisation de justice.<a id=394></a>
 
 ###### Article 1270
 
@@ -33858,7 +33863,7 @@ _Cite_:
   - Code civil - art. 595
 
 
-### Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle.<a id=400></a>
+### Chapitre IV : La vente des immeubles et des fonds de commerce appartenant à des mineurs en tutelle ou à des majeurs en tutelle.<a id=395></a>
 
 ###### Article 1271
 
@@ -34106,7 +34111,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution.<a id=401></a>
+### Chapitre V : La distribution des deniers en dehors de toute procédure d'exécution.<a id=396></a>
 
 ###### Article 1281-1
 
@@ -34391,7 +34396,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur.<a id=402></a>
+### Chapitre VI : La purge des hypothèques et privilèges par le tiers détenteur.<a id=397></a>
 
 ###### Article 1281-13
 
@@ -34534,11 +34539,11 @@ _Modifié par_:
   - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
 
 
-## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.<a id=403></a>
+## Titre III : Les régimes matrimoniaux - Les successions et les libéralités.<a id=398></a>
 
-### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.<a id=404></a>
+### Chapitre Ier : Les droits des époux et les régimes matrimoniaux.<a id=399></a>
 
-#### Section I : Les autorisations et les habilitations.<a id=405></a>
+#### Section I : Les autorisations et les habilitations.<a id=400></a>
 
 ###### Article 1286
 
@@ -34567,7 +34572,7 @@ _Cite_:
   - Code civil - art. 2405
 
 
-##### Sous-section I : La procédure devant le juge aux affaires familiales.<a id=406></a>
+##### Sous-section I : La procédure devant le juge aux affaires familiales.<a id=401></a>
 
 ###### Article 1287
 
@@ -34615,7 +34620,7 @@ _Modifié par_:
   - Décret n°2005-460 du 13 mai 2005 - art. 33 () JORF 14 mai 2005
 
 
-##### Sous-section II : La procédure devant le juge des tutelles.<a id=407></a>
+##### Sous-section II : La procédure devant le juge des tutelles.<a id=402></a>
 
 ###### Article 1289
 
@@ -34681,7 +34686,7 @@ _Cite_:
   - Code civil - art. 219 (V)
 
 
-#### Section II : Les mesures urgentes.<a id=408></a>
+#### Section II : Les mesures urgentes.<a id=403></a>
 
 ###### Article 1290
 
@@ -34699,7 +34704,7 @@ _Cite_:
   - Code civil - art. 220-1
 
 
-#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.<a id=409></a>
+#### Section III : Les transferts judiciaires d'administration et la liquidation anticipée de la créance de participation.<a id=404></a>
 
 ###### Article 1291
 
@@ -34723,7 +34728,7 @@ _Cite_:
   - Code civil - art. 1580 (V)
 
 
-#### Section IV : La séparation judiciaire de biens.<a id=410></a>
+#### Section IV : La séparation judiciaire de biens.<a id=405></a>
 
 ###### Article 1292
 
@@ -34900,9 +34905,9 @@ _Modifié par_:
   - Décret n°94-42 du 14 janvier 1994 - art. 12 () JORF 16 janvier 1994 en vigueur le 1er février 1994
 
 
-#### Section V : Le changement de régime matrimonial.<a id=411></a>
+#### Section V : Le changement de régime matrimonial.<a id=406></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=412></a>
+##### Paragraphe 1 : Dispositions générales<a id=407></a>
 
 ###### Article 1300
 
@@ -34996,7 +35001,7 @@ _Cite_:
   - Code civil - art. 1397 (V)
 
 
-##### Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial<a id=413></a>
+##### Paragraphe 2 : L'homologation judiciaire du changement de régime matrimonial<a id=408></a>
 
 ###### Article 1300-4
 
@@ -35071,9 +35076,9 @@ _Modifié par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Section VI : La publicité en matière internationale<a id=414></a>
+#### Section VI : La publicité en matière internationale<a id=409></a>
 
-##### Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage<a id=415></a>
+##### Paragraphe 1 : La désignation de la loi applicable au régime matrimonial faite au cours du mariage<a id=410></a>
 
 ###### Article 1303-1
 
@@ -35128,7 +35133,7 @@ _Créé par_:
   - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-##### Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère<a id=416></a>
+##### Paragraphe 2 : Le changement de régime matrimonial par application d'une loi étrangère<a id=411></a>
 
 ###### Article 1303-3
 
@@ -35205,7 +35210,7 @@ _Créé par_:
   - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-##### Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française<a id=417></a>
+##### Paragraphe 3 : Le changement de régime matrimonial intervenu à l'étranger en application de la loi française<a id=412></a>
 
 ###### Article 1303-6
 
@@ -35223,9 +35228,9 @@ _Créé par_:
   - Décret n°98-508 du 23 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-### Chapitre II : Les successions et les libéralités<a id=418></a>
+### Chapitre II : Les successions et les libéralités<a id=413></a>
 
-#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=419></a>
+#### Section I : Les mesures conservatoires prises après l'ouverture d'une succession<a id=414></a>
 
 ###### Article 1304
 
@@ -35312,9 +35317,9 @@ _Cité par_:
   - Code de procédure pénale - art. R218 (V)
 
 
-##### Sous-section I : Les scellés<a id=420></a>
+##### Sous-section I : Les scellés<a id=415></a>
 
-##### Paragraphe 1 : L'apposition des scellés.<a id=421></a>
+##### Paragraphe 1 : L'apposition des scellés.<a id=416></a>
 
 ###### Article 1307
 
@@ -35526,7 +35531,7 @@ _Cite_:
   - Code de procédure civile - art. 1311
 
 
-##### Paragraphe 2 : La levée des scellés.<a id=422></a>
+##### Paragraphe 2 : La levée des scellés.<a id=417></a>
 
 ###### Article 1316
 
@@ -35700,7 +35705,7 @@ _Cité par_:
   - Code de procédure civile - art. 1324 (VD)
 
 
-##### Sous-section II :  L'état descriptif<a id=423></a>
+##### Sous-section II :  L'état descriptif<a id=418></a>
 
 ###### Article 1323
 
@@ -35742,7 +35747,7 @@ _Cite_:
   - Code de procédure civile - art. 1313
 
 
-##### Sous-section III : Dispositions communes.<a id=424></a>
+##### Sous-section III : Dispositions communes.<a id=419></a>
 
 ###### Article 1324
 
@@ -35825,7 +35830,7 @@ _Modifié par_:
   - Décret n°2011-1043 du 1er septembre 2011 - art. 1
 
 
-#### Section II : L'inventaire.<a id=425></a>
+#### Section II : L'inventaire.<a id=420></a>
 
 ###### Article 1328
 
@@ -35971,9 +35976,9 @@ _Cité par_:
   - Code de procédure civile - art. 1319 (V)
 
 
-#### Section III : L'option successorale.<a id=426></a>
+#### Section III : L'option successorale.<a id=421></a>
 
-##### Sous-section I : L'acceptation à concurrence de l'actif net.<a id=427></a>
+##### Sous-section I : L'acceptation à concurrence de l'actif net.<a id=422></a>
 
 ###### Article 1334
 
@@ -36117,7 +36122,7 @@ _Cite_:
   - Code civil - art. 790 (M)
 
 
-##### Sous-section II : La renonciation.<a id=428></a>
+##### Sous-section II : La renonciation.<a id=423></a>
 
 ###### Article 1339
 
@@ -36160,7 +36165,7 @@ _Cite_:
   - Nouveau code de procédure civile 1339
 
 
-##### Sous-section III : L'option du conjoint survivant.<a id=429></a>
+##### Sous-section III : L'option du conjoint survivant.<a id=424></a>
 
 ###### Article 1341
 
@@ -36183,11 +36188,11 @@ _Cite_:
   - Code civil - art. 758-3 (V)
 
 
-#### Section IV : Les successions vacantes et les successions en déshérence.<a id=430></a>
+#### Section IV : Les successions vacantes et les successions en déshérence.<a id=425></a>
 
-##### Sous-section I : Les successions vacantes.<a id=431></a>
+##### Sous-section I : Les successions vacantes.<a id=426></a>
 
-##### Paragraphe 1 : L'ouverture de la curatelle.<a id=432></a>
+##### Paragraphe 1 : L'ouverture de la curatelle.<a id=427></a>
 
 ###### Article 1342
 
@@ -36212,7 +36217,7 @@ _Cite_:
   - Code civil - art. 810-7 (V)
 
 
-##### Paragraphe 2 : La mission du curateur.<a id=433></a>
+##### Paragraphe 2 : La mission du curateur.<a id=428></a>
 
 ###### Article 1343
 
@@ -36364,7 +36369,7 @@ _Cite_:
   - Code civil - art. 810-3 (V)
 
 
-##### Paragraphe 3 : La reddition de compte et la fin de la curatelle.<a id=434></a>
+##### Paragraphe 3 : La reddition de compte et la fin de la curatelle.<a id=429></a>
 
 ###### Article 1350
 
@@ -36437,7 +36442,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. L77 (V)
 
 
-##### Sous-section II : Les successions en déshérence.<a id=435></a>
+##### Sous-section II : Les successions en déshérence.<a id=430></a>
 
 ###### Article 1354
 
@@ -36468,7 +36473,7 @@ _Cite_:
   - Code civil - art. 811 (M)
 
 
-#### Section V : Le mandataire successoral désigné en justice.<a id=436></a>
+#### Section V : Le mandataire successoral désigné en justice.<a id=431></a>
 
 ###### Article 1355
 
@@ -36539,9 +36544,9 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-#### Section VI : Le partage.<a id=437></a>
+#### Section VI : Le partage.<a id=432></a>
 
-##### Sous-section I : Le partage amiable.<a id=438></a>
+##### Sous-section I : Le partage amiable.<a id=433></a>
 
 ###### Article 1358
 
@@ -36570,9 +36575,9 @@ _Cite_:
   - Code civil - art. 837 (M)
 
 
-##### Sous-section II : Le partage judiciaire.<a id=439></a>
+##### Sous-section II : Le partage judiciaire.<a id=434></a>
 
-##### Paragraphe 1 : Dispositions générales.<a id=440></a>
+##### Paragraphe 1 : Dispositions générales.<a id=435></a>
 
 ###### Article 1359
 
@@ -36674,7 +36679,7 @@ _Cite_:
   - Nouveau code de procédure civile 1361
 
 
-##### Paragraphe 2 : Dispositions particulières.<a id=441></a>
+##### Paragraphe 2 : Dispositions particulières.<a id=436></a>
 
 ###### Article 1364
 
@@ -36949,7 +36954,7 @@ _Cite_:
   - Nouveau code de procédure civile 1363
 
 
-##### Paragraphe 3 : La licitation.<a id=442></a>
+##### Paragraphe 3 : La licitation.<a id=437></a>
 
 ###### Article 1377
 
@@ -36991,7 +36996,7 @@ _Créé par_:
   - Décret n°2006-1805 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 
-#### Section VI bis : L'envoi en possession<a id=443></a>
+#### Section VI bis : L'envoi en possession<a id=438></a>
 
 ###### Article 1378-1
 
@@ -37030,7 +37035,7 @@ _Cite_:
   - Code civil - art. 1007 (VD)
 
 
-#### Section VII : Dispositions communes.<a id=444></a>
+#### Section VII : Dispositions communes.<a id=439></a>
 
 ###### Article 1379
 
@@ -37133,7 +37138,7 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L213-3
 
 
-#### Section VIII : Le certificat successoral européen<a id=445></a>
+#### Section VIII : Le certificat successoral européen<a id=440></a>
 
 ###### Article 1381-1
 
@@ -37239,9 +37244,9 @@ _Cite_:
   - Code de procédure civile - art. 1381-3
 
 
-## Titre IV : Les obligations et les contrats.<a id=446></a>
+## Titre IV : Les obligations et les contrats.<a id=441></a>
 
-### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=447></a>
+### Chapitre Ier : La procédure européenne de règlement des petits litiges.<a id=442></a>
 
 ###### Article 1382
 
@@ -37407,9 +37412,9 @@ _Créé par_:
   - Décret n°2010-433 du 29 avril 2010 - art. 4
 
 
-### Chapitre II : Les procédures d'injonction.<a id=448></a>
+### Chapitre II : Les procédures d'injonction.<a id=443></a>
 
-#### Section I : L'injonction de payer.<a id=449></a>
+#### Section I : L'injonction de payer.<a id=444></a>
 
 ###### Article 1405
 
@@ -37881,7 +37886,7 @@ _Modifié par_:
   - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
-#### Section II : L'injonction de payer européenne.<a id=450></a>
+#### Section II : L'injonction de payer européenne.<a id=445></a>
 
 ###### Article 1424-1
 
@@ -38133,7 +38138,7 @@ _Cite_:
   - Code de procédure civile - art. 1424-8
 
 
-#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=451></a>
+#### Section III : Les frais des procédures d'injonction de payer et d'injonction de payer européenne devant le tribunal de commerce.<a id=446></a>
 
 ###### Article 1425
 
@@ -38153,7 +38158,7 @@ _Modifié par_:
   - Décret n°2008-1346 du 17 décembre 2008 - art. 7
 
 
-#### Section IV : L'injonction de faire.<a id=452></a>
+#### Section IV : L'injonction de faire.<a id=447></a>
 
 ###### Article 1425-1
 
@@ -38398,7 +38403,7 @@ _Modifié par_:
   - PILOTE_SUIVEUR: Code de la consommation - art. R142-2 (Ab)
 
 
-### Chapitre IV : La reconstitution d'actes détruits.<a id=453></a>
+### Chapitre IV : La reconstitution d'actes détruits.<a id=448></a>
 
 ###### Article 1430
 
@@ -38480,7 +38485,7 @@ _Créé par_:
   - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
 
 
-### Chapitre V : La délivrance de copies d'actes et de registres.<a id=454></a>
+### Chapitre V : La délivrance de copies d'actes et de registres.<a id=449></a>
 
 ###### Article 1435
 
@@ -38606,7 +38611,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=455></a>
+### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=450></a>
 
 ###### Article 1441-1
 
@@ -38735,7 +38740,7 @@ _Créé par_:
   - Décret n°2016-360 du 25 mars 2016 - art. 181
 
 
-## Titre V : La sécurité sociale et l'aide sociale<a id=456></a>
+## Titre V : La sécurité sociale et l'aide sociale<a id=451></a>
 
 ###### Article 1441-4
 
@@ -38759,11 +38764,11 @@ _Cite_:
   - Code de l'organisation judiciaire - art. L211-16
 
 
-# Livre IV : L'arbitrage.<a id=457></a>
+# Livre IV : L'arbitrage.<a id=452></a>
 
-## Titre Ier : L'arbitrage interne.<a id=458></a>
+## Titre Ier : L'arbitrage interne.<a id=453></a>
 
-### Chapitre Ier : La convention d'arbitrage.<a id=459></a>
+### Chapitre Ier : La convention d'arbitrage.<a id=454></a>
 
 ###### Article 1442
 
@@ -38936,7 +38941,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-### Chapitre II : Le tribunal arbitral<a id=460></a>
+### Chapitre II : Le tribunal arbitral<a id=455></a>
 
 ###### Article 1450
 
@@ -39212,7 +39217,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : L'instance arbitrale<a id=461></a>
+### Chapitre III : L'instance arbitrale<a id=456></a>
 
 ###### Article 1462
 
@@ -39535,7 +39540,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : La sentence arbitrale<a id=462></a>
+### Chapitre IV : La sentence arbitrale<a id=457></a>
 
 ###### Article 1478
 
@@ -39738,7 +39743,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre V : L'exequatur<a id=463></a>
+### Chapitre V : L'exequatur<a id=458></a>
 
 ###### Article 1487
 
@@ -39786,9 +39791,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre VI : Les voies de recours<a id=464></a>
+### Chapitre VI : Les voies de recours<a id=459></a>
 
-#### Section 1 : L'appel<a id=465></a>
+#### Section 1 : L'appel<a id=460></a>
 
 ###### Article 1489
 
@@ -39827,7 +39832,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Le recours en annulation<a id=466></a>
+#### Section 2 : Le recours en annulation<a id=461></a>
 
 ###### Article 1491
 
@@ -39895,7 +39900,7 @@ _Cite_:
   - Nouveau code de procédure civile 1457
 
 
-#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=467></a>
+#### Section 3 : Dispositions communes à l'appel   et au recours en annulation<a id=462></a>
 
 ###### Article 1494
 
@@ -39991,7 +39996,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=468></a>
+#### Section 4 : Recours contre l'ordonnance statuant  sur la demande d'exequatur<a id=463></a>
 
 ###### Article 1499
 
@@ -40033,7 +40038,7 @@ _Cite_:
   - Nouveau code de procédure civile 1476 à 1479
 
 
-#### Section 5 : Autres voies de recours<a id=469></a>
+#### Section 5 : Autres voies de recours<a id=464></a>
 
 ###### Article 1501
 
@@ -40096,7 +40101,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501 et 1502
 
 
-## Titre II : L'arbitrage international<a id=470></a>
+## Titre II : L'arbitrage international<a id=465></a>
 
 ###### Article 1504
 
@@ -40178,7 +40183,7 @@ _Cite_:
   - Nouveau code de procédure civile 1501, 1502 et 1504
 
 
-### Chapitre Ier : La convention d'arbitrage international<a id=471></a>
+### Chapitre Ier : La convention d'arbitrage international<a id=466></a>
 
 ###### Article 1507
 
@@ -40215,7 +40220,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre II : L'instance et la sentence arbitrales<a id=472></a>
+### Chapitre II : L'instance et la sentence arbitrales<a id=467></a>
 
 ###### Article 1509
 
@@ -40310,7 +40315,7 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=473></a>
+### Chapitre III : La reconnaissance et l'exécution des sentences arbitrales rendues à l'étranger ou en matière d'arbitrage international<a id=468></a>
 
 ###### Article 1514
 
@@ -40392,9 +40397,9 @@ _Modifié par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-### Chapitre IV : Les voies de recours<a id=474></a>
+### Chapitre IV : Les voies de recours<a id=469></a>
 
-#### Section 1 : Sentences rendues en France<a id=475></a>
+#### Section 1 : Sentences rendues en France<a id=470></a>
 
 ###### Article 1518
 
@@ -40512,7 +40517,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 2 : Sentences rendues à l'étranger<a id=476></a>
+#### Section 2 : Sentences rendues à l'étranger<a id=471></a>
 
 ###### Article 1525
 
@@ -40534,7 +40539,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=477></a>
+#### Section 3 : Dispositions communes aux sentences rendues en France et à l'étranger<a id=472></a>
 
 ###### Article 1526
 
@@ -40571,7 +40576,7 @@ _Créé par_:
   - Décret n°2011-48 du 13 janvier 2011 - art. 2
 
 
-# Livre V : La résolution amiable des différends<a id=478></a>
+# Livre V : La résolution amiable des différends<a id=473></a>
 
 ###### Article 1528
 
@@ -40610,7 +40615,7 @@ _Cite_:
   - Code civil - art. 2066
 
 
-## Titre Ier : La médiation et la conciliation conventionnelles<a id=479></a>
+## Titre Ier : La médiation et la conciliation conventionnelles<a id=474></a>
 
 ###### Article 1530
 
@@ -40646,7 +40651,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-### Chapitre Ier : La médiation conventionnelle<a id=480></a>
+### Chapitre Ier : La médiation conventionnelle<a id=475></a>
 
 ###### Article 1532
 
@@ -40718,7 +40723,7 @@ _Cite_:
   - Code de procédure civile - art. 509-2
 
 
-### Chapitre II : La conciliation menée par un conciliateur de justice<a id=481></a>
+### Chapitre II : La conciliation menée par un conciliateur de justice<a id=476></a>
 
 ###### Article 1536
 
@@ -40816,7 +40821,7 @@ _Modifié par_:
   - Décret n°2017-892 du 6 mai 2017 - art. 25
 
 
-## Titre II : La procédure participative<a id=482></a>
+## Titre II : La procédure participative<a id=477></a>
 
 ###### Article 1542
 
@@ -40853,11 +40858,11 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 
-### Chapitre Ier  : La procédure conventionnelle<a id=483></a>
+### Chapitre Ier  : La procédure conventionnelle<a id=478></a>
 
-#### Section 1 : La convention<a id=484></a>
+#### Section 1 : La convention<a id=479></a>
 
-##### Sous-section 1 : Dispositions générales<a id=485></a>
+##### Sous-section 1 : Dispositions générales<a id=480></a>
 
 ###### Article 1544
 
@@ -40912,7 +40917,7 @@ La convention de procédure participative est modifiée dans les mêmes formes q
   - DEPLACE: Décret n°2017-892 du 6 mai 2017 - art. 26
 
 
-##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état<a id=486></a>
+##### Sous-section 2 : Dispositions relatives à la procédure participative aux fins de mise en état<a id=481></a>
 
 ###### Article 1546-1
 
@@ -40972,7 +40977,7 @@ _Cite_:
   - Code de procédure civile - art. 908 (VT)
 
 
-#### Section 1 bis : Les actes contresignés par avocats<a id=487></a>
+#### Section 1 bis : Les actes contresignés par avocats<a id=482></a>
 
 ###### Article 1546-3
 
@@ -41017,7 +41022,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 13
 
 
-#### Section 2 : Le recours à un technicien<a id=488></a>
+#### Section 2 : Le recours à un technicien<a id=483></a>
 
 ###### Article 1547
 
@@ -41126,7 +41131,7 @@ _Créé par_:
   - Décret n°2012-66 du 20 janvier 2012 - art. 2
 
 
-#### Section 3 : L'issue de la procédure<a id=489></a>
+#### Section 3 : L'issue de la procédure<a id=484></a>
 
 ###### Article 1555
 
@@ -41193,7 +41198,7 @@ _Cite_:
   - Code civil - art. 1374
 
 
-### Chapitre II : La procédure aux fins de jugement<a id=490></a>
+### Chapitre II : La procédure aux fins de jugement<a id=485></a>
 
 ###### Article 1556
 
@@ -41218,9 +41223,9 @@ _Cite_:
   - Code civil - art. 2065
 
 
-#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable<a id=491></a>
+#### Section 1 : La procédure d'homologation d'un accord ou de jugement après tentative de résolution amiable<a id=486></a>
 
-##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend<a id=492></a>
+##### Sous-section 1 : La procédure d'homologation d'un accord mettant fin à l'entier différend<a id=487></a>
 
 ###### Article 1557
 
@@ -41248,9 +41253,9 @@ _Cité par_:
   - Code de procédure civile - art. 1560 (VD)
 
 
-##### Sous-section 2 : La procédure de jugement du différend persistant<a id=493></a>
+##### Sous-section 2 : La procédure de jugement du différend persistant<a id=488></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=494></a>
+##### Paragraphe 1 : Dispositions communes<a id=489></a>
 
 ###### Article 1558
 
@@ -41292,7 +41297,7 @@ _Cité par_:
   - Code de procédure civile - art. 1561 (M)
 
 
-##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=495></a>
+##### Paragraphe 2 : La procédure d'homologation d'un accord partiel et de jugement du différend résiduel<a id=490></a>
 
 ###### Article 1560
 
@@ -41360,7 +41365,7 @@ _Cité par_:
   - Code de procédure civile - art. 1559 (VD)
 
 
-##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=496></a>
+##### Paragraphe 3 : La procédure de jugement de l'entier différend<a id=491></a>
 
 ###### Article 1562
 
@@ -41439,7 +41444,7 @@ _Cite_:
   - Code de procédure civile - art. 1563
 
 
-#### Section 2 : La procédure de jugement après mise en état conventionnelle du litige<a id=497></a>
+#### Section 2 : La procédure de jugement après mise en état conventionnelle du litige<a id=492></a>
 
 ###### Article 1564-1
 
@@ -41603,7 +41608,7 @@ _Cite_:
   - Code de procédure civile - art. 1564-4 (V)
 
 
-## Titre III : Dispositions communes<a id=498></a>
+## Titre III : Dispositions communes<a id=493></a>
 
 ###### Article 1565
 
@@ -41659,28 +41664,20 @@ _Anciens textes_:
   - Code de procédure civile - art. 1568 (T)
 
 
-# Livre VI : Dispositions relatives à l'outre-mer.<a id=499></a>
+# Livre VI : Dispositions relatives à l'outre-mer.<a id=494></a>
 
-## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=500></a>
+## Titre II : Dispositions applicables aux îles Wallis et Futuna.<a id=495></a>
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2019-1333 du 11 décembre
-2019 réformant la procédure civile, à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II
-du livre III, de la section II bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au
-présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-636 du 27 mai 2020, à
+l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
+chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Nota:**
 
-Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
-janvier 2020. Elles sont applicables aux instances en cours à cette date.
-
-Les dispositions de l'article 4 du décret n° 2019-1464 du 26 décembre 2019 prévoient : A l'article 1575 du code de procédure
-civile, les mots : dans sa rédaction résultant du 
-  <font color="#000080">décret n° 2019-756 du 22 juillet 2019 </font>portant diverses dispositions sont remplacés par les
-mots : dans sa rédaction résultant du 
-  <font color="#000080">décret n° 2019-1464 du 26 décembre 2019 </font>relatif à l'évaluation de la situation du majeur à
-protéger transmise au procureur de la République.
+Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
+introduites à compter du 29 mai 2020.
 
 **Liens relatifs à cet article**
 
@@ -41695,11 +41692,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2019-756 du 22 juillet 2019
+  - Décret n°2020-636 du 27 mai 2020
 
 _Modifié par_:
 
-  - Décret n°2019-1333 du 11 décembre 2019 - art. 56
+  - Décret n°2020-636 du 27 mai 2020 - art. 8
 
 _Anciens textes_:
 
@@ -41859,9 +41856,9 @@ _Anciens textes_:
   - Code de procédure civile - art. 1519 (M)
 
 
-# Annexes<a id=501></a>
+# Annexes<a id=496></a>
 
-## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=502></a>
+## Annexe du code de procédure civile relative à son application dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.<a id=497></a>
 
 ###### Article ANNEXE, art. 1
 
@@ -41875,9 +41872,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=503></a>
+### Chapitre Ier : Dispositions particulières à la matière gracieuse.<a id=498></a>
 
-#### Section I : Dispositions communes.<a id=504></a>
+#### Section I : Dispositions communes.<a id=499></a>
 
 ###### Article ANNEXE, art. 2
 
@@ -42053,9 +42050,9 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-#### Section II : Dispositions propres à certaines matières.<a id=505></a>
+#### Section II : Dispositions propres à certaines matières.<a id=500></a>
 
-##### Sous-section I : Affaires de tutelle et de succession.<a id=506></a>
+##### Sous-section I : Affaires de tutelle et de succession.<a id=501></a>
 
 ###### Article ANNEXE, art. 11
 
@@ -42236,7 +42233,7 @@ _Codifié par_:
   - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
 
 
-##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=507></a>
+##### Sous-section II : Affaires de partage judiciaire et de vente judiciaire.<a id=502></a>
 
 ###### Article ANNEXE, art. 21
 
@@ -42290,7 +42287,7 @@ _Cité par_:
   - Code des transports - art. R4123-26 (VD)
 
 
-##### Sous-section III : Affaires de registres.<a id=508></a>
+##### Sous-section III : Affaires de registres.<a id=503></a>
 
 ###### Article ANNEXE, art. 24
 
@@ -42413,9 +42410,9 @@ _Cite_:
   - Code civil local 37
 
 
-##### Sous-section IV : Dispositions particulières au registre des associations<a id=509></a>
+##### Sous-section IV : Dispositions particulières au registre des associations<a id=504></a>
 
-##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=510></a>
+##### Paragraphe 1 : L'instruction des demandes d'inscription<a id=505></a>
 
 ###### Article ANNEXE, art. 30-1
 
@@ -42499,7 +42496,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 2 : La tenue du registre<a id=511></a>
+##### Paragraphe 2 : La tenue du registre<a id=506></a>
 
 ###### Article ANNEXE, art. 30-5
 
@@ -42582,7 +42579,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 3 : La publication de l'inscription<a id=512></a>
+##### Paragraphe 3 : La publication de l'inscription<a id=507></a>
 
 ###### Article ANNEXE, art. 30-9
 
@@ -42642,7 +42639,7 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=513></a>
+##### Paragraphe 4 : Le retrait de la capacité juridique et la radiation du registre<a id=508></a>
 
 ###### Article ANNEXE, art. 30-11
 
@@ -42695,7 +42692,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 5 : Les sanctions<a id=514></a>
+##### Paragraphe 5 : Les sanctions<a id=509></a>
 
 ###### Article ANNEXE, art. 30-13
 
@@ -42765,7 +42762,7 @@ _Créé par_:
   - Décret n°2006-1477 du 29 novembre 2006 - art. 1 () JORF 30 novembre 2006 en vigueur le 1er mai 2007
 
 
-##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=515></a>
+##### Paragraphe 6 : Opérations de fusion, scission et apport partiel d'actif entre associations<a id=510></a>
 
 ###### Article 30-16
 
@@ -42979,7 +42976,7 @@ _Cite_:
   - Code de commerce - art. L822-1
 
 
-### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=516></a>
+### Chapitre II : Dispositions particulières au tribunal de grande instance.<a id=511></a>
 
 ###### Article ANNEXE, art. 31
 
@@ -43126,9 +43123,7 @@ _Modifié par_:
   - Décret n°2019-1333 du 11 décembre 2019 - art. 29
 
 
-### Chapitre IV : Dispositions particulières à la matière commerciale.<a id=517></a>
-
-### Chapitre III : Dispositions particulières à la matière commerciale.<a id=518></a>
+### Chapitre III : Dispositions particulières à la matière commerciale.<a id=512></a>
 
 ###### Article ANNEXE, art. 37
 
@@ -43192,9 +43187,7 @@ _Modifié par_:
   - Décret n°76-899 1976-09-29 art. 5 JORF 1er octobre 1976 rectificatif JORF 16 octobre 1976
 
 
-### Chapitre VI : Dispositions particulières à la déclaration d'appel.<a id=519></a>
-
-### Chapitre IV : Dispositions particulières à la déclaration d'appel.<a id=520></a>
+### Chapitre IV : Dispositions particulières à la déclaration d'appel.<a id=513></a>
 
 ###### Article ANNEXE, art. 42
 
@@ -43219,9 +43212,7 @@ _Cite_:
   - Code de procédure civile - art. 901
 
 
-### Chapitre VII : Dispositions diverses.<a id=521></a>
-
-### Chapitre V : Dispositions diverses.<a id=522></a>
+### Chapitre V : Dispositions diverses.<a id=514></a>
 
 ###### Article ANNEXE, art. 43
 
