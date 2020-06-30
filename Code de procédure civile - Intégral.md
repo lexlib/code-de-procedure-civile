@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2020-05-29
+Version Consolidée au 2020-07-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -38578,26 +38578,65 @@ _Modifié par_:
 ###### Article 1440
 
 Les greffiers et dépositaires de registres ou répertoires publics sont tenus d'en délivrer copie ou extrait à tous
-requérants, à charge de leurs droits.
+requérants, à charge de leurs droits et sous réserve que la décision soit précisément identifiée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2020-797 du 29 juin 2020 - art. 5
+
+
+###### Article 1440-1
+
+En cas de refus ou de silence gardé pendant deux mois à compter de la demande, le président du tribunal judiciaire ou, si le
+refus émane d'un greffier, le président de la juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par
+requête, statue, le demandeur entendu ou appelé.
+
+L'appel est formé, instruit et jugé comme en matière gracieuse.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°81-500 1981-05-12 art. 5 JORF 14 mai 1981 rectificatif JORF 21 mai 1981 en vigueur le 1er janvier 1982
+  - Décret n°2020-797 du 29 juin 2020 - art. 5
+
+
+###### Article 1440-1-1
+
+Les éléments permettant d'identifier les personnes physiques mentionnées dans la décision, lorsqu'elles sont parties ou
+tiers, sont occultés par le greffier préalablement à la remise de la décision si leur divulgation est de nature à porter
+atteinte à la sécurité ou au respect de la vie privée de ces personnes ou de leur entourage. En tout état de cause, il est
+procédé à cette occultation lorsqu'elle a été décidée, pour ces personnes, en application des articles R. 111-12 ou R.
+111-13.
+
+Ces dispositions ne s'appliquent pas à l'accès aux jugements exercé en application des articles L. 213-1 à L. 213-5 du code
+du patrimoine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-797 du 29 juin 2020 - art. 5
+
+_Cite_:
+
+  - Code du patrimoine - art. L213-1
 
 
 ###### Article 1441
 
-En cas de refus ou de silence, le président du tribunal judiciaire ou, si le refus émane d'un greffier, le président de la
-juridiction auprès de laquelle celui-ci exerce ses fonctions, saisi par requête, statue, le demandeur et le greffier ou le
-dépositaire entendus ou appelés.
+Le recours contre la décision prise en application du premier alinéa de l'article 1440-1-1 est porté, par requête présentée
+par un avocat, devant le président de la juridiction auprès de laquelle le greffier exerce ses fonctions. Le président statue
+par ordonnance, le demandeur et les personnes physiques, parties ou tiers, mentionnées dans la décision, si possible entendus
+ou appelés.
 
-L'appel est formé, instruit et jugé comme en matière gracieuse.
+Lorsque la décision contestée concerne un arrêt de la Cour de cassation, le premier président de cette cour statue dans les
+mêmes conditions.
 
 **Nota:**
 
@@ -38608,7 +38647,7 @@ en vigueur le 1er janvier 2020.</font>
 
 _Modifié par_:
 
-  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2020-797 du 29 juin 2020 - art. 5
 
 
 ### Chapitre VI : Le contentieux de la passation     des contrats de droit privé de la commande publique<a id=450></a>
@@ -41670,9 +41709,10 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-636 du 27 mai 2020, à
-l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du
-chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-797 du 29 juin 2020
+relatif à la mise à la disposition du public des décisions des juridictions administratives et judiciaires, à l'exception des
+dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du
+titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Nota:**
 
@@ -41692,11 +41732,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2020-636 du 27 mai 2020
+  - Décret n°2020-797 du 29 juin 2020
 
 _Modifié par_:
 
-  - Décret n°2020-636 du 27 mai 2020 - art. 8
+  - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
 
 _Anciens textes_:
 
