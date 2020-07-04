@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2020-07-01
+Version Consolidée au 2020-07-05
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -27869,19 +27869,28 @@ et de la date de l'audience fixée par le juge aux affaires familiales.
 
 Cette ordonnance précise les modalités de sa notification.
 
-L'ordonnance est notifiée :
+Copie de l'ordonnance est notifiée :
 
 1° Au demandeur, par le greffe, par tout moyen donnant date certaine ou par remise en mains propres contre émargement ou
 récépissé ;
 
-2° Au défendeur, par voie de signification à l'initiative du demandeur ou du ministère public lorsqu'il est l'auteur de la
-requête ; dans ce cas, ce dernier fait également signifier l'ordonnance à la personne en danger ;
+2° Au défendeur, par voie de signification à l'initiative :
+
+a) Du demandeur lorsqu'il est assisté ou représenté par un avocat ;
+
+b) Du greffe lorsque le demandeur n'est ni assisté ni représenté par un avocat ;
+
+c) Du ministère public lorsqu'il est l'auteur de la requête ; dans ce cas ce dernier fait également signifier l'ordonnance à
+la personne en danger ;
 
 3° Par voie administrative en cas de danger grave et imminent pour la sécurité d'une personne concernée par une ordonnance de
 protection ou lorsqu'il n'existe pas d'autre moyen de notification.
 
-L'acte de signification doit être remis au greffe dans un délai de vingt-quatre heures à compter de l'ordonnance fixant la
-date de l'audience, à peine de caducité de la requête.
+La signification doit être faite au défendeur dans un délai de deux jours à compter de l'ordonnance fixant la date de
+l'audience, afin que le juge puisse statuer dans le délai maximal de six jours fixé à l' article 515-11 du code civil dans le
+respect du principe du contradictoire et des droits de la défense.
+
+La copie de l'acte de signification doit être remise au greffe au plus tard à l'audience.
 
 La notification de l'ordonnance vaut convocation des parties.
 
@@ -27891,18 +27900,19 @@ Cette ordonnance est une mesure d'administration judiciaire.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
-introduites à compter du 29 mai 2020.
+Conformément à l’article 4 du décret n° 2020-841 du 3 juillet 2020, ces dispositions s'appliquent aux requêtes introduites à
+compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2020-636 du 27 mai 2020 - art. 2
+  - Décret n°2020-841 du 3 juillet 2020 - art. 1
 
 _Cite_:
 
-  - Code de procédure civile - art. 57
+  - Code civil - art. 515-11
+  - Code civil - art. 515-13
   - Code civil - art. 515-9
 
 
@@ -41709,15 +41719,14 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-797 du 29 juin 2020
-relatif à la mise à la disposition du public des décisions des juridictions administratives et judiciaires, à l'exception des
-dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis du chapitre IX du
-titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-841 du 3 juillet 2020
+à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis
+du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Nota:**
 
-Conformément à l’article 9 du décret n° 2020-636 du 27 mai 2020, les présentes dispositions s'appliquent aux requêtes
-introduites à compter du 29 mai 2020.
+Conformément à l’article 4 du décret n° 2020-841 du 3 juillet 2020, ces dispositions s'appliquent aux requêtes introduites à
+compter du 5 juillet 2020.
 
 **Liens relatifs à cet article**
 
@@ -41732,11 +41741,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2020-797 du 29 juin 2020
+  - Décret n°2020-841 du 3 juillet 2020
 
 _Modifié par_:
 
-  - Décret n°2020-797 du 29 juin 2020 - art. 10 (V)
+  - Décret n°2020-841 du 3 juillet 2020 - art. 3
 
 _Anciens textes_:
 
