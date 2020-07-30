@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2020-07-05
+Version Consolidée au 2020-07-31
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -353,7 +353,7 @@ Version Consolidée au 2020-07-05
         - [Section III : La procédure relative à la révocation de l'adoption simple (art. 1177 à 1178)](#350)
         - [Section IV : Dispositions communes (art. 1178-1)](#351)
       - [Chapitre IX : L'autorité parentale (art. 1179 à 1210-12)](#352)
-        - [Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant (art. 1179 à 1180-5)](#353)
+        - [Section I : L'exercice de l'autorité parentale relativement à la personne de l'enfant (art. 1179 à 1180-5-1)](#353)
         - [Section I bis : L'intervention du juge des tutelles en matière d'administration légale (art. 1180-6 à 1180-19)](#354)
           - [Sous-section 1 : La demande (art. 1180-6 à 1180-7)](#355)
           - [Sous-section 2 : L'instruction de la demande (art. 1180-8 à 1180-11)](#356)
@@ -29339,6 +29339,31 @@ _Cite_:
   - Code civil - art. 373-2-9
 
 
+###### Article 1180-5-1
+
+Lorsque le juge décide que la remise de l'enfant s'exercera avec l'assistance d'un tiers de confiance en application des
+articles 373-2-1 ou 373-2-9 du code civil, il désigne la personne chargée de cette mission, sur proposition commune des
+parents ou de l'un d'eux, et sous condition de l'accord écrit de cette personne. Il fixe les modalités de la mesure et sa
+durée.
+
+Le juge désigne également, à titre subsidiaire, un espace de rencontres dans lequel est assurée la remise de l'enfant, à
+charge pour les parents ou l'un d'eux de saisir le responsable de cet espace en cas de carence du tiers de confiance.
+
+Le juge peut à tout moment modifier ou rapporter sa décision d'office, à la demande conjointe des parties ou de l'une d'entre
+elles, ou à la demande du ministère public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2020-930 du 28 juillet 2020 - art. 1
+
+_Cite_:
+
+  - Code civil - art. 373-2-1
+  - Code civil - art. 373-2-9
+
+
 #### Section I bis : L'intervention du juge des tutelles en matière d'administration légale<a id=354></a>
 
 ##### Sous-section 1 : La demande<a id=355></a>
@@ -41719,7 +41744,7 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-841 du 3 juillet 2020
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-930 du 28 juillet 2020
 à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II bis
 du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
@@ -41741,11 +41766,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2020-841 du 3 juillet 2020
+  - Décret n°2020-930 du 28 juillet 2020
 
 _Modifié par_:
 
-  - Décret n°2020-841 du 3 juillet 2020 - art. 3
+  - Décret n°2020-930 du 28 juillet 2020 - art. 2
 
 _Anciens textes_:
 
