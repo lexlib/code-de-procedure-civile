@@ -1,5 +1,5 @@
 # Code de procédure civile  
-Version Consolidée au 2020-09-25
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Livre Ier : Dispositions communes à toutes les juridictions (art. 1 à 749)](#1)
     - [Titre Ier : Dispositions liminaires. (art. 1 à 29)](#2)
@@ -14276,20 +14276,33 @@ _Codifié par_:
 
 ###### Article 678
 
-Lorsque la représentation est obligatoire, le jugement doit en outre être préalablement notifié aux représentants dans la
-forme des notifications entre avocats, faute de quoi la notification à la partie est nulle. Mention de l'accomplissement de
-cette formalité doit être portée dans l'acte de notification destiné à la partie.
+Lorsque la représentation est obligatoire, le jugement doit en outre être préalablement porté à la connaissance des
+représentants des parties :
 
-Toutefois, si le représentant est décédé ou a cessé d'exercer ses fonctions, la notification n'est faite qu'à la partie avec
-l'indication du décès ou de la cessation de fonctions.
+a) Par remise d'une copie de la décision par le greffe, lorsque le jugement est notifié aux parties à sa diligence ;
+
+b) Dans la forme des notifications entre avocats dans les autres cas, à peine de nullité de la notification à partie ;
+mention de l'accomplissement de cette formalité doit être portée dans l'acte de notification destiné à la partie.
+
+Ces dispositions ne s'appliquent pas si le représentant est décédé ou a cessé d'exercer ses fonctions. Dans ce cas, la
+notification est faite à la partie avec l'indication du décès ou de la cessation de fonctions.
 
 Le délai pour exercer le recours part de la notification à la partie elle-même.
+
+**Nota:**
+
+Conformément au III de l'article 5 du décret n° 2020-1201 du 30 septembre 2020, ces dispositions entrent en vigueur le 1er
+octobre 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976
+  - Décret n°75-1123 du 5 décembre 1975
+
+_Modifié par_:
+
+  - Décret n°2020-1201 du 30 septembre 2020 - art. 2
 
 _Cité par_:
 
@@ -41937,14 +41950,14 @@ _Anciens textes_:
 
 ###### Article 1575
 
-Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-1161 du 23 septembre
+Le présent code est applicable aux îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-1201 du 30 septembre
 2020 à l'exception des dispositions des titres IV et V du livre II, du chapitre IV du titre II du livre III, de la section II
 bis du chapitre IX du titre Ier du livre III et du livre V, dans les conditions définies au présent livre.
 
 **Nota:**
 
-Conformément à l’article 4 du décret n° 2020-841 du 3 juillet 2020, ces dispositions s'appliquent aux requêtes introduites à
-compter du 5 juillet 2020.
+Conformément au III de l'article 5 du décret n° 2020-1201 du 30 septembre 2020, ces dispositions entrent en vigueur le 1er
+octobre 2020.
 
 **Liens relatifs à cet article**
 
@@ -41959,12 +41972,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2020-930 du 28 juillet 2020
-  - Décret n°2020-1161 du 23 septembre 2020
+  - Décret n°2020-1201 du 30 septembre 2020 (V)
 
 _Modifié par_:
 
-  - Décret n°2020-1161 du 23 septembre 2020 - art. 6
+  - Décret n°2020-1201 du 30 septembre 2020 - art. 2
 
 _Anciens textes_:
 
